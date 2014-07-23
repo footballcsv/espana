@@ -1,0 +1,462 @@
+16/08/13,Girona,Alaves,1,0,0,0
+17/08/13,Cordoba,Ponferradina,1,0,0,0
+17/08/13,Hercules,Zaragoza,1,1,0,0
+17/08/13,Las Palmas,La Coruna,0,1,0,0
+17/08/13,Lugo,Numancia,0,0,0,0
+17/08/13,Mirandes,Barcelona B,2,1,1,0
+18/08/13,Alcorcon,Tenerife,1,0,0,0
+18/08/13,Jaen,Eibar,1,2,0,1
+18/08/13,Murcia,Recreativo,2,3,0,1
+18/08/13,Sabadell,Mallorca,4,0,2,0
+18/08/13,Sp Gijon,Real Madrid B,1,0,1,0
+24/08/13,Alaves,Las Palmas,1,1,0,1
+24/08/13,Barcelona B,Lugo,2,1,1,1
+24/08/13,Eibar,Girona,0,3,0,0
+24/08/13,La Coruna,Cordoba,0,1,0,0
+24/08/13,Real Madrid B,Alcorcon,0,1,0,1
+24/08/13,Zaragoza,Mirandes,0,0,0,0
+25/08/13,Mallorca,Murcia,2,4,0,2
+25/08/13,Numancia,Jaen,4,2,3,1
+25/08/13,Ponferradina,Sabadell,2,0,0,0
+25/08/13,Recreativo,Sp Gijon,1,1,0,0
+25/08/13,Tenerife,Hercules,0,0,0,0
+31/08/13,Barcelona B,Zaragoza,1,0,0,0
+31/08/13,Girona,Numancia,2,2,0,1
+31/08/13,Hercules,Real Madrid B,2,1,1,1
+31/08/13,Las Palmas,Eibar,1,1,0,1
+31/08/13,Sabadell,La Coruna,0,3,0,0
+01/09/13,Alcorcon,Recreativo,3,0,1,0
+01/09/13,Cordoba,Alaves,1,1,0,1
+01/09/13,Lugo,Jaen,4,2,4,1
+01/09/13,Mirandes,Tenerife,2,0,0,0
+01/09/13,Murcia,Ponferradina,2,2,1,1
+01/09/13,Sp Gijon,Mallorca,3,0,1,0
+07/09/13,Alaves,Sabadell,1,1,1,0
+07/09/13,Mallorca,Alcorcon,2,1,1,0
+07/09/13,Numancia,Las Palmas,1,1,0,0
+07/09/13,Zaragoza,Lugo,0,1,0,0
+08/09/13,Eibar,Cordoba,1,0,0,0
+08/09/13,Jaen,Girona,3,1,1,0
+08/09/13,La Coruna,Murcia,0,1,0,1
+08/09/13,Ponferradina,Sp Gijon,2,2,1,1
+08/09/13,Real Madrid B,Mirandes,0,1,0,1
+08/09/13,Recreativo,Hercules,2,0,1,0
+08/09/13,Tenerife,Barcelona B,2,2,1,0
+14/09/13,Cordoba,Numancia,3,1,1,1
+14/09/13,Lugo,Girona,1,2,1,0
+14/09/13,Mirandes,Recreativo,0,3,0,1
+14/09/13,Sabadell,Eibar,1,0,0,0
+14/09/13,Zaragoza,Tenerife,3,0,0,0
+15/09/13,Alcorcon,Ponferradina,0,1,0,1
+15/09/13,Barcelona B,Real Madrid B,2,0,2,0
+15/09/13,Hercules,Mallorca,2,2,0,1
+15/09/13,Las Palmas,Jaen,1,0,1,0
+15/09/13,Murcia,Alaves,2,1,0,0
+15/09/13,Sp Gijon,La Coruna,2,0,0,0
+20/09/13,Recreativo,Barcelona B,3,0,0,0
+21/09/13,Eibar,Murcia,0,0,0,0
+21/09/13,Numancia,Sabadell,3,1,1,1
+21/09/13,Real Madrid B,Zaragoza,1,2,0,1
+21/09/13,Tenerife,Lugo,0,1,0,0
+22/09/13,Alaves,Sp Gijon,3,0,2,0
+22/09/13,Girona,Las Palmas,0,2,0,0
+22/09/13,Jaen,Cordoba,0,0,0,0
+22/09/13,La Coruna,Alcorcon,1,0,1,0
+22/09/13,Mallorca,Mirandes,1,0,1,0
+22/09/13,Ponferradina,Hercules,5,1,3,0
+28/09/13,Alcorcon,Alaves,2,0,1,0
+28/09/13,Lugo,Las Palmas,3,0,2,0
+28/09/13,Sabadell,Jaen,3,0,1,0
+28/09/13,Sp Gijon,Eibar,3,2,1,1
+29/09/13,Barcelona B,Mallorca,0,1,0,0
+29/09/13,Cordoba,Girona,2,0,0,0
+29/09/13,Hercules,La Coruna,0,2,0,2
+29/09/13,Mirandes,Ponferradina,1,0,0,0
+29/09/13,Murcia,Numancia,2,1,1,0
+29/09/13,Tenerife,Real Madrid B,1,0,0,0
+29/09/13,Zaragoza,Recreativo,1,2,0,1
+05/10/13,La Coruna,Mirandes,0,0,0,0
+05/10/13,Las Palmas,Cordoba,2,0,0,0
+05/10/13,Numancia,Sp Gijon,0,0,0,0
+06/10/13,Alaves,Hercules,3,1,1,1
+06/10/13,Eibar,Alcorcon,0,0,0,0
+06/10/13,Girona,Sabadell,1,1,0,0
+06/10/13,Jaen,Murcia,3,2,2,0
+06/10/13,Mallorca,Zaragoza,2,4,1,3
+06/10/13,Ponferradina,Barcelona B,1,0,0,0
+06/10/13,Real Madrid B,Lugo,2,0,2,0
+06/10/13,Recreativo,Tenerife,2,1,0,0
+12/10/13,Lugo,Cordoba,1,0,0,0
+12/10/13,Mirandes,Alaves,2,3,1,3
+12/10/13,Murcia,Girona,1,0,0,0
+12/10/13,Real Madrid B,Recreativo,1,2,1,2
+12/10/13,Sabadell,Las Palmas,0,0,0,0
+13/10/13,Alcorcon,Numancia,0,1,0,0
+13/10/13,Barcelona B,La Coruna,0,1,0,1
+13/10/13,Hercules,Eibar,0,0,0,0
+13/10/13,Sp Gijon,Jaen,1,1,1,0
+13/10/13,Tenerife,Mallorca,0,1,0,0
+13/10/13,Zaragoza,Ponferradina,2,1,1,1
+19/10/13,Alaves,Barcelona B,2,3,1,2
+19/10/13,Cordoba,Sabadell,1,0,1,0
+19/10/13,Ponferradina,Tenerife,0,1,0,0
+19/10/13,Recreativo,Lugo,3,3,0,3
+20/10/13,Eibar,Mirandes,1,0,0,0
+20/10/13,Girona,Sp Gijon,2,1,0,1
+20/10/13,Jaen,Alcorcon,1,0,0,0
+20/10/13,La Coruna,Zaragoza,1,1,0,0
+20/10/13,Las Palmas,Murcia,0,0,0,0
+20/10/13,Mallorca,Real Madrid B,2,0,2,0
+20/10/13,Numancia,Hercules,1,1,0,1
+26/10/13,Tenerife,La Coruna,2,0,0,0
+26/10/13,Zaragoza,Alaves,2,2,2,0
+27/10/13,Alcorcon,Girona,0,0,0,0
+27/10/13,Barcelona B,Eibar,0,2,0,0
+27/10/13,Hercules,Jaen,0,1,0,0
+27/10/13,Lugo,Sabadell,1,0,1,0
+27/10/13,Mirandes,Numancia,0,0,0,0
+27/10/13,Murcia,Cordoba,2,2,0,0
+27/10/13,Real Madrid B,Ponferradina,1,1,1,0
+27/10/13,Recreativo,Mallorca,3,1,1,1
+27/10/13,Sp Gijon,Las Palmas,2,3,2,2
+02/11/13,Eibar,Zaragoza,3,2,2,0
+02/11/13,Girona,Hercules,2,2,1,1
+02/11/13,Las Palmas,Alcorcon,1,0,0,0
+02/11/13,Mallorca,Lugo,0,0,0,0
+02/11/13,Numancia,Barcelona B,1,0,0,0
+03/11/13,Alaves,Tenerife,2,2,2,0
+03/11/13,Cordoba,Sp Gijon,2,2,1,0
+03/11/13,Jaen,Mirandes,1,2,0,1
+03/11/13,La Coruna,Real Madrid B,2,0,1,0
+03/11/13,Ponferradina,Recreativo,3,1,1,0
+03/11/13,Sabadell,Murcia,2,1,1,1
+09/11/13,Alcorcon,Cordoba,0,0,0,0
+09/11/13,Barcelona B,Jaen,0,3,0,2
+09/11/13,Hercules,Las Palmas,2,1,1,1
+09/11/13,Lugo,Murcia,1,1,0,0
+09/11/13,Zaragoza,Numancia,1,2,0,0
+10/11/13,Mallorca,Ponferradina,2,2,2,1
+10/11/13,Mirandes,Girona,1,2,0,2
+10/11/13,Real Madrid B,Alaves,1,0,1,0
+10/11/13,Recreativo,La Coruna,0,1,0,0
+10/11/13,Sp Gijon,Sabadell,3,1,0,0
+10/11/13,Tenerife,Eibar,2,0,1,0
+16/11/13,Alaves,Recreativo,3,3,2,1
+16/11/13,Girona,Barcelona B,1,2,1,1
+16/11/13,Jaen,Zaragoza,3,0,2,0
+16/11/13,Las Palmas,Mirandes,3,1,1,0
+16/11/13,Murcia,Sp Gijon,1,1,1,1
+16/11/13,Ponferradina,Lugo,0,2,0,0
+16/11/13,Sabadell,Alcorcon,1,2,0,1
+17/11/13,Cordoba,Hercules,4,2,2,0
+17/11/13,Eibar,Real Madrid B,6,0,1,0
+17/11/13,La Coruna,Mallorca,3,1,2,0
+17/11/13,Numancia,Tenerife,0,0,0,0
+23/11/13,Barcelona B,Las Palmas,1,2,1,0
+23/11/13,Mallorca,Alaves,2,1,0,0
+23/11/13,Real Madrid B,Numancia,0,0,0,0
+24/11/13,Alcorcon,Murcia,0,0,0,0
+24/11/13,Hercules,Sabadell,3,0,0,0
+24/11/13,Lugo,Sp Gijon,1,3,1,2
+24/11/13,Mirandes,Cordoba,3,1,2,1
+24/11/13,Ponferradina,La Coruna,0,1,0,1
+24/11/13,Recreativo,Eibar,1,2,0,0
+24/11/13,Tenerife,Jaen,2,1,1,0
+24/11/13,Zaragoza,Girona,1,0,0,0
+30/11/13,Cordoba,Barcelona B,1,2,0,1
+30/11/13,Eibar,Mallorca,0,1,0,0
+30/11/13,La Coruna,Lugo,0,0,0,0
+30/11/13,Las Palmas,Zaragoza,0,1,0,0
+01/12/13,Alaves,Ponferradina,2,2,1,0
+01/12/13,Girona,Tenerife,2,2,0,1
+01/12/13,Jaen,Real Madrid B,0,1,0,0
+01/12/13,Murcia,Hercules,1,2,0,2
+01/12/13,Numancia,Recreativo,2,3,2,1
+01/12/13,Sabadell,Mirandes,3,1,2,0
+01/12/13,Sp Gijon,Alcorcon,2,2,1,2
+04/12/13,Lugo,Alcorcon,1,2,0,0
+04/12/13,Real Madrid B,Girona,3,2,1,1
+04/12/13,Recreativo,Jaen,1,1,1,1
+04/12/13,Tenerife,Las Palmas,3,0,1,0
+07/12/13,Barcelona B,Sabadell,2,0,0,0
+07/12/13,Hercules,Sp Gijon,0,1,0,1
+07/12/13,La Coruna,Alaves,2,1,1,0
+08/12/13,Mallorca,Numancia,0,0,0,0
+08/12/13,Mirandes,Murcia,1,1,0,1
+08/12/13,Ponferradina,Eibar,2,1,1,1
+08/12/13,Zaragoza,Cordoba,2,1,1,0
+14/12/13,Alaves,Lugo,2,1,1,0
+14/12/13,Alcorcon,Hercules,0,2,0,0
+14/12/13,Girona,Recreativo,1,1,1,0
+14/12/13,Las Palmas,Real Madrid B,0,2,0,1
+14/12/13,Numancia,Ponferradina,2,0,1,0
+14/12/13,Sabadell,Zaragoza,1,0,0,0
+15/12/13,Cordoba,Tenerife,1,0,0,0
+15/12/13,Eibar,La Coruna,2,1,1,0
+15/12/13,Jaen,Mallorca,2,1,2,0
+15/12/13,Murcia,Barcelona B,3,1,0,1
+15/12/13,Sp Gijon,Mirandes,3,2,3,1
+21/12/13,Alaves,Eibar,0,2,0,1
+21/12/13,Barcelona B,Sp Gijon,2,2,1,1
+21/12/13,La Coruna,Numancia,3,3,2,1
+21/12/13,Lugo,Hercules,1,3,0,2
+21/12/13,Real Madrid B,Cordoba,3,1,1,0
+21/12/13,Tenerife,Sabadell,0,3,0,1
+22/12/13,Mallorca,Girona,2,0,1,0
+22/12/13,Mirandes,Alcorcon,1,1,0,0
+22/12/13,Ponferradina,Jaen,1,0,1,0
+22/12/13,Recreativo,Las Palmas,1,3,1,2
+22/12/13,Zaragoza,Murcia,0,0,0,0
+04/01/14,Cordoba,Recreativo,2,0,1,0
+04/01/14,Hercules,Mirandes,1,0,1,0
+04/01/14,Las Palmas,Mallorca,2,2,1,0
+04/01/14,Lugo,Eibar,0,0,0,0
+04/01/14,Murcia,Tenerife,1,2,1,2
+04/01/14,Numancia,Alaves,0,2,0,0
+04/01/14,Sabadell,Real Madrid B,3,2,2,1
+05/01/14,Alcorcon,Barcelona B,2,2,0,1
+05/01/14,Girona,Ponferradina,1,1,0,0
+05/01/14,Jaen,La Coruna,0,0,0,0
+05/01/14,Sp Gijon,Zaragoza,2,3,1,1
+11/01/14,Alaves,Jaen,1,2,0,0
+11/01/14,La Coruna,Girona,0,0,0,0
+11/01/14,Ponferradina,Las Palmas,0,0,0,0
+11/01/14,Real Madrid B,Murcia,2,2,2,1
+12/01/14,Barcelona B,Hercules,5,0,2,0
+12/01/14,Eibar,Numancia,1,2,0,1
+12/01/14,Mallorca,Cordoba,2,2,0,1
+12/01/14,Mirandes,Lugo,2,0,0,0
+12/01/14,Recreativo,Sabadell,1,2,1,0
+12/01/14,Tenerife,Sp Gijon,0,0,0,0
+12/01/14,Zaragoza,Alcorcon,3,1,2,0
+18/01/14,Alaves,Girona,1,1,1,0
+18/01/14,Real Madrid B,Sp Gijon,1,2,0,1
+18/01/14,Recreativo,Murcia,0,0,0,0
+18/01/14,Tenerife,Alcorcon,0,4,0,2
+19/01/14,Barcelona B,Mirandes,1,1,1,1
+19/01/14,Eibar,Jaen,2,0,1,0
+19/01/14,La Coruna,Las Palmas,1,2,1,1
+19/01/14,Mallorca,Sabadell,4,1,2,0
+19/01/14,Numancia,Lugo,0,1,0,0
+19/01/14,Ponferradina,Cordoba,0,1,0,0
+19/01/14,Zaragoza,Hercules,0,0,0,0
+25/01/14,Cordoba,La Coruna,0,1,0,0
+25/01/14,Girona,Eibar,1,1,0,0
+25/01/14,Las Palmas,Alaves,0,2,0,1
+25/01/14,Lugo,Barcelona B,1,0,0,0
+25/01/14,Mirandes,Zaragoza,0,1,0,0
+26/01/14,Alcorcon,Real Madrid B,0,2,0,0
+26/01/14,Hercules,Tenerife,2,3,1,2
+26/01/14,Jaen,Numancia,0,0,0,0
+26/01/14,Murcia,Mallorca,2,2,1,1
+26/01/14,Sabadell,Ponferradina,1,1,1,1
+26/01/14,Sp Gijon,Recreativo,0,0,0,0
+01/02/14,Eibar,Las Palmas,1,0,1,0
+01/02/14,La Coruna,Sabadell,2,1,0,0
+01/02/14,Ponferradina,Murcia,2,0,1,0
+01/02/14,Real Madrid B,Hercules,4,0,2,0
+02/02/14,Alaves,Cordoba,1,1,1,1
+02/02/14,Jaen,Lugo,0,0,0,0
+02/02/14,Mallorca,Sp Gijon,1,3,0,1
+02/02/14,Numancia,Girona,0,0,0,0
+02/02/14,Recreativo,Alcorcon,2,1,1,0
+02/02/14,Tenerife,Mirandes,3,0,1,0
+02/02/14,Zaragoza,Barcelona B,0,2,0,1
+08/02/14,Girona,Jaen,1,1,1,0
+08/02/14,Las Palmas,Numancia,0,0,0,0
+08/02/14,Lugo,Zaragoza,1,0,0,0
+08/02/14,Sabadell,Alaves,0,4,0,2
+09/02/14,Alcorcon,Mallorca,1,1,1,0
+09/02/14,Barcelona B,Tenerife,2,0,1,0
+09/02/14,Cordoba,Eibar,0,2,0,1
+09/02/14,Hercules,Recreativo,1,2,0,0
+09/02/14,Mirandes,Real Madrid B,2,1,0,0
+09/02/14,Murcia,La Coruna,1,0,1,0
+09/02/14,Sp Gijon,Ponferradina,1,1,0,1
+15/02/14,Eibar,Sabadell,1,0,0,0
+15/02/14,Jaen,Las Palmas,3,0,2,0
+15/02/14,Mallorca,Hercules,0,1,0,1
+15/02/14,Real Madrid B,Barcelona B,3,1,2,1
+15/02/14,Tenerife,Zaragoza,1,1,1,0
+16/02/14,Alaves,Murcia,0,1,0,1
+16/02/14,Girona,Lugo,6,0,2,0
+16/02/14,La Coruna,Sp Gijon,1,1,0,1
+16/02/14,Numancia,Cordoba,3,0,0,0
+16/02/14,Ponferradina,Alcorcon,0,2,0,1
+16/02/14,Recreativo,Mirandes,1,0,1,0
+22/02/14,Barcelona B,Recreativo,0,1,0,1
+22/02/14,Las Palmas,Girona,2,1,0,0
+22/02/14,Mirandes,Mallorca,0,0,0,0
+22/02/14,Sp Gijon,Alaves,2,0,0,0
+23/02/14,Alcorcon,La Coruna,1,2,1,1
+23/02/14,Cordoba,Jaen,0,0,0,0
+23/02/14,Hercules,Ponferradina,1,0,0,0
+23/02/14,Lugo,Tenerife,1,3,1,1
+23/02/14,Murcia,Eibar,0,0,0,0
+23/02/14,Sabadell,Numancia,0,0,0,0
+23/02/14,Zaragoza,Real Madrid B,0,2,0,1
+01/03/14,Alaves,Alcorcon,1,0,0,0
+01/03/14,Mallorca,Barcelona B,1,2,0,2
+01/03/14,Real Madrid B,Tenerife,2,2,0,1
+01/03/14,Recreativo,Zaragoza,2,2,1,1
+02/03/14,Eibar,Sp Gijon,3,0,1,0
+02/03/14,Girona,Cordoba,0,1,0,0
+02/03/14,Jaen,Sabadell,0,1,0,0
+02/03/14,La Coruna,Hercules,3,2,2,0
+02/03/14,Las Palmas,Lugo,0,0,0,0
+02/03/14,Numancia,Murcia,1,0,0,0
+02/03/14,Ponferradina,Mirandes,1,1,0,0
+08/03/14,Alcorcon,Eibar,0,0,0,0
+08/03/14,Cordoba,Las Palmas,0,1,0,1
+08/03/14,Mirandes,La Coruna,1,0,0,0
+08/03/14,Sabadell,Girona,4,0,1,0
+09/03/14,Barcelona B,Ponferradina,1,0,0,0
+09/03/14,Hercules,Alaves,2,0,2,0
+09/03/14,Lugo,Real Madrid B,1,1,1,0
+09/03/14,Murcia,Jaen,2,0,0,0
+09/03/14,Sp Gijon,Numancia,2,2,1,1
+09/03/14,Tenerife,Recreativo,1,0,1,0
+09/03/14,Zaragoza,Mallorca,1,1,1,1
+15/03/14,Alaves,Mirandes,0,2,0,1
+15/03/14,Jaen,Sp Gijon,3,2,1,1
+15/03/14,La Coruna,Barcelona B,0,0,0,0
+15/03/14,Las Palmas,Sabadell,5,0,3,0
+15/03/14,Recreativo,Real Madrid B,2,3,1,2
+16/03/14,Cordoba,Lugo,1,1,0,0
+16/03/14,Eibar,Hercules,1,1,0,0
+16/03/14,Girona,Murcia,0,1,0,0
+16/03/14,Mallorca,Tenerife,2,0,1,0
+16/03/14,Numancia,Alcorcon,0,1,0,1
+16/03/14,Ponferradina,Zaragoza,4,2,1,1
+22/03/14,Alcorcon,Jaen,0,0,0,0
+22/03/14,Barcelona B,Alaves,2,1,0,0
+22/03/14,Lugo,Recreativo,2,0,0,0
+22/03/14,Mirandes,Eibar,1,4,0,1
+22/03/14,Murcia,Las Palmas,1,3,0,1
+22/03/14,Sabadell,Cordoba,3,2,1,1
+23/03/14,Hercules,Numancia,0,0,0,0
+23/03/14,Real Madrid B,Mallorca,1,2,0,0
+23/03/14,Sp Gijon,Girona,3,1,3,1
+23/03/14,Tenerife,Ponferradina,5,0,3,0
+23/03/14,Zaragoza,La Coruna,0,1,0,1
+29/03/14,Cordoba,Murcia,1,1,0,0
+29/03/14,Eibar,Barcelona B,0,0,0,0
+29/03/14,La Coruna,Tenerife,1,1,1,0
+29/03/14,Mallorca,Recreativo,0,0,0,0
+29/03/14,Numancia,Mirandes,0,1,0,0
+29/03/14,Ponferradina,Real Madrid B,0,0,0,0
+30/03/14,Alaves,Zaragoza,2,2,1,1
+30/03/14,Girona,Alcorcon,3,1,1,0
+30/03/14,Jaen,Hercules,1,1,1,1
+30/03/14,Las Palmas,Sp Gijon,2,1,0,0
+30/03/14,Sabadell,Lugo,1,0,1,0
+05/04/14,Alcorcon,Las Palmas,2,0,1,0
+05/04/14,Murcia,Sabadell,2,0,1,0
+05/04/14,Real Madrid B,La Coruna,0,2,0,1
+06/04/14,Barcelona B,Numancia,3,0,0,0
+06/04/14,Hercules,Girona,0,0,0,0
+06/04/14,Lugo,Mallorca,2,1,1,1
+06/04/14,Mirandes,Jaen,2,1,0,1
+06/04/14,Recreativo,Ponferradina,1,0,1,0
+06/04/14,Sp Gijon,Cordoba,1,2,0,1
+06/04/14,Tenerife,Alaves,2,0,2,0
+06/04/14,Zaragoza,Eibar,1,0,0,0
+12/04/14,Girona,Mirandes,4,0,1,0
+12/04/14,Las Palmas,Hercules,2,1,0,1
+12/04/14,Numancia,Zaragoza,2,2,1,2
+12/04/14,Sabadell,Sp Gijon,2,0,0,0
+13/04/14,Alaves,Real Madrid B,2,2,1,2
+13/04/14,Cordoba,Alcorcon,3,1,1,1
+13/04/14,Eibar,Tenerife,1,2,1,0
+13/04/14,Jaen,Barcelona B,0,3,0,1
+13/04/14,La Coruna,Recreativo,2,0,1,0
+13/04/14,Murcia,Lugo,3,1,0,0
+13/04/14,Ponferradina,Mallorca,2,0,1,0
+19/04/14,Barcelona B,Girona,2,1,0,1
+19/04/14,Hercules,Cordoba,0,1,0,1
+19/04/14,Lugo,Ponferradina,3,0,1,0
+19/04/14,Mirandes,Las Palmas,2,1,1,1
+19/04/14,Real Madrid B,Eibar,0,1,0,1
+20/04/14,Alcorcon,Sabadell,3,1,2,1
+20/04/14,Mallorca,La Coruna,0,3,0,1
+20/04/14,Recreativo,Alaves,0,2,0,1
+20/04/14,Sp Gijon,Murcia,0,0,0,0
+20/04/14,Tenerife,Numancia,3,2,1,0
+20/04/14,Zaragoza,Jaen,1,0,0,0
+26/04/14,Alaves,Mallorca,1,0,0,0
+26/04/14,Cordoba,Mirandes,1,1,1,0
+26/04/14,La Coruna,Ponferradina,0,3,0,1
+26/04/14,Las Palmas,Barcelona B,0,2,0,0
+26/04/14,Sp Gijon,Lugo,2,0,1,0
+27/04/14,Eibar,Recreativo,0,0,0,0
+27/04/14,Girona,Zaragoza,2,0,1,0
+27/04/14,Jaen,Tenerife,1,0,0,0
+27/04/14,Murcia,Alcorcon,1,1,1,0
+27/04/14,Numancia,Real Madrid B,0,0,0,0
+27/04/14,Sabadell,Hercules,2,1,1,0
+03/05/14,Alcorcon,Sp Gijon,1,0,1,0
+03/05/14,Barcelona B,Cordoba,0,1,0,0
+03/05/14,Hercules,Murcia,2,3,1,1
+03/05/14,Lugo,La Coruna,2,2,0,2
+03/05/14,Ponferradina,Alaves,2,1,0,1
+04/05/14,Mallorca,Eibar,0,2,0,0
+04/05/14,Mirandes,Sabadell,2,2,2,1
+04/05/14,Real Madrid B,Jaen,1,1,0,0
+04/05/14,Recreativo,Numancia,0,0,0,0
+04/05/14,Tenerife,Girona,0,1,0,0
+04/05/14,Zaragoza,Las Palmas,1,2,1,2
+10/05/14,Alcorcon,Lugo,1,0,0,0
+10/05/14,Eibar,Ponferradina,0,0,0,0
+10/05/14,Girona,Real Madrid B,1,1,0,0
+10/05/14,Las Palmas,Tenerife,1,0,0,0
+10/05/14,Numancia,Mallorca,1,1,0,1
+10/05/14,Sabadell,Barcelona B,2,1,1,0
+10/05/14,Sp Gijon,Hercules,2,1,1,1
+11/05/14,Alaves,La Coruna,1,1,0,0
+11/05/14,Cordoba,Zaragoza,1,2,1,0
+11/05/14,Jaen,Recreativo,3,1,2,0
+11/05/14,Murcia,Mirandes,5,0,3,0
+17/05/14,Barcelona B,Murcia,4,0,3,0
+17/05/14,Hercules,Alcorcon,1,2,0,0
+17/05/14,Mallorca,Jaen,0,0,0,0
+17/05/14,Mirandes,Sp Gijon,1,1,0,1
+17/05/14,Tenerife,Cordoba,0,1,0,1
+17/05/14,Zaragoza,Sabadell,2,2,2,0
+18/05/14,La Coruna,Eibar,1,1,1,0
+18/05/14,Lugo,Alaves,0,1,0,1
+18/05/14,Ponferradina,Numancia,0,1,0,0
+18/05/14,Real Madrid B,Las Palmas,3,2,3,1
+18/05/14,Recreativo,Girona,1,0,1,0
+24/05/14,Sp Gijon,Barcelona B,1,0,1,0
+25/05/14,Alcorcon,Mirandes,2,0,0,0
+25/05/14,Cordoba,Real Madrid B,2,0,0,0
+25/05/14,Eibar,Alaves,1,0,0,0
+25/05/14,Girona,Mallorca,1,1,1,0
+25/05/14,Hercules,Lugo,1,1,0,0
+25/05/14,Jaen,Ponferradina,0,1,0,1
+25/05/14,Las Palmas,Recreativo,2,3,1,0
+25/05/14,Murcia,Zaragoza,1,1,1,0
+25/05/14,Numancia,La Coruna,2,1,1,1
+25/05/14,Sabadell,Tenerife,1,0,1,0
+31/05/14,Alaves,Numancia,3,1,1,0
+31/05/14,Barcelona B,Alcorcon,4,3,0,2
+31/05/14,Eibar,Lugo,1,0,1,0
+31/05/14,La Coruna,Jaen,1,0,1,0
+31/05/14,Mallorca,Las Palmas,2,0,0,0
+31/05/14,Mirandes,Hercules,0,1,0,0
+31/05/14,Ponferradina,Girona,1,2,0,1
+31/05/14,Real Madrid B,Sabadell,2,1,0,0
+31/05/14,Recreativo,Cordoba,1,1,0,1
+31/05/14,Tenerife,Murcia,0,1,0,1
+31/05/14,Zaragoza,Sp Gijon,1,1,1,0
+07/06/14,Cordoba,Mallorca,0,0,0,0
+07/06/14,Girona,La Coruna,3,1,1,0
+07/06/14,Hercules,Barcelona B,1,2,0,2
+07/06/14,Jaen,Alaves,2,3,0,0
+07/06/14,Las Palmas,Ponferradina,3,2,1,1
+07/06/14,Lugo,Mirandes,1,0,0,0
+07/06/14,Murcia,Real Madrid B,1,0,1,0
+07/06/14,Sabadell,Recreativo,0,0,0,0
+07/06/14,Sp Gijon,Tenerife,3,0,3,0
+08/06/14,Alcorcon,Zaragoza,1,0,0,0
+08/06/14,Numancia,Eibar,1,1,1,0
