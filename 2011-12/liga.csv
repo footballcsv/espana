@@ -1,380 +1,381 @@
-27/08/11,Granada,Betis,0,1,0,0
-27/08/11,Sp Gijon,Sociedad,1,2,0,1
-27/08/11,Valencia,Santander,4,3,1,2
-28/08/11,Ath Bilbao,Vallecano,1,1,0,0
-28/08/11,Ath Madrid,Osasuna,0,0,0,0
-28/08/11,Getafe,Levante,1,1,0,0
-28/08/11,Mallorca,Espanol,1,0,0,0
-28/08/11,Sevilla,Malaga,2,1,2,0
-28/08/11,Zaragoza,Real Madrid,0,6,0,2
-29/08/11,Barcelona,Villarreal,5,0,2,0
-10/09/11,Real Madrid,Getafe,4,2,1,1
-10/09/11,Sociedad,Barcelona,2,2,0,2
-10/09/11,Valencia,Ath Madrid,1,0,0,0
-10/09/11,Villarreal,Sevilla,2,2,1,1
-11/09/11,Betis,Mallorca,1,0,0,0
-11/09/11,Espanol,Ath Bilbao,2,1,1,0
-11/09/11,Osasuna,Sp Gijon,2,1,2,0
-11/09/11,Santander,Levante,0,0,0,0
-11/09/11,Vallecano,Zaragoza,0,0,0,0
-12/09/11,Malaga,Granada,4,0,2,0
-17/09/11,Barcelona,Osasuna,8,0,5,0
-17/09/11,Granada,Villarreal,1,0,0,0
-17/09/11,Mallorca,Malaga,0,1,0,1
-17/09/11,Sevilla,Sociedad,1,0,0,0
-17/09/11,Sp Gijon,Valencia,0,1,0,1
-18/09/11,Ath Bilbao,Betis,2,3,1,3
-18/09/11,Ath Madrid,Santander,4,0,2,0
-18/09/11,Getafe,Vallecano,0,1,0,1
-18/09/11,Levante,Real Madrid,1,0,0,0
-18/09/11,Zaragoza,Espanol,2,1,1,0
-20/09/11,Osasuna,Sevilla,0,0,0,0
-20/09/11,Sociedad,Granada,1,0,0,0
-20/09/11,Villarreal,Mallorca,2,0,1,0
-21/09/11,Ath Madrid,Sp Gijon,4,0,1,0
-21/09/11,Malaga,Ath Bilbao,1,0,0,0
-21/09/11,Santander,Real Madrid,0,0,0,0
-21/09/11,Valencia,Barcelona,2,2,2,1
-21/09/11,Vallecano,Levante,1,2,0,2
-22/09/11,Betis,Zaragoza,4,3,2,1
-22/09/11,Espanol,Getafe,1,0,0,0
-24/09/11,Ath Bilbao,Villarreal,1,1,1,0
-24/09/11,Barcelona,Ath Madrid,5,0,3,0
-24/09/11,Real Madrid,Vallecano,6,2,2,1
-24/09/11,Sevilla,Valencia,1,0,1,0
-25/09/11,Granada,Osasuna,1,1,0,1
-25/09/11,Levante,Espanol,3,1,1,0
-25/09/11,Mallorca,Sociedad,2,1,1,1
-25/09/11,Sp Gijon,Santander,0,0,0,0
-25/09/11,Zaragoza,Malaga,0,0,0,0
-26/09/11,Getafe,Betis,1,0,1,0
-01/10/11,Malaga,Getafe,3,2,0,0
-01/10/11,Osasuna,Mallorca,2,2,1,1
-01/10/11,Santander,Vallecano,1,1,0,1
-01/10/11,Valencia,Granada,1,0,1,0
-01/10/11,Villarreal,Zaragoza,2,2,1,2
-02/10/11,Ath Madrid,Sevilla,0,0,0,0
-02/10/11,Betis,Levante,0,1,0,1
-02/10/11,Espanol,Real Madrid,0,4,0,1
-02/10/11,Sociedad,Ath Bilbao,1,2,0,1
-02/10/11,Sp Gijon,Barcelona,0,1,0,1
-15/10/11,Barcelona,Santander,3,0,2,0
-15/10/11,Getafe,Villarreal,0,0,0,0
-15/10/11,Granada,Ath Madrid,0,0,0,0
-15/10/11,Mallorca,Valencia,1,1,0,1
-15/10/11,Real Madrid,Betis,4,1,0,0
-16/10/11,Levante,Malaga,3,0,3,0
-16/10/11,Sevilla,Sp Gijon,2,1,1,0
-16/10/11,Vallecano,Espanol,0,1,0,0
-16/10/11,Zaragoza,Sociedad,2,0,1,0
-17/10/11,Ath Bilbao,Osasuna,3,1,3,0
-22/10/11,Barcelona,Sevilla,0,0,0,0
-22/10/11,Malaga,Real Madrid,0,4,0,4
-22/10/11,Santander,Espanol,0,1,0,0
-22/10/11,Sp Gijon,Granada,2,0,2,0
-23/10/11,Ath Madrid,Mallorca,1,1,1,1
-23/10/11,Betis,Vallecano,0,2,0,0
-23/10/11,Osasuna,Zaragoza,3,0,3,0
-23/10/11,Sociedad,Getafe,0,0,0,0
-23/10/11,Valencia,Ath Bilbao,1,1,0,0
-23/10/11,Villarreal,Levante,0,3,0,2
-25/10/11,Granada,Barcelona,0,1,0,1
-25/10/11,Sevilla,Santander,2,2,1,0
-26/10/11,Getafe,Osasuna,2,2,0,1
-26/10/11,Levante,Sociedad,3,2,0,1
-26/10/11,Mallorca,Sp Gijon,1,2,1,0
-26/10/11,Real Madrid,Villarreal,3,0,3,0
-26/10/11,Vallecano,Malaga,2,0,1,0
-26/10/11,Zaragoza,Valencia,0,1,0,0
-27/10/11,Ath Bilbao,Ath Madrid,3,0,0,0
-27/10/11,Espanol,Betis,1,0,0,0
-29/10/11,Barcelona,Mallorca,5,0,3,0
-29/10/11,Sociedad,Real Madrid,0,1,0,1
-29/10/11,Valencia,Getafe,3,1,2,1
-29/10/11,Villarreal,Vallecano,2,0,1,0
-30/10/11,Ath Madrid,Zaragoza,3,1,2,0
-30/10/11,Malaga,Espanol,2,1,1,1
-30/10/11,Osasuna,Levante,2,0,2,0
-30/10/11,Santander,Betis,1,0,0,0
-30/10/11,Sp Gijon,Ath Bilbao,1,1,0,0
-31/10/11,Sevilla,Granada,1,2,1,0
-05/11/11,Betis,Malaga,0,0,0,0
-05/11/11,Levante,Valencia,0,2,0,1
-05/11/11,Mallorca,Sevilla,0,0,0,0
-06/11/11,Ath Bilbao,Barcelona,2,2,1,1
-06/11/11,Espanol,Villarreal,0,0,0,0
-06/11/11,Getafe,Ath Madrid,3,2,1,1
-06/11/11,Granada,Santander,0,0,0,0
-06/11/11,Real Madrid,Osasuna,7,1,3,1
-06/11/11,Vallecano,Sociedad,4,0,1,0
-06/11/11,Zaragoza,Sp Gijon,2,2,1,2
-19/11/11,Barcelona,Zaragoza,4,0,2,0
-19/11/11,Valencia,Real Madrid,2,3,0,1
-19/11/11,Villarreal,Betis,1,0,1,0
-20/11/11,Ath Madrid,Levante,3,2,0,0
-20/11/11,Osasuna,Vallecano,0,0,0,0
-20/11/11,Sevilla,Ath Bilbao,1,2,1,1
-20/11/11,Sociedad,Espanol,0,0,0,0
-20/11/11,Sp Gijon,Getafe,2,1,1,1
-21/11/11,Santander,Malaga,1,3,0,0
-26/11/11,Getafe,Barcelona,1,0,0,0
-26/11/11,Real Madrid,Ath Madrid,4,1,1,1
-26/11/11,Vallecano,Valencia,1,2,0,1
-27/11/11,Ath Bilbao,Granada,0,1,0,1
-27/11/11,Betis,Sociedad,2,3,0,0
-27/11/11,Espanol,Osasuna,1,2,0,1
-27/11/11,Levante,Sp Gijon,4,0,1,0
-27/11/11,Mallorca,Santander,2,1,1,0
-27/11/11,Zaragoza,Sevilla,0,1,0,1
-28/11/11,Malaga,Villarreal,2,1,2,1
-29/11/11,Barcelona,Vallecano,4,0,3,0
-03/12/11,Barcelona,Levante,5,0,3,0
-03/12/11,Santander,Villarreal,1,0,1,0
-03/12/11,Sp Gijon,Real Madrid,0,3,0,1
-03/12/11,Valencia,Espanol,2,1,1,0
-04/12/11,Ath Madrid,Vallecano,3,1,1,0
-04/12/11,Granada,Zaragoza,1,0,1,0
-04/12/11,Mallorca,Ath Bilbao,1,1,1,1
-04/12/11,Osasuna,Betis,2,1,1,0
-04/12/11,Sociedad,Malaga,3,2,1,1
-05/12/11,Sevilla,Getafe,3,0,1,0
-07/12/11,Granada,Mallorca,2,2,0,1
-10/12/11,Betis,Valencia,2,1,0,0
-10/12/11,Levante,Sevilla,1,0,0,0
-10/12/11,Real Madrid,Barcelona,1,3,1,1
-11/12/11,Ath Bilbao,Santander,1,1,0,0
-11/12/11,Espanol,Ath Madrid,4,2,3,1
-11/12/11,Getafe,Granada,1,0,0,0
-11/12/11,Malaga,Osasuna,1,1,0,1
-11/12/11,Vallecano,Sp Gijon,1,3,0,2
-11/12/11,Villarreal,Sociedad,1,1,0,0
-11/12/11,Zaragoza,Mallorca,0,1,0,1
-17/12/11,Ath Bilbao,Zaragoza,2,1,1,1
-17/12/11,Mallorca,Getafe,1,2,1,2
-17/12/11,Sevilla,Real Madrid,2,6,0,3
-17/12/11,Sp Gijon,Espanol,1,2,0,1
-18/12/11,Ath Madrid,Betis,0,2,0,0
-18/12/11,Granada,Levante,2,1,2,0
-18/12/11,Osasuna,Villarreal,2,1,0,0
-18/12/11,Santander,Sociedad,0,0,0,0
-18/12/11,Valencia,Malaga,2,0,1,0
-07/01/12,Levante,Mallorca,0,0,0,0
-07/01/12,Malaga,Ath Madrid,0,0,0,0
-07/01/12,Real Madrid,Granada,5,1,2,1
-07/01/12,Santander,Zaragoza,1,0,1,0
-07/01/12,Sociedad,Osasuna,0,0,0,0
-08/01/12,Betis,Sp Gijon,2,0,1,0
-08/01/12,Espanol,Barcelona,1,1,0,1
-08/01/12,Getafe,Ath Bilbao,0,0,0,0
-08/01/12,Vallecano,Sevilla,2,1,1,0
-08/01/12,Villarreal,Valencia,2,2,2,1
-14/01/12,Granada,Vallecano,1,2,0,1
-14/01/12,Mallorca,Real Madrid,1,2,1,0
-14/01/12,Sevilla,Espanol,0,0,0,0
-14/01/12,Valencia,Sociedad,0,1,0,0
-14/01/12,Zaragoza,Getafe,1,1,1,0
-15/01/12,Ath Bilbao,Levante,3,0,2,0
-15/01/12,Ath Madrid,Villarreal,3,0,1,0
-15/01/12,Barcelona,Betis,4,2,2,1
-15/01/12,Osasuna,Santander,0,2,0,1
-15/01/12,Sp Gijon,Malaga,2,1,1,0
-21/01/12,Betis,Sevilla,1,1,1,1
-21/01/12,Espanol,Granada,3,0,2,0
-21/01/12,Santander,Getafe,1,2,1,1
-21/01/12,Sociedad,Ath Madrid,0,4,0,1
-22/01/12,Levante,Zaragoza,0,0,0,0
-22/01/12,Malaga,Barcelona,1,4,0,1
-22/01/12,Osasuna,Valencia,1,1,0,0
-22/01/12,Real Madrid,Ath Bilbao,4,1,1,1
-22/01/12,Vallecano,Mallorca,0,1,0,0
-23/01/12,Villarreal,Sp Gijon,3,0,0,0
-28/01/12,Espanol,Mallorca,1,0,1,0
-28/01/12,Real Madrid,Zaragoza,3,1,1,1
-28/01/12,Vallecano,Ath Bilbao,2,3,2,2
-28/01/12,Villarreal,Barcelona,0,0,0,0
-29/01/12,Betis,Granada,1,2,0,2
-29/01/12,Levante,Getafe,1,2,0,1
-29/01/12,Malaga,Sevilla,2,1,2,1
-29/01/12,Santander,Valencia,2,2,1,0
-29/01/12,Sociedad,Sp Gijon,5,1,2,0
-30/01/12,Osasuna,Ath Madrid,0,1,0,1
-04/02/12,Ath Bilbao,Espanol,3,3,1,1
-04/02/12,Barcelona,Sociedad,2,1,1,0
-04/02/12,Getafe,Real Madrid,0,1,0,1
-04/02/12,Levante,Santander,1,1,1,0
-04/02/12,Mallorca,Betis,1,0,1,0
-05/02/12,Ath Madrid,Valencia,0,0,0,0
-05/02/12,Sevilla,Villarreal,1,2,1,1
-05/02/12,Sp Gijon,Osasuna,1,1,1,0
-05/02/12,Zaragoza,Vallecano,1,2,1,0
-06/02/12,Granada,Malaga,2,1,0,0
-11/02/12,Betis,Ath Bilbao,2,1,1,1
-11/02/12,Osasuna,Barcelona,3,2,2,0
-11/02/12,Santander,Ath Madrid,0,0,0,0
-12/02/12,Espanol,Zaragoza,0,2,0,0
-12/02/12,Malaga,Mallorca,3,1,1,1
-12/02/12,Real Madrid,Levante,4,2,1,1
-12/02/12,Valencia,Sp Gijon,4,0,1,0
-12/02/12,Vallecano,Getafe,2,0,1,0
-12/02/12,Villarreal,Granada,3,1,1,0
-13/02/12,Sociedad,Sevilla,2,0,0,0
-18/02/12,Getafe,Espanol,1,1,0,0
-18/02/12,Real Madrid,Santander,4,0,2,0
-18/02/12,Sevilla,Osasuna,2,0,1,0
-19/02/12,Ath Bilbao,Malaga,3,0,0,0
-19/02/12,Barcelona,Valencia,5,1,2,1
-19/02/12,Granada,Sociedad,4,1,1,1
-19/02/12,Levante,Vallecano,3,5,0,1
-19/02/12,Mallorca,Villarreal,4,0,1,0
-19/02/12,Sp Gijon,Ath Madrid,1,1,1,1
-20/02/12,Zaragoza,Betis,0,2,0,1
-25/02/12,Betis,Getafe,1,1,0,0
-25/02/12,Espanol,Levante,1,2,0,1
-25/02/12,Malaga,Zaragoza,5,1,1,1
-25/02/12,Santander,Sp Gijon,1,1,0,1
-26/02/12,Ath Madrid,Barcelona,1,2,0,1
-26/02/12,Osasuna,Granada,2,1,2,1
-26/02/12,Sociedad,Mallorca,1,0,0,0
-26/02/12,Valencia,Sevilla,1,2,1,1
-26/02/12,Vallecano,Real Madrid,0,1,0,0
-26/02/12,Villarreal,Ath Bilbao,2,2,1,0
-03/03/12,Barcelona,Sp Gijon,3,1,1,0
-03/03/12,Getafe,Malaga,1,3,1,0
-03/03/12,Mallorca,Osasuna,1,1,0,1
-03/03/12,Sevilla,Ath Madrid,1,1,0,1
-03/03/12,Vallecano,Santander,4,2,1,2
-04/03/12,Ath Bilbao,Sociedad,2,0,1,0
-04/03/12,Granada,Valencia,0,1,0,1
-04/03/12,Real Madrid,Espanol,5,0,2,0
-04/03/12,Zaragoza,Villarreal,2,1,0,1
-05/03/12,Levante,Betis,3,1,2,1
-10/03/12,Betis,Real Madrid,2,3,1,1
-10/03/12,Malaga,Levante,1,0,0,0
-10/03/12,Sociedad,Zaragoza,3,0,3,0
-10/03/12,Sp Gijon,Sevilla,1,0,1,0
-11/03/12,Ath Madrid,Granada,2,0,1,0
-11/03/12,Espanol,Vallecano,5,1,4,0
-11/03/12,Osasuna,Ath Bilbao,2,1,2,0
-11/03/12,Santander,Barcelona,0,2,0,1
-11/03/12,Valencia,Mallorca,2,2,2,0
-12/03/12,Villarreal,Getafe,1,2,1,1
-17/03/12,Getafe,Sociedad,1,0,0,0
-17/03/12,Granada,Sp Gijon,2,1,2,0
-17/03/12,Sevilla,Barcelona,0,2,0,2
-17/03/12,Vallecano,Betis,3,0,0,0
-17/03/12,Zaragoza,Osasuna,1,1,0,0
-18/03/12,Ath Bilbao,Valencia,0,3,0,1
-18/03/12,Levante,Villarreal,1,0,0,0
-18/03/12,Mallorca,Ath Madrid,2,1,0,0
-18/03/12,Real Madrid,Malaga,1,1,1,0
-19/03/12,Espanol,Santander,3,1,2,1
-20/03/12,Barcelona,Granada,5,3,2,0
-20/03/12,Osasuna,Getafe,0,0,0,0
-21/03/12,Ath Madrid,Ath Bilbao,2,1,0,0
-21/03/12,Sociedad,Levante,1,3,1,2
-21/03/12,Sp Gijon,Mallorca,2,3,1,1
-21/03/12,Valencia,Zaragoza,1,2,1,1
-21/03/12,Villarreal,Real Madrid,1,1,0,0
-22/03/12,Betis,Espanol,1,1,0,0
-22/03/12,Malaga,Vallecano,4,2,1,1
-22/03/12,Santander,Sevilla,0,3,0,1
-24/03/12,Getafe,Valencia,3,1,3,1
-24/03/12,Mallorca,Barcelona,0,2,0,1
-24/03/12,Real Madrid,Sociedad,5,1,3,1
-25/03/12,Ath Bilbao,Sp Gijon,1,1,0,0
-25/03/12,Betis,Santander,1,1,1,0
-25/03/12,Espanol,Malaga,1,2,1,0
-25/03/12,Levante,Osasuna,0,2,0,1
-25/03/12,Vallecano,Villarreal,0,2,0,1
-25/03/12,Zaragoza,Ath Madrid,1,0,0,0
-26/03/12,Granada,Sevilla,0,3,0,1
-31/03/12,Barcelona,Ath Bilbao,2,0,1,0
-31/03/12,Malaga,Betis,0,2,0,2
-31/03/12,Osasuna,Real Madrid,1,5,0,3
-31/03/12,Santander,Granada,0,1,0,0
-31/03/12,Sp Gijon,Zaragoza,1,2,0,1
-01/04/12,Ath Madrid,Getafe,3,0,1,0
-01/04/12,Sociedad,Vallecano,4,0,2,0
-01/04/12,Valencia,Levante,1,1,1,0
-01/04/12,Villarreal,Espanol,0,0,0,0
-02/04/12,Sevilla,Mallorca,3,1,0,0
-07/04/12,Betis,Villarreal,3,1,2,0
-07/04/12,Espanol,Sociedad,2,2,1,2
-07/04/12,Getafe,Sp Gijon,2,0,1,0
-07/04/12,Vallecano,Osasuna,6,0,4,0
-07/04/12,Zaragoza,Barcelona,1,4,1,2
-08/04/12,Ath Bilbao,Sevilla,1,0,0,0
-08/04/12,Levante,Ath Madrid,2,0,2,0
-08/04/12,Mallorca,Granada,0,0,0,0
-08/04/12,Real Madrid,Valencia,0,0,0,0
-09/04/12,Malaga,Santander,3,0,1,0
-10/04/12,Barcelona,Getafe,4,0,2,0
-10/04/12,Osasuna,Espanol,2,0,0,0
-10/04/12,Sociedad,Betis,1,1,0,0
-11/04/12,Ath Madrid,Real Madrid,1,4,0,1
-11/04/12,Granada,Ath Bilbao,2,2,1,0
-11/04/12,Sp Gijon,Levante,3,2,1,1
-11/04/12,Valencia,Vallecano,4,1,1,0
-12/04/12,Santander,Mallorca,0,3,0,1
-12/04/12,Sevilla,Zaragoza,3,0,3,0
-12/04/12,Villarreal,Malaga,2,1,0,0
-14/04/12,Levante,Barcelona,1,2,1,0
-14/04/12,Real Madrid,Sp Gijon,3,1,1,1
-15/04/12,Ath Bilbao,Mallorca,1,0,1,0
-15/04/12,Betis,Osasuna,1,0,1,0
-15/04/12,Espanol,Valencia,4,0,2,0
-15/04/12,Malaga,Sociedad,1,1,1,0
-15/04/12,Vallecano,Ath Madrid,0,1,0,0
-15/04/12,Villarreal,Santander,1,1,0,0
-15/04/12,Zaragoza,Granada,1,0,1,0
-16/04/12,Getafe,Sevilla,5,1,1,1
-21/04/12,Barcelona,Real Madrid,1,2,0,1
-21/04/12,Mallorca,Zaragoza,1,0,1,0
-21/04/12,Sevilla,Levante,1,1,1,1
-21/04/12,Sp Gijon,Vallecano,2,1,1,0
-22/04/12,Ath Madrid,Espanol,3,1,1,1
-22/04/12,Granada,Getafe,1,0,1,0
-22/04/12,Santander,Ath Bilbao,0,1,0,1
-22/04/12,Sociedad,Villarreal,1,1,0,1
-22/04/12,Valencia,Betis,4,0,1,0
-23/04/12,Osasuna,Malaga,1,1,0,0
-28/04/12,Espanol,Sp Gijon,0,3,0,0
-28/04/12,Getafe,Mallorca,1,3,0,1
-28/04/12,Levante,Granada,3,1,0,0
-28/04/12,Sociedad,Santander,3,0,0,0
-28/04/12,Villarreal,Osasuna,1,1,1,0
-29/04/12,Betis,Ath Madrid,2,2,0,0
-29/04/12,Malaga,Valencia,1,0,1,0
-29/04/12,Real Madrid,Sevilla,3,0,1,0
-29/04/12,Vallecano,Barcelona,0,7,0,3
-29/04/12,Zaragoza,Ath Bilbao,2,0,1,0
-01/05/12,Getafe,Santander,1,1,0,0
-01/05/12,Granada,Espanol,2,1,2,0
-01/05/12,Sp Gijon,Villarreal,2,3,1,2
-02/05/12,Ath Bilbao,Real Madrid,0,3,0,2
-02/05/12,Ath Madrid,Sociedad,1,1,0,0
-02/05/12,Barcelona,Malaga,4,1,2,1
-02/05/12,Mallorca,Vallecano,1,0,0,0
-02/05/12,Sevilla,Betis,1,2,1,1
-02/05/12,Valencia,Osasuna,4,0,0,0
-02/05/12,Zaragoza,Levante,1,0,1,0
-05/05/12,Ath Bilbao,Getafe,0,0,0,0
-05/05/12,Ath Madrid,Malaga,2,1,0,1
-05/05/12,Barcelona,Espanol,4,0,1,0
-05/05/12,Granada,Real Madrid,1,2,1,0
-05/05/12,Mallorca,Levante,1,0,0,0
-05/05/12,Osasuna,Sociedad,1,0,1,0
-05/05/12,Sevilla,Vallecano,5,2,2,1
-05/05/12,Sp Gijon,Betis,2,1,1,1
-05/05/12,Valencia,Villarreal,1,0,0,0
-05/05/12,Zaragoza,Santander,2,1,1,1
-12/05/12,Betis,Barcelona,2,2,0,1
-12/05/12,Sociedad,Valencia,1,0,0,0
-13/05/12,Espanol,Sevilla,1,1,0,1
-13/05/12,Getafe,Zaragoza,0,2,0,0
-13/05/12,Levante,Ath Bilbao,3,0,1,0
-13/05/12,Malaga,Sp Gijon,1,0,0,0
-13/05/12,Real Madrid,Mallorca,4,1,2,0
-13/05/12,Santander,Osasuna,2,4,1,0
-13/05/12,Vallecano,Granada,1,0,0,0
-13/05/12,Villarreal,Ath Madrid,0,1,0,0
+Date,Team 1,Team 2,FT,HT
+2011-08-27,Granada,Betis,0-1,0-0
+2011-08-27,Sp Gijon,Sociedad,1-2,0-1
+2011-08-27,Valencia,Santander,4-3,1-2
+2011-08-28,Ath Bilbao,Vallecano,1-1,0-0
+2011-08-28,Ath Madrid,Osasuna,0-0,0-0
+2011-08-28,Getafe,Levante,1-1,0-0
+2011-08-28,Mallorca,Espanol,1-0,0-0
+2011-08-28,Sevilla,Malaga,2-1,2-0
+2011-08-28,Zaragoza,Real Madrid,0-6,0-2
+2011-08-29,Barcelona,Villarreal,5-0,2-0
+2011-09-10,Real Madrid,Getafe,4-2,1-1
+2011-09-10,Sociedad,Barcelona,2-2,0-2
+2011-09-10,Valencia,Ath Madrid,1-0,0-0
+2011-09-10,Villarreal,Sevilla,2-2,1-1
+2011-09-11,Betis,Mallorca,1-0,0-0
+2011-09-11,Espanol,Ath Bilbao,2-1,1-0
+2011-09-11,Osasuna,Sp Gijon,2-1,2-0
+2011-09-11,Santander,Levante,0-0,0-0
+2011-09-11,Vallecano,Zaragoza,0-0,0-0
+2011-09-12,Malaga,Granada,4-0,2-0
+2011-09-17,Barcelona,Osasuna,8-0,5-0
+2011-09-17,Granada,Villarreal,1-0,0-0
+2011-09-17,Mallorca,Malaga,0-1,0-1
+2011-09-17,Sevilla,Sociedad,1-0,0-0
+2011-09-17,Sp Gijon,Valencia,0-1,0-1
+2011-09-18,Ath Bilbao,Betis,2-3,1-3
+2011-09-18,Ath Madrid,Santander,4-0,2-0
+2011-09-18,Getafe,Vallecano,0-1,0-1
+2011-09-18,Levante,Real Madrid,1-0,0-0
+2011-09-18,Zaragoza,Espanol,2-1,1-0
+2011-09-20,Osasuna,Sevilla,0-0,0-0
+2011-09-20,Sociedad,Granada,1-0,0-0
+2011-09-20,Villarreal,Mallorca,2-0,1-0
+2011-09-21,Ath Madrid,Sp Gijon,4-0,1-0
+2011-09-21,Malaga,Ath Bilbao,1-0,0-0
+2011-09-21,Santander,Real Madrid,0-0,0-0
+2011-09-21,Valencia,Barcelona,2-2,2-1
+2011-09-21,Vallecano,Levante,1-2,0-2
+2011-09-22,Betis,Zaragoza,4-3,2-1
+2011-09-22,Espanol,Getafe,1-0,0-0
+2011-09-24,Ath Bilbao,Villarreal,1-1,1-0
+2011-09-24,Barcelona,Ath Madrid,5-0,3-0
+2011-09-24,Real Madrid,Vallecano,6-2,2-1
+2011-09-24,Sevilla,Valencia,1-0,1-0
+2011-09-25,Granada,Osasuna,1-1,0-1
+2011-09-25,Levante,Espanol,3-1,1-0
+2011-09-25,Mallorca,Sociedad,2-1,1-1
+2011-09-25,Sp Gijon,Santander,0-0,0-0
+2011-09-25,Zaragoza,Malaga,0-0,0-0
+2011-09-26,Getafe,Betis,1-0,1-0
+2011-10-01,Malaga,Getafe,3-2,0-0
+2011-10-01,Osasuna,Mallorca,2-2,1-1
+2011-10-01,Santander,Vallecano,1-1,0-1
+2011-10-01,Valencia,Granada,1-0,1-0
+2011-10-01,Villarreal,Zaragoza,2-2,1-2
+2011-10-02,Ath Madrid,Sevilla,0-0,0-0
+2011-10-02,Betis,Levante,0-1,0-1
+2011-10-02,Espanol,Real Madrid,0-4,0-1
+2011-10-02,Sociedad,Ath Bilbao,1-2,0-1
+2011-10-02,Sp Gijon,Barcelona,0-1,0-1
+2011-10-15,Barcelona,Santander,3-0,2-0
+2011-10-15,Getafe,Villarreal,0-0,0-0
+2011-10-15,Granada,Ath Madrid,0-0,0-0
+2011-10-15,Mallorca,Valencia,1-1,0-1
+2011-10-15,Real Madrid,Betis,4-1,0-0
+2011-10-16,Levante,Malaga,3-0,3-0
+2011-10-16,Sevilla,Sp Gijon,2-1,1-0
+2011-10-16,Vallecano,Espanol,0-1,0-0
+2011-10-16,Zaragoza,Sociedad,2-0,1-0
+2011-10-17,Ath Bilbao,Osasuna,3-1,3-0
+2011-10-22,Barcelona,Sevilla,0-0,0-0
+2011-10-22,Malaga,Real Madrid,0-4,0-4
+2011-10-22,Santander,Espanol,0-1,0-0
+2011-10-22,Sp Gijon,Granada,2-0,2-0
+2011-10-23,Ath Madrid,Mallorca,1-1,1-1
+2011-10-23,Betis,Vallecano,0-2,0-0
+2011-10-23,Osasuna,Zaragoza,3-0,3-0
+2011-10-23,Sociedad,Getafe,0-0,0-0
+2011-10-23,Valencia,Ath Bilbao,1-1,0-0
+2011-10-23,Villarreal,Levante,0-3,0-2
+2011-10-25,Granada,Barcelona,0-1,0-1
+2011-10-25,Sevilla,Santander,2-2,1-0
+2011-10-26,Getafe,Osasuna,2-2,0-1
+2011-10-26,Levante,Sociedad,3-2,0-1
+2011-10-26,Mallorca,Sp Gijon,1-2,1-0
+2011-10-26,Real Madrid,Villarreal,3-0,3-0
+2011-10-26,Vallecano,Malaga,2-0,1-0
+2011-10-26,Zaragoza,Valencia,0-1,0-0
+2011-10-27,Ath Bilbao,Ath Madrid,3-0,0-0
+2011-10-27,Espanol,Betis,1-0,0-0
+2011-10-29,Barcelona,Mallorca,5-0,3-0
+2011-10-29,Sociedad,Real Madrid,0-1,0-1
+2011-10-29,Valencia,Getafe,3-1,2-1
+2011-10-29,Villarreal,Vallecano,2-0,1-0
+2011-10-30,Ath Madrid,Zaragoza,3-1,2-0
+2011-10-30,Malaga,Espanol,2-1,1-1
+2011-10-30,Osasuna,Levante,2-0,2-0
+2011-10-30,Santander,Betis,1-0,0-0
+2011-10-30,Sp Gijon,Ath Bilbao,1-1,0-0
+2011-10-31,Sevilla,Granada,1-2,1-0
+2011-11-05,Betis,Malaga,0-0,0-0
+2011-11-05,Levante,Valencia,0-2,0-1
+2011-11-05,Mallorca,Sevilla,0-0,0-0
+2011-11-06,Ath Bilbao,Barcelona,2-2,1-1
+2011-11-06,Espanol,Villarreal,0-0,0-0
+2011-11-06,Getafe,Ath Madrid,3-2,1-1
+2011-11-06,Granada,Santander,0-0,0-0
+2011-11-06,Real Madrid,Osasuna,7-1,3-1
+2011-11-06,Vallecano,Sociedad,4-0,1-0
+2011-11-06,Zaragoza,Sp Gijon,2-2,1-2
+2011-11-19,Barcelona,Zaragoza,4-0,2-0
+2011-11-19,Valencia,Real Madrid,2-3,0-1
+2011-11-19,Villarreal,Betis,1-0,1-0
+2011-11-20,Ath Madrid,Levante,3-2,0-0
+2011-11-20,Osasuna,Vallecano,0-0,0-0
+2011-11-20,Sevilla,Ath Bilbao,1-2,1-1
+2011-11-20,Sociedad,Espanol,0-0,0-0
+2011-11-20,Sp Gijon,Getafe,2-1,1-1
+2011-11-21,Santander,Malaga,1-3,0-0
+2011-11-26,Getafe,Barcelona,1-0,0-0
+2011-11-26,Real Madrid,Ath Madrid,4-1,1-1
+2011-11-26,Vallecano,Valencia,1-2,0-1
+2011-11-27,Ath Bilbao,Granada,0-1,0-1
+2011-11-27,Betis,Sociedad,2-3,0-0
+2011-11-27,Espanol,Osasuna,1-2,0-1
+2011-11-27,Levante,Sp Gijon,4-0,1-0
+2011-11-27,Mallorca,Santander,2-1,1-0
+2011-11-27,Zaragoza,Sevilla,0-1,0-1
+2011-11-28,Malaga,Villarreal,2-1,2-1
+2011-11-29,Barcelona,Vallecano,4-0,3-0
+2011-12-03,Barcelona,Levante,5-0,3-0
+2011-12-03,Santander,Villarreal,1-0,1-0
+2011-12-03,Sp Gijon,Real Madrid,0-3,0-1
+2011-12-03,Valencia,Espanol,2-1,1-0
+2011-12-04,Ath Madrid,Vallecano,3-1,1-0
+2011-12-04,Granada,Zaragoza,1-0,1-0
+2011-12-04,Mallorca,Ath Bilbao,1-1,1-1
+2011-12-04,Osasuna,Betis,2-1,1-0
+2011-12-04,Sociedad,Malaga,3-2,1-1
+2011-12-05,Sevilla,Getafe,3-0,1-0
+2011-12-07,Granada,Mallorca,2-2,0-1
+2011-12-10,Betis,Valencia,2-1,0-0
+2011-12-10,Levante,Sevilla,1-0,0-0
+2011-12-10,Real Madrid,Barcelona,1-3,1-1
+2011-12-11,Ath Bilbao,Santander,1-1,0-0
+2011-12-11,Espanol,Ath Madrid,4-2,3-1
+2011-12-11,Getafe,Granada,1-0,0-0
+2011-12-11,Malaga,Osasuna,1-1,0-1
+2011-12-11,Vallecano,Sp Gijon,1-3,0-2
+2011-12-11,Villarreal,Sociedad,1-1,0-0
+2011-12-11,Zaragoza,Mallorca,0-1,0-1
+2011-12-17,Ath Bilbao,Zaragoza,2-1,1-1
+2011-12-17,Mallorca,Getafe,1-2,1-2
+2011-12-17,Sevilla,Real Madrid,2-6,0-3
+2011-12-17,Sp Gijon,Espanol,1-2,0-1
+2011-12-18,Ath Madrid,Betis,0-2,0-0
+2011-12-18,Granada,Levante,2-1,2-0
+2011-12-18,Osasuna,Villarreal,2-1,0-0
+2011-12-18,Santander,Sociedad,0-0,0-0
+2011-12-18,Valencia,Malaga,2-0,1-0
+2012-01-07,Levante,Mallorca,0-0,0-0
+2012-01-07,Malaga,Ath Madrid,0-0,0-0
+2012-01-07,Real Madrid,Granada,5-1,2-1
+2012-01-07,Santander,Zaragoza,1-0,1-0
+2012-01-07,Sociedad,Osasuna,0-0,0-0
+2012-01-08,Betis,Sp Gijon,2-0,1-0
+2012-01-08,Espanol,Barcelona,1-1,0-1
+2012-01-08,Getafe,Ath Bilbao,0-0,0-0
+2012-01-08,Vallecano,Sevilla,2-1,1-0
+2012-01-08,Villarreal,Valencia,2-2,2-1
+2012-01-14,Granada,Vallecano,1-2,0-1
+2012-01-14,Mallorca,Real Madrid,1-2,1-0
+2012-01-14,Sevilla,Espanol,0-0,0-0
+2012-01-14,Valencia,Sociedad,0-1,0-0
+2012-01-14,Zaragoza,Getafe,1-1,1-0
+2012-01-15,Ath Bilbao,Levante,3-0,2-0
+2012-01-15,Ath Madrid,Villarreal,3-0,1-0
+2012-01-15,Barcelona,Betis,4-2,2-1
+2012-01-15,Osasuna,Santander,0-2,0-1
+2012-01-15,Sp Gijon,Malaga,2-1,1-0
+2012-01-21,Betis,Sevilla,1-1,1-1
+2012-01-21,Espanol,Granada,3-0,2-0
+2012-01-21,Santander,Getafe,1-2,1-1
+2012-01-21,Sociedad,Ath Madrid,0-4,0-1
+2012-01-22,Levante,Zaragoza,0-0,0-0
+2012-01-22,Malaga,Barcelona,1-4,0-1
+2012-01-22,Osasuna,Valencia,1-1,0-0
+2012-01-22,Real Madrid,Ath Bilbao,4-1,1-1
+2012-01-22,Vallecano,Mallorca,0-1,0-0
+2012-01-23,Villarreal,Sp Gijon,3-0,0-0
+2012-01-28,Espanol,Mallorca,1-0,1-0
+2012-01-28,Real Madrid,Zaragoza,3-1,1-1
+2012-01-28,Vallecano,Ath Bilbao,2-3,2-2
+2012-01-28,Villarreal,Barcelona,0-0,0-0
+2012-01-29,Betis,Granada,1-2,0-2
+2012-01-29,Levante,Getafe,1-2,0-1
+2012-01-29,Malaga,Sevilla,2-1,2-1
+2012-01-29,Santander,Valencia,2-2,1-0
+2012-01-29,Sociedad,Sp Gijon,5-1,2-0
+2012-01-30,Osasuna,Ath Madrid,0-1,0-1
+2012-02-04,Ath Bilbao,Espanol,3-3,1-1
+2012-02-04,Barcelona,Sociedad,2-1,1-0
+2012-02-04,Getafe,Real Madrid,0-1,0-1
+2012-02-04,Levante,Santander,1-1,1-0
+2012-02-04,Mallorca,Betis,1-0,1-0
+2012-02-05,Ath Madrid,Valencia,0-0,0-0
+2012-02-05,Sevilla,Villarreal,1-2,1-1
+2012-02-05,Sp Gijon,Osasuna,1-1,1-0
+2012-02-05,Zaragoza,Vallecano,1-2,1-0
+2012-02-06,Granada,Malaga,2-1,0-0
+2012-02-11,Betis,Ath Bilbao,2-1,1-1
+2012-02-11,Osasuna,Barcelona,3-2,2-0
+2012-02-11,Santander,Ath Madrid,0-0,0-0
+2012-02-12,Espanol,Zaragoza,0-2,0-0
+2012-02-12,Malaga,Mallorca,3-1,1-1
+2012-02-12,Real Madrid,Levante,4-2,1-1
+2012-02-12,Valencia,Sp Gijon,4-0,1-0
+2012-02-12,Vallecano,Getafe,2-0,1-0
+2012-02-12,Villarreal,Granada,3-1,1-0
+2012-02-13,Sociedad,Sevilla,2-0,0-0
+2012-02-18,Getafe,Espanol,1-1,0-0
+2012-02-18,Real Madrid,Santander,4-0,2-0
+2012-02-18,Sevilla,Osasuna,2-0,1-0
+2012-02-19,Ath Bilbao,Malaga,3-0,0-0
+2012-02-19,Barcelona,Valencia,5-1,2-1
+2012-02-19,Granada,Sociedad,4-1,1-1
+2012-02-19,Levante,Vallecano,3-5,0-1
+2012-02-19,Mallorca,Villarreal,4-0,1-0
+2012-02-19,Sp Gijon,Ath Madrid,1-1,1-1
+2012-02-20,Zaragoza,Betis,0-2,0-1
+2012-02-25,Betis,Getafe,1-1,0-0
+2012-02-25,Espanol,Levante,1-2,0-1
+2012-02-25,Malaga,Zaragoza,5-1,1-1
+2012-02-25,Santander,Sp Gijon,1-1,0-1
+2012-02-26,Ath Madrid,Barcelona,1-2,0-1
+2012-02-26,Osasuna,Granada,2-1,2-1
+2012-02-26,Sociedad,Mallorca,1-0,0-0
+2012-02-26,Valencia,Sevilla,1-2,1-1
+2012-02-26,Vallecano,Real Madrid,0-1,0-0
+2012-02-26,Villarreal,Ath Bilbao,2-2,1-0
+2012-03-03,Barcelona,Sp Gijon,3-1,1-0
+2012-03-03,Getafe,Malaga,1-3,1-0
+2012-03-03,Mallorca,Osasuna,1-1,0-1
+2012-03-03,Sevilla,Ath Madrid,1-1,0-1
+2012-03-03,Vallecano,Santander,4-2,1-2
+2012-03-04,Ath Bilbao,Sociedad,2-0,1-0
+2012-03-04,Granada,Valencia,0-1,0-1
+2012-03-04,Real Madrid,Espanol,5-0,2-0
+2012-03-04,Zaragoza,Villarreal,2-1,0-1
+2012-03-05,Levante,Betis,3-1,2-1
+2012-03-10,Betis,Real Madrid,2-3,1-1
+2012-03-10,Malaga,Levante,1-0,0-0
+2012-03-10,Sociedad,Zaragoza,3-0,3-0
+2012-03-10,Sp Gijon,Sevilla,1-0,1-0
+2012-03-11,Ath Madrid,Granada,2-0,1-0
+2012-03-11,Espanol,Vallecano,5-1,4-0
+2012-03-11,Osasuna,Ath Bilbao,2-1,2-0
+2012-03-11,Santander,Barcelona,0-2,0-1
+2012-03-11,Valencia,Mallorca,2-2,2-0
+2012-03-12,Villarreal,Getafe,1-2,1-1
+2012-03-17,Getafe,Sociedad,1-0,0-0
+2012-03-17,Granada,Sp Gijon,2-1,2-0
+2012-03-17,Sevilla,Barcelona,0-2,0-2
+2012-03-17,Vallecano,Betis,3-0,0-0
+2012-03-17,Zaragoza,Osasuna,1-1,0-0
+2012-03-18,Ath Bilbao,Valencia,0-3,0-1
+2012-03-18,Levante,Villarreal,1-0,0-0
+2012-03-18,Mallorca,Ath Madrid,2-1,0-0
+2012-03-18,Real Madrid,Malaga,1-1,1-0
+2012-03-19,Espanol,Santander,3-1,2-1
+2012-03-20,Barcelona,Granada,5-3,2-0
+2012-03-20,Osasuna,Getafe,0-0,0-0
+2012-03-21,Ath Madrid,Ath Bilbao,2-1,0-0
+2012-03-21,Sociedad,Levante,1-3,1-2
+2012-03-21,Sp Gijon,Mallorca,2-3,1-1
+2012-03-21,Valencia,Zaragoza,1-2,1-1
+2012-03-21,Villarreal,Real Madrid,1-1,0-0
+2012-03-22,Betis,Espanol,1-1,0-0
+2012-03-22,Malaga,Vallecano,4-2,1-1
+2012-03-22,Santander,Sevilla,0-3,0-1
+2012-03-24,Getafe,Valencia,3-1,3-1
+2012-03-24,Mallorca,Barcelona,0-2,0-1
+2012-03-24,Real Madrid,Sociedad,5-1,3-1
+2012-03-25,Ath Bilbao,Sp Gijon,1-1,0-0
+2012-03-25,Betis,Santander,1-1,1-0
+2012-03-25,Espanol,Malaga,1-2,1-0
+2012-03-25,Levante,Osasuna,0-2,0-1
+2012-03-25,Vallecano,Villarreal,0-2,0-1
+2012-03-25,Zaragoza,Ath Madrid,1-0,0-0
+2012-03-26,Granada,Sevilla,0-3,0-1
+2012-03-31,Barcelona,Ath Bilbao,2-0,1-0
+2012-03-31,Malaga,Betis,0-2,0-2
+2012-03-31,Osasuna,Real Madrid,1-5,0-3
+2012-03-31,Santander,Granada,0-1,0-0
+2012-03-31,Sp Gijon,Zaragoza,1-2,0-1
+2012-04-01,Ath Madrid,Getafe,3-0,1-0
+2012-04-01,Sociedad,Vallecano,4-0,2-0
+2012-04-01,Valencia,Levante,1-1,1-0
+2012-04-01,Villarreal,Espanol,0-0,0-0
+2012-04-02,Sevilla,Mallorca,3-1,0-0
+2012-04-07,Betis,Villarreal,3-1,2-0
+2012-04-07,Espanol,Sociedad,2-2,1-2
+2012-04-07,Getafe,Sp Gijon,2-0,1-0
+2012-04-07,Vallecano,Osasuna,6-0,4-0
+2012-04-07,Zaragoza,Barcelona,1-4,1-2
+2012-04-08,Ath Bilbao,Sevilla,1-0,0-0
+2012-04-08,Levante,Ath Madrid,2-0,2-0
+2012-04-08,Mallorca,Granada,0-0,0-0
+2012-04-08,Real Madrid,Valencia,0-0,0-0
+2012-04-09,Malaga,Santander,3-0,1-0
+2012-04-10,Barcelona,Getafe,4-0,2-0
+2012-04-10,Osasuna,Espanol,2-0,0-0
+2012-04-10,Sociedad,Betis,1-1,0-0
+2012-04-11,Ath Madrid,Real Madrid,1-4,0-1
+2012-04-11,Granada,Ath Bilbao,2-2,1-0
+2012-04-11,Sp Gijon,Levante,3-2,1-1
+2012-04-11,Valencia,Vallecano,4-1,1-0
+2012-04-12,Santander,Mallorca,0-3,0-1
+2012-04-12,Sevilla,Zaragoza,3-0,3-0
+2012-04-12,Villarreal,Malaga,2-1,0-0
+2012-04-14,Levante,Barcelona,1-2,1-0
+2012-04-14,Real Madrid,Sp Gijon,3-1,1-1
+2012-04-15,Ath Bilbao,Mallorca,1-0,1-0
+2012-04-15,Betis,Osasuna,1-0,1-0
+2012-04-15,Espanol,Valencia,4-0,2-0
+2012-04-15,Malaga,Sociedad,1-1,1-0
+2012-04-15,Vallecano,Ath Madrid,0-1,0-0
+2012-04-15,Villarreal,Santander,1-1,0-0
+2012-04-15,Zaragoza,Granada,1-0,1-0
+2012-04-16,Getafe,Sevilla,5-1,1-1
+2012-04-21,Barcelona,Real Madrid,1-2,0-1
+2012-04-21,Mallorca,Zaragoza,1-0,1-0
+2012-04-21,Sevilla,Levante,1-1,1-1
+2012-04-21,Sp Gijon,Vallecano,2-1,1-0
+2012-04-22,Ath Madrid,Espanol,3-1,1-1
+2012-04-22,Granada,Getafe,1-0,1-0
+2012-04-22,Santander,Ath Bilbao,0-1,0-1
+2012-04-22,Sociedad,Villarreal,1-1,0-1
+2012-04-22,Valencia,Betis,4-0,1-0
+2012-04-23,Osasuna,Malaga,1-1,0-0
+2012-04-28,Espanol,Sp Gijon,0-3,0-0
+2012-04-28,Getafe,Mallorca,1-3,0-1
+2012-04-28,Levante,Granada,3-1,0-0
+2012-04-28,Sociedad,Santander,3-0,0-0
+2012-04-28,Villarreal,Osasuna,1-1,1-0
+2012-04-29,Betis,Ath Madrid,2-2,0-0
+2012-04-29,Malaga,Valencia,1-0,1-0
+2012-04-29,Real Madrid,Sevilla,3-0,1-0
+2012-04-29,Vallecano,Barcelona,0-7,0-3
+2012-04-29,Zaragoza,Ath Bilbao,2-0,1-0
+2012-05-01,Getafe,Santander,1-1,0-0
+2012-05-01,Granada,Espanol,2-1,2-0
+2012-05-01,Sp Gijon,Villarreal,2-3,1-2
+2012-05-02,Ath Bilbao,Real Madrid,0-3,0-2
+2012-05-02,Ath Madrid,Sociedad,1-1,0-0
+2012-05-02,Barcelona,Malaga,4-1,2-1
+2012-05-02,Mallorca,Vallecano,1-0,0-0
+2012-05-02,Sevilla,Betis,1-2,1-1
+2012-05-02,Valencia,Osasuna,4-0,0-0
+2012-05-02,Zaragoza,Levante,1-0,1-0
+2012-05-05,Ath Bilbao,Getafe,0-0,0-0
+2012-05-05,Ath Madrid,Malaga,2-1,0-1
+2012-05-05,Barcelona,Espanol,4-0,1-0
+2012-05-05,Granada,Real Madrid,1-2,1-0
+2012-05-05,Mallorca,Levante,1-0,0-0
+2012-05-05,Osasuna,Sociedad,1-0,1-0
+2012-05-05,Sevilla,Vallecano,5-2,2-1
+2012-05-05,Sp Gijon,Betis,2-1,1-1
+2012-05-05,Valencia,Villarreal,1-0,0-0
+2012-05-05,Zaragoza,Santander,2-1,1-1
+2012-05-12,Betis,Barcelona,2-2,0-1
+2012-05-12,Sociedad,Valencia,1-0,0-0
+2012-05-13,Espanol,Sevilla,1-1,0-1
+2012-05-13,Getafe,Zaragoza,0-2,0-0
+2012-05-13,Levante,Ath Bilbao,3-0,1-0
+2012-05-13,Malaga,Sp Gijon,1-0,0-0
+2012-05-13,Real Madrid,Mallorca,4-1,2-0
+2012-05-13,Santander,Osasuna,2-4,1-0
+2012-05-13,Vallecano,Granada,1-0,0-0
+2012-05-13,Villarreal,Ath Madrid,0-1,0-0

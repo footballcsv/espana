@@ -1,380 +1,381 @@
-29/08/09,Real Madrid,La Coruna,3,2,2,1
-29/08/09,Zaragoza,Tenerife,1,0,0,0
-30/08/09,Almeria,Valladolid,0,0,0,0
-30/08/09,Ath Bilbao,Espanol,1,0,0,0
-30/08/09,Malaga,Ath Madrid,3,0,1,0
-30/08/09,Mallorca,Xerez,2,0,0,0
-30/08/09,Osasuna,Villarreal,1,1,1,1
-30/08/09,Santander,Getafe,1,4,1,3
-30/08/09,Valencia,Sevilla,2,0,0,0
-31/08/09,Barcelona,Sp Gijon,3,0,2,0
-12/09/09,Ath Madrid,Santander,1,1,1,1
-12/09/09,Espanol,Real Madrid,0,3,0,1
-12/09/09,Getafe,Barcelona,0,2,0,0
-12/09/09,Sevilla,Zaragoza,4,1,2,1
-13/09/09,La Coruna,Malaga,1,0,0,0
-13/09/09,Sp Gijon,Almeria,1,0,1,0
-13/09/09,Tenerife,Osasuna,2,1,0,0
-13/09/09,Valladolid,Valencia,2,4,1,3
-13/09/09,Villarreal,Mallorca,1,1,0,0
-13/09/09,Xerez,Ath Bilbao,0,1,0,1
-19/09/09,Barcelona,Ath Madrid,5,2,4,1
-19/09/09,La Coruna,Espanol,2,3,1,2
-19/09/09,Malaga,Santander,1,2,0,1
-19/09/09,Mallorca,Tenerife,4,0,1,0
-19/09/09,Osasuna,Sevilla,0,2,0,1
-20/09/09,Almeria,Getafe,1,0,0,0
-20/09/09,Ath Bilbao,Villarreal,3,2,2,0
-20/09/09,Real Madrid,Xerez,5,0,1,0
-20/09/09,Valencia,Sp Gijon,2,2,1,1
-20/09/09,Zaragoza,Valladolid,1,2,1,1
-22/09/09,Santander,Barcelona,1,4,0,3
-22/09/09,Sevilla,Mallorca,2,0,2,0
-23/09/09,Ath Madrid,Almeria,2,2,1,1
-23/09/09,Espanol,Malaga,2,1,0,1
-23/09/09,Getafe,Valencia,3,1,2,1
-23/09/09,Tenerife,Ath Bilbao,1,0,0,0
-23/09/09,Valladolid,Osasuna,1,2,0,1
-23/09/09,Villarreal,Real Madrid,0,2,0,1
-23/09/09,Xerez,La Coruna,0,3,0,1
-24/09/09,Sp Gijon,Zaragoza,1,1,1,0
-26/09/09,Ath Bilbao,Sevilla,0,4,0,3
-26/09/09,Malaga,Barcelona,0,2,0,1
-26/09/09,Real Madrid,Tenerife,3,0,0,0
-26/09/09,Valencia,Ath Madrid,2,2,2,1
-27/09/09,Almeria,Santander,2,2,1,0
-27/09/09,Espanol,Xerez,0,0,0,0
-27/09/09,La Coruna,Villarreal,1,0,1,0
-27/09/09,Mallorca,Valladolid,3,0,1,0
-27/09/09,Osasuna,Sp Gijon,1,0,0,0
-27/09/09,Zaragoza,Getafe,3,0,2,0
-03/10/09,Ath Madrid,Zaragoza,2,1,1,0
-03/10/09,Barcelona,Almeria,1,0,1,0
-03/10/09,Tenerife,La Coruna,0,1,0,0
-04/10/09,Getafe,Osasuna,2,1,0,0
-04/10/09,Santander,Valencia,0,1,0,0
-04/10/09,Sevilla,Real Madrid,2,1,1,0
-04/10/09,Sp Gijon,Mallorca,4,1,0,1
-04/10/09,Valladolid,Ath Bilbao,2,2,0,1
-04/10/09,Villarreal,Espanol,0,0,0,0
-04/10/09,Xerez,Malaga,1,1,0,0
-17/10/09,La Coruna,Sevilla,1,0,1,0
-17/10/09,Real Madrid,Valladolid,4,2,3,1
-17/10/09,Valencia,Barcelona,0,0,0,0
-18/10/09,Ath Bilbao,Sp Gijon,1,2,0,0
-18/10/09,Espanol,Tenerife,2,1,1,1
-18/10/09,Malaga,Almeria,1,2,0,2
-18/10/09,Mallorca,Getafe,3,1,1,0
-18/10/09,Osasuna,Ath Madrid,3,0,3,0
-18/10/09,Xerez,Villarreal,2,1,1,1
-18/10/09,Zaragoza,Santander,2,2,2,0
-24/10/09,Ath Madrid,Mallorca,1,1,0,0
-24/10/09,Sevilla,Espanol,0,0,0,0
-24/10/09,Sp Gijon,Real Madrid,0,0,0,0
-25/10/09,Almeria,Valencia,0,3,0,0
-25/10/09,Barcelona,Zaragoza,6,1,3,0
-25/10/09,Getafe,Ath Bilbao,2,0,0,0
-25/10/09,Santander,Osasuna,1,1,0,0
-25/10/09,Tenerife,Xerez,1,0,0,0
-25/10/09,Valladolid,La Coruna,4,0,1,0
-25/10/09,Villarreal,Malaga,2,1,1,1
-31/10/09,Ath Bilbao,Ath Madrid,1,0,1,0
-31/10/09,Osasuna,Barcelona,1,1,0,0
-31/10/09,Real Madrid,Getafe,2,0,0,0
-31/10/09,Xerez,Sevilla,0,2,0,1
-01/11/09,Espanol,Valladolid,1,1,0,0
-01/11/09,La Coruna,Sp Gijon,1,1,1,0
-01/11/09,Malaga,Valencia,0,1,0,0
-01/11/09,Mallorca,Santander,1,0,1,0
-01/11/09,Villarreal,Tenerife,5,0,1,0
-01/11/09,Zaragoza,Almeria,2,1,2,1
-07/11/09,Ath Madrid,Real Madrid,2,3,0,2
-07/11/09,Barcelona,Mallorca,4,2,3,1
-07/11/09,Getafe,La Coruna,0,2,0,1
-07/11/09,Tenerife,Malaga,2,2,2,1
-08/11/09,Almeria,Osasuna,2,0,1,0
-08/11/09,Santander,Ath Bilbao,0,2,0,1
-08/11/09,Sevilla,Villarreal,3,2,1,1
-08/11/09,Sp Gijon,Espanol,1,0,1,0
-08/11/09,Valencia,Zaragoza,3,1,3,0
-08/11/09,Valladolid,Xerez,0,0,0,0
-21/11/09,Ath Bilbao,Barcelona,1,1,0,0
-21/11/09,La Coruna,Ath Madrid,2,1,1,1
-21/11/09,Real Madrid,Santander,1,0,1,0
-21/11/09,Tenerife,Sevilla,1,2,0,1
-22/11/09,Espanol,Getafe,0,2,0,0
-22/11/09,Malaga,Zaragoza,1,1,0,0
-22/11/09,Mallorca,Almeria,3,1,0,0
-22/11/09,Osasuna,Valencia,1,3,0,2
-22/11/09,Villarreal,Valladolid,3,1,1,0
-22/11/09,Xerez,Sp Gijon,0,0,0,0
-28/11/09,Sevilla,Malaga,2,2,0,2
-28/11/09,Sp Gijon,Villarreal,1,0,0,0
-28/11/09,Valencia,Mallorca,1,1,0,0
-29/11/09,Almeria,Ath Bilbao,1,4,0,2
-29/11/09,Ath Madrid,Espanol,4,0,1,0
-29/11/09,Barcelona,Real Madrid,1,0,0,0
-29/11/09,Getafe,Xerez,5,1,2,1
-29/11/09,Santander,La Coruna,0,1,0,0
-29/11/09,Valladolid,Tenerife,3,3,2,0
-29/11/09,Zaragoza,Osasuna,0,1,0,1
-02/12/09,Xerez,Barcelona,0,2,0,0
-05/12/09,La Coruna,Barcelona,1,3,1,1
-05/12/09,Real Madrid,Almeria,4,2,1,0
-05/12/09,Sevilla,Valladolid,1,1,1,1
-05/12/09,Xerez,Ath Madrid,0,2,0,1
-06/12/09,Ath Bilbao,Valencia,1,2,0,0
-06/12/09,Espanol,Santander,0,4,0,0
-06/12/09,Malaga,Osasuna,1,1,0,0
-06/12/09,Mallorca,Zaragoza,4,1,1,0
-06/12/09,Tenerife,Sp Gijon,2,1,0,1
-06/12/09,Villarreal,Getafe,3,2,1,1
-12/12/09,Barcelona,Espanol,1,0,1,0
-12/12/09,Valencia,Real Madrid,2,3,0,0
-12/12/09,Zaragoza,Ath Bilbao,1,2,0,0
-13/12/09,Almeria,La Coruna,1,1,0,0
-13/12/09,Ath Madrid,Villarreal,1,2,1,0
-13/12/09,Getafe,Tenerife,2,1,1,0
-13/12/09,Osasuna,Mallorca,0,1,0,0
-13/12/09,Santander,Xerez,3,2,1,1
-13/12/09,Sp Gijon,Sevilla,0,1,0,1
-13/12/09,Valladolid,Malaga,1,1,0,1
-19/12/09,Ath Bilbao,Osasuna,2,0,2,0
-19/12/09,Real Madrid,Zaragoza,6,0,4,0
-19/12/09,Sevilla,Getafe,1,2,0,2
-20/12/09,Espanol,Almeria,2,0,1,0
-20/12/09,La Coruna,Valencia,0,0,0,0
-20/12/09,Malaga,Mallorca,2,1,1,0
-20/12/09,Tenerife,Ath Madrid,1,1,1,1
-20/12/09,Valladolid,Sp Gijon,2,1,1,1
-20/12/09,Villarreal,Santander,2,0,0,0
-02/01/10,Ath Madrid,Sevilla,2,1,0,1
-02/01/10,Barcelona,Villarreal,1,1,1,0
-02/01/10,Valencia,Espanol,1,0,0,0
-03/01/10,Almeria,Xerez,1,0,0,0
-03/01/10,Getafe,Valladolid,1,0,0,0
-03/01/10,Mallorca,Ath Bilbao,2,0,0,0
-03/01/10,Osasuna,Real Madrid,0,0,0,0
-03/01/10,Santander,Tenerife,2,0,0,0
-03/01/10,Sp Gijon,Malaga,2,2,1,1
-03/01/10,Zaragoza,La Coruna,0,0,0,0
-09/01/10,Sevilla,Santander,1,2,0,2
-09/01/10,Valladolid,Ath Madrid,0,4,0,2
-09/01/10,Villarreal,Almeria,1,1,1,0
-10/01/10,Espanol,Zaragoza,2,1,1,1
-10/01/10,La Coruna,Osasuna,1,0,0,0
-10/01/10,Malaga,Ath Bilbao,1,1,0,0
-10/01/10,Real Madrid,Mallorca,2,0,1,0
-10/01/10,Sp Gijon,Getafe,1,0,1,0
-10/01/10,Tenerife,Barcelona,0,5,0,3
-10/01/10,Xerez,Valencia,1,3,1,2
-16/01/10,Ath Bilbao,Real Madrid,1,0,1,0
-16/01/10,Barcelona,Sevilla,4,0,0,0
-16/01/10,Osasuna,Espanol,2,0,2,0
-17/01/10,Almeria,Tenerife,1,1,0,1
-17/01/10,Ath Madrid,Sp Gijon,3,2,1,1
-17/01/10,Malaga,Getafe,1,0,0,0
-17/01/10,Mallorca,La Coruna,2,0,0,0
-17/01/10,Santander,Valladolid,1,1,0,1
-17/01/10,Valencia,Villarreal,4,1,2,0
-17/01/10,Zaragoza,Xerez,0,0,0,0
-23/01/10,La Coruna,Ath Bilbao,3,1,0,0
-23/01/10,Sevilla,Almeria,1,0,1,0
-23/01/10,Valladolid,Barcelona,0,3,0,2
-24/01/10,Espanol,Mallorca,1,1,0,0
-24/01/10,Getafe,Ath Madrid,1,0,1,0
-24/01/10,Real Madrid,Malaga,2,0,2,0
-24/01/10,Sp Gijon,Santander,0,1,0,1
-24/01/10,Tenerife,Valencia,0,0,0,0
-24/01/10,Villarreal,Zaragoza,4,2,3,0
-24/01/10,Xerez,Osasuna,1,2,1,1
-30/01/10,Espanol,Ath Bilbao,1,0,0,0
-30/01/10,La Coruna,Real Madrid,1,3,0,2
-30/01/10,Sp Gijon,Barcelona,0,1,0,1
-31/01/10,Ath Madrid,Malaga,0,2,0,1
-31/01/10,Getafe,Santander,0,0,0,0
-31/01/10,Sevilla,Valencia,2,1,1,0
-31/01/10,Tenerife,Zaragoza,1,3,0,0
-31/01/10,Valladolid,Almeria,1,1,0,1
-31/01/10,Villarreal,Osasuna,0,2,0,1
-31/01/10,Xerez,Mallorca,2,1,0,1
-06/02/10,Barcelona,Getafe,2,1,1,0
-06/02/10,Real Madrid,Espanol,3,0,2,0
-06/02/10,Valencia,Valladolid,2,0,2,0
-07/02/10,Almeria,Sp Gijon,3,1,2,1
-07/02/10,Ath Bilbao,Xerez,3,2,1,2
-07/02/10,Malaga,La Coruna,0,0,0,0
-07/02/10,Mallorca,Villarreal,1,0,0,0
-07/02/10,Osasuna,Tenerife,1,0,0,0
-07/02/10,Santander,Ath Madrid,1,1,1,1
-07/02/10,Zaragoza,Sevilla,2,1,2,1
-13/02/10,Sp Gijon,Valencia,1,1,1,0
-13/02/10,Villarreal,Ath Bilbao,2,1,2,1
-13/02/10,Xerez,Real Madrid,0,3,0,0
-14/02/10,Ath Madrid,Barcelona,2,1,2,1
-14/02/10,Espanol,La Coruna,2,0,1,0
-14/02/10,Getafe,Almeria,2,2,0,0
-14/02/10,Santander,Malaga,0,3,0,2
-14/02/10,Sevilla,Osasuna,1,0,1,0
-14/02/10,Valladolid,Zaragoza,1,1,1,1
-15/02/10,Tenerife,Mallorca,1,0,1,0
-20/02/10,Barcelona,Santander,4,0,3,0
-20/02/10,La Coruna,Xerez,2,1,2,1
-20/02/10,Mallorca,Sevilla,1,3,1,1
-21/02/10,Almeria,Ath Madrid,1,0,0,0
-21/02/10,Ath Bilbao,Tenerife,4,1,2,0
-21/02/10,Malaga,Espanol,2,1,1,1
-21/02/10,Osasuna,Valladolid,1,1,0,0
-21/02/10,Real Madrid,Villarreal,6,2,2,1
-21/02/10,Zaragoza,Sp Gijon,1,3,0,1
-22/02/10,Valencia,Getafe,2,1,1,0
-27/02/10,Barcelona,Malaga,2,1,0,0
-27/02/10,Getafe,Zaragoza,0,2,0,2
-27/02/10,Tenerife,Real Madrid,1,5,0,2
-28/02/10,Ath Madrid,Valencia,4,1,1,1
-28/02/10,Santander,Almeria,0,2,0,1
-28/02/10,Sevilla,Ath Bilbao,0,0,0,0
-28/02/10,Sp Gijon,Osasuna,3,2,1,1
-28/02/10,Valladolid,Mallorca,1,2,0,0
-28/02/10,Villarreal,La Coruna,1,0,1,0
-28/02/10,Xerez,Espanol,1,1,0,1
-06/03/10,Almeria,Barcelona,2,2,1,1
-06/03/10,La Coruna,Tenerife,3,1,1,1
-06/03/10,Real Madrid,Sevilla,3,2,0,1
-07/03/10,Ath Bilbao,Valladolid,2,0,2,0
-07/03/10,Espanol,Villarreal,0,0,0,0
-07/03/10,Malaga,Xerez,2,4,1,1
-07/03/10,Mallorca,Sp Gijon,3,0,1,0
-07/03/10,Osasuna,Getafe,0,0,0,0
-07/03/10,Zaragoza,Ath Madrid,1,1,1,0
-08/03/10,Valencia,Santander,0,0,0,0
-13/03/10,Getafe,Mallorca,3,0,1,0
-13/03/10,Sevilla,La Coruna,1,1,1,1
-13/03/10,Sp Gijon,Ath Bilbao,0,0,0,0
-14/03/10,Almeria,Malaga,1,0,0,0
-14/03/10,Barcelona,Valencia,3,0,0,0
-14/03/10,Santander,Zaragoza,0,0,0,0
-14/03/10,Tenerife,Espanol,4,1,1,0
-14/03/10,Valladolid,Real Madrid,1,4,0,2
-14/03/10,Villarreal,Xerez,2,0,1,0
-15/03/10,Ath Madrid,Osasuna,1,0,0,0
-20/03/10,Ath Bilbao,Getafe,2,2,1,1
-20/03/10,Espanol,Sevilla,2,0,1,0
-20/03/10,La Coruna,Valladolid,0,2,0,1
-20/03/10,Real Madrid,Sp Gijon,3,1,0,0
-20/03/10,Xerez,Tenerife,2,1,2,0
-21/03/10,Malaga,Villarreal,2,0,0,0
-21/03/10,Mallorca,Ath Madrid,4,1,2,1
-21/03/10,Osasuna,Santander,1,3,1,1
-21/03/10,Valencia,Almeria,2,0,0,0
-21/03/10,Zaragoza,Barcelona,2,4,0,1
-23/03/10,Sevilla,Xerez,1,1,0,0
-23/03/10,Sp Gijon,La Coruna,2,1,1,0
-24/03/10,Almeria,Zaragoza,1,0,0,0
-24/03/10,Barcelona,Osasuna,2,0,0,0
-24/03/10,Santander,Mallorca,0,0,0,0
-24/03/10,Tenerife,Villarreal,2,2,0,1
-24/03/10,Valencia,Malaga,1,0,1,0
-24/03/10,Valladolid,Espanol,0,0,0,0
-25/03/10,Ath Madrid,Ath Bilbao,2,0,0,0
-25/03/10,Getafe,Real Madrid,2,4,1,4
-27/03/10,Malaga,Tenerife,1,1,0,0
-27/03/10,Mallorca,Barcelona,0,1,0,0
-27/03/10,Zaragoza,Valencia,3,0,1,0
-28/03/10,Espanol,Sp Gijon,0,0,0,0
-28/03/10,La Coruna,Getafe,1,3,0,2
-28/03/10,Osasuna,Almeria,1,0,1,0
-28/03/10,Real Madrid,Ath Madrid,3,2,0,1
-28/03/10,Villarreal,Sevilla,3,0,2,0
-28/03/10,Xerez,Valladolid,3,0,2,0
-29/03/10,Ath Bilbao,Santander,4,3,2,1
-03/04/10,Barcelona,Ath Bilbao,4,1,2,0
-03/04/10,Sevilla,Tenerife,3,0,2,0
-03/04/10,Zaragoza,Malaga,2,0,1,0
-04/04/10,Almeria,Mallorca,1,1,1,0
-04/04/10,Ath Madrid,La Coruna,3,0,1,0
-04/04/10,Getafe,Espanol,1,1,1,0
-04/04/10,Santander,Real Madrid,0,2,0,1
-04/04/10,Sp Gijon,Xerez,2,2,1,0
-04/04/10,Valencia,Osasuna,3,0,0,0
-04/04/10,Valladolid,Villarreal,0,2,0,1
-10/04/10,Malaga,Sevilla,1,2,1,0
-10/04/10,Real Madrid,Barcelona,0,2,0,1
-10/04/10,Tenerife,Valladolid,0,0,0,0
-10/04/10,Villarreal,Sp Gijon,1,0,1,0
-10/04/10,Xerez,Getafe,0,1,0,0
-11/04/10,Ath Bilbao,Almeria,4,1,2,0
-11/04/10,Espanol,Ath Madrid,3,0,0,0
-11/04/10,La Coruna,Santander,1,1,1,0
-11/04/10,Mallorca,Valencia,3,2,2,0
-11/04/10,Osasuna,Zaragoza,2,0,1,0
-13/04/10,Getafe,Villarreal,3,0,0,0
-13/04/10,Sp Gijon,Tenerife,0,2,0,0
-13/04/10,Valladolid,Sevilla,2,1,1,0
-14/04/10,Ath Madrid,Xerez,1,2,1,1
-14/04/10,Barcelona,La Coruna,3,0,1,0
-14/04/10,Osasuna,Malaga,2,2,1,1
-14/04/10,Santander,Espanol,3,1,1,1
-14/04/10,Zaragoza,Mallorca,1,1,1,1
-15/04/10,Almeria,Real Madrid,1,2,1,1
-15/04/10,Valencia,Ath Bilbao,2,0,1,0
-17/04/10,Espanol,Barcelona,0,0,0,0
-17/04/10,Sevilla,Sp Gijon,3,0,1,0
-17/04/10,Villarreal,Ath Madrid,2,1,2,0
-18/04/10,Ath Bilbao,Zaragoza,0,0,0,0
-18/04/10,La Coruna,Almeria,0,0,0,0
-18/04/10,Malaga,Valladolid,0,0,0,0
-18/04/10,Real Madrid,Valencia,2,0,1,0
-18/04/10,Tenerife,Getafe,3,2,1,1
-18/04/10,Xerez,Santander,2,2,1,1
-19/04/10,Mallorca,Osasuna,2,0,1,0
-24/04/10,Barcelona,Xerez,3,1,2,1
-24/04/10,Valencia,La Coruna,1,0,1,0
-24/04/10,Zaragoza,Real Madrid,1,2,0,0
-25/04/10,Almeria,Espanol,0,1,0,0
-25/04/10,Ath Madrid,Tenerife,3,1,2,0
-25/04/10,Getafe,Sevilla,4,3,1,2
-25/04/10,Mallorca,Malaga,1,1,0,0
-25/04/10,Santander,Villarreal,1,2,1,0
-25/04/10,Sp Gijon,Valladolid,0,2,0,0
-26/04/10,Osasuna,Ath Bilbao,0,0,0,0
-01/05/10,Espanol,Valencia,0,2,0,0
-01/05/10,La Coruna,Zaragoza,0,1,0,0
-01/05/10,Malaga,Sp Gijon,1,1,0,1
-01/05/10,Tenerife,Santander,2,1,1,0
-01/05/10,Valladolid,Getafe,0,0,0,0
-01/05/10,Villarreal,Barcelona,1,4,0,3
-01/05/10,Xerez,Almeria,2,1,1,1
-02/05/10,Ath Bilbao,Mallorca,1,3,1,1
-02/05/10,Real Madrid,Osasuna,3,2,2,2
-02/05/10,Sevilla,Ath Madrid,3,1,3,1
-04/05/10,Almeria,Villarreal,4,2,3,0
-04/05/10,Barcelona,Tenerife,4,1,1,1
-04/05/10,Getafe,Sp Gijon,1,1,0,1
-04/05/10,Valencia,Xerez,3,1,1,1
-05/05/10,Ath Bilbao,Malaga,1,1,1,1
-05/05/10,Ath Madrid,Valladolid,3,1,1,0
-05/05/10,Mallorca,Real Madrid,1,4,1,1
-05/05/10,Osasuna,La Coruna,3,1,3,1
-05/05/10,Santander,Sevilla,1,5,0,2
-05/05/10,Zaragoza,Espanol,1,0,0,0
-08/05/10,Espanol,Osasuna,2,1,0,1
-08/05/10,Getafe,Malaga,2,1,1,0
-08/05/10,La Coruna,Mallorca,1,0,0,0
-08/05/10,Real Madrid,Ath Bilbao,5,1,1,1
-08/05/10,Sevilla,Barcelona,2,3,0,2
-08/05/10,Sp Gijon,Ath Madrid,1,1,0,0
-08/05/10,Tenerife,Almeria,2,2,1,1
-08/05/10,Valladolid,Santander,2,1,0,1
-08/05/10,Villarreal,Valencia,2,0,2,0
-08/05/10,Xerez,Zaragoza,3,2,1,0
-15/05/10,Almeria,Sevilla,2,3,1,1
-15/05/10,Ath Bilbao,La Coruna,2,0,1,0
-15/05/10,Ath Madrid,Getafe,0,3,0,1
-15/05/10,Mallorca,Espanol,2,0,1,0
-15/05/10,Zaragoza,Villarreal,3,3,3,1
-16/05/10,Barcelona,Valladolid,4,0,2,0
-16/05/10,Malaga,Real Madrid,1,1,1,0
-16/05/10,Osasuna,Xerez,1,1,0,0
-16/05/10,Santander,Sp Gijon,2,0,1,0
-16/05/10,Valencia,Tenerife,1,0,0,0
+Date,Team 1,Team 2,FT,HT
+2009-08-29,Real Madrid,La Coruna,3-2,2-1
+2009-08-29,Zaragoza,Tenerife,1-0,0-0
+2009-08-30,Almeria,Valladolid,0-0,0-0
+2009-08-30,Ath Bilbao,Espanol,1-0,0-0
+2009-08-30,Malaga,Ath Madrid,3-0,1-0
+2009-08-30,Mallorca,Xerez,2-0,0-0
+2009-08-30,Osasuna,Villarreal,1-1,1-1
+2009-08-30,Santander,Getafe,1-4,1-3
+2009-08-30,Valencia,Sevilla,2-0,0-0
+2009-08-31,Barcelona,Sp Gijon,3-0,2-0
+2009-09-12,Ath Madrid,Santander,1-1,1-1
+2009-09-12,Espanol,Real Madrid,0-3,0-1
+2009-09-12,Getafe,Barcelona,0-2,0-0
+2009-09-12,Sevilla,Zaragoza,4-1,2-1
+2009-09-13,La Coruna,Malaga,1-0,0-0
+2009-09-13,Sp Gijon,Almeria,1-0,1-0
+2009-09-13,Tenerife,Osasuna,2-1,0-0
+2009-09-13,Valladolid,Valencia,2-4,1-3
+2009-09-13,Villarreal,Mallorca,1-1,0-0
+2009-09-13,Xerez,Ath Bilbao,0-1,0-1
+2009-09-19,Barcelona,Ath Madrid,5-2,4-1
+2009-09-19,La Coruna,Espanol,2-3,1-2
+2009-09-19,Malaga,Santander,1-2,0-1
+2009-09-19,Mallorca,Tenerife,4-0,1-0
+2009-09-19,Osasuna,Sevilla,0-2,0-1
+2009-09-20,Almeria,Getafe,1-0,0-0
+2009-09-20,Ath Bilbao,Villarreal,3-2,2-0
+2009-09-20,Real Madrid,Xerez,5-0,1-0
+2009-09-20,Valencia,Sp Gijon,2-2,1-1
+2009-09-20,Zaragoza,Valladolid,1-2,1-1
+2009-09-22,Santander,Barcelona,1-4,0-3
+2009-09-22,Sevilla,Mallorca,2-0,2-0
+2009-09-23,Ath Madrid,Almeria,2-2,1-1
+2009-09-23,Espanol,Malaga,2-1,0-1
+2009-09-23,Getafe,Valencia,3-1,2-1
+2009-09-23,Tenerife,Ath Bilbao,1-0,0-0
+2009-09-23,Valladolid,Osasuna,1-2,0-1
+2009-09-23,Villarreal,Real Madrid,0-2,0-1
+2009-09-23,Xerez,La Coruna,0-3,0-1
+2009-09-24,Sp Gijon,Zaragoza,1-1,1-0
+2009-09-26,Ath Bilbao,Sevilla,0-4,0-3
+2009-09-26,Malaga,Barcelona,0-2,0-1
+2009-09-26,Real Madrid,Tenerife,3-0,0-0
+2009-09-26,Valencia,Ath Madrid,2-2,2-1
+2009-09-27,Almeria,Santander,2-2,1-0
+2009-09-27,Espanol,Xerez,0-0,0-0
+2009-09-27,La Coruna,Villarreal,1-0,1-0
+2009-09-27,Mallorca,Valladolid,3-0,1-0
+2009-09-27,Osasuna,Sp Gijon,1-0,0-0
+2009-09-27,Zaragoza,Getafe,3-0,2-0
+2009-10-03,Ath Madrid,Zaragoza,2-1,1-0
+2009-10-03,Barcelona,Almeria,1-0,1-0
+2009-10-03,Tenerife,La Coruna,0-1,0-0
+2009-10-04,Getafe,Osasuna,2-1,0-0
+2009-10-04,Santander,Valencia,0-1,0-0
+2009-10-04,Sevilla,Real Madrid,2-1,1-0
+2009-10-04,Sp Gijon,Mallorca,4-1,0-1
+2009-10-04,Valladolid,Ath Bilbao,2-2,0-1
+2009-10-04,Villarreal,Espanol,0-0,0-0
+2009-10-04,Xerez,Malaga,1-1,0-0
+2009-10-17,La Coruna,Sevilla,1-0,1-0
+2009-10-17,Real Madrid,Valladolid,4-2,3-1
+2009-10-17,Valencia,Barcelona,0-0,0-0
+2009-10-18,Ath Bilbao,Sp Gijon,1-2,0-0
+2009-10-18,Espanol,Tenerife,2-1,1-1
+2009-10-18,Malaga,Almeria,1-2,0-2
+2009-10-18,Mallorca,Getafe,3-1,1-0
+2009-10-18,Osasuna,Ath Madrid,3-0,3-0
+2009-10-18,Xerez,Villarreal,2-1,1-1
+2009-10-18,Zaragoza,Santander,2-2,2-0
+2009-10-24,Ath Madrid,Mallorca,1-1,0-0
+2009-10-24,Sevilla,Espanol,0-0,0-0
+2009-10-24,Sp Gijon,Real Madrid,0-0,0-0
+2009-10-25,Almeria,Valencia,0-3,0-0
+2009-10-25,Barcelona,Zaragoza,6-1,3-0
+2009-10-25,Getafe,Ath Bilbao,2-0,0-0
+2009-10-25,Santander,Osasuna,1-1,0-0
+2009-10-25,Tenerife,Xerez,1-0,0-0
+2009-10-25,Valladolid,La Coruna,4-0,1-0
+2009-10-25,Villarreal,Malaga,2-1,1-1
+2009-10-31,Ath Bilbao,Ath Madrid,1-0,1-0
+2009-10-31,Osasuna,Barcelona,1-1,0-0
+2009-10-31,Real Madrid,Getafe,2-0,0-0
+2009-10-31,Xerez,Sevilla,0-2,0-1
+2009-11-01,Espanol,Valladolid,1-1,0-0
+2009-11-01,La Coruna,Sp Gijon,1-1,1-0
+2009-11-01,Malaga,Valencia,0-1,0-0
+2009-11-01,Mallorca,Santander,1-0,1-0
+2009-11-01,Villarreal,Tenerife,5-0,1-0
+2009-11-01,Zaragoza,Almeria,2-1,2-1
+2009-11-07,Ath Madrid,Real Madrid,2-3,0-2
+2009-11-07,Barcelona,Mallorca,4-2,3-1
+2009-11-07,Getafe,La Coruna,0-2,0-1
+2009-11-07,Tenerife,Malaga,2-2,2-1
+2009-11-08,Almeria,Osasuna,2-0,1-0
+2009-11-08,Santander,Ath Bilbao,0-2,0-1
+2009-11-08,Sevilla,Villarreal,3-2,1-1
+2009-11-08,Sp Gijon,Espanol,1-0,1-0
+2009-11-08,Valencia,Zaragoza,3-1,3-0
+2009-11-08,Valladolid,Xerez,0-0,0-0
+2009-11-21,Ath Bilbao,Barcelona,1-1,0-0
+2009-11-21,La Coruna,Ath Madrid,2-1,1-1
+2009-11-21,Real Madrid,Santander,1-0,1-0
+2009-11-21,Tenerife,Sevilla,1-2,0-1
+2009-11-22,Espanol,Getafe,0-2,0-0
+2009-11-22,Malaga,Zaragoza,1-1,0-0
+2009-11-22,Mallorca,Almeria,3-1,0-0
+2009-11-22,Osasuna,Valencia,1-3,0-2
+2009-11-22,Villarreal,Valladolid,3-1,1-0
+2009-11-22,Xerez,Sp Gijon,0-0,0-0
+2009-11-28,Sevilla,Malaga,2-2,0-2
+2009-11-28,Sp Gijon,Villarreal,1-0,0-0
+2009-11-28,Valencia,Mallorca,1-1,0-0
+2009-11-29,Almeria,Ath Bilbao,1-4,0-2
+2009-11-29,Ath Madrid,Espanol,4-0,1-0
+2009-11-29,Barcelona,Real Madrid,1-0,0-0
+2009-11-29,Getafe,Xerez,5-1,2-1
+2009-11-29,Santander,La Coruna,0-1,0-0
+2009-11-29,Valladolid,Tenerife,3-3,2-0
+2009-11-29,Zaragoza,Osasuna,0-1,0-1
+2009-12-02,Xerez,Barcelona,0-2,0-0
+2009-12-05,La Coruna,Barcelona,1-3,1-1
+2009-12-05,Real Madrid,Almeria,4-2,1-0
+2009-12-05,Sevilla,Valladolid,1-1,1-1
+2009-12-05,Xerez,Ath Madrid,0-2,0-1
+2009-12-06,Ath Bilbao,Valencia,1-2,0-0
+2009-12-06,Espanol,Santander,0-4,0-0
+2009-12-06,Malaga,Osasuna,1-1,0-0
+2009-12-06,Mallorca,Zaragoza,4-1,1-0
+2009-12-06,Tenerife,Sp Gijon,2-1,0-1
+2009-12-06,Villarreal,Getafe,3-2,1-1
+2009-12-12,Barcelona,Espanol,1-0,1-0
+2009-12-12,Valencia,Real Madrid,2-3,0-0
+2009-12-12,Zaragoza,Ath Bilbao,1-2,0-0
+2009-12-13,Almeria,La Coruna,1-1,0-0
+2009-12-13,Ath Madrid,Villarreal,1-2,1-0
+2009-12-13,Getafe,Tenerife,2-1,1-0
+2009-12-13,Osasuna,Mallorca,0-1,0-0
+2009-12-13,Santander,Xerez,3-2,1-1
+2009-12-13,Sp Gijon,Sevilla,0-1,0-1
+2009-12-13,Valladolid,Malaga,1-1,0-1
+2009-12-19,Ath Bilbao,Osasuna,2-0,2-0
+2009-12-19,Real Madrid,Zaragoza,6-0,4-0
+2009-12-19,Sevilla,Getafe,1-2,0-2
+2009-12-20,Espanol,Almeria,2-0,1-0
+2009-12-20,La Coruna,Valencia,0-0,0-0
+2009-12-20,Malaga,Mallorca,2-1,1-0
+2009-12-20,Tenerife,Ath Madrid,1-1,1-1
+2009-12-20,Valladolid,Sp Gijon,2-1,1-1
+2009-12-20,Villarreal,Santander,2-0,0-0
+2010-01-02,Ath Madrid,Sevilla,2-1,0-1
+2010-01-02,Barcelona,Villarreal,1-1,1-0
+2010-01-02,Valencia,Espanol,1-0,0-0
+2010-01-03,Almeria,Xerez,1-0,0-0
+2010-01-03,Getafe,Valladolid,1-0,0-0
+2010-01-03,Mallorca,Ath Bilbao,2-0,0-0
+2010-01-03,Osasuna,Real Madrid,0-0,0-0
+2010-01-03,Santander,Tenerife,2-0,0-0
+2010-01-03,Sp Gijon,Malaga,2-2,1-1
+2010-01-03,Zaragoza,La Coruna,0-0,0-0
+2010-01-09,Sevilla,Santander,1-2,0-2
+2010-01-09,Valladolid,Ath Madrid,0-4,0-2
+2010-01-09,Villarreal,Almeria,1-1,1-0
+2010-01-10,Espanol,Zaragoza,2-1,1-1
+2010-01-10,La Coruna,Osasuna,1-0,0-0
+2010-01-10,Malaga,Ath Bilbao,1-1,0-0
+2010-01-10,Real Madrid,Mallorca,2-0,1-0
+2010-01-10,Sp Gijon,Getafe,1-0,1-0
+2010-01-10,Tenerife,Barcelona,0-5,0-3
+2010-01-10,Xerez,Valencia,1-3,1-2
+2010-01-16,Ath Bilbao,Real Madrid,1-0,1-0
+2010-01-16,Barcelona,Sevilla,4-0,0-0
+2010-01-16,Osasuna,Espanol,2-0,2-0
+2010-01-17,Almeria,Tenerife,1-1,0-1
+2010-01-17,Ath Madrid,Sp Gijon,3-2,1-1
+2010-01-17,Malaga,Getafe,1-0,0-0
+2010-01-17,Mallorca,La Coruna,2-0,0-0
+2010-01-17,Santander,Valladolid,1-1,0-1
+2010-01-17,Valencia,Villarreal,4-1,2-0
+2010-01-17,Zaragoza,Xerez,0-0,0-0
+2010-01-23,La Coruna,Ath Bilbao,3-1,0-0
+2010-01-23,Sevilla,Almeria,1-0,1-0
+2010-01-23,Valladolid,Barcelona,0-3,0-2
+2010-01-24,Espanol,Mallorca,1-1,0-0
+2010-01-24,Getafe,Ath Madrid,1-0,1-0
+2010-01-24,Real Madrid,Malaga,2-0,2-0
+2010-01-24,Sp Gijon,Santander,0-1,0-1
+2010-01-24,Tenerife,Valencia,0-0,0-0
+2010-01-24,Villarreal,Zaragoza,4-2,3-0
+2010-01-24,Xerez,Osasuna,1-2,1-1
+2010-01-30,Espanol,Ath Bilbao,1-0,0-0
+2010-01-30,La Coruna,Real Madrid,1-3,0-2
+2010-01-30,Sp Gijon,Barcelona,0-1,0-1
+2010-01-31,Ath Madrid,Malaga,0-2,0-1
+2010-01-31,Getafe,Santander,0-0,0-0
+2010-01-31,Sevilla,Valencia,2-1,1-0
+2010-01-31,Tenerife,Zaragoza,1-3,0-0
+2010-01-31,Valladolid,Almeria,1-1,0-1
+2010-01-31,Villarreal,Osasuna,0-2,0-1
+2010-01-31,Xerez,Mallorca,2-1,0-1
+2010-02-06,Barcelona,Getafe,2-1,1-0
+2010-02-06,Real Madrid,Espanol,3-0,2-0
+2010-02-06,Valencia,Valladolid,2-0,2-0
+2010-02-07,Almeria,Sp Gijon,3-1,2-1
+2010-02-07,Ath Bilbao,Xerez,3-2,1-2
+2010-02-07,Malaga,La Coruna,0-0,0-0
+2010-02-07,Mallorca,Villarreal,1-0,0-0
+2010-02-07,Osasuna,Tenerife,1-0,0-0
+2010-02-07,Santander,Ath Madrid,1-1,1-1
+2010-02-07,Zaragoza,Sevilla,2-1,2-1
+2010-02-13,Sp Gijon,Valencia,1-1,1-0
+2010-02-13,Villarreal,Ath Bilbao,2-1,2-1
+2010-02-13,Xerez,Real Madrid,0-3,0-0
+2010-02-14,Ath Madrid,Barcelona,2-1,2-1
+2010-02-14,Espanol,La Coruna,2-0,1-0
+2010-02-14,Getafe,Almeria,2-2,0-0
+2010-02-14,Santander,Malaga,0-3,0-2
+2010-02-14,Sevilla,Osasuna,1-0,1-0
+2010-02-14,Valladolid,Zaragoza,1-1,1-1
+2010-02-15,Tenerife,Mallorca,1-0,1-0
+2010-02-20,Barcelona,Santander,4-0,3-0
+2010-02-20,La Coruna,Xerez,2-1,2-1
+2010-02-20,Mallorca,Sevilla,1-3,1-1
+2010-02-21,Almeria,Ath Madrid,1-0,0-0
+2010-02-21,Ath Bilbao,Tenerife,4-1,2-0
+2010-02-21,Malaga,Espanol,2-1,1-1
+2010-02-21,Osasuna,Valladolid,1-1,0-0
+2010-02-21,Real Madrid,Villarreal,6-2,2-1
+2010-02-21,Zaragoza,Sp Gijon,1-3,0-1
+2010-02-22,Valencia,Getafe,2-1,1-0
+2010-02-27,Barcelona,Malaga,2-1,0-0
+2010-02-27,Getafe,Zaragoza,0-2,0-2
+2010-02-27,Tenerife,Real Madrid,1-5,0-2
+2010-02-28,Ath Madrid,Valencia,4-1,1-1
+2010-02-28,Santander,Almeria,0-2,0-1
+2010-02-28,Sevilla,Ath Bilbao,0-0,0-0
+2010-02-28,Sp Gijon,Osasuna,3-2,1-1
+2010-02-28,Valladolid,Mallorca,1-2,0-0
+2010-02-28,Villarreal,La Coruna,1-0,1-0
+2010-02-28,Xerez,Espanol,1-1,0-1
+2010-03-06,Almeria,Barcelona,2-2,1-1
+2010-03-06,La Coruna,Tenerife,3-1,1-1
+2010-03-06,Real Madrid,Sevilla,3-2,0-1
+2010-03-07,Ath Bilbao,Valladolid,2-0,2-0
+2010-03-07,Espanol,Villarreal,0-0,0-0
+2010-03-07,Malaga,Xerez,2-4,1-1
+2010-03-07,Mallorca,Sp Gijon,3-0,1-0
+2010-03-07,Osasuna,Getafe,0-0,0-0
+2010-03-07,Zaragoza,Ath Madrid,1-1,1-0
+2010-03-08,Valencia,Santander,0-0,0-0
+2010-03-13,Getafe,Mallorca,3-0,1-0
+2010-03-13,Sevilla,La Coruna,1-1,1-1
+2010-03-13,Sp Gijon,Ath Bilbao,0-0,0-0
+2010-03-14,Almeria,Malaga,1-0,0-0
+2010-03-14,Barcelona,Valencia,3-0,0-0
+2010-03-14,Santander,Zaragoza,0-0,0-0
+2010-03-14,Tenerife,Espanol,4-1,1-0
+2010-03-14,Valladolid,Real Madrid,1-4,0-2
+2010-03-14,Villarreal,Xerez,2-0,1-0
+2010-03-15,Ath Madrid,Osasuna,1-0,0-0
+2010-03-20,Ath Bilbao,Getafe,2-2,1-1
+2010-03-20,Espanol,Sevilla,2-0,1-0
+2010-03-20,La Coruna,Valladolid,0-2,0-1
+2010-03-20,Real Madrid,Sp Gijon,3-1,0-0
+2010-03-20,Xerez,Tenerife,2-1,2-0
+2010-03-21,Malaga,Villarreal,2-0,0-0
+2010-03-21,Mallorca,Ath Madrid,4-1,2-1
+2010-03-21,Osasuna,Santander,1-3,1-1
+2010-03-21,Valencia,Almeria,2-0,0-0
+2010-03-21,Zaragoza,Barcelona,2-4,0-1
+2010-03-23,Sevilla,Xerez,1-1,0-0
+2010-03-23,Sp Gijon,La Coruna,2-1,1-0
+2010-03-24,Almeria,Zaragoza,1-0,0-0
+2010-03-24,Barcelona,Osasuna,2-0,0-0
+2010-03-24,Santander,Mallorca,0-0,0-0
+2010-03-24,Tenerife,Villarreal,2-2,0-1
+2010-03-24,Valencia,Malaga,1-0,1-0
+2010-03-24,Valladolid,Espanol,0-0,0-0
+2010-03-25,Ath Madrid,Ath Bilbao,2-0,0-0
+2010-03-25,Getafe,Real Madrid,2-4,1-4
+2010-03-27,Malaga,Tenerife,1-1,0-0
+2010-03-27,Mallorca,Barcelona,0-1,0-0
+2010-03-27,Zaragoza,Valencia,3-0,1-0
+2010-03-28,Espanol,Sp Gijon,0-0,0-0
+2010-03-28,La Coruna,Getafe,1-3,0-2
+2010-03-28,Osasuna,Almeria,1-0,1-0
+2010-03-28,Real Madrid,Ath Madrid,3-2,0-1
+2010-03-28,Villarreal,Sevilla,3-0,2-0
+2010-03-28,Xerez,Valladolid,3-0,2-0
+2010-03-29,Ath Bilbao,Santander,4-3,2-1
+2010-04-03,Barcelona,Ath Bilbao,4-1,2-0
+2010-04-03,Sevilla,Tenerife,3-0,2-0
+2010-04-03,Zaragoza,Malaga,2-0,1-0
+2010-04-04,Almeria,Mallorca,1-1,1-0
+2010-04-04,Ath Madrid,La Coruna,3-0,1-0
+2010-04-04,Getafe,Espanol,1-1,1-0
+2010-04-04,Santander,Real Madrid,0-2,0-1
+2010-04-04,Sp Gijon,Xerez,2-2,1-0
+2010-04-04,Valencia,Osasuna,3-0,0-0
+2010-04-04,Valladolid,Villarreal,0-2,0-1
+2010-04-10,Malaga,Sevilla,1-2,1-0
+2010-04-10,Real Madrid,Barcelona,0-2,0-1
+2010-04-10,Tenerife,Valladolid,0-0,0-0
+2010-04-10,Villarreal,Sp Gijon,1-0,1-0
+2010-04-10,Xerez,Getafe,0-1,0-0
+2010-04-11,Ath Bilbao,Almeria,4-1,2-0
+2010-04-11,Espanol,Ath Madrid,3-0,0-0
+2010-04-11,La Coruna,Santander,1-1,1-0
+2010-04-11,Mallorca,Valencia,3-2,2-0
+2010-04-11,Osasuna,Zaragoza,2-0,1-0
+2010-04-13,Getafe,Villarreal,3-0,0-0
+2010-04-13,Sp Gijon,Tenerife,0-2,0-0
+2010-04-13,Valladolid,Sevilla,2-1,1-0
+2010-04-14,Ath Madrid,Xerez,1-2,1-1
+2010-04-14,Barcelona,La Coruna,3-0,1-0
+2010-04-14,Osasuna,Malaga,2-2,1-1
+2010-04-14,Santander,Espanol,3-1,1-1
+2010-04-14,Zaragoza,Mallorca,1-1,1-1
+2010-04-15,Almeria,Real Madrid,1-2,1-1
+2010-04-15,Valencia,Ath Bilbao,2-0,1-0
+2010-04-17,Espanol,Barcelona,0-0,0-0
+2010-04-17,Sevilla,Sp Gijon,3-0,1-0
+2010-04-17,Villarreal,Ath Madrid,2-1,2-0
+2010-04-18,Ath Bilbao,Zaragoza,0-0,0-0
+2010-04-18,La Coruna,Almeria,0-0,0-0
+2010-04-18,Malaga,Valladolid,0-0,0-0
+2010-04-18,Real Madrid,Valencia,2-0,1-0
+2010-04-18,Tenerife,Getafe,3-2,1-1
+2010-04-18,Xerez,Santander,2-2,1-1
+2010-04-19,Mallorca,Osasuna,2-0,1-0
+2010-04-24,Barcelona,Xerez,3-1,2-1
+2010-04-24,Valencia,La Coruna,1-0,1-0
+2010-04-24,Zaragoza,Real Madrid,1-2,0-0
+2010-04-25,Almeria,Espanol,0-1,0-0
+2010-04-25,Ath Madrid,Tenerife,3-1,2-0
+2010-04-25,Getafe,Sevilla,4-3,1-2
+2010-04-25,Mallorca,Malaga,1-1,0-0
+2010-04-25,Santander,Villarreal,1-2,1-0
+2010-04-25,Sp Gijon,Valladolid,0-2,0-0
+2010-04-26,Osasuna,Ath Bilbao,0-0,0-0
+2010-05-01,Espanol,Valencia,0-2,0-0
+2010-05-01,La Coruna,Zaragoza,0-1,0-0
+2010-05-01,Malaga,Sp Gijon,1-1,0-1
+2010-05-01,Tenerife,Santander,2-1,1-0
+2010-05-01,Valladolid,Getafe,0-0,0-0
+2010-05-01,Villarreal,Barcelona,1-4,0-3
+2010-05-01,Xerez,Almeria,2-1,1-1
+2010-05-02,Ath Bilbao,Mallorca,1-3,1-1
+2010-05-02,Real Madrid,Osasuna,3-2,2-2
+2010-05-02,Sevilla,Ath Madrid,3-1,3-1
+2010-05-04,Almeria,Villarreal,4-2,3-0
+2010-05-04,Barcelona,Tenerife,4-1,1-1
+2010-05-04,Getafe,Sp Gijon,1-1,0-1
+2010-05-04,Valencia,Xerez,3-1,1-1
+2010-05-05,Ath Bilbao,Malaga,1-1,1-1
+2010-05-05,Ath Madrid,Valladolid,3-1,1-0
+2010-05-05,Mallorca,Real Madrid,1-4,1-1
+2010-05-05,Osasuna,La Coruna,3-1,3-1
+2010-05-05,Santander,Sevilla,1-5,0-2
+2010-05-05,Zaragoza,Espanol,1-0,0-0
+2010-05-08,Espanol,Osasuna,2-1,0-1
+2010-05-08,Getafe,Malaga,2-1,1-0
+2010-05-08,La Coruna,Mallorca,1-0,0-0
+2010-05-08,Real Madrid,Ath Bilbao,5-1,1-1
+2010-05-08,Sevilla,Barcelona,2-3,0-2
+2010-05-08,Sp Gijon,Ath Madrid,1-1,0-0
+2010-05-08,Tenerife,Almeria,2-2,1-1
+2010-05-08,Valladolid,Santander,2-1,0-1
+2010-05-08,Villarreal,Valencia,2-0,2-0
+2010-05-08,Xerez,Zaragoza,3-2,1-0
+2010-05-15,Almeria,Sevilla,2-3,1-1
+2010-05-15,Ath Bilbao,La Coruna,2-0,1-0
+2010-05-15,Ath Madrid,Getafe,0-3,0-1
+2010-05-15,Mallorca,Espanol,2-0,1-0
+2010-05-15,Zaragoza,Villarreal,3-3,3-1
+2010-05-16,Barcelona,Valladolid,4-0,2-0
+2010-05-16,Malaga,Real Madrid,1-1,1-0
+2010-05-16,Osasuna,Xerez,1-1,0-0
+2010-05-16,Santander,Sp Gijon,2-0,1-0
+2010-05-16,Valencia,Tenerife,1-0,0-0

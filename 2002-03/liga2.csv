@@ -1,462 +1,463 @@
-31/08/02,Almeria,Salamanca,1,2,1,0
-31/08/02,Elche,Xerez,0,1,0,0
-31/08/02,Getafe,Levante,2,2,0,2
-31/08/02,Las Palmas,Ferrol,2,0,2,0
-31/08/02,Terrassa,Albacete,1,1,1,1
-01/09/02,Badajoz,Leganes,0,0,0,0
-01/09/02,Compostela,Tenerife,1,1,1,0
-01/09/02,Eibar,Poli Ejido,0,0,0,0
-01/09/02,Numancia,Sp Gijon,1,0,1,0
-01/09/02,Oviedo,Murcia,0,1,0,0
-01/09/02,Zaragoza,Cordoba,0,0,0,0
-14/09/02,Cordoba,Almeria,3,0,1,0
-14/09/02,Ferrol,Compostela,1,1,1,1
-14/09/02,Tenerife,Oviedo,1,1,0,1
-15/09/02,Albacete,Badajoz,1,0,1,0
-15/09/02,Leganes,Numancia,2,1,0,0
-15/09/02,Levante,Zaragoza,3,2,0,0
-15/09/02,Murcia,Getafe,2,0,1,0
-15/09/02,Poli Ejido,Terrassa,1,2,0,1
-15/09/02,Salamanca,Eibar,0,0,0,0
-15/09/02,Sp Gijon,Elche,0,0,0,0
-15/09/02,Xerez,Las Palmas,2,2,0,1
-21/09/02,Almeria,Levante,2,2,2,0
-21/09/02,Eibar,Cordoba,1,0,0,0
-21/09/02,Las Palmas,Compostela,1,1,0,1
-21/09/02,Numancia,Albacete,1,2,0,1
-21/09/02,Oviedo,Ferrol,1,2,0,0
-22/09/02,Badajoz,Poli Ejido,0,2,0,1
-22/09/02,Elche,Leganes,1,1,1,1
-22/09/02,Getafe,Tenerife,2,1,1,1
-22/09/02,Terrassa,Salamanca,1,0,1,0
-22/09/02,Xerez,Sp Gijon,1,0,0,0
-22/09/02,Zaragoza,Murcia,1,0,0,0
-28/09/02,Compostela,Oviedo,0,1,0,0
-28/09/02,Cordoba,Terrassa,0,2,0,0
-28/09/02,Leganes,Xerez,1,2,1,2
-28/09/02,Levante,Eibar,3,1,1,1
-29/09/02,Albacete,Elche,1,1,0,1
-29/09/02,Ferrol,Getafe,2,1,1,0
-29/09/02,Murcia,Almeria,3,0,2,0
-29/09/02,Poli Ejido,Numancia,3,2,1,2
-29/09/02,Salamanca,Badajoz,0,1,0,0
-29/09/02,Sp Gijon,Las Palmas,0,0,0,0
-29/09/02,Tenerife,Zaragoza,2,0,0,0
-05/10/02,Getafe,Compostela,2,0,0,0
-05/10/02,Las Palmas,Oviedo,2,0,1,0
-05/10/02,Xerez,Albacete,1,0,0,0
-06/10/02,Almeria,Tenerife,1,1,1,0
-06/10/02,Badajoz,Cordoba,2,0,2,0
-06/10/02,Eibar,Murcia,1,1,0,0
-06/10/02,Elche,Poli Ejido,3,0,0,0
-06/10/02,Numancia,Salamanca,1,0,1,0
-06/10/02,Sp Gijon,Leganes,1,1,1,1
-06/10/02,Terrassa,Levante,1,1,1,0
-06/10/02,Zaragoza,Ferrol,2,2,2,1
-12/10/02,Leganes,Las Palmas,1,1,0,1
-12/10/02,Poli Ejido,Xerez,2,0,1,0
-13/10/02,Albacete,Sp Gijon,4,0,1,0
-13/10/02,Compostela,Zaragoza,0,0,0,0
-13/10/02,Cordoba,Numancia,1,1,0,1
-13/10/02,Ferrol,Almeria,1,1,0,1
-13/10/02,Levante,Badajoz,4,0,3,0
-13/10/02,Murcia,Terrassa,0,0,0,0
-13/10/02,Oviedo,Getafe,3,4,3,2
-13/10/02,Salamanca,Elche,1,3,1,0
-13/10/02,Tenerife,Eibar,1,0,1,0
-19/10/02,Eibar,Ferrol,1,0,1,0
-19/10/02,Elche,Cordoba,0,0,0,0
-19/10/02,Las Palmas,Getafe,2,1,2,1
-20/10/02,Almeria,Compostela,2,1,0,1
-20/10/02,Badajoz,Murcia,1,0,1,0
-20/10/02,Leganes,Albacete,1,1,0,0
-20/10/02,Numancia,Levante,0,2,0,1
-20/10/02,Sp Gijon,Poli Ejido,1,1,0,0
-20/10/02,Terrassa,Tenerife,1,1,1,1
-20/10/02,Xerez,Salamanca,0,1,0,1
-20/10/02,Zaragoza,Oviedo,3,1,0,0
-26/10/02,Levante,Elche,2,2,1,0
-26/10/02,Poli Ejido,Leganes,1,0,0,0
-27/10/02,Albacete,Las Palmas,2,1,1,0
-27/10/02,Compostela,Eibar,1,0,1,0
-27/10/02,Cordoba,Xerez,1,3,1,2
-27/10/02,Ferrol,Terrassa,1,1,0,1
-27/10/02,Getafe,Zaragoza,1,2,0,0
-27/10/02,Murcia,Numancia,2,1,0,0
-27/10/02,Oviedo,Almeria,1,1,1,0
-27/10/02,Salamanca,Sp Gijon,0,0,0,0
-27/10/02,Tenerife,Badajoz,3,3,0,1
-02/11/02,Albacete,Poli Ejido,1,1,1,1
-02/11/02,Badajoz,Ferrol,1,0,1,0
-02/11/02,Eibar,Oviedo,2,1,2,1
-02/11/02,Las Palmas,Zaragoza,0,1,0,0
-02/11/02,Terrassa,Compostela,2,1,1,1
-02/11/02,Xerez,Levante,2,1,1,1
-03/11/02,Almeria,Getafe,1,1,1,0
-03/11/02,Elche,Murcia,0,2,0,0
-03/11/02,Leganes,Salamanca,0,2,0,1
-03/11/02,Numancia,Tenerife,1,0,0,0
-03/11/02,Sp Gijon,Cordoba,0,0,0,0
-09/11/02,Cordoba,Leganes,1,0,0,0
-09/11/02,Tenerife,Elche,0,0,0,0
-10/11/02,Compostela,Badajoz,3,0,0,0
-10/11/02,Ferrol,Numancia,1,0,0,0
-10/11/02,Getafe,Eibar,4,2,1,1
-10/11/02,Levante,Sp Gijon,2,1,1,0
-10/11/02,Murcia,Xerez,1,1,0,1
-10/11/02,Oviedo,Terrassa,2,2,1,0
-10/11/02,Poli Ejido,Las Palmas,0,0,0,0
-10/11/02,Salamanca,Albacete,0,1,0,0
-10/11/02,Zaragoza,Almeria,1,0,0,0
-16/11/02,Albacete,Cordoba,0,0,0,0
-16/11/02,Terrassa,Getafe,1,1,1,1
-17/11/02,Badajoz,Oviedo,0,1,0,0
-17/11/02,Eibar,Zaragoza,0,0,0,0
-17/11/02,Elche,Ferrol,1,2,1,1
-17/11/02,Las Palmas,Almeria,2,2,2,1
-17/11/02,Leganes,Levante,0,1,0,0
-17/11/02,Numancia,Compostela,2,2,2,2
-17/11/02,Poli Ejido,Salamanca,1,1,1,1
-17/11/02,Sp Gijon,Murcia,1,0,0,0
-17/11/02,Xerez,Tenerife,1,1,1,1
-23/11/02,Almeria,Eibar,2,1,0,0
-23/11/02,Compostela,Elche,0,1,0,0
-24/11/02,Cordoba,Poli Ejido,0,1,0,0
-24/11/02,Ferrol,Xerez,2,1,1,0
-24/11/02,Getafe,Badajoz,0,1,0,0
-24/11/02,Levante,Albacete,2,2,1,1
-24/11/02,Murcia,Leganes,0,1,0,0
-24/11/02,Oviedo,Numancia,1,1,1,0
-24/11/02,Salamanca,Las Palmas,2,1,0,1
-24/11/02,Tenerife,Sp Gijon,2,2,1,0
-24/11/02,Zaragoza,Terrassa,1,0,1,0
-30/11/02,Las Palmas,Eibar,0,1,0,1
-30/11/02,Leganes,Tenerife,1,1,1,1
-30/11/02,Sp Gijon,Ferrol,3,1,1,0
-01/12/02,Albacete,Murcia,0,0,0,0
-01/12/02,Badajoz,Zaragoza,0,4,0,3
-01/12/02,Elche,Oviedo,2,1,1,1
-01/12/02,Numancia,Getafe,1,3,0,1
-01/12/02,Poli Ejido,Levante,0,0,0,0
-01/12/02,Salamanca,Cordoba,2,0,1,0
-01/12/02,Terrassa,Almeria,0,2,0,0
-01/12/02,Xerez,Compostela,0,1,0,1
-07/12/02,Eibar,Terrassa,1,1,1,0
-07/12/02,Oviedo,Xerez,1,2,1,0
-07/12/02,Tenerife,Albacete,1,1,1,1
-08/12/02,Almeria,Badajoz,2,1,1,0
-08/12/02,Compostela,Sp Gijon,2,3,1,2
-08/12/02,Cordoba,Las Palmas,2,2,1,1
-08/12/02,Ferrol,Leganes,1,1,0,0
-08/12/02,Getafe,Elche,1,1,0,1
-08/12/02,Levante,Salamanca,0,1,0,0
-08/12/02,Murcia,Poli Ejido,3,0,1,0
-08/12/02,Zaragoza,Numancia,1,0,1,0
-14/12/02,Albacete,Ferrol,2,0,2,0
-14/12/02,Las Palmas,Terrassa,2,0,1,0
-14/12/02,Poli Ejido,Tenerife,0,1,0,0
-15/12/02,Badajoz,Eibar,1,1,0,0
-15/12/02,Cordoba,Levante,1,2,0,0
-15/12/02,Elche,Zaragoza,4,0,1,0
-15/12/02,Leganes,Compostela,0,0,0,0
-15/12/02,Numancia,Almeria,0,0,0,0
-15/12/02,Salamanca,Murcia,0,0,0,0
-15/12/02,Sp Gijon,Oviedo,1,0,1,0
-15/12/02,Xerez,Getafe,0,0,0,0
-21/12/02,Almeria,Elche,0,3,0,1
-21/12/02,Compostela,Albacete,3,3,1,2
-21/12/02,Ferrol,Poli Ejido,1,1,0,0
-21/12/02,Murcia,Cordoba,1,0,1,0
-21/12/02,Oviedo,Leganes,1,1,0,1
-21/12/02,Tenerife,Salamanca,0,0,0,0
-21/12/02,Terrassa,Badajoz,1,0,1,0
-22/12/02,Eibar,Numancia,1,2,1,0
-22/12/02,Getafe,Sp Gijon,0,1,0,1
-22/12/02,Levante,Las Palmas,1,1,0,0
-22/12/02,Zaragoza,Xerez,1,0,0,0
-04/01/03,Cordoba,Tenerife,1,1,0,0
-04/01/03,Elche,Eibar,0,0,0,0
-04/01/03,Las Palmas,Badajoz,2,0,0,0
-04/01/03,Numancia,Terrassa,1,1,0,0
-04/01/03,Sp Gijon,Zaragoza,1,1,0,0
-04/01/03,Xerez,Almeria,1,2,0,1
-05/01/03,Albacete,Oviedo,0,1,0,0
-05/01/03,Leganes,Getafe,2,1,1,0
-05/01/03,Levante,Murcia,0,0,0,0
-05/01/03,Poli Ejido,Compostela,0,2,0,2
-05/01/03,Salamanca,Ferrol,0,0,0,0
-11/01/03,Almeria,Sp Gijon,1,0,1,0
-11/01/03,Ferrol,Cordoba,0,0,0,0
-11/01/03,Murcia,Las Palmas,6,1,2,0
-11/01/03,Oviedo,Poli Ejido,0,3,0,0
-11/01/03,Terrassa,Elche,1,1,1,1
-12/01/03,Badajoz,Numancia,1,1,1,0
-12/01/03,Compostela,Salamanca,0,0,0,0
-12/01/03,Eibar,Xerez,1,0,0,0
-12/01/03,Getafe,Albacete,1,2,0,0
-12/01/03,Tenerife,Levante,0,0,0,0
-12/01/03,Zaragoza,Leganes,2,2,1,0
-18/01/03,Albacete,Zaragoza,0,0,0,0
-18/01/03,Las Palmas,Numancia,0,0,0,0
-18/01/03,Poli Ejido,Getafe,1,1,0,1
-18/01/03,Xerez,Terrassa,2,2,1,2
-19/01/03,Cordoba,Compostela,0,0,0,0
-19/01/03,Elche,Badajoz,0,1,0,0
-19/01/03,Leganes,Almeria,5,2,3,1
-19/01/03,Levante,Ferrol,1,0,0,0
-19/01/03,Murcia,Tenerife,2,0,2,0
-19/01/03,Salamanca,Oviedo,0,0,0,0
-19/01/03,Sp Gijon,Eibar,1,0,0,0
-25/01/03,Las Palmas,Tenerife,1,0,0,0
-26/01/03,Almeria,Albacete,1,1,0,0
-26/01/03,Badajoz,Xerez,0,1,0,1
-26/01/03,Compostela,Levante,3,1,2,0
-26/01/03,Eibar,Leganes,0,1,0,1
-26/01/03,Ferrol,Murcia,0,3,0,2
-26/01/03,Getafe,Salamanca,1,0,0,0
-26/01/03,Numancia,Elche,1,0,0,0
-26/01/03,Oviedo,Cordoba,1,0,0,0
-26/01/03,Terrassa,Sp Gijon,0,0,0,0
-26/01/03,Zaragoza,Poli Ejido,0,0,0,0
-01/02/03,Leganes,Terrassa,1,1,1,1
-01/02/03,Levante,Oviedo,1,0,1,0
-01/02/03,Tenerife,Ferrol,4,0,0,0
-02/02/03,Albacete,Eibar,1,1,1,1
-02/02/03,Cordoba,Getafe,3,0,2,0
-02/02/03,Elche,Las Palmas,3,2,1,2
-02/02/03,Murcia,Compostela,2,0,1,0
-02/02/03,Poli Ejido,Almeria,2,0,2,0
-02/02/03,Salamanca,Zaragoza,0,1,0,0
-02/02/03,Sp Gijon,Badajoz,4,0,2,0
-02/02/03,Xerez,Numancia,2,2,1,2
-08/02/03,Cordoba,Zaragoza,2,1,0,0
-08/02/03,Ferrol,Las Palmas,1,2,1,1
-09/02/03,Albacete,Terrassa,1,0,1,0
-09/02/03,Leganes,Badajoz,1,3,0,2
-09/02/03,Levante,Getafe,1,0,0,0
-09/02/03,Murcia,Oviedo,0,1,0,0
-09/02/03,Poli Ejido,Eibar,0,0,0,0
-09/02/03,Salamanca,Almeria,2,1,2,1
-09/02/03,Sp Gijon,Numancia,1,2,1,2
-09/02/03,Tenerife,Compostela,5,1,1,1
-09/02/03,Xerez,Elche,2,1,1,0
-15/02/03,Almeria,Cordoba,1,3,0,1
-15/02/03,Compostela,Ferrol,1,1,1,1
-15/02/03,Getafe,Murcia,3,1,1,0
-15/02/03,Las Palmas,Xerez,4,0,2,0
-15/02/03,Oviedo,Tenerife,0,2,0,2
-16/02/03,Badajoz,Albacete,0,3,0,1
-16/02/03,Eibar,Salamanca,1,1,0,1
-16/02/03,Elche,Sp Gijon,1,1,0,1
-16/02/03,Numancia,Leganes,2,1,2,1
-16/02/03,Terrassa,Poli Ejido,2,0,1,0
-16/02/03,Zaragoza,Levante,1,0,1,0
-22/02/03,Sp Gijon,Xerez,1,1,0,0
-23/02/03,Albacete,Numancia,3,1,1,1
-23/02/03,Compostela,Las Palmas,0,3,0,0
-23/02/03,Cordoba,Eibar,0,0,0,0
-23/02/03,Ferrol,Oviedo,1,1,0,1
-23/02/03,Leganes,Elche,2,2,1,1
-23/02/03,Levante,Almeria,2,1,1,0
-23/02/03,Murcia,Zaragoza,2,0,1,0
-23/02/03,Poli Ejido,Badajoz,1,0,1,0
-23/02/03,Salamanca,Terrassa,1,2,0,1
-23/02/03,Tenerife,Getafe,1,0,0,0
-01/03/03,Badajoz,Salamanca,1,1,0,0
-01/03/03,Zaragoza,Tenerife,1,3,0,3
-02/03/03,Almeria,Murcia,1,1,0,0
-02/03/03,Eibar,Levante,1,1,0,0
-02/03/03,Elche,Albacete,1,2,0,1
-02/03/03,Getafe,Ferrol,3,1,1,1
-02/03/03,Las Palmas,Sp Gijon,2,2,1,1
-02/03/03,Numancia,Poli Ejido,2,2,1,2
-02/03/03,Oviedo,Compostela,1,1,0,1
-02/03/03,Terrassa,Cordoba,0,4,0,2
-02/03/03,Xerez,Leganes,2,2,0,1
-08/03/03,Ferrol,Zaragoza,1,2,0,1
-08/03/03,Levante,Terrassa,1,0,0,0
-08/03/03,Tenerife,Almeria,1,1,0,1
-09/03/03,Albacete,Xerez,0,0,0,0
-09/03/03,Compostela,Getafe,1,3,0,1
-09/03/03,Cordoba,Badajoz,0,0,0,0
-09/03/03,Leganes,Sp Gijon,0,2,0,0
-09/03/03,Murcia,Eibar,4,2,2,0
-09/03/03,Oviedo,Las Palmas,0,0,0,0
-09/03/03,Poli Ejido,Elche,2,0,1,0
-09/03/03,Salamanca,Numancia,0,0,0,0
-15/03/03,Las Palmas,Leganes,1,4,1,3
-15/03/03,Terrassa,Murcia,0,1,0,0
-16/03/03,Almeria,Ferrol,3,2,3,2
-16/03/03,Badajoz,Levante,1,1,0,1
-16/03/03,Eibar,Tenerife,1,1,1,0
-16/03/03,Elche,Salamanca,2,1,2,0
-16/03/03,Getafe,Oviedo,1,1,1,0
-16/03/03,Numancia,Cordoba,0,0,0,0
-16/03/03,Sp Gijon,Albacete,0,1,0,0
-16/03/03,Xerez,Poli Ejido,2,1,0,1
-16/03/03,Zaragoza,Compostela,0,1,0,0
-22/03/03,Ferrol,Eibar,0,1,0,0
-22/03/03,Getafe,Las Palmas,0,0,0,0
-22/03/03,Poli Ejido,Sp Gijon,1,0,1,0
-23/03/03,Albacete,Leganes,2,0,1,0
-23/03/03,Compostela,Almeria,4,1,2,0
-23/03/03,Cordoba,Elche,1,0,1,0
-23/03/03,Levante,Numancia,0,0,0,0
-23/03/03,Murcia,Badajoz,2,0,0,0
-23/03/03,Oviedo,Zaragoza,0,2,0,1
-23/03/03,Salamanca,Xerez,1,1,1,1
-23/03/03,Tenerife,Terrassa,1,1,0,1
-29/03/03,Eibar,Compostela,2,1,1,0
-29/03/03,Elche,Levante,0,2,0,1
-29/03/03,Las Palmas,Albacete,1,1,0,1
-29/03/03,Xerez,Cordoba,1,0,1,0
-30/03/03,Almeria,Oviedo,1,1,1,1
-30/03/03,Badajoz,Tenerife,2,1,2,0
-30/03/03,Leganes,Poli Ejido,2,0,1,0
-30/03/03,Numancia,Murcia,0,2,0,2
-30/03/03,Sp Gijon,Salamanca,1,1,0,1
-30/03/03,Terrassa,Ferrol,2,1,2,1
-30/03/03,Zaragoza,Getafe,3,1,1,1
-05/04/03,Murcia,Elche,1,0,1,0
-06/04/03,Compostela,Terrassa,2,1,0,0
-06/04/03,Cordoba,Sp Gijon,1,1,1,0
-06/04/03,Ferrol,Badajoz,2,0,1,0
-06/04/03,Getafe,Almeria,1,1,0,1
-06/04/03,Levante,Xerez,0,0,0,0
-06/04/03,Oviedo,Eibar,1,2,0,1
-06/04/03,Poli Ejido,Albacete,0,1,0,0
-06/04/03,Salamanca,Leganes,1,1,1,0
-06/04/03,Tenerife,Numancia,2,0,1,0
-06/04/03,Zaragoza,Las Palmas,1,2,0,0
-12/04/03,Elche,Tenerife,1,0,0,0
-12/04/03,Las Palmas,Poli Ejido,2,0,2,0
-12/04/03,Terrassa,Oviedo,2,2,0,0
-13/04/03,Albacete,Salamanca,0,0,0,0
-13/04/03,Almeria,Zaragoza,0,1,0,1
-13/04/03,Badajoz,Compostela,0,2,0,1
-13/04/03,Eibar,Getafe,0,0,0,0
-13/04/03,Leganes,Cordoba,0,3,0,1
-13/04/03,Numancia,Ferrol,4,2,1,0
-13/04/03,Sp Gijon,Levante,3,2,1,0
-13/04/03,Xerez,Murcia,2,0,0,0
-19/04/03,Almeria,Las Palmas,1,0,1,0
-20/04/03,Compostela,Numancia,1,0,0,0
-20/04/03,Cordoba,Albacete,0,2,0,0
-20/04/03,Ferrol,Elche,1,0,1,0
-20/04/03,Getafe,Terrassa,2,1,0,0
-20/04/03,Levante,Leganes,4,0,0,0
-20/04/03,Murcia,Sp Gijon,0,0,0,0
-20/04/03,Oviedo,Badajoz,2,1,0,0
-20/04/03,Salamanca,Poli Ejido,2,0,2,0
-20/04/03,Tenerife,Xerez,1,3,1,2
-20/04/03,Zaragoza,Eibar,2,0,0,0
-26/04/03,Las Palmas,Salamanca,2,1,1,1
-26/04/03,Poli Ejido,Cordoba,2,1,1,1
-26/04/03,Sp Gijon,Tenerife,2,1,1,0
-26/04/03,Terrassa,Zaragoza,0,2,0,1
-27/04/03,Albacete,Levante,2,2,0,1
-27/04/03,Badajoz,Getafe,1,2,1,0
-27/04/03,Eibar,Almeria,2,0,0,0
-27/04/03,Elche,Compostela,3,1,1,1
-27/04/03,Leganes,Murcia,0,1,0,0
-27/04/03,Numancia,Oviedo,4,2,1,0
-27/04/03,Xerez,Ferrol,1,1,0,0
-03/05/03,Compostela,Xerez,0,1,0,1
-03/05/03,Eibar,Las Palmas,0,0,0,0
-04/05/03,Almeria,Terrassa,3,0,1,0
-04/05/03,Cordoba,Salamanca,0,2,0,1
-04/05/03,Ferrol,Sp Gijon,2,1,1,1
-04/05/03,Getafe,Numancia,1,1,0,0
-04/05/03,Levante,Poli Ejido,2,2,1,0
-04/05/03,Murcia,Albacete,0,0,0,0
-04/05/03,Oviedo,Elche,2,1,1,1
-04/05/03,Tenerife,Leganes,1,1,1,1
-04/05/03,Zaragoza,Badajoz,2,0,1,0
-10/05/03,Albacete,Tenerife,1,0,0,0
-10/05/03,Las Palmas,Cordoba,0,1,0,1
-10/05/03,Sp Gijon,Compostela,1,3,1,1
-10/05/03,Xerez,Oviedo,4,1,1,0
-11/05/03,Badajoz,Almeria,4,3,0,1
-11/05/03,Elche,Getafe,1,1,1,0
-11/05/03,Leganes,Ferrol,1,0,1,0
-11/05/03,Numancia,Zaragoza,2,2,1,2
-11/05/03,Poli Ejido,Murcia,0,1,0,1
-11/05/03,Salamanca,Levante,1,1,0,1
-11/05/03,Terrassa,Eibar,1,0,1,0
-17/05/03,Ferrol,Albacete,2,1,1,0
-17/05/03,Levante,Cordoba,1,2,1,1
-18/05/03,Almeria,Numancia,1,2,0,1
-18/05/03,Compostela,Leganes,2,0,1,0
-18/05/03,Eibar,Badajoz,1,2,1,1
-18/05/03,Getafe,Xerez,2,1,1,0
-18/05/03,Murcia,Salamanca,1,1,1,0
-18/05/03,Oviedo,Sp Gijon,2,1,1,1
-18/05/03,Tenerife,Poli Ejido,4,0,2,0
-18/05/03,Terrassa,Las Palmas,0,1,0,0
-18/05/03,Zaragoza,Elche,5,2,1,1
-24/05/03,Albacete,Compostela,1,1,0,0
-24/05/03,Cordoba,Murcia,0,2,0,1
-24/05/03,Elche,Almeria,0,2,0,1
-24/05/03,Las Palmas,Levante,1,1,1,0
-24/05/03,Poli Ejido,Ferrol,1,1,0,1
-25/05/03,Badajoz,Terrassa,1,1,0,0
-25/05/03,Leganes,Oviedo,0,1,0,0
-25/05/03,Numancia,Eibar,1,0,1,0
-25/05/03,Salamanca,Tenerife,2,1,0,1
-25/05/03,Sp Gijon,Getafe,0,0,0,0
-25/05/03,Xerez,Zaragoza,1,3,0,1
-31/05/03,Almeria,Xerez,6,0,3,0
-31/05/03,Badajoz,Las Palmas,0,1,0,0
-31/05/03,Getafe,Leganes,0,3,0,0
-31/05/03,Oviedo,Albacete,0,0,0,0
-31/05/03,Zaragoza,Sp Gijon,1,1,1,0
-01/06/03,Compostela,Poli Ejido,2,2,2,1
-01/06/03,Eibar,Elche,0,1,0,1
-01/06/03,Ferrol,Salamanca,1,1,1,0
-01/06/03,Murcia,Levante,1,0,0,0
-01/06/03,Tenerife,Cordoba,2,0,1,0
-01/06/03,Terrassa,Numancia,1,1,0,1
-07/06/03,Elche,Terrassa,2,2,0,1
-07/06/03,Las Palmas,Murcia,1,4,0,2
-07/06/03,Leganes,Zaragoza,2,0,1,0
-07/06/03,Sp Gijon,Almeria,2,2,1,1
-08/06/03,Albacete,Getafe,3,1,1,1
-08/06/03,Cordoba,Ferrol,1,2,0,1
-08/06/03,Levante,Tenerife,2,1,1,1
-08/06/03,Numancia,Badajoz,4,0,2,0
-08/06/03,Poli Ejido,Oviedo,1,0,1,0
-08/06/03,Salamanca,Compostela,4,2,1,2
-08/06/03,Xerez,Eibar,1,1,1,1
-14/06/03,Almeria,Leganes,0,2,0,2
-14/06/03,Eibar,Sp Gijon,1,1,0,0
-14/06/03,Ferrol,Levante,1,0,0,0
-14/06/03,Getafe,Poli Ejido,2,0,1,0
-14/06/03,Numancia,Las Palmas,0,1,0,1
-14/06/03,Tenerife,Murcia,2,1,1,0
-15/06/03,Badajoz,Elche,2,3,1,1
-15/06/03,Compostela,Cordoba,1,2,1,0
-15/06/03,Oviedo,Salamanca,0,3,0,1
-15/06/03,Terrassa,Xerez,2,0,1,0
-15/06/03,Zaragoza,Albacete,1,1,0,0
-21/06/03,Albacete,Almeria,0,1,0,1
-21/06/03,Cordoba,Oviedo,1,0,0,0
-21/06/03,Elche,Numancia,1,1,0,0
-21/06/03,Leganes,Eibar,0,1,0,1
-21/06/03,Levante,Compostela,3,4,2,0
-21/06/03,Murcia,Ferrol,5,0,3,0
-21/06/03,Poli Ejido,Zaragoza,0,0,0,0
-21/06/03,Salamanca,Getafe,3,1,1,0
-21/06/03,Sp Gijon,Terrassa,0,0,0,0
-21/06/03,Tenerife,Las Palmas,0,0,0,0
-21/06/03,Xerez,Badajoz,5,3,3,1
-28/06/03,Badajoz,Sp Gijon,0,3,0,1
-28/06/03,Numancia,Xerez,1,4,1,3
-28/06/03,Oviedo,Levante,1,2,0,1
-28/06/03,Zaragoza,Salamanca,1,3,1,1
-29/06/03,Almeria,Poli Ejido,1,1,0,0
-29/06/03,Compostela,Murcia,1,0,0,0
-29/06/03,Eibar,Albacete,2,0,0,0
-29/06/03,Ferrol,Tenerife,0,1,0,0
-29/06/03,Getafe,Cordoba,1,1,0,1
-29/06/03,Las Palmas,Elche,4,1,2,0
-29/06/03,Terrassa,Leganes,2,0,1,0
+Date,Team 1,Team 2,FT,HT
+2002-08-31,Almeria,Salamanca,1-2,1-0
+2002-08-31,Elche,Xerez,0-1,0-0
+2002-08-31,Getafe,Levante,2-2,0-2
+2002-08-31,Las Palmas,Ferrol,2-0,2-0
+2002-08-31,Terrassa,Albacete,1-1,1-1
+2002-09-01,Badajoz,Leganes,0-0,0-0
+2002-09-01,Compostela,Tenerife,1-1,1-0
+2002-09-01,Eibar,Poli Ejido,0-0,0-0
+2002-09-01,Numancia,Sp Gijon,1-0,1-0
+2002-09-01,Oviedo,Murcia,0-1,0-0
+2002-09-01,Zaragoza,Cordoba,0-0,0-0
+2002-09-14,Cordoba,Almeria,3-0,1-0
+2002-09-14,Ferrol,Compostela,1-1,1-1
+2002-09-14,Tenerife,Oviedo,1-1,0-1
+2002-09-15,Albacete,Badajoz,1-0,1-0
+2002-09-15,Leganes,Numancia,2-1,0-0
+2002-09-15,Levante,Zaragoza,3-2,0-0
+2002-09-15,Murcia,Getafe,2-0,1-0
+2002-09-15,Poli Ejido,Terrassa,1-2,0-1
+2002-09-15,Salamanca,Eibar,0-0,0-0
+2002-09-15,Sp Gijon,Elche,0-0,0-0
+2002-09-15,Xerez,Las Palmas,2-2,0-1
+2002-09-21,Almeria,Levante,2-2,2-0
+2002-09-21,Eibar,Cordoba,1-0,0-0
+2002-09-21,Las Palmas,Compostela,1-1,0-1
+2002-09-21,Numancia,Albacete,1-2,0-1
+2002-09-21,Oviedo,Ferrol,1-2,0-0
+2002-09-22,Badajoz,Poli Ejido,0-2,0-1
+2002-09-22,Elche,Leganes,1-1,1-1
+2002-09-22,Getafe,Tenerife,2-1,1-1
+2002-09-22,Terrassa,Salamanca,1-0,1-0
+2002-09-22,Xerez,Sp Gijon,1-0,0-0
+2002-09-22,Zaragoza,Murcia,1-0,0-0
+2002-09-28,Compostela,Oviedo,0-1,0-0
+2002-09-28,Cordoba,Terrassa,0-2,0-0
+2002-09-28,Leganes,Xerez,1-2,1-2
+2002-09-28,Levante,Eibar,3-1,1-1
+2002-09-29,Albacete,Elche,1-1,0-1
+2002-09-29,Ferrol,Getafe,2-1,1-0
+2002-09-29,Murcia,Almeria,3-0,2-0
+2002-09-29,Poli Ejido,Numancia,3-2,1-2
+2002-09-29,Salamanca,Badajoz,0-1,0-0
+2002-09-29,Sp Gijon,Las Palmas,0-0,0-0
+2002-09-29,Tenerife,Zaragoza,2-0,0-0
+2002-10-05,Getafe,Compostela,2-0,0-0
+2002-10-05,Las Palmas,Oviedo,2-0,1-0
+2002-10-05,Xerez,Albacete,1-0,0-0
+2002-10-06,Almeria,Tenerife,1-1,1-0
+2002-10-06,Badajoz,Cordoba,2-0,2-0
+2002-10-06,Eibar,Murcia,1-1,0-0
+2002-10-06,Elche,Poli Ejido,3-0,0-0
+2002-10-06,Numancia,Salamanca,1-0,1-0
+2002-10-06,Sp Gijon,Leganes,1-1,1-1
+2002-10-06,Terrassa,Levante,1-1,1-0
+2002-10-06,Zaragoza,Ferrol,2-2,2-1
+2002-10-12,Leganes,Las Palmas,1-1,0-1
+2002-10-12,Poli Ejido,Xerez,2-0,1-0
+2002-10-13,Albacete,Sp Gijon,4-0,1-0
+2002-10-13,Compostela,Zaragoza,0-0,0-0
+2002-10-13,Cordoba,Numancia,1-1,0-1
+2002-10-13,Ferrol,Almeria,1-1,0-1
+2002-10-13,Levante,Badajoz,4-0,3-0
+2002-10-13,Murcia,Terrassa,0-0,0-0
+2002-10-13,Oviedo,Getafe,3-4,3-2
+2002-10-13,Salamanca,Elche,1-3,1-0
+2002-10-13,Tenerife,Eibar,1-0,1-0
+2002-10-19,Eibar,Ferrol,1-0,1-0
+2002-10-19,Elche,Cordoba,0-0,0-0
+2002-10-19,Las Palmas,Getafe,2-1,2-1
+2002-10-20,Almeria,Compostela,2-1,0-1
+2002-10-20,Badajoz,Murcia,1-0,1-0
+2002-10-20,Leganes,Albacete,1-1,0-0
+2002-10-20,Numancia,Levante,0-2,0-1
+2002-10-20,Sp Gijon,Poli Ejido,1-1,0-0
+2002-10-20,Terrassa,Tenerife,1-1,1-1
+2002-10-20,Xerez,Salamanca,0-1,0-1
+2002-10-20,Zaragoza,Oviedo,3-1,0-0
+2002-10-26,Levante,Elche,2-2,1-0
+2002-10-26,Poli Ejido,Leganes,1-0,0-0
+2002-10-27,Albacete,Las Palmas,2-1,1-0
+2002-10-27,Compostela,Eibar,1-0,1-0
+2002-10-27,Cordoba,Xerez,1-3,1-2
+2002-10-27,Ferrol,Terrassa,1-1,0-1
+2002-10-27,Getafe,Zaragoza,1-2,0-0
+2002-10-27,Murcia,Numancia,2-1,0-0
+2002-10-27,Oviedo,Almeria,1-1,1-0
+2002-10-27,Salamanca,Sp Gijon,0-0,0-0
+2002-10-27,Tenerife,Badajoz,3-3,0-1
+2002-11-02,Albacete,Poli Ejido,1-1,1-1
+2002-11-02,Badajoz,Ferrol,1-0,1-0
+2002-11-02,Eibar,Oviedo,2-1,2-1
+2002-11-02,Las Palmas,Zaragoza,0-1,0-0
+2002-11-02,Terrassa,Compostela,2-1,1-1
+2002-11-02,Xerez,Levante,2-1,1-1
+2002-11-03,Almeria,Getafe,1-1,1-0
+2002-11-03,Elche,Murcia,0-2,0-0
+2002-11-03,Leganes,Salamanca,0-2,0-1
+2002-11-03,Numancia,Tenerife,1-0,0-0
+2002-11-03,Sp Gijon,Cordoba,0-0,0-0
+2002-11-09,Cordoba,Leganes,1-0,0-0
+2002-11-09,Tenerife,Elche,0-0,0-0
+2002-11-10,Compostela,Badajoz,3-0,0-0
+2002-11-10,Ferrol,Numancia,1-0,0-0
+2002-11-10,Getafe,Eibar,4-2,1-1
+2002-11-10,Levante,Sp Gijon,2-1,1-0
+2002-11-10,Murcia,Xerez,1-1,0-1
+2002-11-10,Oviedo,Terrassa,2-2,1-0
+2002-11-10,Poli Ejido,Las Palmas,0-0,0-0
+2002-11-10,Salamanca,Albacete,0-1,0-0
+2002-11-10,Zaragoza,Almeria,1-0,0-0
+2002-11-16,Albacete,Cordoba,0-0,0-0
+2002-11-16,Terrassa,Getafe,1-1,1-1
+2002-11-17,Badajoz,Oviedo,0-1,0-0
+2002-11-17,Eibar,Zaragoza,0-0,0-0
+2002-11-17,Elche,Ferrol,1-2,1-1
+2002-11-17,Las Palmas,Almeria,2-2,2-1
+2002-11-17,Leganes,Levante,0-1,0-0
+2002-11-17,Numancia,Compostela,2-2,2-2
+2002-11-17,Poli Ejido,Salamanca,1-1,1-1
+2002-11-17,Sp Gijon,Murcia,1-0,0-0
+2002-11-17,Xerez,Tenerife,1-1,1-1
+2002-11-23,Almeria,Eibar,2-1,0-0
+2002-11-23,Compostela,Elche,0-1,0-0
+2002-11-24,Cordoba,Poli Ejido,0-1,0-0
+2002-11-24,Ferrol,Xerez,2-1,1-0
+2002-11-24,Getafe,Badajoz,0-1,0-0
+2002-11-24,Levante,Albacete,2-2,1-1
+2002-11-24,Murcia,Leganes,0-1,0-0
+2002-11-24,Oviedo,Numancia,1-1,1-0
+2002-11-24,Salamanca,Las Palmas,2-1,0-1
+2002-11-24,Tenerife,Sp Gijon,2-2,1-0
+2002-11-24,Zaragoza,Terrassa,1-0,1-0
+2002-11-30,Las Palmas,Eibar,0-1,0-1
+2002-11-30,Leganes,Tenerife,1-1,1-1
+2002-11-30,Sp Gijon,Ferrol,3-1,1-0
+2002-12-01,Albacete,Murcia,0-0,0-0
+2002-12-01,Badajoz,Zaragoza,0-4,0-3
+2002-12-01,Elche,Oviedo,2-1,1-1
+2002-12-01,Numancia,Getafe,1-3,0-1
+2002-12-01,Poli Ejido,Levante,0-0,0-0
+2002-12-01,Salamanca,Cordoba,2-0,1-0
+2002-12-01,Terrassa,Almeria,0-2,0-0
+2002-12-01,Xerez,Compostela,0-1,0-1
+2002-12-07,Eibar,Terrassa,1-1,1-0
+2002-12-07,Oviedo,Xerez,1-2,1-0
+2002-12-07,Tenerife,Albacete,1-1,1-1
+2002-12-08,Almeria,Badajoz,2-1,1-0
+2002-12-08,Compostela,Sp Gijon,2-3,1-2
+2002-12-08,Cordoba,Las Palmas,2-2,1-1
+2002-12-08,Ferrol,Leganes,1-1,0-0
+2002-12-08,Getafe,Elche,1-1,0-1
+2002-12-08,Levante,Salamanca,0-1,0-0
+2002-12-08,Murcia,Poli Ejido,3-0,1-0
+2002-12-08,Zaragoza,Numancia,1-0,1-0
+2002-12-14,Albacete,Ferrol,2-0,2-0
+2002-12-14,Las Palmas,Terrassa,2-0,1-0
+2002-12-14,Poli Ejido,Tenerife,0-1,0-0
+2002-12-15,Badajoz,Eibar,1-1,0-0
+2002-12-15,Cordoba,Levante,1-2,0-0
+2002-12-15,Elche,Zaragoza,4-0,1-0
+2002-12-15,Leganes,Compostela,0-0,0-0
+2002-12-15,Numancia,Almeria,0-0,0-0
+2002-12-15,Salamanca,Murcia,0-0,0-0
+2002-12-15,Sp Gijon,Oviedo,1-0,1-0
+2002-12-15,Xerez,Getafe,0-0,0-0
+2002-12-21,Almeria,Elche,0-3,0-1
+2002-12-21,Compostela,Albacete,3-3,1-2
+2002-12-21,Ferrol,Poli Ejido,1-1,0-0
+2002-12-21,Murcia,Cordoba,1-0,1-0
+2002-12-21,Oviedo,Leganes,1-1,0-1
+2002-12-21,Tenerife,Salamanca,0-0,0-0
+2002-12-21,Terrassa,Badajoz,1-0,1-0
+2002-12-22,Eibar,Numancia,1-2,1-0
+2002-12-22,Getafe,Sp Gijon,0-1,0-1
+2002-12-22,Levante,Las Palmas,1-1,0-0
+2002-12-22,Zaragoza,Xerez,1-0,0-0
+2003-01-04,Cordoba,Tenerife,1-1,0-0
+2003-01-04,Elche,Eibar,0-0,0-0
+2003-01-04,Las Palmas,Badajoz,2-0,0-0
+2003-01-04,Numancia,Terrassa,1-1,0-0
+2003-01-04,Sp Gijon,Zaragoza,1-1,0-0
+2003-01-04,Xerez,Almeria,1-2,0-1
+2003-01-05,Albacete,Oviedo,0-1,0-0
+2003-01-05,Leganes,Getafe,2-1,1-0
+2003-01-05,Levante,Murcia,0-0,0-0
+2003-01-05,Poli Ejido,Compostela,0-2,0-2
+2003-01-05,Salamanca,Ferrol,0-0,0-0
+2003-01-11,Almeria,Sp Gijon,1-0,1-0
+2003-01-11,Ferrol,Cordoba,0-0,0-0
+2003-01-11,Murcia,Las Palmas,6-1,2-0
+2003-01-11,Oviedo,Poli Ejido,0-3,0-0
+2003-01-11,Terrassa,Elche,1-1,1-1
+2003-01-12,Badajoz,Numancia,1-1,1-0
+2003-01-12,Compostela,Salamanca,0-0,0-0
+2003-01-12,Eibar,Xerez,1-0,0-0
+2003-01-12,Getafe,Albacete,1-2,0-0
+2003-01-12,Tenerife,Levante,0-0,0-0
+2003-01-12,Zaragoza,Leganes,2-2,1-0
+2003-01-18,Albacete,Zaragoza,0-0,0-0
+2003-01-18,Las Palmas,Numancia,0-0,0-0
+2003-01-18,Poli Ejido,Getafe,1-1,0-1
+2003-01-18,Xerez,Terrassa,2-2,1-2
+2003-01-19,Cordoba,Compostela,0-0,0-0
+2003-01-19,Elche,Badajoz,0-1,0-0
+2003-01-19,Leganes,Almeria,5-2,3-1
+2003-01-19,Levante,Ferrol,1-0,0-0
+2003-01-19,Murcia,Tenerife,2-0,2-0
+2003-01-19,Salamanca,Oviedo,0-0,0-0
+2003-01-19,Sp Gijon,Eibar,1-0,0-0
+2003-01-25,Las Palmas,Tenerife,1-0,0-0
+2003-01-26,Almeria,Albacete,1-1,0-0
+2003-01-26,Badajoz,Xerez,0-1,0-1
+2003-01-26,Compostela,Levante,3-1,2-0
+2003-01-26,Eibar,Leganes,0-1,0-1
+2003-01-26,Ferrol,Murcia,0-3,0-2
+2003-01-26,Getafe,Salamanca,1-0,0-0
+2003-01-26,Numancia,Elche,1-0,0-0
+2003-01-26,Oviedo,Cordoba,1-0,0-0
+2003-01-26,Terrassa,Sp Gijon,0-0,0-0
+2003-01-26,Zaragoza,Poli Ejido,0-0,0-0
+2003-02-01,Leganes,Terrassa,1-1,1-1
+2003-02-01,Levante,Oviedo,1-0,1-0
+2003-02-01,Tenerife,Ferrol,4-0,0-0
+2003-02-02,Albacete,Eibar,1-1,1-1
+2003-02-02,Cordoba,Getafe,3-0,2-0
+2003-02-02,Elche,Las Palmas,3-2,1-2
+2003-02-02,Murcia,Compostela,2-0,1-0
+2003-02-02,Poli Ejido,Almeria,2-0,2-0
+2003-02-02,Salamanca,Zaragoza,0-1,0-0
+2003-02-02,Sp Gijon,Badajoz,4-0,2-0
+2003-02-02,Xerez,Numancia,2-2,1-2
+2003-02-08,Cordoba,Zaragoza,2-1,0-0
+2003-02-08,Ferrol,Las Palmas,1-2,1-1
+2003-02-09,Albacete,Terrassa,1-0,1-0
+2003-02-09,Leganes,Badajoz,1-3,0-2
+2003-02-09,Levante,Getafe,1-0,0-0
+2003-02-09,Murcia,Oviedo,0-1,0-0
+2003-02-09,Poli Ejido,Eibar,0-0,0-0
+2003-02-09,Salamanca,Almeria,2-1,2-1
+2003-02-09,Sp Gijon,Numancia,1-2,1-2
+2003-02-09,Tenerife,Compostela,5-1,1-1
+2003-02-09,Xerez,Elche,2-1,1-0
+2003-02-15,Almeria,Cordoba,1-3,0-1
+2003-02-15,Compostela,Ferrol,1-1,1-1
+2003-02-15,Getafe,Murcia,3-1,1-0
+2003-02-15,Las Palmas,Xerez,4-0,2-0
+2003-02-15,Oviedo,Tenerife,0-2,0-2
+2003-02-16,Badajoz,Albacete,0-3,0-1
+2003-02-16,Eibar,Salamanca,1-1,0-1
+2003-02-16,Elche,Sp Gijon,1-1,0-1
+2003-02-16,Numancia,Leganes,2-1,2-1
+2003-02-16,Terrassa,Poli Ejido,2-0,1-0
+2003-02-16,Zaragoza,Levante,1-0,1-0
+2003-02-22,Sp Gijon,Xerez,1-1,0-0
+2003-02-23,Albacete,Numancia,3-1,1-1
+2003-02-23,Compostela,Las Palmas,0-3,0-0
+2003-02-23,Cordoba,Eibar,0-0,0-0
+2003-02-23,Ferrol,Oviedo,1-1,0-1
+2003-02-23,Leganes,Elche,2-2,1-1
+2003-02-23,Levante,Almeria,2-1,1-0
+2003-02-23,Murcia,Zaragoza,2-0,1-0
+2003-02-23,Poli Ejido,Badajoz,1-0,1-0
+2003-02-23,Salamanca,Terrassa,1-2,0-1
+2003-02-23,Tenerife,Getafe,1-0,0-0
+2003-03-01,Badajoz,Salamanca,1-1,0-0
+2003-03-01,Zaragoza,Tenerife,1-3,0-3
+2003-03-02,Almeria,Murcia,1-1,0-0
+2003-03-02,Eibar,Levante,1-1,0-0
+2003-03-02,Elche,Albacete,1-2,0-1
+2003-03-02,Getafe,Ferrol,3-1,1-1
+2003-03-02,Las Palmas,Sp Gijon,2-2,1-1
+2003-03-02,Numancia,Poli Ejido,2-2,1-2
+2003-03-02,Oviedo,Compostela,1-1,0-1
+2003-03-02,Terrassa,Cordoba,0-4,0-2
+2003-03-02,Xerez,Leganes,2-2,0-1
+2003-03-08,Ferrol,Zaragoza,1-2,0-1
+2003-03-08,Levante,Terrassa,1-0,0-0
+2003-03-08,Tenerife,Almeria,1-1,0-1
+2003-03-09,Albacete,Xerez,0-0,0-0
+2003-03-09,Compostela,Getafe,1-3,0-1
+2003-03-09,Cordoba,Badajoz,0-0,0-0
+2003-03-09,Leganes,Sp Gijon,0-2,0-0
+2003-03-09,Murcia,Eibar,4-2,2-0
+2003-03-09,Oviedo,Las Palmas,0-0,0-0
+2003-03-09,Poli Ejido,Elche,2-0,1-0
+2003-03-09,Salamanca,Numancia,0-0,0-0
+2003-03-15,Las Palmas,Leganes,1-4,1-3
+2003-03-15,Terrassa,Murcia,0-1,0-0
+2003-03-16,Almeria,Ferrol,3-2,3-2
+2003-03-16,Badajoz,Levante,1-1,0-1
+2003-03-16,Eibar,Tenerife,1-1,1-0
+2003-03-16,Elche,Salamanca,2-1,2-0
+2003-03-16,Getafe,Oviedo,1-1,1-0
+2003-03-16,Numancia,Cordoba,0-0,0-0
+2003-03-16,Sp Gijon,Albacete,0-1,0-0
+2003-03-16,Xerez,Poli Ejido,2-1,0-1
+2003-03-16,Zaragoza,Compostela,0-1,0-0
+2003-03-22,Ferrol,Eibar,0-1,0-0
+2003-03-22,Getafe,Las Palmas,0-0,0-0
+2003-03-22,Poli Ejido,Sp Gijon,1-0,1-0
+2003-03-23,Albacete,Leganes,2-0,1-0
+2003-03-23,Compostela,Almeria,4-1,2-0
+2003-03-23,Cordoba,Elche,1-0,1-0
+2003-03-23,Levante,Numancia,0-0,0-0
+2003-03-23,Murcia,Badajoz,2-0,0-0
+2003-03-23,Oviedo,Zaragoza,0-2,0-1
+2003-03-23,Salamanca,Xerez,1-1,1-1
+2003-03-23,Tenerife,Terrassa,1-1,0-1
+2003-03-29,Eibar,Compostela,2-1,1-0
+2003-03-29,Elche,Levante,0-2,0-1
+2003-03-29,Las Palmas,Albacete,1-1,0-1
+2003-03-29,Xerez,Cordoba,1-0,1-0
+2003-03-30,Almeria,Oviedo,1-1,1-1
+2003-03-30,Badajoz,Tenerife,2-1,2-0
+2003-03-30,Leganes,Poli Ejido,2-0,1-0
+2003-03-30,Numancia,Murcia,0-2,0-2
+2003-03-30,Sp Gijon,Salamanca,1-1,0-1
+2003-03-30,Terrassa,Ferrol,2-1,2-1
+2003-03-30,Zaragoza,Getafe,3-1,1-1
+2003-04-05,Murcia,Elche,1-0,1-0
+2003-04-06,Compostela,Terrassa,2-1,0-0
+2003-04-06,Cordoba,Sp Gijon,1-1,1-0
+2003-04-06,Ferrol,Badajoz,2-0,1-0
+2003-04-06,Getafe,Almeria,1-1,0-1
+2003-04-06,Levante,Xerez,0-0,0-0
+2003-04-06,Oviedo,Eibar,1-2,0-1
+2003-04-06,Poli Ejido,Albacete,0-1,0-0
+2003-04-06,Salamanca,Leganes,1-1,1-0
+2003-04-06,Tenerife,Numancia,2-0,1-0
+2003-04-06,Zaragoza,Las Palmas,1-2,0-0
+2003-04-12,Elche,Tenerife,1-0,0-0
+2003-04-12,Las Palmas,Poli Ejido,2-0,2-0
+2003-04-12,Terrassa,Oviedo,2-2,0-0
+2003-04-13,Albacete,Salamanca,0-0,0-0
+2003-04-13,Almeria,Zaragoza,0-1,0-1
+2003-04-13,Badajoz,Compostela,0-2,0-1
+2003-04-13,Eibar,Getafe,0-0,0-0
+2003-04-13,Leganes,Cordoba,0-3,0-1
+2003-04-13,Numancia,Ferrol,4-2,1-0
+2003-04-13,Sp Gijon,Levante,3-2,1-0
+2003-04-13,Xerez,Murcia,2-0,0-0
+2003-04-19,Almeria,Las Palmas,1-0,1-0
+2003-04-20,Compostela,Numancia,1-0,0-0
+2003-04-20,Cordoba,Albacete,0-2,0-0
+2003-04-20,Ferrol,Elche,1-0,1-0
+2003-04-20,Getafe,Terrassa,2-1,0-0
+2003-04-20,Levante,Leganes,4-0,0-0
+2003-04-20,Murcia,Sp Gijon,0-0,0-0
+2003-04-20,Oviedo,Badajoz,2-1,0-0
+2003-04-20,Salamanca,Poli Ejido,2-0,2-0
+2003-04-20,Tenerife,Xerez,1-3,1-2
+2003-04-20,Zaragoza,Eibar,2-0,0-0
+2003-04-26,Las Palmas,Salamanca,2-1,1-1
+2003-04-26,Poli Ejido,Cordoba,2-1,1-1
+2003-04-26,Sp Gijon,Tenerife,2-1,1-0
+2003-04-26,Terrassa,Zaragoza,0-2,0-1
+2003-04-27,Albacete,Levante,2-2,0-1
+2003-04-27,Badajoz,Getafe,1-2,1-0
+2003-04-27,Eibar,Almeria,2-0,0-0
+2003-04-27,Elche,Compostela,3-1,1-1
+2003-04-27,Leganes,Murcia,0-1,0-0
+2003-04-27,Numancia,Oviedo,4-2,1-0
+2003-04-27,Xerez,Ferrol,1-1,0-0
+2003-05-03,Compostela,Xerez,0-1,0-1
+2003-05-03,Eibar,Las Palmas,0-0,0-0
+2003-05-04,Almeria,Terrassa,3-0,1-0
+2003-05-04,Cordoba,Salamanca,0-2,0-1
+2003-05-04,Ferrol,Sp Gijon,2-1,1-1
+2003-05-04,Getafe,Numancia,1-1,0-0
+2003-05-04,Levante,Poli Ejido,2-2,1-0
+2003-05-04,Murcia,Albacete,0-0,0-0
+2003-05-04,Oviedo,Elche,2-1,1-1
+2003-05-04,Tenerife,Leganes,1-1,1-1
+2003-05-04,Zaragoza,Badajoz,2-0,1-0
+2003-05-10,Albacete,Tenerife,1-0,0-0
+2003-05-10,Las Palmas,Cordoba,0-1,0-1
+2003-05-10,Sp Gijon,Compostela,1-3,1-1
+2003-05-10,Xerez,Oviedo,4-1,1-0
+2003-05-11,Badajoz,Almeria,4-3,0-1
+2003-05-11,Elche,Getafe,1-1,1-0
+2003-05-11,Leganes,Ferrol,1-0,1-0
+2003-05-11,Numancia,Zaragoza,2-2,1-2
+2003-05-11,Poli Ejido,Murcia,0-1,0-1
+2003-05-11,Salamanca,Levante,1-1,0-1
+2003-05-11,Terrassa,Eibar,1-0,1-0
+2003-05-17,Ferrol,Albacete,2-1,1-0
+2003-05-17,Levante,Cordoba,1-2,1-1
+2003-05-18,Almeria,Numancia,1-2,0-1
+2003-05-18,Compostela,Leganes,2-0,1-0
+2003-05-18,Eibar,Badajoz,1-2,1-1
+2003-05-18,Getafe,Xerez,2-1,1-0
+2003-05-18,Murcia,Salamanca,1-1,1-0
+2003-05-18,Oviedo,Sp Gijon,2-1,1-1
+2003-05-18,Tenerife,Poli Ejido,4-0,2-0
+2003-05-18,Terrassa,Las Palmas,0-1,0-0
+2003-05-18,Zaragoza,Elche,5-2,1-1
+2003-05-24,Albacete,Compostela,1-1,0-0
+2003-05-24,Cordoba,Murcia,0-2,0-1
+2003-05-24,Elche,Almeria,0-2,0-1
+2003-05-24,Las Palmas,Levante,1-1,1-0
+2003-05-24,Poli Ejido,Ferrol,1-1,0-1
+2003-05-25,Badajoz,Terrassa,1-1,0-0
+2003-05-25,Leganes,Oviedo,0-1,0-0
+2003-05-25,Numancia,Eibar,1-0,1-0
+2003-05-25,Salamanca,Tenerife,2-1,0-1
+2003-05-25,Sp Gijon,Getafe,0-0,0-0
+2003-05-25,Xerez,Zaragoza,1-3,0-1
+2003-05-31,Almeria,Xerez,6-0,3-0
+2003-05-31,Badajoz,Las Palmas,0-1,0-0
+2003-05-31,Getafe,Leganes,0-3,0-0
+2003-05-31,Oviedo,Albacete,0-0,0-0
+2003-05-31,Zaragoza,Sp Gijon,1-1,1-0
+2003-06-01,Compostela,Poli Ejido,2-2,2-1
+2003-06-01,Eibar,Elche,0-1,0-1
+2003-06-01,Ferrol,Salamanca,1-1,1-0
+2003-06-01,Murcia,Levante,1-0,0-0
+2003-06-01,Tenerife,Cordoba,2-0,1-0
+2003-06-01,Terrassa,Numancia,1-1,0-1
+2003-06-07,Elche,Terrassa,2-2,0-1
+2003-06-07,Las Palmas,Murcia,1-4,0-2
+2003-06-07,Leganes,Zaragoza,2-0,1-0
+2003-06-07,Sp Gijon,Almeria,2-2,1-1
+2003-06-08,Albacete,Getafe,3-1,1-1
+2003-06-08,Cordoba,Ferrol,1-2,0-1
+2003-06-08,Levante,Tenerife,2-1,1-1
+2003-06-08,Numancia,Badajoz,4-0,2-0
+2003-06-08,Poli Ejido,Oviedo,1-0,1-0
+2003-06-08,Salamanca,Compostela,4-2,1-2
+2003-06-08,Xerez,Eibar,1-1,1-1
+2003-06-14,Almeria,Leganes,0-2,0-2
+2003-06-14,Eibar,Sp Gijon,1-1,0-0
+2003-06-14,Ferrol,Levante,1-0,0-0
+2003-06-14,Getafe,Poli Ejido,2-0,1-0
+2003-06-14,Numancia,Las Palmas,0-1,0-1
+2003-06-14,Tenerife,Murcia,2-1,1-0
+2003-06-15,Badajoz,Elche,2-3,1-1
+2003-06-15,Compostela,Cordoba,1-2,1-0
+2003-06-15,Oviedo,Salamanca,0-3,0-1
+2003-06-15,Terrassa,Xerez,2-0,1-0
+2003-06-15,Zaragoza,Albacete,1-1,0-0
+2003-06-21,Albacete,Almeria,0-1,0-1
+2003-06-21,Cordoba,Oviedo,1-0,0-0
+2003-06-21,Elche,Numancia,1-1,0-0
+2003-06-21,Leganes,Eibar,0-1,0-1
+2003-06-21,Levante,Compostela,3-4,2-0
+2003-06-21,Murcia,Ferrol,5-0,3-0
+2003-06-21,Poli Ejido,Zaragoza,0-0,0-0
+2003-06-21,Salamanca,Getafe,3-1,1-0
+2003-06-21,Sp Gijon,Terrassa,0-0,0-0
+2003-06-21,Tenerife,Las Palmas,0-0,0-0
+2003-06-21,Xerez,Badajoz,5-3,3-1
+2003-06-28,Badajoz,Sp Gijon,0-3,0-1
+2003-06-28,Numancia,Xerez,1-4,1-3
+2003-06-28,Oviedo,Levante,1-2,0-1
+2003-06-28,Zaragoza,Salamanca,1-3,1-1
+2003-06-29,Almeria,Poli Ejido,1-1,0-0
+2003-06-29,Compostela,Murcia,1-0,0-0
+2003-06-29,Eibar,Albacete,2-0,0-0
+2003-06-29,Ferrol,Tenerife,0-1,0-0
+2003-06-29,Getafe,Cordoba,1-1,0-1
+2003-06-29,Las Palmas,Elche,4-1,2-0
+2003-06-29,Terrassa,Leganes,2-0,1-0
