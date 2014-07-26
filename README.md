@@ -5,7 +5,7 @@ Football data for España (Spain) includes:
 - Primera División (La Liga)
 - Segunda División
 
-Example - [`2013-14/liga.csv`](2013-14/liga.csv):
+Example - [`2013-14/liga.csv`](2013-14/1-liga.csv):
 
 ~~~
 2013-08-17,Sociedad,Getafe,2-0,1-0
