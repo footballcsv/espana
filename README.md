@@ -22,6 +22,16 @@ Example - [`2013-14/liga.csv`](2013-14/1-liga.csv):
 ~~~
 
 
+## Tips n Tricks
+
+### Download ZIP Archive - No `git clone` Required
+
+Note: You can download all .csv files packaged into a single-file .zip archive - 
+look for the "Download ZIP" button on this page on the right side at the bottom of the "<> Code" tab.
+If you can't find the "Download ZIP" button, use the [`es-espana/archive/master.zip`](https://github.com/footballcsv/es-espana/archive/master.zip) link.
+
+
+
 ## Questions? Comments?
 
 Send them along to the
