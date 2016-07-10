@@ -1,0 +1,381 @@
+Date,Team 1,Team 2,FT,HT
+2014-08-23,Almeria,Espanol,1-1,0-0
+2014-08-23,Granada,La Coruna,2-1,0-1
+2014-08-23,Malaga,Ath Bilbao,1-0,1-0
+2014-08-23,Sevilla,Valencia,1-1,1-0
+2014-08-24,Barcelona,Elche,3-0,1-0
+2014-08-24,Celta,Getafe,3-1,1-0
+2014-08-24,Eibar,Sociedad,1-0,1-0
+2014-08-24,Levante,Villarreal,0-2,0-0
+2014-08-25,Real Madrid,Cordoba,2-0,1-0
+2014-08-25,Vallecano,Ath Madrid,0-0,0-0
+2014-08-29,Getafe,Almeria,1-0,1-0
+2014-08-29,Valencia,Malaga,3-0,2-0
+2014-08-30,Ath Bilbao,Levante,3-0,1-0
+2014-08-30,Ath Madrid,Eibar,2-1,2-1
+2014-08-30,Cordoba,Celta,1-1,0-0
+2014-08-30,Espanol,Sevilla,1-2,0-1
+2014-08-31,Elche,Granada,1-1,0-0
+2014-08-31,La Coruna,Vallecano,2-2,1-1
+2014-08-31,Sociedad,Real Madrid,4-2,2-2
+2014-08-31,Villarreal,Barcelona,0-1,0-0
+2014-09-12,Almeria,Cordoba,1-1,1-1
+2014-09-13,Barcelona,Ath Bilbao,2-0,0-0
+2014-09-13,Celta,Sociedad,2-2,1-0
+2014-09-13,Malaga,Levante,0-0,0-0
+2014-09-13,Real Madrid,Ath Madrid,1-2,1-1
+2014-09-14,Granada,Villarreal,0-0,0-0
+2014-09-14,Sevilla,Getafe,2-0,1-0
+2014-09-14,Valencia,Espanol,3-1,1-0
+2014-09-14,Vallecano,Elche,2-3,1-1
+2014-09-15,Eibar,La Coruna,0-1,0-1
+2014-09-19,Elche,Eibar,0-2,0-2
+2014-09-20,Ath Bilbao,Granada,0-1,0-1
+2014-09-20,Ath Madrid,Celta,2-2,2-1
+2014-09-20,Espanol,Malaga,2-2,1-0
+2014-09-20,La Coruna,Real Madrid,2-8,0-3
+2014-09-21,Cordoba,Sevilla,1-3,0-1
+2014-09-21,Levante,Barcelona,0-5,0-2
+2014-09-21,Sociedad,Almeria,1-2,0-1
+2014-09-21,Villarreal,Vallecano,4-2,1-2
+2014-09-22,Getafe,Valencia,0-3,0-2
+2014-09-23,Celta,La Coruna,2-1,1-0
+2014-09-23,Real Madrid,Elche,5-1,3-1
+2014-09-24,Almeria,Ath Madrid,0-1,0-0
+2014-09-24,Eibar,Villarreal,1-1,1-0
+2014-09-24,Granada,Levante,0-1,0-0
+2014-09-24,Malaga,Barcelona,0-0,0-0
+2014-09-24,Sevilla,Sociedad,1-0,1-0
+2014-09-24,Vallecano,Ath Bilbao,2-1,1-1
+2014-09-25,Espanol,Getafe,2-0,0-0
+2014-09-25,Valencia,Cordoba,3-0,2-0
+2014-09-26,Elche,Celta,0-1,0-0
+2014-09-27,Ath Bilbao,Eibar,0-0,0-0
+2014-09-27,Ath Madrid,Sevilla,4-0,2-0
+2014-09-27,Barcelona,Granada,6-0,3-0
+2014-09-27,Levante,Vallecano,0-2,0-2
+2014-09-27,Villarreal,Real Madrid,0-2,0-2
+2014-09-28,Cordoba,Espanol,0-0,0-0
+2014-09-28,Getafe,Malaga,1-0,1-0
+2014-09-28,La Coruna,Almeria,0-1,0-0
+2014-09-28,Sociedad,Valencia,1-1,1-1
+2014-10-04,Almeria,Elche,2-2,1-1
+2014-10-05,Celta,Villarreal,1-3,1-2
+2014-10-04,Eibar,Levante,3-3,0-2
+2014-10-05,Espanol,Sociedad,2-0,1-0
+2014-10-03,Getafe,Cordoba,1-1,0-0
+2014-10-04,Malaga,Granada,2-1,0-1
+2014-10-05,Real Madrid,Ath Bilbao,5-0,2-0
+2014-10-05,Sevilla,La Coruna,4-1,2-1
+2014-10-04,Valencia,Ath Madrid,3-1,3-1
+2014-10-04,Vallecano,Barcelona,0-2,0-2
+2014-10-17,Granada,Vallecano,0-1,0-0
+2014-10-18,Ath Bilbao,Celta,1-1,1-0
+2014-10-18,Barcelona,Eibar,3-0,0-0
+2014-10-18,Cordoba,Malaga,1-2,0-2
+2014-10-18,Levante,Real Madrid,0-5,0-2
+2014-10-19,Ath Madrid,Espanol,2-0,1-0
+2014-10-19,Elche,Sevilla,0-2,0-0
+2014-10-19,La Coruna,Valencia,3-0,2-0
+2014-10-19,Villarreal,Almeria,2-0,1-0
+2014-10-20,Sociedad,Getafe,1-2,0-0
+2014-10-24,Celta,Levante,3-0,1-0
+2014-10-25,Almeria,Ath Bilbao,0-1,0-0
+2014-10-25,Cordoba,Sociedad,1-1,0-1
+2014-10-25,Eibar,Granada,1-1,1-1
+2014-10-25,Real Madrid,Barcelona,3-1,1-1
+2014-10-25,Valencia,Elche,3-1,2-0
+2014-10-26,Espanol,La Coruna,0-0,0-0
+2014-10-26,Getafe,Ath Madrid,0-1,0-1
+2014-10-26,Malaga,Vallecano,4-0,3-0
+2014-10-26,Sevilla,Villarreal,2-1,0-0
+2014-10-31,La Coruna,Getafe,1-2,0-1
+2014-11-01,Ath Madrid,Cordoba,4-2,1-0
+2014-11-01,Barcelona,Celta,0-1,0-0
+2014-11-01,Granada,Real Madrid,0-4,0-2
+2014-11-01,Sociedad,Malaga,0-1,0-0
+2014-11-02,Ath Bilbao,Sevilla,1-0,1-0
+2014-11-02,Elche,Espanol,2-1,1-0
+2014-11-02,Levante,Almeria,2-1,1-0
+2014-11-02,Villarreal,Valencia,1-3,0-1
+2014-11-03,Vallecano,Eibar,2-3,0-1
+2014-11-07,Cordoba,La Coruna,0-0,0-0
+2014-11-08,Almeria,Barcelona,1-2,1-0
+2014-11-08,Celta,Granada,0-0,0-0
+2014-11-08,Getafe,Elche,0-0,0-0
+2014-11-08,Malaga,Eibar,2-1,0-1
+2014-11-08,Real Madrid,Vallecano,5-1,2-1
+2014-11-09,Espanol,Villarreal,1-1,0-1
+2014-11-09,Sevilla,Levante,1-1,1-0
+2014-11-09,Sociedad,Ath Madrid,2-1,1-1
+2014-11-09,Valencia,Ath Bilbao,0-0,0-0
+2014-11-21,Ath Bilbao,Espanol,3-1,2-0
+2014-11-22,Ath Madrid,Malaga,3-1,2-0
+2014-11-22,Barcelona,Sevilla,5-1,1-0
+2014-11-22,Eibar,Real Madrid,0-4,0-2
+2014-11-22,La Coruna,Sociedad,0-0,0-0
+2014-11-23,Elche,Cordoba,2-2,0-1
+2014-11-23,Levante,Valencia,2-1,0-0
+2014-11-23,Vallecano,Celta,1-0,1-0
+2014-11-23,Villarreal,Getafe,2-1,2-0
+2014-11-24,Granada,Almeria,0-0,0-0
+2014-11-28,Sociedad,Elche,3-0,2-0
+2014-11-29,Celta,Eibar,0-1,0-1
+2014-11-29,Espanol,Levante,2-1,2-1
+2014-11-29,Getafe,Ath Bilbao,1-2,0-1
+2014-11-29,Malaga,Real Madrid,1-2,0-1
+2014-11-30,Ath Madrid,La Coruna,2-0,1-0
+2014-11-30,Cordoba,Villarreal,0-2,0-1
+2014-11-30,Sevilla,Granada,5-1,1-1
+2014-11-30,Valencia,Barcelona,0-1,0-0
+2014-12-01,Almeria,Vallecano,0-1,0-0
+2014-12-06,Ath Bilbao,Cordoba,0-1,0-1
+2014-12-06,Elche,Ath Madrid,0-2,0-1
+2014-12-06,La Coruna,Malaga,0-1,0-1
+2014-12-06,Real Madrid,Celta,3-0,1-0
+2014-12-07,Barcelona,Espanol,5-1,1-1
+2014-12-07,Granada,Valencia,1-1,0-0
+2014-12-07,Vallecano,Sevilla,0-1,0-1
+2014-12-07,Villarreal,Sociedad,4-0,0-0
+2014-12-08,Eibar,Almeria,5-2,3-1
+2014-12-08,Levante,Getafe,1-1,0-0
+2014-12-12,Almeria,Real Madrid,1-4,1-2
+2014-12-13,Cordoba,Levante,0-0,0-0
+2014-12-13,Getafe,Barcelona,0-0,0-0
+2014-12-13,Malaga,Celta,1-0,1-0
+2014-12-13,Valencia,Vallecano,3-0,3-0
+2014-12-14,Ath Madrid,Villarreal,0-1,0-0
+2014-12-14,Espanol,Granada,2-1,1-0
+2014-12-14,Sevilla,Eibar,0-0,0-0
+2014-12-14,Sociedad,Ath Bilbao,1-1,1-0
+2014-12-15,La Coruna,Elche,1-0,1-0
+2014-12-19,Celta,Almeria,0-1,0-1
+2014-12-20,Barcelona,Cordoba,5-0,1-0
+2014-12-20,Eibar,Valencia,0-1,0-1
+2014-12-20,Levante,Sociedad,1-1,0-0
+2014-12-20,Vallecano,Espanol,1-3,1-1
+2014-12-21,Ath Bilbao,Ath Madrid,1-4,1-0
+2014-12-21,Elche,Malaga,1-2,1-0
+2014-12-21,Granada,Getafe,1-1,1-0
+2014-12-21,Villarreal,La Coruna,3-0,1-0
+2015-01-03,Ath Madrid,Levante,3-1,1-0
+2015-01-03,Elche,Villarreal,2-2,2-2
+2015-01-03,La Coruna,Ath Bilbao,1-0,1-0
+2015-01-03,Malaga,Almeria,1-2,0-1
+2015-01-03,Sevilla,Celta,1-0,1-0
+2015-01-04,Espanol,Eibar,1-2,0-2
+2015-01-04,Getafe,Vallecano,1-2,1-1
+2015-01-04,Sociedad,Barcelona,1-0,1-0
+2015-01-04,Valencia,Real Madrid,2-1,0-1
+2015-01-05,Cordoba,Granada,2-0,2-0
+2015-01-09,Levante,La Coruna,0-0,0-0
+2015-01-10,Celta,Valencia,1-1,0-1
+2015-01-10,Eibar,Getafe,2-1,1-0
+2015-01-10,Malaga,Villarreal,1-1,0-1
+2015-01-10,Real Madrid,Espanol,3-0,2-0
+2015-01-11,Almeria,Sevilla,0-2,0-0
+2015-01-11,Ath Bilbao,Elche,1-2,0-1
+2015-01-11,Barcelona,Ath Madrid,3-1,2-0
+2015-01-11,Granada,Sociedad,1-1,0-1
+2015-01-12,Vallecano,Cordoba,0-1,0-1
+2015-01-16,Cordoba,Eibar,1-1,1-0
+2015-01-17,Espanol,Celta,1-0,0-0
+2015-01-17,Sociedad,Vallecano,0-1,0-0
+2015-01-17,Valencia,Almeria,3-2,2-2
+2015-01-17,Villarreal,Ath Bilbao,2-0,1-0
+2015-01-18,Ath Madrid,Granada,2-0,1-0
+2015-01-18,Elche,Levante,1-0,1-0
+2015-01-18,Getafe,Real Madrid,0-3,0-0
+2015-01-18,La Coruna,Barcelona,0-4,0-2
+2015-01-18,Sevilla,Malaga,2-0,1-0
+2015-01-24,Ath Madrid,Vallecano,3-1,2-1
+2015-01-24,Cordoba,Real Madrid,1-2,1-1
+2015-01-24,Elche,Barcelona,0-6,0-1
+2015-01-24,Sociedad,Eibar,1-0,0-0
+2015-01-24,Villarreal,Levante,1-0,0-0
+2015-01-25,Ath Bilbao,Malaga,1-1,0-0
+2015-01-25,Espanol,Almeria,3-0,2-0
+2015-01-25,La Coruna,Granada,2-2,2-1
+2015-01-25,Valencia,Sevilla,3-1,2-1
+2015-01-26,Getafe,Celta,2-1,1-1
+2015-01-30,Vallecano,La Coruna,1-2,1-1
+2015-01-31,Celta,Cordoba,1-0,0-0
+2015-01-31,Eibar,Ath Madrid,1-3,0-3
+2015-01-31,Granada,Elche,1-0,0-0
+2015-01-31,Real Madrid,Sociedad,4-1,2-1
+2015-02-01,Almeria,Getafe,1-0,1-0
+2015-02-01,Barcelona,Villarreal,3-2,1-1
+2015-02-01,Levante,Ath Bilbao,0-2,0-0
+2015-02-01,Sevilla,Espanol,3-2,2-1
+2015-02-02,Malaga,Valencia,1-0,1-0
+2015-02-04,Real Madrid,Sevilla,2-1,2-0
+2015-02-06,La Coruna,Eibar,2-0,0-0
+2015-02-07,Ath Madrid,Real Madrid,4-0,2-0
+2015-02-07,Levante,Malaga,4-1,2-1
+2015-02-07,Sociedad,Celta,1-1,1-0
+2015-02-07,Villarreal,Granada,2-0,1-0
+2015-02-08,Ath Bilbao,Barcelona,2-5,0-2
+2015-02-08,Cordoba,Almeria,1-2,1-0
+2015-02-08,Espanol,Valencia,1-2,0-0
+2015-02-08,Getafe,Sevilla,2-1,1-0
+2015-02-09,Elche,Vallecano,2-0,2-0
+2015-02-13,Almeria,Sociedad,2-2,2-1
+2015-02-14,Granada,Ath Bilbao,0-0,0-0
+2015-02-14,Malaga,Espanol,0-2,0-1
+2015-02-14,Real Madrid,La Coruna,2-0,1-0
+2015-02-14,Sevilla,Cordoba,3-0,2-0
+2015-02-15,Barcelona,Levante,5-0,2-0
+2015-02-15,Celta,Ath Madrid,2-0,0-0
+2015-02-15,Valencia,Getafe,1-0,0-0
+2015-02-15,Vallecano,Villarreal,2-0,0-0
+2015-02-16,Eibar,Elche,0-1,0-0
+2015-02-20,Getafe,Espanol,2-1,1-0
+2015-02-21,Ath Madrid,Almeria,3-0,3-0
+2015-02-21,Barcelona,Malaga,0-1,0-1
+2015-02-21,Cordoba,Valencia,1-2,0-1
+2015-02-21,La Coruna,Celta,0-2,0-0
+2015-02-22,Ath Bilbao,Vallecano,1-0,0-0
+2015-02-22,Sociedad,Sevilla,4-3,1-1
+2015-02-22,Villarreal,Eibar,1-0,0-0
+2015-02-22,Elche,Real Madrid,0-2,0-0
+2015-02-23,Levante,Granada,2-1,0-1
+2015-02-27,Espanol,Cordoba,1-0,1-0
+2015-02-28,Almeria,La Coruna,0-0,0-0
+2015-02-28,Granada,Barcelona,1-3,0-1
+2015-02-28,Malaga,Getafe,3-2,1-0
+2015-02-28,Vallecano,Levante,4-2,4-1
+2015-03-01,Eibar,Ath Bilbao,0-1,0-1
+2015-03-01,Real Madrid,Villarreal,1-1,0-0
+2015-03-01,Sevilla,Ath Madrid,0-0,0-0
+2015-03-01,Valencia,Sociedad,2-0,0-0
+2015-03-02,Celta,Elche,1-1,0-0
+2015-03-06,Levante,Eibar,2-1,0-0
+2015-03-07,Ath Bilbao,Real Madrid,1-0,1-0
+2015-03-07,Elche,Almeria,1-0,1-0
+2015-03-07,Granada,Malaga,1-0,0-0
+2015-03-07,La Coruna,Sevilla,3-4,1-1
+2015-03-08,Ath Madrid,Valencia,1-1,1-0
+2015-03-08,Barcelona,Vallecano,6-1,1-0
+2015-03-08,Sociedad,Espanol,1-0,1-0
+2015-03-08,Villarreal,Celta,4-1,2-0
+2015-03-09,Cordoba,Getafe,1-2,0-0
+2015-03-13,Valencia,La Coruna,2-0,0-0
+2015-03-14,Celta,Ath Bilbao,1-2,0-2
+2015-03-14,Eibar,Barcelona,0-2,0-1
+2015-03-14,Espanol,Ath Madrid,0-0,0-0
+2015-03-14,Vallecano,Granada,3-1,0-1
+2015-03-15,Almeria,Villarreal,0-0,0-0
+2015-03-15,Malaga,Cordoba,2-0,0-0
+2015-03-15,Real Madrid,Levante,2-0,2-0
+2015-03-15,Sevilla,Elche,3-0,2-0
+2015-03-16,Getafe,Sociedad,0-1,0-0
+2015-03-20,Elche,Valencia,0-4,0-1
+2015-03-21,Ath Bilbao,Almeria,2-1,2-0
+2015-03-21,Ath Madrid,Getafe,2-0,2-0
+2015-03-21,Granada,Eibar,0-0,0-0
+2015-03-21,Levante,Celta,0-1,0-0
+2015-03-21,Vallecano,Malaga,1-0,1-0
+2015-03-22,Barcelona,Real Madrid,2-1,1-1
+2015-03-22,La Coruna,Espanol,0-0,0-0
+2015-03-22,Sociedad,Cordoba,3-1,1-1
+2015-03-22,Villarreal,Sevilla,0-2,0-0
+2015-04-03,Eibar,Vallecano,1-2,1-2
+2015-04-04,Almeria,Levante,1-4,0-2
+2015-04-04,Cordoba,Ath Madrid,0-2,0-2
+2015-04-04,Malaga,Sociedad,1-1,0-0
+2015-04-04,Sevilla,Ath Bilbao,2-0,2-0
+2015-04-05,Celta,Barcelona,0-1,0-0
+2015-04-05,Getafe,La Coruna,2-1,2-0
+2015-04-05,Real Madrid,Granada,9-1,4-0
+2015-04-05,Valencia,Villarreal,0-0,0-0
+2015-04-06,Espanol,Elche,1-1,1-0
+2015-04-07,Ath Madrid,Sociedad,2-0,2-0
+2015-04-07,Eibar,Malaga,1-0,0-0
+2015-04-07,Levante,Sevilla,1-2,0-2
+2015-04-08,Barcelona,Almeria,4-0,1-0
+2015-04-08,Granada,Celta,1-1,1-0
+2015-04-08,La Coruna,Cordoba,1-1,0-0
+2015-04-08,Vallecano,Real Madrid,0-2,0-0
+2015-04-09,Ath Bilbao,Valencia,1-1,0-0
+2015-04-09,Elche,Getafe,0-1,0-0
+2015-04-09,Villarreal,Espanol,0-3,0-1
+2015-04-11,Almeria,Granada,3-0,1-0
+2015-04-11,Celta,Vallecano,6-1,4-1
+2015-04-11,Malaga,Ath Madrid,2-2,1-1
+2015-04-11,Real Madrid,Eibar,3-0,2-0
+2015-04-11,Sevilla,Barcelona,2-2,1-2
+2015-04-12,Cordoba,Elche,0-2,0-1
+2015-04-12,Espanol,Ath Bilbao,1-0,1-0
+2015-04-12,Getafe,Villarreal,1-1,0-0
+2015-04-12,Sociedad,La Coruna,2-2,1-1
+2015-04-13,Valencia,Levante,3-0,2-0
+2015-04-17,Levante,Espanol,2-2,1-2
+2015-04-18,Ath Bilbao,Getafe,4-0,1-0
+2015-04-18,Barcelona,Valencia,2-0,1-0
+2015-04-18,La Coruna,Ath Madrid,1-2,0-2
+2015-04-18,Real Madrid,Malaga,3-1,1-0
+2015-04-19,Eibar,Celta,0-1,0-1
+2015-04-19,Granada,Sevilla,1-1,1-0
+2015-04-19,Vallecano,Almeria,2-0,1-0
+2015-04-19,Villarreal,Cordoba,0-0,0-0
+2015-04-20,Elche,Sociedad,1-0,1-0
+2015-04-24,Cordoba,Ath Bilbao,0-1,0-0
+2015-04-25,Ath Madrid,Elche,3-0,0-0
+2015-04-25,Espanol,Barcelona,0-2,0-2
+2015-04-25,Getafe,Levante,0-1,0-1
+2015-04-25,Sociedad,Villarreal,0-0,0-0
+2015-04-26,Almeria,Eibar,2-0,1-0
+2015-04-26,Celta,Real Madrid,2-4,2-3
+2015-04-26,Malaga,La Coruna,1-1,0-0
+2015-04-26,Sevilla,Vallecano,2-0,2-0
+2015-04-27,Valencia,Granada,4-0,2-0
+2015-04-28,Ath Bilbao,Sociedad,1-1,0-0
+2015-04-28,Barcelona,Getafe,6-0,5-0
+2015-04-28,Levante,Cordoba,1-0,1-0
+2015-04-29,Celta,Malaga,1-0,0-0
+2015-04-29,Eibar,Sevilla,1-3,0-2
+2015-04-29,Elche,La Coruna,4-0,2-0
+2015-04-29,Real Madrid,Almeria,3-0,1-0
+2015-04-29,Villarreal,Ath Madrid,0-1,0-0
+2015-04-30,Granada,Espanol,1-2,0-1
+2015-04-30,Vallecano,Valencia,1-1,1-0
+2015-05-01,Sociedad,Levante,3-0,1-0
+2015-05-02,Ath Madrid,Ath Bilbao,0-0,0-0
+2015-05-02,Cordoba,Barcelona,0-8,0-2
+2015-05-02,La Coruna,Villarreal,1-1,0-0
+2015-05-02,Sevilla,Real Madrid,2-3,1-2
+2015-05-03,Espanol,Vallecano,1-1,0-1
+2015-05-03,Getafe,Granada,1-2,1-1
+2015-05-03,Malaga,Elche,1-2,0-1
+2015-05-03,Valencia,Eibar,3-1,1-0
+2015-05-04,Almeria,Celta,2-2,0-2
+2015-05-08,Eibar,Espanol,0-2,0-1
+2015-05-09,Ath Bilbao,La Coruna,1-1,1-0
+2015-05-09,Barcelona,Sociedad,2-0,0-0
+2015-05-09,Granada,Cordoba,2-0,1-0
+2015-05-09,Real Madrid,Valencia,2-2,0-2
+2015-05-10,Almeria,Malaga,1-2,1-1
+2015-05-10,Celta,Sevilla,1-1,0-1
+2015-05-10,Levante,Ath Madrid,2-2,1-1
+2015-05-10,Villarreal,Elche,1-0,1-0
+2015-05-11,Vallecano,Getafe,2-0,1-0
+2015-05-17,Ath Madrid,Barcelona,0-1,0-0
+2015-05-17,Cordoba,Vallecano,1-2,0-1
+2015-05-17,Elche,Ath Bilbao,2-3,2-0
+2015-05-17,Espanol,Real Madrid,1-4,0-0
+2015-05-17,Getafe,Eibar,1-1,1-1
+2015-05-17,La Coruna,Levante,2-0,1-0
+2015-05-17,Sevilla,Almeria,2-1,0-1
+2015-05-17,Sociedad,Granada,0-3,0-0
+2015-05-17,Valencia,Celta,1-1,0-1
+2015-05-17,Villarreal,Malaga,2-1,0-0
+2015-05-23,Almeria,Valencia,2-3,2-2
+2015-05-23,Ath Bilbao,Villarreal,4-0,3-0
+2015-05-23,Barcelona,La Coruna,2-2,1-0
+2015-05-23,Celta,Espanol,3-2,1-1
+2015-05-23,Eibar,Cordoba,3-0,3-0
+2015-05-23,Granada,Ath Madrid,0-0,0-0
+2015-05-23,Levante,Elche,0-0,0-0
+2015-05-23,Malaga,Sevilla,2-3,0-0
+2015-05-23,Real Madrid,Getafe,7-3,3-3
+2015-05-23,Vallecano,Sociedad,2-4,1-2
