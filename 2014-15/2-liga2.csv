@@ -1,0 +1,463 @@
+Date,Team 1,Team 2,FT,HT
+2014-08-23,Las Palmas,Llagostera,2-0,1-0
+2014-08-23,Numancia,Sp Gijon,1-2,0-0
+2014-08-23,Osasuna,Barcelona B,2-0,1-0
+2014-08-23,Recreativo,Zaragoza,0-0,0-0
+2014-08-23,Valladolid,Mallorca,2-1,1-0
+2014-08-24,Albacete,Alcorcon,2-3,1-1
+2014-08-24,Girona,Santander,1-0,1-0
+2014-08-24,Leganes,Alaves,1-1,1-0
+2014-08-24,Mirandes,Lugo,0-0,0-0
+2014-08-24,Ponferradina,Tenerife,1-0,1-0
+2014-08-24,Sabadell,Betis,2-3,0-2
+2014-08-30,Alcorcon,Girona,1-2,0-0
+2014-08-30,Barcelona B,Sabadell,3-1,1-1
+2014-08-30,Lugo,Valladolid,1-0,0-0
+2014-08-30,Santander,Mirandes,1-2,0-1
+2014-08-30,Tenerife,Albacete,1-1,0-1
+2014-08-30,Zaragoza,Osasuna,1-1,1-0
+2014-08-31,Alaves,Recreativo,0-0,0-0
+2014-08-31,Betis,Numancia,2-1,1-1
+2014-08-31,Llagostera,Leganes,2-0,1-0
+2014-08-31,Mallorca,Las Palmas,1-1,1-1
+2014-08-31,Sp Gijon,Ponferradina,2-1,0-0
+2014-09-06,Albacete,Sp Gijon,1-1,1-0
+2014-09-06,Girona,Tenerife,2-0,1-0
+2014-09-06,Osasuna,Alaves,1-3,0-1
+2014-09-06,Recreativo,Llagostera,2-0,1-0
+2014-09-06,Sabadell,Numancia,0-3,0-2
+2014-09-07,Barcelona B,Zaragoza,4-1,1-1
+2014-09-07,Las Palmas,Lugo,3-0,0-0
+2014-09-07,Leganes,Mallorca,3-1,0-1
+2014-09-07,Mirandes,Alcorcon,1-2,0-2
+2014-09-07,Ponferradina,Betis,4-1,0-1
+2014-09-07,Valladolid,Santander,3-1,1-0
+2014-09-13,Alaves,Barcelona B,2-3,0-3
+2014-09-13,Llagostera,Osasuna,0-0,0-0
+2014-09-13,Mallorca,Recreativo,1-2,0-1
+2014-09-13,Numancia,Ponferradina,1-3,1-1
+2014-09-13,Santander,Las Palmas,1-2,1-0
+2014-09-14,Alcorcon,Valladolid,0-1,0-1
+2014-09-14,Betis,Albacete,0-1,0-0
+2014-09-14,Lugo,Leganes,0-0,0-0
+2014-09-14,Sp Gijon,Girona,1-1,1-0
+2014-09-14,Tenerife,Mirandes,1-0,1-0
+2014-09-14,Zaragoza,Sabadell,1-1,1-0
+2014-09-20,Barcelona B,Llagostera,0-1,0-1
+2014-09-20,Las Palmas,Alcorcon,4-1,1-0
+2014-09-20,Mirandes,Sp Gijon,0-2,0-1
+2014-09-20,Recreativo,Lugo,0-0,0-0
+2014-09-20,Sabadell,Ponferradina,1-0,0-0
+2014-09-20,Zaragoza,Alaves,1-0,1-0
+2014-09-21,Albacete,Numancia,0-1,0-1
+2014-09-21,Girona,Betis,1-3,1-2
+2014-09-21,Leganes,Santander,2-2,0-2
+2014-09-21,Osasuna,Mallorca,6-4,1-1
+2014-09-21,Valladolid,Tenerife,2-1,1-0
+2014-09-27,Alaves,Sabadell,3-1,2-0
+2014-09-27,Llagostera,Zaragoza,0-1,0-1
+2014-09-27,Lugo,Osasuna,4-3,2-2
+2014-09-27,Santander,Recreativo,3-0,2-0
+2014-09-28,Alcorcon,Leganes,1-0,0-0
+2014-09-28,Betis,Mirandes,2-0,1-0
+2014-09-28,Mallorca,Barcelona B,3-3,2-2
+2014-09-28,Numancia,Girona,2-2,1-0
+2014-09-28,Sp Gijon,Valladolid,1-1,0-0
+2014-09-28,Tenerife,Las Palmas,2-1,1-1
+2014-09-29,Ponferradina,Albacete,1-0,1-0
+2014-10-04,Alaves,Llagostera,0-0,0-0
+2014-10-04,Barcelona B,Lugo,0-1,0-0
+2014-10-04,Girona,Ponferradina,3-0,1-0
+2014-10-04,Las Palmas,Sp Gijon,1-1,0-1
+2014-10-04,Osasuna,Santander,0-2,0-1
+2014-10-05,Leganes,Tenerife,2-0,1-0
+2014-10-05,Mirandes,Numancia,2-0,1-0
+2014-10-05,Recreativo,Alcorcon,2-1,2-0
+2014-10-05,Sabadell,Albacete,6-1,2-0
+2014-10-05,Valladolid,Betis,0-0,0-0
+2014-10-05,Zaragoza,Mallorca,2-0,0-0
+2014-10-11,Albacete,Girona,0-1,0-1
+2014-10-11,Alcorcon,Osasuna,2-0,2-0
+2014-10-11,Mallorca,Alaves,2-0,0-0
+2014-10-11,Numancia,Valladolid,0-1,0-1
+2014-10-11,Ponferradina,Mirandes,1-0,0-0
+2014-10-11,Santander,Barcelona B,0-0,0-0
+2014-10-11,Tenerife,Recreativo,0-2,0-1
+2014-10-12,Betis,Las Palmas,0-0,0-0
+2014-10-12,Llagostera,Sabadell,0-1,0-0
+2014-10-12,Lugo,Zaragoza,3-3,1-2
+2014-10-12,Sp Gijon,Leganes,2-1,0-0
+2014-10-18,Alaves,Lugo,1-0,0-0
+2014-10-18,Mirandes,Albacete,3-2,1-2
+2014-10-18,Osasuna,Tenerife,3-2,1-1
+2014-10-18,Sabadell,Girona,0-2,0-2
+2014-10-18,Valladolid,Ponferradina,0-0,0-0
+2014-10-18,Zaragoza,Santander,2-1,1-1
+2014-10-19,Barcelona B,Alcorcon,4-1,3-1
+2014-10-19,Las Palmas,Numancia,2-0,1-0
+2014-10-19,Leganes,Betis,1-0,0-0
+2014-10-19,Llagostera,Mallorca,1-4,0-1
+2014-10-19,Recreativo,Sp Gijon,1-1,1-1
+2014-10-25,Betis,Recreativo,3-2,2-1
+2014-10-25,Mallorca,Sabadell,1-0,0-0
+2014-10-25,Ponferradina,Las Palmas,2-2,1-0
+2014-10-25,Santander,Alaves,1-1,1-0
+2014-10-26,Albacete,Valladolid,3-4,1-3
+2014-10-26,Alcorcon,Zaragoza,1-3,1-1
+2014-10-26,Girona,Mirandes,3-0,1-0
+2014-10-26,Lugo,Llagostera,1-1,0-0
+2014-10-26,Numancia,Leganes,1-1,1-1
+2014-10-26,Sp Gijon,Osasuna,2-0,1-0
+2014-10-26,Tenerife,Barcelona B,2-0,1-0
+2014-11-01,Alaves,Alcorcon,1-1,0-0
+2014-11-01,Barcelona B,Sp Gijon,0-0,0-0
+2014-11-01,Las Palmas,Albacete,2-1,1-0
+2014-11-01,Llagostera,Santander,0-2,0-1
+2014-11-01,Mallorca,Lugo,2-1,0-0
+2014-11-01,Sabadell,Mirandes,3-2,1-2
+2014-11-02,Leganes,Ponferradina,1-1,1-1
+2014-11-02,Osasuna,Betis,3-2,0-2
+2014-11-02,Recreativo,Numancia,0-3,0-2
+2014-11-02,Valladolid,Girona,2-1,1-0
+2014-11-03,Zaragoza,Tenerife,2-3,1-1
+2014-11-08,Albacete,Leganes,1-0,0-0
+2014-11-08,Alcorcon,Llagostera,2-0,1-0
+2014-11-08,Betis,Barcelona B,1-0,0-0
+2014-11-08,Girona,Las Palmas,1-2,1-2
+2014-11-08,Mirandes,Valladolid,0-0,0-0
+2014-11-08,Numancia,Osasuna,0-0,0-0
+2014-11-09,Lugo,Sabadell,2-1,1-0
+2014-11-09,Ponferradina,Recreativo,3-3,1-1
+2014-11-09,Santander,Mallorca,0-1,0-1
+2014-11-09,Sp Gijon,Zaragoza,3-1,1-1
+2014-11-09,Tenerife,Alaves,1-1,0-1
+2014-11-15,Alaves,Sp Gijon,0-0,0-0
+2014-11-15,Barcelona B,Numancia,1-1,0-0
+2014-11-15,Las Palmas,Mirandes,0-0,0-0
+2014-11-15,Leganes,Girona,1-2,1-1
+2014-11-15,Mallorca,Alcorcon,1-1,1-1
+2014-11-15,Osasuna,Ponferradina,0-1,0-1
+2014-11-15,Sabadell,Valladolid,0-0,0-0
+2014-11-16,Llagostera,Tenerife,2-0,0-0
+2014-11-16,Lugo,Santander,0-0,0-0
+2014-11-16,Recreativo,Albacete,4-1,2-1
+2014-11-16,Zaragoza,Betis,2-2,0-1
+2014-11-22,Numancia,Zaragoza,2-0,1-0
+2014-11-22,Ponferradina,Barcelona B,4-4,1-3
+2014-11-22,Santander,Sabadell,3-1,2-1
+2014-11-22,Sp Gijon,Llagostera,0-0,0-0
+2014-11-22,Tenerife,Mallorca,0-0,0-0
+2014-11-23,Albacete,Osasuna,2-0,1-0
+2014-11-23,Alcorcon,Lugo,1-0,0-0
+2014-11-23,Betis,Alaves,1-2,0-2
+2014-11-23,Girona,Recreativo,2-0,2-0
+2014-11-23,Mirandes,Leganes,1-0,0-0
+2014-11-23,Valladolid,Las Palmas,1-2,1-0
+2014-11-29,Alaves,Numancia,0-2,0-0
+2014-11-29,Leganes,Valladolid,1-0,0-0
+2014-11-29,Llagostera,Betis,0-2,0-0
+2014-11-29,Osasuna,Girona,0-0,0-0
+2014-11-30,Barcelona B,Albacete,1-2,1-0
+2014-11-30,Lugo,Tenerife,1-0,0-0
+2014-11-30,Mallorca,Sp Gijon,0-1,0-0
+2014-11-30,Recreativo,Mirandes,0-1,0-0
+2014-11-30,Santander,Alcorcon,0-1,0-1
+2014-11-30,Zaragoza,Ponferradina,4-1,3-0
+2014-12-06,Las Palmas,Leganes,1-0,0-0
+2014-12-06,Mirandes,Osasuna,1-0,0-0
+2014-12-06,Numancia,Llagostera,3-2,0-0
+2014-12-06,Ponferradina,Alaves,2-1,0-1
+2014-12-07,Alcorcon,Sabadell,3-2,3-1
+2014-12-07,Girona,Barcelona B,0-1,0-0
+2014-12-07,Sp Gijon,Lugo,2-1,1-1
+2014-12-07,Tenerife,Santander,1-0,0-0
+2014-12-07,Valladolid,Recreativo,1-0,1-0
+2014-12-08,Albacete,Zaragoza,2-2,1-1
+2014-12-08,Betis,Mallorca,1-0,0-0
+2014-12-10,Sabadell,Las Palmas,2-2,1-1
+2014-12-13,Barcelona B,Mirandes,1-3,0-1
+2014-12-13,Lugo,Betis,0-1,0-0
+2014-12-13,Recreativo,Las Palmas,2-4,0-3
+2014-12-13,Santander,Sp Gijon,1-1,0-1
+2014-12-14,Alaves,Albacete,2-1,1-1
+2014-12-14,Alcorcon,Tenerife,0-0,0-0
+2014-12-14,Llagostera,Ponferradina,3-1,0-0
+2014-12-14,Mallorca,Numancia,1-1,0-1
+2014-12-14,Osasuna,Valladolid,2-1,2-1
+2014-12-14,Sabadell,Leganes,1-2,0-2
+2014-12-14,Zaragoza,Girona,2-1,0-1
+2014-12-20,Girona,Alaves,2-2,1-1
+2014-12-20,Mirandes,Zaragoza,1-1,0-0
+2014-12-20,Numancia,Lugo,6-6,1-1
+2014-12-20,Ponferradina,Mallorca,3-1,1-0
+2014-12-20,Tenerife,Sabadell,1-0,1-0
+2014-12-21,Albacete,Llagostera,0-2,0-1
+2014-12-21,Betis,Santander,2-0,1-0
+2014-12-21,Las Palmas,Osasuna,1-2,1-0
+2014-12-21,Leganes,Recreativo,2-0,1-0
+2014-12-21,Sp Gijon,Alcorcon,2-1,2-0
+2014-12-21,Valladolid,Barcelona B,7-0,4-0
+2015-01-03,Alaves,Mirandes,1-3,0-2
+2015-01-03,Barcelona B,Las Palmas,0-2,0-1
+2015-01-03,Llagostera,Girona,1-2,1-2
+2015-01-03,Mallorca,Albacete,2-0,0-0
+2015-01-03,Osasuna,Leganes,2-1,0-0
+2015-01-04,Alcorcon,Betis,0-0,0-0
+2015-01-04,Lugo,Ponferradina,0-0,0-0
+2015-01-04,Sabadell,Recreativo,1-0,0-0
+2015-01-04,Santander,Numancia,1-1,0-1
+2015-01-04,Tenerife,Sp Gijon,1-1,1-0
+2015-01-04,Zaragoza,Valladolid,0-2,0-2
+2015-01-10,Albacete,Lugo,3-0,1-0
+2015-01-10,Betis,Tenerife,3-1,1-0
+2015-01-10,Girona,Mallorca,0-0,0-0
+2015-01-10,Leganes,Barcelona B,2-0,1-0
+2015-01-10,Recreativo,Osasuna,1-1,0-0
+2015-01-11,Las Palmas,Zaragoza,5-3,1-1
+2015-01-11,Mirandes,Llagostera,1-0,0-0
+2015-01-11,Numancia,Alcorcon,2-2,1-1
+2015-01-11,Ponferradina,Santander,1-1,0-0
+2015-01-11,Sabadell,Sp Gijon,2-2,1-2
+2015-01-11,Valladolid,Alaves,2-0,1-0
+2015-01-17,Alaves,Las Palmas,1-1,0-0
+2015-01-17,Lugo,Girona,1-2,1-2
+2015-01-17,Osasuna,Sabadell,0-0,0-0
+2015-01-17,Santander,Albacete,1-0,1-0
+2015-01-18,Alcorcon,Ponferradina,1-1,1-1
+2015-01-18,Barcelona B,Recreativo,3-1,0-0
+2015-01-18,Llagostera,Valladolid,2-0,0-0
+2015-01-18,Mallorca,Mirandes,2-0,0-0
+2015-01-18,Sp Gijon,Betis,1-2,1-0
+2015-01-18,Tenerife,Numancia,0-0,0-0
+2015-01-18,Zaragoza,Leganes,2-0,1-0
+2015-01-24,Alaves,Leganes,2-0,1-0
+2015-01-24,Betis,Sabadell,2-0,2-0
+2015-01-24,Tenerife,Ponferradina,0-1,0-1
+2015-01-24,Zaragoza,Recreativo,2-0,0-0
+2015-01-25,Alcorcon,Albacete,2-3,1-2
+2015-01-25,Barcelona B,Osasuna,0-1,0-1
+2015-01-25,Llagostera,Las Palmas,0-0,0-0
+2015-01-25,Lugo,Mirandes,1-1,0-1
+2015-01-25,Mallorca,Valladolid,1-5,1-3
+2015-01-25,Santander,Girona,0-1,0-1
+2015-01-25,Sp Gijon,Numancia,3-0,0-0
+2015-01-31,Albacete,Tenerife,3-2,1-1
+2015-01-31,Las Palmas,Mallorca,2-1,0-1
+2015-01-31,Leganes,Llagostera,2-0,0-0
+2015-01-31,Mirandes,Santander,0-2,0-0
+2015-01-31,Numancia,Betis,1-1,1-1
+2015-01-31,Ponferradina,Sp Gijon,0-2,0-1
+2015-01-31,Sabadell,Barcelona B,1-4,1-3
+2015-02-01,Girona,Alcorcon,3-0,0-0
+2015-02-01,Recreativo,Alaves,0-0,0-0
+2015-02-01,Valladolid,Lugo,0-0,0-0
+2015-02-07,Alcorcon,Mirandes,2-2,0-1
+2015-02-07,Llagostera,Recreativo,1-0,0-0
+2015-02-07,Santander,Valladolid,1-4,0-1
+2015-02-07,Zaragoza,Barcelona B,4-0,3-0
+2015-02-08,Betis,Ponferradina,1-1,1-0
+2015-02-08,Lugo,Las Palmas,2-1,0-1
+2015-02-08,Mallorca,Leganes,0-2,0-2
+2015-02-08,Numancia,Sabadell,3-0,1-0
+2015-02-08,Sp Gijon,Albacete,2-1,0-0
+2015-02-08,Tenerife,Girona,0-1,0-1
+2015-02-10,Osasuna,Zaragoza,0-1,0-1
+2015-02-14,Barcelona B,Alaves,0-0,0-0
+2015-02-14,Mirandes,Tenerife,1-1,0-1
+2015-02-14,Osasuna,Llagostera,0-1,0-0
+2015-02-14,Recreativo,Mallorca,0-0,0-0
+2015-02-15,Albacete,Betis,0-0,0-0
+2015-02-15,Girona,Sp Gijon,0-0,0-0
+2015-02-15,Las Palmas,Santander,1-0,1-0
+2015-02-15,Leganes,Lugo,2-0,0-0
+2015-02-15,Ponferradina,Numancia,1-2,1-0
+2015-02-15,Sabadell,Zaragoza,0-0,0-0
+2015-02-15,Valladolid,Alcorcon,1-0,1-0
+2015-02-21,Alcorcon,Las Palmas,0-0,0-0
+2015-02-21,Betis,Girona,2-1,0-0
+2015-02-21,Mallorca,Osasuna,3-0,2-0
+2015-02-21,Santander,Leganes,1-2,1-1
+2015-02-22,Alaves,Zaragoza,4-0,1-0
+2015-02-22,Llagostera,Barcelona B,1-0,1-0
+2015-02-22,Lugo,Recreativo,2-1,1-0
+2015-02-22,Numancia,Albacete,1-1,0-0
+2015-02-22,Ponferradina,Sabadell,3-0,1-0
+2015-02-22,Sp Gijon,Mirandes,4-1,2-0
+2015-02-22,Tenerife,Valladolid,2-0,0-0
+2015-02-28,Barcelona B,Mallorca,2-4,1-2
+2015-02-28,Osasuna,Lugo,0-2,0-2
+2015-02-28,Sabadell,Alaves,2-1,1-0
+2015-02-28,Valladolid,Sp Gijon,3-0,2-0
+2015-03-01,Albacete,Ponferradina,2-1,1-1
+2015-03-01,Girona,Numancia,2-1,1-1
+2015-03-01,Las Palmas,Tenerife,1-1,0-0
+2015-03-01,Leganes,Alcorcon,1-2,0-1
+2015-03-01,Mirandes,Betis,0-0,0-0
+2015-03-01,Recreativo,Santander,1-0,0-0
+2015-03-01,Zaragoza,Llagostera,2-2,1-1
+2015-03-07,Albacete,Sabadell,0-0,0-0
+2015-03-07,Lugo,Barcelona B,3-2,1-1
+2015-03-07,Numancia,Mirandes,1-0,0-0
+2015-03-07,Santander,Osasuna,2-0,1-0
+2015-03-07,Tenerife,Leganes,1-0,1-0
+2015-03-08,Alcorcon,Recreativo,1-1,1-0
+2015-03-08,Betis,Valladolid,4-0,1-0
+2015-03-08,Llagostera,Alaves,3-1,3-0
+2015-03-08,Mallorca,Zaragoza,3-2,2-2
+2015-03-08,Ponferradina,Girona,3-0,2-0
+2015-03-08,Sp Gijon,Las Palmas,1-1,0-0
+2015-03-14,Alaves,Mallorca,2-0,1-0
+2015-03-14,Leganes,Sp Gijon,0-1,0-1
+2015-03-14,Osasuna,Alcorcon,1-1,1-0
+2015-03-14,Recreativo,Tenerife,1-1,1-1
+2015-03-14,Sabadell,Llagostera,1-1,0-1
+2015-03-14,Valladolid,Numancia,4-0,3-0
+2015-03-14,Zaragoza,Lugo,0-0,0-0
+2015-03-15,Barcelona B,Santander,1-1,0-0
+2015-03-15,Girona,Albacete,2-2,1-0
+2015-03-15,Las Palmas,Betis,0-3,0-0
+2015-03-15,Mirandes,Ponferradina,2-1,0-0
+2015-03-18,Alaves,Osasuna,3-0,1-0
+2015-03-21,Albacete,Mirandes,0-0,0-0
+2015-03-21,Alcorcon,Barcelona B,3-1,2-1
+2015-03-21,Betis,Leganes,1-3,0-2
+2015-03-21,Mallorca,Llagostera,0-1,0-0
+2015-03-21,Numancia,Las Palmas,4-2,3-1
+2015-03-22,Girona,Sabadell,0-0,0-0
+2015-03-22,Lugo,Alaves,3-2,1-0
+2015-03-22,Ponferradina,Valladolid,2-0,1-0
+2015-03-22,Santander,Zaragoza,0-2,0-0
+2015-03-22,Sp Gijon,Recreativo,1-1,1-1
+2015-03-22,Tenerife,Osasuna,2-1,1-0
+2015-03-28,Alaves,Santander,2-1,1-1
+2015-03-28,Las Palmas,Ponferradina,4-2,2-1
+2015-03-28,Leganes,Numancia,0-0,0-0
+2015-03-28,Llagostera,Lugo,3-2,2-1
+2015-03-28,Recreativo,Betis,0-1,0-0
+2015-03-28,Valladolid,Albacete,0-1,0-1
+2015-03-29,Barcelona B,Tenerife,2-2,2-1
+2015-03-29,Mirandes,Girona,0-1,0-1
+2015-03-29,Osasuna,Sp Gijon,0-0,0-0
+2015-03-29,Sabadell,Mallorca,1-1,1-0
+2015-03-29,Zaragoza,Alcorcon,1-1,1-0
+2015-04-04,Albacete,Las Palmas,1-0,0-0
+2015-04-04,Girona,Valladolid,2-1,1-1
+2015-04-04,Lugo,Mallorca,4-0,3-0
+2015-04-04,Mirandes,Sabadell,0-0,0-0
+2015-04-05,Alcorcon,Alaves,0-1,0-0
+2015-04-05,Betis,Osasuna,3-0,0-0
+2015-04-05,Numancia,Recreativo,1-2,1-1
+2015-04-05,Ponferradina,Leganes,1-1,0-1
+2015-04-05,Santander,Llagostera,0-2,0-1
+2015-04-05,Sp Gijon,Barcelona B,0-0,0-0
+2015-04-05,Tenerife,Zaragoza,1-1,1-0
+2015-04-11,Alaves,Tenerife,1-0,1-0
+2015-04-11,Llagostera,Alcorcon,0-0,0-0
+2015-04-11,Mallorca,Santander,2-3,0-1
+2015-04-11,Sabadell,Lugo,2-1,1-1
+2015-04-11,Valladolid,Mirandes,2-1,2-0
+2015-04-11,Zaragoza,Sp Gijon,1-1,0-0
+2015-04-12,Barcelona B,Betis,1-2,1-1
+2015-04-12,Las Palmas,Girona,2-0,1-0
+2015-04-12,Leganes,Albacete,2-0,2-0
+2015-04-12,Osasuna,Numancia,1-1,0-1
+2015-04-12,Recreativo,Ponferradina,0-1,0-0
+2015-04-18,Albacete,Recreativo,3-1,2-0
+2015-04-18,Girona,Leganes,2-1,0-0
+2015-04-18,Mirandes,Las Palmas,2-1,1-0
+2015-04-18,Ponferradina,Osasuna,1-0,1-0
+2015-04-18,Santander,Lugo,1-0,0-0
+2015-04-18,Sp Gijon,Alaves,1-0,0-0
+2015-04-19,Alcorcon,Mallorca,0-0,0-0
+2015-04-19,Betis,Zaragoza,4-0,1-0
+2015-04-19,Numancia,Barcelona B,1-0,1-0
+2015-04-19,Tenerife,Llagostera,0-0,0-0
+2015-04-19,Valladolid,Sabadell,0-0,0-0
+2015-04-25,Alaves,Betis,1-2,0-1
+2015-04-25,Barcelona B,Ponferradina,2-1,0-0
+2015-04-25,Lugo,Alcorcon,0-0,0-0
+2015-04-25,Mallorca,Tenerife,2-1,0-1
+2015-04-25,Osasuna,Albacete,2-1,1-0
+2015-04-26,Las Palmas,Valladolid,1-1,0-0
+2015-04-26,Leganes,Mirandes,0-0,0-0
+2015-04-26,Llagostera,Sp Gijon,0-0,0-0
+2015-04-26,Recreativo,Girona,0-3,0-2
+2015-04-26,Sabadell,Santander,3-2,1-1
+2015-04-26,Zaragoza,Numancia,1-0,1-0
+2015-05-02,Alcorcon,Santander,2-0,1-0
+2015-05-02,Betis,Llagostera,2-2,0-1
+2015-05-02,Girona,Osasuna,3-0,1-0
+2015-05-02,Las Palmas,Sabadell,2-0,0-0
+2015-05-02,Numancia,Alaves,1-0,0-0
+2015-05-03,Albacete,Barcelona B,2-1,0-0
+2015-05-03,Mirandes,Recreativo,2-1,1-0
+2015-05-03,Ponferradina,Zaragoza,1-1,0-0
+2015-05-03,Sp Gijon,Mallorca,1-0,1-0
+2015-05-03,Tenerife,Lugo,1-1,0-0
+2015-05-03,Valladolid,Leganes,2-0,1-0
+2015-05-09,Barcelona B,Girona,2-4,1-1
+2015-05-09,Leganes,Las Palmas,2-1,0-0
+2015-05-09,Lugo,Sp Gijon,1-2,0-2
+2015-05-09,Recreativo,Valladolid,0-3,0-3
+2015-05-09,Sabadell,Alcorcon,0-1,0-1
+2015-05-10,Alaves,Ponferradina,2-1,1-1
+2015-05-10,Llagostera,Numancia,0-0,0-0
+2015-05-10,Mallorca,Betis,1-2,1-2
+2015-05-10,Osasuna,Mirandes,2-0,1-0
+2015-05-10,Santander,Tenerife,1-0,1-0
+2015-05-10,Zaragoza,Albacete,3-1,2-0
+2015-05-16,Albacete,Alaves,2-3,1-1
+2015-05-16,Las Palmas,Recreativo,3-0,2-0
+2015-05-16,Leganes,Sabadell,1-1,1-0
+2015-05-16,Mirandes,Barcelona B,2-3,1-1
+2015-05-16,Numancia,Mallorca,1-2,1-1
+2015-05-16,Sp Gijon,Santander,3-1,1-1
+2015-05-16,Valladolid,Osasuna,1-1,0-0
+2015-05-17,Betis,Lugo,5-1,2-1
+2015-05-17,Girona,Zaragoza,1-1,0-1
+2015-05-17,Ponferradina,Llagostera,0-1,0-0
+2015-05-17,Tenerife,Alcorcon,1-1,1-1
+2015-05-19,Barcelona B,Valladolid,1-3,0-1
+2015-05-19,Osasuna,Las Palmas,1-2,1-2
+2015-05-20,Alaves,Girona,0-3,0-1
+2015-05-20,Alcorcon,Sp Gijon,0-0,0-0
+2015-05-20,Lugo,Numancia,1-1,0-1
+2015-05-20,Mallorca,Ponferradina,1-0,0-0
+2015-05-20,Recreativo,Leganes,1-0,0-0
+2015-05-20,Sabadell,Tenerife,1-3,0-3
+2015-05-20,Zaragoza,Mirandes,0-1,0-1
+2015-05-21,Llagostera,Albacete,2-3,1-2
+2015-05-21,Santander,Betis,2-4,1-2
+2015-05-23,Las Palmas,Barcelona B,4-3,2-0
+2015-05-23,Leganes,Osasuna,1-1,0-1
+2015-05-23,Mirandes,Alaves,3-0,2-0
+2015-05-23,Ponferradina,Lugo,1-0,1-0
+2015-05-23,Recreativo,Sabadell,3-1,1-0
+2015-05-24,Albacete,Mallorca,4-2,2-2
+2015-05-24,Betis,Alcorcon,3-0,1-0
+2015-05-24,Girona,Llagostera,1-0,0-0
+2015-05-24,Numancia,Santander,0-2,0-1
+2015-05-24,Sp Gijon,Tenerife,2-0,1-0
+2015-05-24,Valladolid,Zaragoza,1-3,1-0
+2015-05-31,Alaves,Valladolid,0-2,0-0
+2015-05-31,Alcorcon,Numancia,1-1,1-0
+2015-05-31,Barcelona B,Leganes,2-5,1-1
+2015-05-31,Llagostera,Mirandes,0-1,0-0
+2015-05-31,Lugo,Albacete,1-1,1-0
+2015-05-31,Mallorca,Girona,0-1,0-0
+2015-05-31,Osasuna,Recreativo,2-0,2-0
+2015-05-31,Santander,Ponferradina,0-1,0-0
+2015-05-31,Sp Gijon,Sabadell,2-0,2-0
+2015-05-31,Tenerife,Betis,2-0,0-0
+2015-05-31,Zaragoza,Las Palmas,0-2,0-2
+2015-06-07,Albacete,Santander,0-1,0-1
+2015-06-07,Betis,Sp Gijon,0-3,0-1
+2015-06-07,Girona,Lugo,1-1,1-0
+2015-06-07,Las Palmas,Alaves,3-2,2-0
+2015-06-07,Leganes,Zaragoza,2-2,2-2
+2015-06-07,Mirandes,Mallorca,2-0,1-0
+2015-06-07,Numancia,Tenerife,3-3,1-1
+2015-06-07,Ponferradina,Alcorcon,1-1,1-1
+2015-06-07,Recreativo,Barcelona B,2-0,2-0
+2015-06-07,Sabadell,Osasuna,2-2,2-0
+2015-06-07,Valladolid,Llagostera,2-4,1-2
