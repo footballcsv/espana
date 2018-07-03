@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2013-08-16,Girona,Alaves,1-0,0-0
-2013-08-17,Cordoba,Ponferradina,1-0,0-0
-2013-08-17,Hercules,Zaragoza,1-1,0-0
-2013-08-17,Las Palmas,La Coruna,0-1,0-0
-2013-08-17,Lugo,Numancia,0-0,0-0
-2013-08-17,Mirandes,Barcelona B,2-1,1-0
-2013-08-18,Alcorcon,Tenerife,1-0,0-0
-2013-08-18,Jaen,Eibar,1-2,0-1
-2013-08-18,Murcia,Recreativo,2-3,0-1
-2013-08-18,Sabadell,Mallorca,4-0,2-0
-2013-08-18,Sp Gijon,Real Madrid B,1-0,1-0
-2013-08-24,Alaves,Las Palmas,1-1,0-1
-2013-08-24,Barcelona B,Lugo,2-1,1-1
-2013-08-24,Eibar,Girona,0-3,0-0
-2013-08-24,La Coruna,Cordoba,0-1,0-0
-2013-08-24,Real Madrid B,Alcorcon,0-1,0-1
-2013-08-24,Zaragoza,Mirandes,0-0,0-0
-2013-08-25,Mallorca,Murcia,2-4,0-2
-2013-08-25,Numancia,Jaen,4-2,3-1
-2013-08-25,Ponferradina,Sabadell,2-0,0-0
-2013-08-25,Recreativo,Sp Gijon,1-1,0-0
-2013-08-25,Tenerife,Hercules,0-0,0-0
-2013-08-31,Barcelona B,Zaragoza,1-0,0-0
-2013-08-31,Girona,Numancia,2-2,0-1
-2013-08-31,Hercules,Real Madrid B,2-1,1-1
-2013-08-31,Las Palmas,Eibar,1-1,0-1
-2013-08-31,Sabadell,La Coruna,0-3,0-0
-2013-09-01,Alcorcon,Recreativo,3-0,1-0
-2013-09-01,Cordoba,Alaves,1-1,0-1
-2013-09-01,Lugo,Jaen,4-2,4-1
-2013-09-01,Mirandes,Tenerife,2-0,0-0
-2013-09-01,Murcia,Ponferradina,2-2,1-1
-2013-09-01,Sp Gijon,Mallorca,3-0,1-0
-2013-09-07,Alaves,Sabadell,1-1,1-0
-2013-09-07,Mallorca,Alcorcon,2-1,1-0
-2013-09-07,Numancia,Las Palmas,1-1,0-0
-2013-09-07,Zaragoza,Lugo,0-1,0-0
-2013-09-08,Eibar,Cordoba,1-0,0-0
-2013-09-08,Jaen,Girona,3-1,1-0
-2013-09-08,La Coruna,Murcia,0-1,0-1
-2013-09-08,Ponferradina,Sp Gijon,2-2,1-1
-2013-09-08,Real Madrid B,Mirandes,0-1,0-1
-2013-09-08,Recreativo,Hercules,2-0,1-0
-2013-09-08,Tenerife,Barcelona B,2-2,1-0
-2013-09-14,Cordoba,Numancia,3-1,1-1
-2013-09-14,Lugo,Girona,1-2,1-0
-2013-09-14,Mirandes,Recreativo,0-3,0-1
-2013-09-14,Sabadell,Eibar,1-0,0-0
-2013-09-14,Zaragoza,Tenerife,3-0,0-0
-2013-09-15,Alcorcon,Ponferradina,0-1,0-1
-2013-09-15,Barcelona B,Real Madrid B,2-0,2-0
-2013-09-15,Hercules,Mallorca,2-2,0-1
-2013-09-15,Las Palmas,Jaen,1-0,1-0
-2013-09-15,Murcia,Alaves,2-1,0-0
-2013-09-15,Sp Gijon,La Coruna,2-0,0-0
-2013-09-20,Recreativo,Barcelona B,3-0,0-0
-2013-09-21,Eibar,Murcia,0-0,0-0
-2013-09-21,Numancia,Sabadell,3-1,1-1
-2013-09-21,Real Madrid B,Zaragoza,1-2,0-1
-2013-09-21,Tenerife,Lugo,0-1,0-0
-2013-09-22,Alaves,Sp Gijon,3-0,2-0
-2013-09-22,Girona,Las Palmas,0-2,0-0
-2013-09-22,Jaen,Cordoba,0-0,0-0
-2013-09-22,La Coruna,Alcorcon,1-0,1-0
-2013-09-22,Mallorca,Mirandes,1-0,1-0
-2013-09-22,Ponferradina,Hercules,5-1,3-0
-2013-09-28,Alcorcon,Alaves,2-0,1-0
-2013-09-28,Lugo,Las Palmas,3-0,2-0
-2013-09-28,Sabadell,Jaen,3-0,1-0
-2013-09-28,Sp Gijon,Eibar,3-2,1-1
-2013-09-29,Barcelona B,Mallorca,0-1,0-0
-2013-09-29,Cordoba,Girona,2-0,0-0
-2013-09-29,Hercules,La Coruna,0-2,0-2
-2013-09-29,Mirandes,Ponferradina,1-0,0-0
-2013-09-29,Murcia,Numancia,2-1,1-0
-2013-09-29,Tenerife,Real Madrid B,1-0,0-0
-2013-09-29,Zaragoza,Recreativo,1-2,0-1
-2013-10-05,La Coruna,Mirandes,0-0,0-0
-2013-10-05,Las Palmas,Cordoba,2-0,0-0
-2013-10-05,Numancia,Sp Gijon,0-0,0-0
-2013-10-06,Alaves,Hercules,3-1,1-1
-2013-10-06,Eibar,Alcorcon,0-0,0-0
-2013-10-06,Girona,Sabadell,1-1,0-0
-2013-10-06,Jaen,Murcia,3-2,2-0
-2013-10-06,Mallorca,Zaragoza,2-4,1-3
-2013-10-06,Ponferradina,Barcelona B,1-0,0-0
-2013-10-06,Real Madrid B,Lugo,2-0,2-0
-2013-10-06,Recreativo,Tenerife,2-1,0-0
-2013-10-12,Lugo,Cordoba,1-0,0-0
-2013-10-12,Mirandes,Alaves,2-3,1-3
-2013-10-12,Murcia,Girona,1-0,0-0
-2013-10-12,Real Madrid B,Recreativo,1-2,1-2
-2013-10-12,Sabadell,Las Palmas,0-0,0-0
-2013-10-13,Alcorcon,Numancia,0-1,0-0
-2013-10-13,Barcelona B,La Coruna,0-1,0-1
-2013-10-13,Hercules,Eibar,0-0,0-0
-2013-10-13,Sp Gijon,Jaen,1-1,1-0
-2013-10-13,Tenerife,Mallorca,0-1,0-0
-2013-10-13,Zaragoza,Ponferradina,2-1,1-1
-2013-10-19,Alaves,Barcelona B,2-3,1-2
-2013-10-19,Cordoba,Sabadell,1-0,1-0
-2013-10-19,Ponferradina,Tenerife,0-1,0-0
-2013-10-19,Recreativo,Lugo,3-3,0-3
-2013-10-20,Eibar,Mirandes,1-0,0-0
-2013-10-20,Girona,Sp Gijon,2-1,0-1
-2013-10-20,Jaen,Alcorcon,1-0,0-0
-2013-10-20,La Coruna,Zaragoza,1-1,0-0
-2013-10-20,Las Palmas,Murcia,0-0,0-0
-2013-10-20,Mallorca,Real Madrid B,2-0,2-0
-2013-10-20,Numancia,Hercules,1-1,0-1
-2013-10-26,Tenerife,La Coruna,2-0,0-0
-2013-10-26,Zaragoza,Alaves,2-2,2-0
-2013-10-27,Alcorcon,Girona,0-0,0-0
-2013-10-27,Barcelona B,Eibar,0-2,0-0
-2013-10-27,Hercules,Jaen,0-1,0-0
-2013-10-27,Lugo,Sabadell,1-0,1-0
-2013-10-27,Mirandes,Numancia,0-0,0-0
-2013-10-27,Murcia,Cordoba,2-2,0-0
-2013-10-27,Real Madrid B,Ponferradina,1-1,1-0
-2013-10-27,Recreativo,Mallorca,3-1,1-1
-2013-10-27,Sp Gijon,Las Palmas,2-3,2-2
-2013-11-02,Eibar,Zaragoza,3-2,2-0
-2013-11-02,Girona,Hercules,2-2,1-1
-2013-11-02,Las Palmas,Alcorcon,1-0,0-0
-2013-11-02,Mallorca,Lugo,0-0,0-0
-2013-11-02,Numancia,Barcelona B,1-0,0-0
-2013-11-03,Alaves,Tenerife,2-2,2-0
-2013-11-03,Cordoba,Sp Gijon,2-2,1-0
-2013-11-03,Jaen,Mirandes,1-2,0-1
-2013-11-03,La Coruna,Real Madrid B,2-0,1-0
-2013-11-03,Ponferradina,Recreativo,3-1,1-0
-2013-11-03,Sabadell,Murcia,2-1,1-1
-2013-11-09,Alcorcon,Cordoba,0-0,0-0
-2013-11-09,Barcelona B,Jaen,0-3,0-2
-2013-11-09,Hercules,Las Palmas,2-1,1-1
-2013-11-09,Lugo,Murcia,1-1,0-0
-2013-11-09,Zaragoza,Numancia,1-2,0-0
-2013-11-10,Mallorca,Ponferradina,2-2,2-1
-2013-11-10,Mirandes,Girona,1-2,0-2
-2013-11-10,Real Madrid B,Alaves,1-0,1-0
-2013-11-10,Recreativo,La Coruna,0-1,0-0
-2013-11-10,Sp Gijon,Sabadell,3-1,0-0
-2013-11-10,Tenerife,Eibar,2-0,1-0
-2013-11-16,Alaves,Recreativo,3-3,2-1
-2013-11-16,Girona,Barcelona B,1-2,1-1
-2013-11-16,Jaen,Zaragoza,3-0,2-0
-2013-11-16,Las Palmas,Mirandes,3-1,1-0
-2013-11-16,Murcia,Sp Gijon,1-1,1-1
-2013-11-16,Ponferradina,Lugo,0-2,0-0
-2013-11-16,Sabadell,Alcorcon,1-2,0-1
-2013-11-17,Cordoba,Hercules,4-2,2-0
-2013-11-17,Eibar,Real Madrid B,6-0,1-0
-2013-11-17,La Coruna,Mallorca,3-1,2-0
-2013-11-17,Numancia,Tenerife,0-0,0-0
-2013-11-23,Barcelona B,Las Palmas,1-2,1-0
-2013-11-23,Mallorca,Alaves,2-1,0-0
-2013-11-23,Real Madrid B,Numancia,0-0,0-0
-2013-11-24,Alcorcon,Murcia,0-0,0-0
-2013-11-24,Hercules,Sabadell,3-0,0-0
-2013-11-24,Lugo,Sp Gijon,1-3,1-2
-2013-11-24,Mirandes,Cordoba,3-1,2-1
-2013-11-24,Ponferradina,La Coruna,0-1,0-1
-2013-11-24,Recreativo,Eibar,1-2,0-0
-2013-11-24,Tenerife,Jaen,2-1,1-0
-2013-11-24,Zaragoza,Girona,1-0,0-0
-2013-11-30,Cordoba,Barcelona B,1-2,0-1
-2013-11-30,Eibar,Mallorca,0-1,0-0
-2013-11-30,La Coruna,Lugo,0-0,0-0
-2013-11-30,Las Palmas,Zaragoza,0-1,0-0
-2013-12-01,Alaves,Ponferradina,2-2,1-0
-2013-12-01,Girona,Tenerife,2-2,0-1
-2013-12-01,Jaen,Real Madrid B,0-1,0-0
-2013-12-01,Murcia,Hercules,1-2,0-2
-2013-12-01,Numancia,Recreativo,2-3,2-1
-2013-12-01,Sabadell,Mirandes,3-1,2-0
-2013-12-01,Sp Gijon,Alcorcon,2-2,1-2
-2013-12-04,Lugo,Alcorcon,1-2,0-0
-2013-12-04,Real Madrid B,Girona,3-2,1-1
-2013-12-04,Recreativo,Jaen,1-1,1-1
-2013-12-04,Tenerife,Las Palmas,3-0,1-0
-2013-12-07,Barcelona B,Sabadell,2-0,0-0
-2013-12-07,Hercules,Sp Gijon,0-1,0-1
-2013-12-07,La Coruna,Alaves,2-1,1-0
-2013-12-08,Mallorca,Numancia,0-0,0-0
-2013-12-08,Mirandes,Murcia,1-1,0-1
-2013-12-08,Ponferradina,Eibar,2-1,1-1
-2013-12-08,Zaragoza,Cordoba,2-1,1-0
-2013-12-14,Alaves,Lugo,2-1,1-0
-2013-12-14,Alcorcon,Hercules,0-2,0-0
-2013-12-14,Girona,Recreativo,1-1,1-0
-2013-12-14,Las Palmas,Real Madrid B,0-2,0-1
-2013-12-14,Numancia,Ponferradina,2-0,1-0
-2013-12-14,Sabadell,Zaragoza,1-0,0-0
-2013-12-15,Cordoba,Tenerife,1-0,0-0
-2013-12-15,Eibar,La Coruna,2-1,1-0
-2013-12-15,Jaen,Mallorca,2-1,2-0
-2013-12-15,Murcia,Barcelona B,3-1,0-1
-2013-12-15,Sp Gijon,Mirandes,3-2,3-1
-2013-12-21,Alaves,Eibar,0-2,0-1
-2013-12-21,Barcelona B,Sp Gijon,2-2,1-1
-2013-12-21,La Coruna,Numancia,3-3,2-1
-2013-12-21,Lugo,Hercules,1-3,0-2
-2013-12-21,Real Madrid B,Cordoba,3-1,1-0
-2013-12-21,Tenerife,Sabadell,0-3,0-1
-2013-12-22,Mallorca,Girona,2-0,1-0
-2013-12-22,Mirandes,Alcorcon,1-1,0-0
-2013-12-22,Ponferradina,Jaen,1-0,1-0
-2013-12-22,Recreativo,Las Palmas,1-3,1-2
-2013-12-22,Zaragoza,Murcia,0-0,0-0
-2014-01-04,Cordoba,Recreativo,2-0,1-0
-2014-01-04,Hercules,Mirandes,1-0,1-0
-2014-01-04,Las Palmas,Mallorca,2-2,1-0
-2014-01-04,Lugo,Eibar,0-0,0-0
-2014-01-04,Murcia,Tenerife,1-2,1-2
-2014-01-04,Numancia,Alaves,0-2,0-0
-2014-01-04,Sabadell,Real Madrid B,3-2,2-1
-2014-01-05,Alcorcon,Barcelona B,2-2,0-1
-2014-01-05,Girona,Ponferradina,1-1,0-0
-2014-01-05,Jaen,La Coruna,0-0,0-0
-2014-01-05,Sp Gijon,Zaragoza,2-3,1-1
-2014-01-11,Alaves,Jaen,1-2,0-0
-2014-01-11,La Coruna,Girona,0-0,0-0
-2014-01-11,Ponferradina,Las Palmas,0-0,0-0
-2014-01-11,Real Madrid B,Murcia,2-2,2-1
-2014-01-12,Barcelona B,Hercules,5-0,2-0
-2014-01-12,Eibar,Numancia,1-2,0-1
-2014-01-12,Mallorca,Cordoba,2-2,0-1
-2014-01-12,Mirandes,Lugo,2-0,0-0
-2014-01-12,Recreativo,Sabadell,1-2,1-0
-2014-01-12,Tenerife,Sp Gijon,0-0,0-0
-2014-01-12,Zaragoza,Alcorcon,3-1,2-0
-2014-01-18,Alaves,Girona,1-1,1-0
-2014-01-18,Real Madrid B,Sp Gijon,1-2,0-1
-2014-01-18,Recreativo,Murcia,0-0,0-0
-2014-01-18,Tenerife,Alcorcon,0-4,0-2
-2014-01-19,Barcelona B,Mirandes,1-1,1-1
-2014-01-19,Eibar,Jaen,2-0,1-0
-2014-01-19,La Coruna,Las Palmas,1-2,1-1
-2014-01-19,Mallorca,Sabadell,4-1,2-0
-2014-01-19,Numancia,Lugo,0-1,0-0
-2014-01-19,Ponferradina,Cordoba,0-1,0-0
-2014-01-19,Zaragoza,Hercules,0-0,0-0
-2014-01-25,Cordoba,La Coruna,0-1,0-0
-2014-01-25,Girona,Eibar,1-1,0-0
-2014-01-25,Las Palmas,Alaves,0-2,0-1
-2014-01-25,Lugo,Barcelona B,1-0,0-0
-2014-01-25,Mirandes,Zaragoza,0-1,0-0
-2014-01-26,Alcorcon,Real Madrid B,0-2,0-0
-2014-01-26,Hercules,Tenerife,2-3,1-2
-2014-01-26,Jaen,Numancia,0-0,0-0
-2014-01-26,Murcia,Mallorca,2-2,1-1
-2014-01-26,Sabadell,Ponferradina,1-1,1-1
-2014-01-26,Sp Gijon,Recreativo,0-0,0-0
-2014-02-01,Eibar,Las Palmas,1-0,1-0
-2014-02-01,La Coruna,Sabadell,2-1,0-0
-2014-02-01,Ponferradina,Murcia,2-0,1-0
-2014-02-01,Real Madrid B,Hercules,4-0,2-0
-2014-02-02,Alaves,Cordoba,1-1,1-1
-2014-02-02,Jaen,Lugo,0-0,0-0
-2014-02-02,Mallorca,Sp Gijon,1-3,0-1
-2014-02-02,Numancia,Girona,0-0,0-0
-2014-02-02,Recreativo,Alcorcon,2-1,1-0
-2014-02-02,Tenerife,Mirandes,3-0,1-0
-2014-02-02,Zaragoza,Barcelona B,0-2,0-1
-2014-02-08,Girona,Jaen,1-1,1-0
-2014-02-08,Las Palmas,Numancia,0-0,0-0
-2014-02-08,Lugo,Zaragoza,1-0,0-0
-2014-02-08,Sabadell,Alaves,0-4,0-2
-2014-02-09,Alcorcon,Mallorca,1-1,1-0
-2014-02-09,Barcelona B,Tenerife,2-0,1-0
-2014-02-09,Cordoba,Eibar,0-2,0-1
-2014-02-09,Hercules,Recreativo,1-2,0-0
-2014-02-09,Mirandes,Real Madrid B,2-1,0-0
-2014-02-09,Murcia,La Coruna,1-0,1-0
-2014-02-09,Sp Gijon,Ponferradina,1-1,0-1
-2014-02-15,Eibar,Sabadell,1-0,0-0
-2014-02-15,Jaen,Las Palmas,3-0,2-0
-2014-02-15,Mallorca,Hercules,0-1,0-1
-2014-02-15,Real Madrid B,Barcelona B,3-1,2-1
-2014-02-15,Tenerife,Zaragoza,1-1,1-0
-2014-02-16,Alaves,Murcia,0-1,0-1
-2014-02-16,Girona,Lugo,6-0,2-0
-2014-02-16,La Coruna,Sp Gijon,1-1,0-1
-2014-02-16,Numancia,Cordoba,3-0,0-0
-2014-02-16,Ponferradina,Alcorcon,0-2,0-1
-2014-02-16,Recreativo,Mirandes,1-0,1-0
-2014-02-22,Barcelona B,Recreativo,0-1,0-1
-2014-02-22,Las Palmas,Girona,2-1,0-0
-2014-02-22,Mirandes,Mallorca,0-0,0-0
-2014-02-22,Sp Gijon,Alaves,2-0,0-0
-2014-02-23,Alcorcon,La Coruna,1-2,1-1
-2014-02-23,Cordoba,Jaen,0-0,0-0
-2014-02-23,Hercules,Ponferradina,1-0,0-0
-2014-02-23,Lugo,Tenerife,1-3,1-1
-2014-02-23,Murcia,Eibar,0-0,0-0
-2014-02-23,Sabadell,Numancia,0-0,0-0
-2014-02-23,Zaragoza,Real Madrid B,0-2,0-1
-2014-03-01,Alaves,Alcorcon,1-0,0-0
-2014-03-01,Mallorca,Barcelona B,1-2,0-2
-2014-03-01,Real Madrid B,Tenerife,2-2,0-1
-2014-03-01,Recreativo,Zaragoza,2-2,1-1
-2014-03-02,Eibar,Sp Gijon,3-0,1-0
-2014-03-02,Girona,Cordoba,0-1,0-0
-2014-03-02,Jaen,Sabadell,0-1,0-0
-2014-03-02,La Coruna,Hercules,3-2,2-0
-2014-03-02,Las Palmas,Lugo,0-0,0-0
-2014-03-02,Numancia,Murcia,1-0,0-0
-2014-03-02,Ponferradina,Mirandes,1-1,0-0
-2014-03-08,Alcorcon,Eibar,0-0,0-0
-2014-03-08,Cordoba,Las Palmas,0-1,0-1
-2014-03-08,Mirandes,La Coruna,1-0,0-0
-2014-03-08,Sabadell,Girona,4-0,1-0
-2014-03-09,Barcelona B,Ponferradina,1-0,0-0
-2014-03-09,Hercules,Alaves,2-0,2-0
-2014-03-09,Lugo,Real Madrid B,1-1,1-0
-2014-03-09,Murcia,Jaen,2-0,0-0
-2014-03-09,Sp Gijon,Numancia,2-2,1-1
-2014-03-09,Tenerife,Recreativo,1-0,1-0
-2014-03-09,Zaragoza,Mallorca,1-1,1-1
-2014-03-15,Alaves,Mirandes,0-2,0-1
-2014-03-15,Jaen,Sp Gijon,3-2,1-1
-2014-03-15,La Coruna,Barcelona B,0-0,0-0
-2014-03-15,Las Palmas,Sabadell,5-0,3-0
-2014-03-15,Recreativo,Real Madrid B,2-3,1-2
-2014-03-16,Cordoba,Lugo,1-1,0-0
-2014-03-16,Eibar,Hercules,1-1,0-0
-2014-03-16,Girona,Murcia,0-1,0-0
-2014-03-16,Mallorca,Tenerife,2-0,1-0
-2014-03-16,Numancia,Alcorcon,0-1,0-1
-2014-03-16,Ponferradina,Zaragoza,4-2,1-1
-2014-03-22,Alcorcon,Jaen,0-0,0-0
-2014-03-22,Barcelona B,Alaves,2-1,0-0
-2014-03-22,Lugo,Recreativo,2-0,0-0
-2014-03-22,Mirandes,Eibar,1-4,0-1
-2014-03-22,Murcia,Las Palmas,1-3,0-1
-2014-03-22,Sabadell,Cordoba,3-2,1-1
-2014-03-23,Hercules,Numancia,0-0,0-0
-2014-03-23,Real Madrid B,Mallorca,1-2,0-0
-2014-03-23,Sp Gijon,Girona,3-1,3-1
-2014-03-23,Tenerife,Ponferradina,5-0,3-0
-2014-03-23,Zaragoza,La Coruna,0-1,0-1
-2014-03-29,Cordoba,Murcia,1-1,0-0
-2014-03-29,Eibar,Barcelona B,0-0,0-0
-2014-03-29,La Coruna,Tenerife,1-1,1-0
-2014-03-29,Mallorca,Recreativo,0-0,0-0
-2014-03-29,Numancia,Mirandes,0-1,0-0
-2014-03-29,Ponferradina,Real Madrid B,0-0,0-0
-2014-03-30,Alaves,Zaragoza,2-2,1-1
-2014-03-30,Girona,Alcorcon,3-1,1-0
-2014-03-30,Jaen,Hercules,1-1,1-1
-2014-03-30,Las Palmas,Sp Gijon,2-1,0-0
-2014-03-30,Sabadell,Lugo,1-0,1-0
-2014-04-05,Alcorcon,Las Palmas,2-0,1-0
-2014-04-05,Murcia,Sabadell,2-0,1-0
-2014-04-05,Real Madrid B,La Coruna,0-2,0-1
-2014-04-06,Barcelona B,Numancia,3-0,0-0
-2014-04-06,Hercules,Girona,0-0,0-0
-2014-04-06,Lugo,Mallorca,2-1,1-1
-2014-04-06,Mirandes,Jaen,2-1,0-1
-2014-04-06,Recreativo,Ponferradina,1-0,1-0
-2014-04-06,Sp Gijon,Cordoba,1-2,0-1
-2014-04-06,Tenerife,Alaves,2-0,2-0
-2014-04-06,Zaragoza,Eibar,1-0,0-0
-2014-04-12,Girona,Mirandes,4-0,1-0
-2014-04-12,Las Palmas,Hercules,2-1,0-1
-2014-04-12,Numancia,Zaragoza,2-2,1-2
-2014-04-12,Sabadell,Sp Gijon,2-0,0-0
-2014-04-13,Alaves,Real Madrid B,2-2,1-2
-2014-04-13,Cordoba,Alcorcon,3-1,1-1
-2014-04-13,Eibar,Tenerife,1-2,1-0
-2014-04-13,Jaen,Barcelona B,0-3,0-1
-2014-04-13,La Coruna,Recreativo,2-0,1-0
-2014-04-13,Murcia,Lugo,3-1,0-0
-2014-04-13,Ponferradina,Mallorca,2-0,1-0
-2014-04-19,Barcelona B,Girona,2-1,0-1
-2014-04-19,Hercules,Cordoba,0-1,0-1
-2014-04-19,Lugo,Ponferradina,3-0,1-0
-2014-04-19,Mirandes,Las Palmas,2-1,1-1
-2014-04-19,Real Madrid B,Eibar,0-1,0-1
-2014-04-20,Alcorcon,Sabadell,3-1,2-1
-2014-04-20,Mallorca,La Coruna,0-3,0-1
-2014-04-20,Recreativo,Alaves,0-2,0-1
-2014-04-20,Sp Gijon,Murcia,0-0,0-0
-2014-04-20,Tenerife,Numancia,3-2,1-0
-2014-04-20,Zaragoza,Jaen,1-0,0-0
-2014-04-26,Alaves,Mallorca,1-0,0-0
-2014-04-26,Cordoba,Mirandes,1-1,1-0
-2014-04-26,La Coruna,Ponferradina,0-3,0-1
-2014-04-26,Las Palmas,Barcelona B,0-2,0-0
-2014-04-26,Sp Gijon,Lugo,2-0,1-0
-2014-04-27,Eibar,Recreativo,0-0,0-0
-2014-04-27,Girona,Zaragoza,2-0,1-0
-2014-04-27,Jaen,Tenerife,1-0,0-0
-2014-04-27,Murcia,Alcorcon,1-1,1-0
-2014-04-27,Numancia,Real Madrid B,0-0,0-0
-2014-04-27,Sabadell,Hercules,2-1,1-0
-2014-05-03,Alcorcon,Sp Gijon,1-0,1-0
-2014-05-03,Barcelona B,Cordoba,0-1,0-0
-2014-05-03,Hercules,Murcia,2-3,1-1
-2014-05-03,Lugo,La Coruna,2-2,0-2
-2014-05-03,Ponferradina,Alaves,2-1,0-1
-2014-05-04,Mallorca,Eibar,0-2,0-0
-2014-05-04,Mirandes,Sabadell,2-2,2-1
-2014-05-04,Real Madrid B,Jaen,1-1,0-0
-2014-05-04,Recreativo,Numancia,0-0,0-0
-2014-05-04,Tenerife,Girona,0-1,0-0
-2014-05-04,Zaragoza,Las Palmas,1-2,1-2
-2014-05-10,Alcorcon,Lugo,1-0,0-0
-2014-05-10,Eibar,Ponferradina,0-0,0-0
-2014-05-10,Girona,Real Madrid B,1-1,0-0
-2014-05-10,Las Palmas,Tenerife,1-0,0-0
-2014-05-10,Numancia,Mallorca,1-1,0-1
-2014-05-10,Sabadell,Barcelona B,2-1,1-0
-2014-05-10,Sp Gijon,Hercules,2-1,1-1
-2014-05-11,Alaves,La Coruna,1-1,0-0
-2014-05-11,Cordoba,Zaragoza,1-2,1-0
-2014-05-11,Jaen,Recreativo,3-1,2-0
-2014-05-11,Murcia,Mirandes,5-0,3-0
-2014-05-17,Barcelona B,Murcia,4-0,3-0
-2014-05-17,Hercules,Alcorcon,1-2,0-0
-2014-05-17,Mallorca,Jaen,0-0,0-0
-2014-05-17,Mirandes,Sp Gijon,1-1,0-1
-2014-05-17,Tenerife,Cordoba,0-1,0-1
-2014-05-17,Zaragoza,Sabadell,2-2,2-0
-2014-05-18,La Coruna,Eibar,1-1,1-0
-2014-05-18,Lugo,Alaves,0-1,0-1
-2014-05-18,Ponferradina,Numancia,0-1,0-0
-2014-05-18,Real Madrid B,Las Palmas,3-2,3-1
-2014-05-18,Recreativo,Girona,1-0,1-0
-2014-05-24,Sp Gijon,Barcelona B,1-0,1-0
-2014-05-25,Alcorcon,Mirandes,2-0,0-0
-2014-05-25,Cordoba,Real Madrid B,2-0,0-0
-2014-05-25,Eibar,Alaves,1-0,0-0
-2014-05-25,Girona,Mallorca,1-1,1-0
-2014-05-25,Hercules,Lugo,1-1,0-0
-2014-05-25,Jaen,Ponferradina,0-1,0-1
-2014-05-25,Las Palmas,Recreativo,2-3,1-0
-2014-05-25,Murcia,Zaragoza,1-1,1-0
-2014-05-25,Numancia,La Coruna,2-1,1-1
-2014-05-25,Sabadell,Tenerife,1-0,1-0
-2014-05-31,Alaves,Numancia,3-1,1-0
-2014-05-31,Barcelona B,Alcorcon,4-3,0-2
-2014-05-31,Eibar,Lugo,1-0,1-0
-2014-05-31,La Coruna,Jaen,1-0,1-0
-2014-05-31,Mallorca,Las Palmas,2-0,0-0
-2014-05-31,Mirandes,Hercules,0-1,0-0
-2014-05-31,Ponferradina,Girona,1-2,0-1
-2014-05-31,Real Madrid B,Sabadell,2-1,0-0
-2014-05-31,Recreativo,Cordoba,1-1,0-1
-2014-05-31,Tenerife,Murcia,0-1,0-1
-2014-05-31,Zaragoza,Sp Gijon,1-1,1-0
-2014-06-07,Cordoba,Mallorca,0-0,0-0
-2014-06-07,Girona,La Coruna,3-1,1-0
-2014-06-07,Hercules,Barcelona B,1-2,0-2
-2014-06-07,Jaen,Alaves,2-3,0-0
-2014-06-07,Las Palmas,Ponferradina,3-2,1-1
-2014-06-07,Lugo,Mirandes,1-0,0-0
-2014-06-07,Murcia,Real Madrid B,1-0,1-0
-2014-06-07,Sabadell,Recreativo,0-0,0-0
-2014-06-07,Sp Gijon,Tenerife,3-0,3-0
-2014-06-08,Alcorcon,Zaragoza,1-0,0-0
-2014-06-08,Numancia,Eibar,1-1,1-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 16 Aug 2013 (32),Girona (1),1-0,0-0,Alaves (1)
+?,(Sat) 17 Aug 2013 (32),Cordoba (1),1-0,0-0,Ponferradina (1)
+?,(Sat) 17 Aug 2013 (32),Hercules (1),1-1,0-0,Zaragoza (1)
+?,(Sat) 17 Aug 2013 (32),UD Las Palmas (1),0-1,0-0,RCD La Coruña (1)
+?,(Sat) 17 Aug 2013 (32),Lugo (1),0-0,0-0,Numancia (1)
+?,(Sat) 17 Aug 2013 (32),Mirandes (1),2-1,1-0,Barcelona B (1)
+?,(Sun) 18 Aug 2013 (32),Alcorcon (1),1-0,0-0,Tenerife (1)
+?,(Sun) 18 Aug 2013 (32),Jaen (1),1-2,0-1,SD Eibar (1)
+?,(Sun) 18 Aug 2013 (32),Murcia (1),2-3,0-1,Recreativo (1)
+?,(Sun) 18 Aug 2013 (32),Sabadell (1),4-0,2-0,Mallorca (1)
+?,(Sun) 18 Aug 2013 (32),Sporting Gijón (1),1-0,1-0,Real Madrid B (1)
+?,(Sat) 24 Aug 2013 (33),Alaves (2),1-1,0-1,UD Las Palmas (2)
+?,(Sat) 24 Aug 2013 (33),Barcelona B (2),2-1,1-1,Lugo (2)
+?,(Sat) 24 Aug 2013 (33),SD Eibar (2),0-3,0-0,Girona (2)
+?,(Sat) 24 Aug 2013 (33),RCD La Coruña (2),0-1,0-0,Cordoba (2)
+?,(Sat) 24 Aug 2013 (33),Real Madrid B (2),0-1,0-1,Alcorcon (2)
+?,(Sat) 24 Aug 2013 (33),Zaragoza (2),0-0,0-0,Mirandes (2)
+?,(Sun) 25 Aug 2013 (33),Mallorca (2),2-4,0-2,Murcia (2)
+?,(Sun) 25 Aug 2013 (33),Numancia (2),4-2,3-1,Jaen (2)
+?,(Sun) 25 Aug 2013 (33),Ponferradina (2),2-0,0-0,Sabadell (2)
+?,(Sun) 25 Aug 2013 (33),Recreativo (2),1-1,0-0,Sporting Gijón (2)
+?,(Sun) 25 Aug 2013 (33),Tenerife (2),0-0,0-0,Hercules (2)
+?,(Sat) 31 Aug 2013 (34),Barcelona B (3),1-0,0-0,Zaragoza (3)
+?,(Sat) 31 Aug 2013 (34),Girona (3),2-2,0-1,Numancia (3)
+?,(Sat) 31 Aug 2013 (34),Hercules (3),2-1,1-1,Real Madrid B (3)
+?,(Sat) 31 Aug 2013 (34),UD Las Palmas (3),1-1,0-1,SD Eibar (3)
+?,(Sat) 31 Aug 2013 (34),Sabadell (3),0-3,0-0,RCD La Coruña (3)
+?,(Sun) 1 Sep 2013 (34),Alcorcon (3),3-0,1-0,Recreativo (3)
+?,(Sun) 1 Sep 2013 (34),Cordoba (3),1-1,0-1,Alaves (3)
+?,(Sun) 1 Sep 2013 (34),Lugo (3),4-2,4-1,Jaen (3)
+?,(Sun) 1 Sep 2013 (34),Mirandes (3),2-0,0-0,Tenerife (3)
+?,(Sun) 1 Sep 2013 (34),Murcia (3),2-2,1-1,Ponferradina (3)
+?,(Sun) 1 Sep 2013 (34),Sporting Gijón (3),3-0,1-0,Mallorca (3)
+?,(Sat) 7 Sep 2013 (35),Alaves (4),1-1,1-0,Sabadell (4)
+?,(Sat) 7 Sep 2013 (35),Mallorca (4),2-1,1-0,Alcorcon (4)
+?,(Sat) 7 Sep 2013 (35),Numancia (4),1-1,0-0,UD Las Palmas (4)
+?,(Sat) 7 Sep 2013 (35),Zaragoza (4),0-1,0-0,Lugo (4)
+?,(Sun) 8 Sep 2013 (35),SD Eibar (4),1-0,0-0,Cordoba (4)
+?,(Sun) 8 Sep 2013 (35),Jaen (4),3-1,1-0,Girona (4)
+?,(Sun) 8 Sep 2013 (35),RCD La Coruña (4),0-1,0-1,Murcia (4)
+?,(Sun) 8 Sep 2013 (35),Ponferradina (4),2-2,1-1,Sporting Gijón (4)
+?,(Sun) 8 Sep 2013 (35),Real Madrid B (4),0-1,0-1,Mirandes (4)
+?,(Sun) 8 Sep 2013 (35),Recreativo (4),2-0,1-0,Hercules (4)
+?,(Sun) 8 Sep 2013 (35),Tenerife (4),2-2,1-0,Barcelona B (4)
+?,(Sat) 14 Sep 2013 (36),Cordoba (5),3-1,1-1,Numancia (5)
+?,(Sat) 14 Sep 2013 (36),Lugo (5),1-2,1-0,Girona (5)
+?,(Sat) 14 Sep 2013 (36),Mirandes (5),0-3,0-1,Recreativo (5)
+?,(Sat) 14 Sep 2013 (36),Sabadell (5),1-0,0-0,SD Eibar (5)
+?,(Sat) 14 Sep 2013 (36),Zaragoza (5),3-0,0-0,Tenerife (5)
+?,(Sun) 15 Sep 2013 (36),Alcorcon (5),0-1,0-1,Ponferradina (5)
+?,(Sun) 15 Sep 2013 (36),Barcelona B (5),2-0,2-0,Real Madrid B (5)
+?,(Sun) 15 Sep 2013 (36),Hercules (5),2-2,0-1,Mallorca (5)
+?,(Sun) 15 Sep 2013 (36),UD Las Palmas (5),1-0,1-0,Jaen (5)
+?,(Sun) 15 Sep 2013 (36),Murcia (5),2-1,0-0,Alaves (5)
+?,(Sun) 15 Sep 2013 (36),Sporting Gijón (5),2-0,0-0,RCD La Coruña (5)
+?,(Fri) 20 Sep 2013 (37),Recreativo (6),3-0,0-0,Barcelona B (6)
+?,(Sat) 21 Sep 2013 (37),SD Eibar (6),0-0,0-0,Murcia (6)
+?,(Sat) 21 Sep 2013 (37),Numancia (6),3-1,1-1,Sabadell (6)
+?,(Sat) 21 Sep 2013 (37),Real Madrid B (6),1-2,0-1,Zaragoza (6)
+?,(Sat) 21 Sep 2013 (37),Tenerife (6),0-1,0-0,Lugo (6)
+?,(Sun) 22 Sep 2013 (37),Alaves (6),3-0,2-0,Sporting Gijón (6)
+?,(Sun) 22 Sep 2013 (37),Girona (6),0-2,0-0,UD Las Palmas (6)
+?,(Sun) 22 Sep 2013 (37),Jaen (6),0-0,0-0,Cordoba (6)
+?,(Sun) 22 Sep 2013 (37),RCD La Coruña (6),1-0,1-0,Alcorcon (6)
+?,(Sun) 22 Sep 2013 (37),Mallorca (6),1-0,1-0,Mirandes (6)
+?,(Sun) 22 Sep 2013 (37),Ponferradina (6),5-1,3-0,Hercules (6)
+?,(Sat) 28 Sep 2013 (38),Alcorcon (7),2-0,1-0,Alaves (7)
+?,(Sat) 28 Sep 2013 (38),Lugo (7),3-0,2-0,UD Las Palmas (7)
+?,(Sat) 28 Sep 2013 (38),Sabadell (7),3-0,1-0,Jaen (7)
+?,(Sat) 28 Sep 2013 (38),Sporting Gijón (7),3-2,1-1,SD Eibar (7)
+?,(Sun) 29 Sep 2013 (38),Barcelona B (7),0-1,0-0,Mallorca (7)
+?,(Sun) 29 Sep 2013 (38),Cordoba (7),2-0,0-0,Girona (7)
+?,(Sun) 29 Sep 2013 (38),Hercules (7),0-2,0-2,RCD La Coruña (7)
+?,(Sun) 29 Sep 2013 (38),Mirandes (7),1-0,0-0,Ponferradina (7)
+?,(Sun) 29 Sep 2013 (38),Murcia (7),2-1,1-0,Numancia (7)
+?,(Sun) 29 Sep 2013 (38),Tenerife (7),1-0,0-0,Real Madrid B (7)
+?,(Sun) 29 Sep 2013 (38),Zaragoza (7),1-2,0-1,Recreativo (7)
+?,(Sat) 5 Oct 2013 (39),RCD La Coruña (8),0-0,0-0,Mirandes (8)
+?,(Sat) 5 Oct 2013 (39),UD Las Palmas (8),2-0,0-0,Cordoba (8)
+?,(Sat) 5 Oct 2013 (39),Numancia (8),0-0,0-0,Sporting Gijón (8)
+?,(Sun) 6 Oct 2013 (39),Alaves (8),3-1,1-1,Hercules (8)
+?,(Sun) 6 Oct 2013 (39),SD Eibar (8),0-0,0-0,Alcorcon (8)
+?,(Sun) 6 Oct 2013 (39),Girona (8),1-1,0-0,Sabadell (8)
+?,(Sun) 6 Oct 2013 (39),Jaen (8),3-2,2-0,Murcia (8)
+?,(Sun) 6 Oct 2013 (39),Mallorca (8),2-4,1-3,Zaragoza (8)
+?,(Sun) 6 Oct 2013 (39),Ponferradina (8),1-0,0-0,Barcelona B (8)
+?,(Sun) 6 Oct 2013 (39),Real Madrid B (8),2-0,2-0,Lugo (8)
+?,(Sun) 6 Oct 2013 (39),Recreativo (8),2-1,0-0,Tenerife (8)
+?,(Sat) 12 Oct 2013 (40),Lugo (9),1-0,0-0,Cordoba (9)
+?,(Sat) 12 Oct 2013 (40),Mirandes (9),2-3,1-3,Alaves (9)
+?,(Sat) 12 Oct 2013 (40),Murcia (9),1-0,0-0,Girona (9)
+?,(Sat) 12 Oct 2013 (40),Real Madrid B (9),1-2,1-2,Recreativo (9)
+?,(Sat) 12 Oct 2013 (40),Sabadell (9),0-0,0-0,UD Las Palmas (9)
+?,(Sun) 13 Oct 2013 (40),Alcorcon (9),0-1,0-0,Numancia (9)
+?,(Sun) 13 Oct 2013 (40),Barcelona B (9),0-1,0-1,RCD La Coruña (9)
+?,(Sun) 13 Oct 2013 (40),Hercules (9),0-0,0-0,SD Eibar (9)
+?,(Sun) 13 Oct 2013 (40),Sporting Gijón (9),1-1,1-0,Jaen (9)
+?,(Sun) 13 Oct 2013 (40),Tenerife (9),0-1,0-0,Mallorca (9)
+?,(Sun) 13 Oct 2013 (40),Zaragoza (9),2-1,1-1,Ponferradina (9)
+?,(Sat) 19 Oct 2013 (41),Alaves (10),2-3,1-2,Barcelona B (10)
+?,(Sat) 19 Oct 2013 (41),Cordoba (10),1-0,1-0,Sabadell (10)
+?,(Sat) 19 Oct 2013 (41),Ponferradina (10),0-1,0-0,Tenerife (10)
+?,(Sat) 19 Oct 2013 (41),Recreativo (10),3-3,0-3,Lugo (10)
+?,(Sun) 20 Oct 2013 (41),SD Eibar (10),1-0,0-0,Mirandes (10)
+?,(Sun) 20 Oct 2013 (41),Girona (10),2-1,0-1,Sporting Gijón (10)
+?,(Sun) 20 Oct 2013 (41),Jaen (10),1-0,0-0,Alcorcon (10)
+?,(Sun) 20 Oct 2013 (41),RCD La Coruña (10),1-1,0-0,Zaragoza (10)
+?,(Sun) 20 Oct 2013 (41),UD Las Palmas (10),0-0,0-0,Murcia (10)
+?,(Sun) 20 Oct 2013 (41),Mallorca (10),2-0,2-0,Real Madrid B (10)
+?,(Sun) 20 Oct 2013 (41),Numancia (10),1-1,0-1,Hercules (10)
+?,(Sat) 26 Oct 2013 (42),Tenerife (11),2-0,0-0,RCD La Coruña (11)
+?,(Sat) 26 Oct 2013 (42),Zaragoza (11),2-2,2-0,Alaves (11)
+?,(Sun) 27 Oct 2013 (42),Alcorcon (11),0-0,0-0,Girona (11)
+?,(Sun) 27 Oct 2013 (42),Barcelona B (11),0-2,0-0,SD Eibar (11)
+?,(Sun) 27 Oct 2013 (42),Hercules (11),0-1,0-0,Jaen (11)
+?,(Sun) 27 Oct 2013 (42),Lugo (11),1-0,1-0,Sabadell (11)
+?,(Sun) 27 Oct 2013 (42),Mirandes (11),0-0,0-0,Numancia (11)
+?,(Sun) 27 Oct 2013 (42),Murcia (11),2-2,0-0,Cordoba (11)
+?,(Sun) 27 Oct 2013 (42),Real Madrid B (11),1-1,1-0,Ponferradina (11)
+?,(Sun) 27 Oct 2013 (42),Recreativo (11),3-1,1-1,Mallorca (11)
+?,(Sun) 27 Oct 2013 (42),Sporting Gijón (11),2-3,2-2,UD Las Palmas (11)
+?,(Sat) 2 Nov 2013 (43),SD Eibar (12),3-2,2-0,Zaragoza (12)
+?,(Sat) 2 Nov 2013 (43),Girona (12),2-2,1-1,Hercules (12)
+?,(Sat) 2 Nov 2013 (43),UD Las Palmas (12),1-0,0-0,Alcorcon (12)
+?,(Sat) 2 Nov 2013 (43),Mallorca (12),0-0,0-0,Lugo (12)
+?,(Sat) 2 Nov 2013 (43),Numancia (12),1-0,0-0,Barcelona B (12)
+?,(Sun) 3 Nov 2013 (43),Alaves (12),2-2,2-0,Tenerife (12)
+?,(Sun) 3 Nov 2013 (43),Cordoba (12),2-2,1-0,Sporting Gijón (12)
+?,(Sun) 3 Nov 2013 (43),Jaen (12),1-2,0-1,Mirandes (12)
+?,(Sun) 3 Nov 2013 (43),RCD La Coruña (12),2-0,1-0,Real Madrid B (12)
+?,(Sun) 3 Nov 2013 (43),Ponferradina (12),3-1,1-0,Recreativo (12)
+?,(Sun) 3 Nov 2013 (43),Sabadell (12),2-1,1-1,Murcia (12)
+?,(Sat) 9 Nov 2013 (44),Alcorcon (13),0-0,0-0,Cordoba (13)
+?,(Sat) 9 Nov 2013 (44),Barcelona B (13),0-3,0-2,Jaen (13)
+?,(Sat) 9 Nov 2013 (44),Hercules (13),2-1,1-1,UD Las Palmas (13)
+?,(Sat) 9 Nov 2013 (44),Lugo (13),1-1,0-0,Murcia (13)
+?,(Sat) 9 Nov 2013 (44),Zaragoza (13),1-2,0-0,Numancia (13)
+?,(Sun) 10 Nov 2013 (44),Mallorca (13),2-2,2-1,Ponferradina (13)
+?,(Sun) 10 Nov 2013 (44),Mirandes (13),1-2,0-2,Girona (13)
+?,(Sun) 10 Nov 2013 (44),Real Madrid B (13),1-0,1-0,Alaves (13)
+?,(Sun) 10 Nov 2013 (44),Recreativo (13),0-1,0-0,RCD La Coruña (13)
+?,(Sun) 10 Nov 2013 (44),Sporting Gijón (13),3-1,0-0,Sabadell (13)
+?,(Sun) 10 Nov 2013 (44),Tenerife (13),2-0,1-0,SD Eibar (13)
+?,(Sat) 16 Nov 2013 (45),Alaves (14),3-3,2-1,Recreativo (14)
+?,(Sat) 16 Nov 2013 (45),Girona (14),1-2,1-1,Barcelona B (14)
+?,(Sat) 16 Nov 2013 (45),Jaen (14),3-0,2-0,Zaragoza (14)
+?,(Sat) 16 Nov 2013 (45),UD Las Palmas (14),3-1,1-0,Mirandes (14)
+?,(Sat) 16 Nov 2013 (45),Murcia (14),1-1,1-1,Sporting Gijón (14)
+?,(Sat) 16 Nov 2013 (45),Ponferradina (14),0-2,0-0,Lugo (14)
+?,(Sat) 16 Nov 2013 (45),Sabadell (14),1-2,0-1,Alcorcon (14)
+?,(Sun) 17 Nov 2013 (45),Cordoba (14),4-2,2-0,Hercules (14)
+?,(Sun) 17 Nov 2013 (45),SD Eibar (14),6-0,1-0,Real Madrid B (14)
+?,(Sun) 17 Nov 2013 (45),RCD La Coruña (14),3-1,2-0,Mallorca (14)
+?,(Sun) 17 Nov 2013 (45),Numancia (14),0-0,0-0,Tenerife (14)
+?,(Sat) 23 Nov 2013 (46),Barcelona B (15),1-2,1-0,UD Las Palmas (15)
+?,(Sat) 23 Nov 2013 (46),Mallorca (15),2-1,0-0,Alaves (15)
+?,(Sat) 23 Nov 2013 (46),Real Madrid B (15),0-0,0-0,Numancia (15)
+?,(Sun) 24 Nov 2013 (46),Alcorcon (15),0-0,0-0,Murcia (15)
+?,(Sun) 24 Nov 2013 (46),Hercules (15),3-0,0-0,Sabadell (15)
+?,(Sun) 24 Nov 2013 (46),Lugo (15),1-3,1-2,Sporting Gijón (15)
+?,(Sun) 24 Nov 2013 (46),Mirandes (15),3-1,2-1,Cordoba (15)
+?,(Sun) 24 Nov 2013 (46),Ponferradina (15),0-1,0-1,RCD La Coruña (15)
+?,(Sun) 24 Nov 2013 (46),Recreativo (15),1-2,0-0,SD Eibar (15)
+?,(Sun) 24 Nov 2013 (46),Tenerife (15),2-1,1-0,Jaen (15)
+?,(Sun) 24 Nov 2013 (46),Zaragoza (15),1-0,0-0,Girona (15)
+?,(Sat) 30 Nov 2013 (47),Cordoba (16),1-2,0-1,Barcelona B (16)
+?,(Sat) 30 Nov 2013 (47),SD Eibar (16),0-1,0-0,Mallorca (16)
+?,(Sat) 30 Nov 2013 (47),RCD La Coruña (16),0-0,0-0,Lugo (16)
+?,(Sat) 30 Nov 2013 (47),UD Las Palmas (16),0-1,0-0,Zaragoza (16)
+?,(Sun) 1 Dec 2013 (47),Alaves (16),2-2,1-0,Ponferradina (16)
+?,(Sun) 1 Dec 2013 (47),Girona (16),2-2,0-1,Tenerife (16)
+?,(Sun) 1 Dec 2013 (47),Jaen (16),0-1,0-0,Real Madrid B (16)
+?,(Sun) 1 Dec 2013 (47),Murcia (16),1-2,0-2,Hercules (16)
+?,(Sun) 1 Dec 2013 (47),Numancia (16),2-3,2-1,Recreativo (16)
+?,(Sun) 1 Dec 2013 (47),Sabadell (16),3-1,2-0,Mirandes (16)
+?,(Sun) 1 Dec 2013 (47),Sporting Gijón (16),2-2,1-2,Alcorcon (16)
+?,(Wed) 4 Dec 2013 (48),Lugo (17),1-2,0-0,Alcorcon (17)
+?,(Wed) 4 Dec 2013 (48),Real Madrid B (17),3-2,1-1,Girona (17)
+?,(Wed) 4 Dec 2013 (48),Recreativo (17),1-1,1-1,Jaen (17)
+?,(Wed) 4 Dec 2013 (48),Tenerife (17),3-0,1-0,UD Las Palmas (17)
+?,(Sat) 7 Dec 2013 (48),Barcelona B (17),2-0,0-0,Sabadell (17)
+?,(Sat) 7 Dec 2013 (48),Hercules (17),0-1,0-1,Sporting Gijón (17)
+?,(Sat) 7 Dec 2013 (48),RCD La Coruña (17),2-1,1-0,Alaves (17)
+?,(Sun) 8 Dec 2013 (48),Mallorca (17),0-0,0-0,Numancia (17)
+?,(Sun) 8 Dec 2013 (48),Mirandes (17),1-1,0-1,Murcia (17)
+?,(Sun) 8 Dec 2013 (48),Ponferradina (17),2-1,1-1,SD Eibar (17)
+?,(Sun) 8 Dec 2013 (48),Zaragoza (17),2-1,1-0,Cordoba (17)
+?,(Sat) 14 Dec 2013 (49),Alaves (18),2-1,1-0,Lugo (18)
+?,(Sat) 14 Dec 2013 (49),Alcorcon (18),0-2,0-0,Hercules (18)
+?,(Sat) 14 Dec 2013 (49),Girona (18),1-1,1-0,Recreativo (18)
+?,(Sat) 14 Dec 2013 (49),UD Las Palmas (18),0-2,0-1,Real Madrid B (18)
+?,(Sat) 14 Dec 2013 (49),Numancia (18),2-0,1-0,Ponferradina (18)
+?,(Sat) 14 Dec 2013 (49),Sabadell (18),1-0,0-0,Zaragoza (18)
+?,(Sun) 15 Dec 2013 (49),Cordoba (18),1-0,0-0,Tenerife (18)
+?,(Sun) 15 Dec 2013 (49),SD Eibar (18),2-1,1-0,RCD La Coruña (18)
+?,(Sun) 15 Dec 2013 (49),Jaen (18),2-1,2-0,Mallorca (18)
+?,(Sun) 15 Dec 2013 (49),Murcia (18),3-1,0-1,Barcelona B (18)
+?,(Sun) 15 Dec 2013 (49),Sporting Gijón (18),3-2,3-1,Mirandes (18)
+?,(Sat) 21 Dec 2013 (50),Alaves (19),0-2,0-1,SD Eibar (19)
+?,(Sat) 21 Dec 2013 (50),Barcelona B (19),2-2,1-1,Sporting Gijón (19)
+?,(Sat) 21 Dec 2013 (50),RCD La Coruña (19),3-3,2-1,Numancia (19)
+?,(Sat) 21 Dec 2013 (50),Lugo (19),1-3,0-2,Hercules (19)
+?,(Sat) 21 Dec 2013 (50),Real Madrid B (19),3-1,1-0,Cordoba (19)
+?,(Sat) 21 Dec 2013 (50),Tenerife (19),0-3,0-1,Sabadell (19)
+?,(Sun) 22 Dec 2013 (50),Mallorca (19),2-0,1-0,Girona (19)
+?,(Sun) 22 Dec 2013 (50),Mirandes (19),1-1,0-0,Alcorcon (19)
+?,(Sun) 22 Dec 2013 (50),Ponferradina (19),1-0,1-0,Jaen (19)
+?,(Sun) 22 Dec 2013 (50),Recreativo (19),1-3,1-2,UD Las Palmas (19)
+?,(Sun) 22 Dec 2013 (50),Zaragoza (19),0-0,0-0,Murcia (19)
+?,(Sat) 4 Jan 2014 (0),Cordoba (20),2-0,1-0,Recreativo (20)
+?,(Sat) 4 Jan 2014 (0),Hercules (20),1-0,1-0,Mirandes (20)
+?,(Sat) 4 Jan 2014 (0),UD Las Palmas (20),2-2,1-0,Mallorca (20)
+?,(Sat) 4 Jan 2014 (0),Lugo (20),0-0,0-0,SD Eibar (20)
+?,(Sat) 4 Jan 2014 (0),Murcia (20),1-2,1-2,Tenerife (20)
+?,(Sat) 4 Jan 2014 (0),Numancia (20),0-2,0-0,Alaves (20)
+?,(Sat) 4 Jan 2014 (0),Sabadell (20),3-2,2-1,Real Madrid B (20)
+?,(Sun) 5 Jan 2014 (0),Alcorcon (20),2-2,0-1,Barcelona B (20)
+?,(Sun) 5 Jan 2014 (0),Girona (20),1-1,0-0,Ponferradina (20)
+?,(Sun) 5 Jan 2014 (0),Jaen (20),0-0,0-0,RCD La Coruña (20)
+?,(Sun) 5 Jan 2014 (0),Sporting Gijón (20),2-3,1-1,Zaragoza (20)
+?,(Sat) 11 Jan 2014 (1),Alaves (21),1-2,0-0,Jaen (21)
+?,(Sat) 11 Jan 2014 (1),RCD La Coruña (21),0-0,0-0,Girona (21)
+?,(Sat) 11 Jan 2014 (1),Ponferradina (21),0-0,0-0,UD Las Palmas (21)
+?,(Sat) 11 Jan 2014 (1),Real Madrid B (21),2-2,2-1,Murcia (21)
+?,(Sun) 12 Jan 2014 (1),Barcelona B (21),5-0,2-0,Hercules (21)
+?,(Sun) 12 Jan 2014 (1),SD Eibar (21),1-2,0-1,Numancia (21)
+?,(Sun) 12 Jan 2014 (1),Mallorca (21),2-2,0-1,Cordoba (21)
+?,(Sun) 12 Jan 2014 (1),Mirandes (21),2-0,0-0,Lugo (21)
+?,(Sun) 12 Jan 2014 (1),Recreativo (21),1-2,1-0,Sabadell (21)
+?,(Sun) 12 Jan 2014 (1),Tenerife (21),0-0,0-0,Sporting Gijón (21)
+?,(Sun) 12 Jan 2014 (1),Zaragoza (21),3-1,2-0,Alcorcon (21)
+?,(Sat) 18 Jan 2014 (2),Alaves (22),1-1,1-0,Girona (22)
+?,(Sat) 18 Jan 2014 (2),Real Madrid B (22),1-2,0-1,Sporting Gijón (22)
+?,(Sat) 18 Jan 2014 (2),Recreativo (22),0-0,0-0,Murcia (22)
+?,(Sat) 18 Jan 2014 (2),Tenerife (22),0-4,0-2,Alcorcon (22)
+?,(Sun) 19 Jan 2014 (2),Barcelona B (22),1-1,1-1,Mirandes (22)
+?,(Sun) 19 Jan 2014 (2),SD Eibar (22),2-0,1-0,Jaen (22)
+?,(Sun) 19 Jan 2014 (2),RCD La Coruña (22),1-2,1-1,UD Las Palmas (22)
+?,(Sun) 19 Jan 2014 (2),Mallorca (22),4-1,2-0,Sabadell (22)
+?,(Sun) 19 Jan 2014 (2),Numancia (22),0-1,0-0,Lugo (22)
+?,(Sun) 19 Jan 2014 (2),Ponferradina (22),0-1,0-0,Cordoba (22)
+?,(Sun) 19 Jan 2014 (2),Zaragoza (22),0-0,0-0,Hercules (22)
+?,(Sat) 25 Jan 2014 (3),Cordoba (23),0-1,0-0,RCD La Coruña (23)
+?,(Sat) 25 Jan 2014 (3),Girona (23),1-1,0-0,SD Eibar (23)
+?,(Sat) 25 Jan 2014 (3),UD Las Palmas (23),0-2,0-1,Alaves (23)
+?,(Sat) 25 Jan 2014 (3),Lugo (23),1-0,0-0,Barcelona B (23)
+?,(Sat) 25 Jan 2014 (3),Mirandes (23),0-1,0-0,Zaragoza (23)
+?,(Sun) 26 Jan 2014 (3),Alcorcon (23),0-2,0-0,Real Madrid B (23)
+?,(Sun) 26 Jan 2014 (3),Hercules (23),2-3,1-2,Tenerife (23)
+?,(Sun) 26 Jan 2014 (3),Jaen (23),0-0,0-0,Numancia (23)
+?,(Sun) 26 Jan 2014 (3),Murcia (23),2-2,1-1,Mallorca (23)
+?,(Sun) 26 Jan 2014 (3),Sabadell (23),1-1,1-1,Ponferradina (23)
+?,(Sun) 26 Jan 2014 (3),Sporting Gijón (23),0-0,0-0,Recreativo (23)
+?,(Sat) 1 Feb 2014 (4),SD Eibar (24),1-0,1-0,UD Las Palmas (24)
+?,(Sat) 1 Feb 2014 (4),RCD La Coruña (24),2-1,0-0,Sabadell (24)
+?,(Sat) 1 Feb 2014 (4),Ponferradina (24),2-0,1-0,Murcia (24)
+?,(Sat) 1 Feb 2014 (4),Real Madrid B (24),4-0,2-0,Hercules (24)
+?,(Sun) 2 Feb 2014 (4),Alaves (24),1-1,1-1,Cordoba (24)
+?,(Sun) 2 Feb 2014 (4),Jaen (24),0-0,0-0,Lugo (24)
+?,(Sun) 2 Feb 2014 (4),Mallorca (24),1-3,0-1,Sporting Gijón (24)
+?,(Sun) 2 Feb 2014 (4),Numancia (24),0-0,0-0,Girona (24)
+?,(Sun) 2 Feb 2014 (4),Recreativo (24),2-1,1-0,Alcorcon (24)
+?,(Sun) 2 Feb 2014 (4),Tenerife (24),3-0,1-0,Mirandes (24)
+?,(Sun) 2 Feb 2014 (4),Zaragoza (24),0-2,0-1,Barcelona B (24)
+?,(Sat) 8 Feb 2014 (5),Girona (25),1-1,1-0,Jaen (25)
+?,(Sat) 8 Feb 2014 (5),UD Las Palmas (25),0-0,0-0,Numancia (25)
+?,(Sat) 8 Feb 2014 (5),Lugo (25),1-0,0-0,Zaragoza (25)
+?,(Sat) 8 Feb 2014 (5),Sabadell (25),0-4,0-2,Alaves (25)
+?,(Sun) 9 Feb 2014 (5),Alcorcon (25),1-1,1-0,Mallorca (25)
+?,(Sun) 9 Feb 2014 (5),Barcelona B (25),2-0,1-0,Tenerife (25)
+?,(Sun) 9 Feb 2014 (5),Cordoba (25),0-2,0-1,SD Eibar (25)
+?,(Sun) 9 Feb 2014 (5),Hercules (25),1-2,0-0,Recreativo (25)
+?,(Sun) 9 Feb 2014 (5),Mirandes (25),2-1,0-0,Real Madrid B (25)
+?,(Sun) 9 Feb 2014 (5),Murcia (25),1-0,1-0,RCD La Coruña (25)
+?,(Sun) 9 Feb 2014 (5),Sporting Gijón (25),1-1,0-1,Ponferradina (25)
+?,(Sat) 15 Feb 2014 (6),SD Eibar (26),1-0,0-0,Sabadell (26)
+?,(Sat) 15 Feb 2014 (6),Jaen (26),3-0,2-0,UD Las Palmas (26)
+?,(Sat) 15 Feb 2014 (6),Mallorca (26),0-1,0-1,Hercules (26)
+?,(Sat) 15 Feb 2014 (6),Real Madrid B (26),3-1,2-1,Barcelona B (26)
+?,(Sat) 15 Feb 2014 (6),Tenerife (26),1-1,1-0,Zaragoza (26)
+?,(Sun) 16 Feb 2014 (6),Alaves (26),0-1,0-1,Murcia (26)
+?,(Sun) 16 Feb 2014 (6),Girona (26),6-0,2-0,Lugo (26)
+?,(Sun) 16 Feb 2014 (6),RCD La Coruña (26),1-1,0-1,Sporting Gijón (26)
+?,(Sun) 16 Feb 2014 (6),Numancia (26),3-0,0-0,Cordoba (26)
+?,(Sun) 16 Feb 2014 (6),Ponferradina (26),0-2,0-1,Alcorcon (26)
+?,(Sun) 16 Feb 2014 (6),Recreativo (26),1-0,1-0,Mirandes (26)
+?,(Sat) 22 Feb 2014 (7),Barcelona B (27),0-1,0-1,Recreativo (27)
+?,(Sat) 22 Feb 2014 (7),UD Las Palmas (27),2-1,0-0,Girona (27)
+?,(Sat) 22 Feb 2014 (7),Mirandes (27),0-0,0-0,Mallorca (27)
+?,(Sat) 22 Feb 2014 (7),Sporting Gijón (27),2-0,0-0,Alaves (27)
+?,(Sun) 23 Feb 2014 (7),Alcorcon (27),1-2,1-1,RCD La Coruña (27)
+?,(Sun) 23 Feb 2014 (7),Cordoba (27),0-0,0-0,Jaen (27)
+?,(Sun) 23 Feb 2014 (7),Hercules (27),1-0,0-0,Ponferradina (27)
+?,(Sun) 23 Feb 2014 (7),Lugo (27),1-3,1-1,Tenerife (27)
+?,(Sun) 23 Feb 2014 (7),Murcia (27),0-0,0-0,SD Eibar (27)
+?,(Sun) 23 Feb 2014 (7),Sabadell (27),0-0,0-0,Numancia (27)
+?,(Sun) 23 Feb 2014 (7),Zaragoza (27),0-2,0-1,Real Madrid B (27)
+?,(Sat) 1 Mar 2014 (8),Alaves (28),1-0,0-0,Alcorcon (28)
+?,(Sat) 1 Mar 2014 (8),Mallorca (28),1-2,0-2,Barcelona B (28)
+?,(Sat) 1 Mar 2014 (8),Real Madrid B (28),2-2,0-1,Tenerife (28)
+?,(Sat) 1 Mar 2014 (8),Recreativo (28),2-2,1-1,Zaragoza (28)
+?,(Sun) 2 Mar 2014 (8),SD Eibar (28),3-0,1-0,Sporting Gijón (28)
+?,(Sun) 2 Mar 2014 (8),Girona (28),0-1,0-0,Cordoba (28)
+?,(Sun) 2 Mar 2014 (8),Jaen (28),0-1,0-0,Sabadell (28)
+?,(Sun) 2 Mar 2014 (8),RCD La Coruña (28),3-2,2-0,Hercules (28)
+?,(Sun) 2 Mar 2014 (8),UD Las Palmas (28),0-0,0-0,Lugo (28)
+?,(Sun) 2 Mar 2014 (8),Numancia (28),1-0,0-0,Murcia (28)
+?,(Sun) 2 Mar 2014 (8),Ponferradina (28),1-1,0-0,Mirandes (28)
+?,(Sat) 8 Mar 2014 (9),Alcorcon (29),0-0,0-0,SD Eibar (29)
+?,(Sat) 8 Mar 2014 (9),Cordoba (29),0-1,0-1,UD Las Palmas (29)
+?,(Sat) 8 Mar 2014 (9),Mirandes (29),1-0,0-0,RCD La Coruña (29)
+?,(Sat) 8 Mar 2014 (9),Sabadell (29),4-0,1-0,Girona (29)
+?,(Sun) 9 Mar 2014 (9),Barcelona B (29),1-0,0-0,Ponferradina (29)
+?,(Sun) 9 Mar 2014 (9),Hercules (29),2-0,2-0,Alaves (29)
+?,(Sun) 9 Mar 2014 (9),Lugo (29),1-1,1-0,Real Madrid B (29)
+?,(Sun) 9 Mar 2014 (9),Murcia (29),2-0,0-0,Jaen (29)
+?,(Sun) 9 Mar 2014 (9),Sporting Gijón (29),2-2,1-1,Numancia (29)
+?,(Sun) 9 Mar 2014 (9),Tenerife (29),1-0,1-0,Recreativo (29)
+?,(Sun) 9 Mar 2014 (9),Zaragoza (29),1-1,1-1,Mallorca (29)
+?,(Sat) 15 Mar 2014 (10),Alaves (30),0-2,0-1,Mirandes (30)
+?,(Sat) 15 Mar 2014 (10),Jaen (30),3-2,1-1,Sporting Gijón (30)
+?,(Sat) 15 Mar 2014 (10),RCD La Coruña (30),0-0,0-0,Barcelona B (30)
+?,(Sat) 15 Mar 2014 (10),UD Las Palmas (30),5-0,3-0,Sabadell (30)
+?,(Sat) 15 Mar 2014 (10),Recreativo (30),2-3,1-2,Real Madrid B (30)
+?,(Sun) 16 Mar 2014 (10),Cordoba (30),1-1,0-0,Lugo (30)
+?,(Sun) 16 Mar 2014 (10),SD Eibar (30),1-1,0-0,Hercules (30)
+?,(Sun) 16 Mar 2014 (10),Girona (30),0-1,0-0,Murcia (30)
+?,(Sun) 16 Mar 2014 (10),Mallorca (30),2-0,1-0,Tenerife (30)
+?,(Sun) 16 Mar 2014 (10),Numancia (30),0-1,0-1,Alcorcon (30)
+?,(Sun) 16 Mar 2014 (10),Ponferradina (30),4-2,1-1,Zaragoza (30)
+?,(Sat) 22 Mar 2014 (11),Alcorcon (31),0-0,0-0,Jaen (31)
+?,(Sat) 22 Mar 2014 (11),Barcelona B (31),2-1,0-0,Alaves (31)
+?,(Sat) 22 Mar 2014 (11),Lugo (31),2-0,0-0,Recreativo (31)
+?,(Sat) 22 Mar 2014 (11),Mirandes (31),1-4,0-1,SD Eibar (31)
+?,(Sat) 22 Mar 2014 (11),Murcia (31),1-3,0-1,UD Las Palmas (31)
+?,(Sat) 22 Mar 2014 (11),Sabadell (31),3-2,1-1,Cordoba (31)
+?,(Sun) 23 Mar 2014 (11),Hercules (31),0-0,0-0,Numancia (31)
+?,(Sun) 23 Mar 2014 (11),Real Madrid B (31),1-2,0-0,Mallorca (31)
+?,(Sun) 23 Mar 2014 (11),Sporting Gijón (31),3-1,3-1,Girona (31)
+?,(Sun) 23 Mar 2014 (11),Tenerife (31),5-0,3-0,Ponferradina (31)
+?,(Sun) 23 Mar 2014 (11),Zaragoza (31),0-1,0-1,RCD La Coruña (31)
+?,(Sat) 29 Mar 2014 (12),Cordoba (32),1-1,0-0,Murcia (32)
+?,(Sat) 29 Mar 2014 (12),SD Eibar (32),0-0,0-0,Barcelona B (32)
+?,(Sat) 29 Mar 2014 (12),RCD La Coruña (32),1-1,1-0,Tenerife (32)
+?,(Sat) 29 Mar 2014 (12),Mallorca (32),0-0,0-0,Recreativo (32)
+?,(Sat) 29 Mar 2014 (12),Numancia (32),0-1,0-0,Mirandes (32)
+?,(Sat) 29 Mar 2014 (12),Ponferradina (32),0-0,0-0,Real Madrid B (32)
+?,(Sun) 30 Mar 2014 (12),Alaves (32),2-2,1-1,Zaragoza (32)
+?,(Sun) 30 Mar 2014 (12),Girona (32),3-1,1-0,Alcorcon (32)
+?,(Sun) 30 Mar 2014 (12),Jaen (32),1-1,1-1,Hercules (32)
+?,(Sun) 30 Mar 2014 (12),UD Las Palmas (32),2-1,0-0,Sporting Gijón (32)
+?,(Sun) 30 Mar 2014 (12),Sabadell (32),1-0,1-0,Lugo (32)
+?,(Sat) 5 Apr 2014 (13),Alcorcon (33),2-0,1-0,UD Las Palmas (33)
+?,(Sat) 5 Apr 2014 (13),Murcia (33),2-0,1-0,Sabadell (33)
+?,(Sat) 5 Apr 2014 (13),Real Madrid B (33),0-2,0-1,RCD La Coruña (33)
+?,(Sun) 6 Apr 2014 (13),Barcelona B (33),3-0,0-0,Numancia (33)
+?,(Sun) 6 Apr 2014 (13),Hercules (33),0-0,0-0,Girona (33)
+?,(Sun) 6 Apr 2014 (13),Lugo (33),2-1,1-1,Mallorca (33)
+?,(Sun) 6 Apr 2014 (13),Mirandes (33),2-1,0-1,Jaen (33)
+?,(Sun) 6 Apr 2014 (13),Recreativo (33),1-0,1-0,Ponferradina (33)
+?,(Sun) 6 Apr 2014 (13),Sporting Gijón (33),1-2,0-1,Cordoba (33)
+?,(Sun) 6 Apr 2014 (13),Tenerife (33),2-0,2-0,Alaves (33)
+?,(Sun) 6 Apr 2014 (13),Zaragoza (33),1-0,0-0,SD Eibar (33)
+?,(Sat) 12 Apr 2014 (14),Girona (34),4-0,1-0,Mirandes (34)
+?,(Sat) 12 Apr 2014 (14),UD Las Palmas (34),2-1,0-1,Hercules (34)
+?,(Sat) 12 Apr 2014 (14),Numancia (34),2-2,1-2,Zaragoza (34)
+?,(Sat) 12 Apr 2014 (14),Sabadell (34),2-0,0-0,Sporting Gijón (34)
+?,(Sun) 13 Apr 2014 (14),Alaves (34),2-2,1-2,Real Madrid B (34)
+?,(Sun) 13 Apr 2014 (14),Cordoba (34),3-1,1-1,Alcorcon (34)
+?,(Sun) 13 Apr 2014 (14),SD Eibar (34),1-2,1-0,Tenerife (34)
+?,(Sun) 13 Apr 2014 (14),Jaen (34),0-3,0-1,Barcelona B (34)
+?,(Sun) 13 Apr 2014 (14),RCD La Coruña (34),2-0,1-0,Recreativo (34)
+?,(Sun) 13 Apr 2014 (14),Murcia (34),3-1,0-0,Lugo (34)
+?,(Sun) 13 Apr 2014 (14),Ponferradina (34),2-0,1-0,Mallorca (34)
+?,(Sat) 19 Apr 2014 (15),Barcelona B (35),2-1,0-1,Girona (35)
+?,(Sat) 19 Apr 2014 (15),Hercules (35),0-1,0-1,Cordoba (35)
+?,(Sat) 19 Apr 2014 (15),Lugo (35),3-0,1-0,Ponferradina (35)
+?,(Sat) 19 Apr 2014 (15),Mirandes (35),2-1,1-1,UD Las Palmas (35)
+?,(Sat) 19 Apr 2014 (15),Real Madrid B (35),0-1,0-1,SD Eibar (35)
+?,(Sun) 20 Apr 2014 (15),Alcorcon (35),3-1,2-1,Sabadell (35)
+?,(Sun) 20 Apr 2014 (15),Mallorca (35),0-3,0-1,RCD La Coruña (35)
+?,(Sun) 20 Apr 2014 (15),Recreativo (35),0-2,0-1,Alaves (35)
+?,(Sun) 20 Apr 2014 (15),Sporting Gijón (35),0-0,0-0,Murcia (35)
+?,(Sun) 20 Apr 2014 (15),Tenerife (35),3-2,1-0,Numancia (35)
+?,(Sun) 20 Apr 2014 (15),Zaragoza (35),1-0,0-0,Jaen (35)
+?,(Sat) 26 Apr 2014 (16),Alaves (36),1-0,0-0,Mallorca (36)
+?,(Sat) 26 Apr 2014 (16),Cordoba (36),1-1,1-0,Mirandes (36)
+?,(Sat) 26 Apr 2014 (16),RCD La Coruña (36),0-3,0-1,Ponferradina (36)
+?,(Sat) 26 Apr 2014 (16),UD Las Palmas (36),0-2,0-0,Barcelona B (36)
+?,(Sat) 26 Apr 2014 (16),Sporting Gijón (36),2-0,1-0,Lugo (36)
+?,(Sun) 27 Apr 2014 (16),SD Eibar (36),0-0,0-0,Recreativo (36)
+?,(Sun) 27 Apr 2014 (16),Girona (36),2-0,1-0,Zaragoza (36)
+?,(Sun) 27 Apr 2014 (16),Jaen (36),1-0,0-0,Tenerife (36)
+?,(Sun) 27 Apr 2014 (16),Murcia (36),1-1,1-0,Alcorcon (36)
+?,(Sun) 27 Apr 2014 (16),Numancia (36),0-0,0-0,Real Madrid B (36)
+?,(Sun) 27 Apr 2014 (16),Sabadell (36),2-1,1-0,Hercules (36)
+?,(Sat) 3 May 2014 (17),Alcorcon (37),1-0,1-0,Sporting Gijón (37)
+?,(Sat) 3 May 2014 (17),Barcelona B (37),0-1,0-0,Cordoba (37)
+?,(Sat) 3 May 2014 (17),Hercules (37),2-3,1-1,Murcia (37)
+?,(Sat) 3 May 2014 (17),Lugo (37),2-2,0-2,RCD La Coruña (37)
+?,(Sat) 3 May 2014 (17),Ponferradina (37),2-1,0-1,Alaves (37)
+?,(Sun) 4 May 2014 (17),Mallorca (37),0-2,0-0,SD Eibar (37)
+?,(Sun) 4 May 2014 (17),Mirandes (37),2-2,2-1,Sabadell (37)
+?,(Sun) 4 May 2014 (17),Real Madrid B (37),1-1,0-0,Jaen (37)
+?,(Sun) 4 May 2014 (17),Recreativo (37),0-0,0-0,Numancia (37)
+?,(Sun) 4 May 2014 (17),Tenerife (37),0-1,0-0,Girona (37)
+?,(Sun) 4 May 2014 (17),Zaragoza (37),1-2,1-2,UD Las Palmas (37)
+?,(Sat) 10 May 2014 (18),Alcorcon (38),1-0,0-0,Lugo (38)
+?,(Sat) 10 May 2014 (18),SD Eibar (38),0-0,0-0,Ponferradina (38)
+?,(Sat) 10 May 2014 (18),Girona (38),1-1,0-0,Real Madrid B (38)
+?,(Sat) 10 May 2014 (18),UD Las Palmas (38),1-0,0-0,Tenerife (38)
+?,(Sat) 10 May 2014 (18),Numancia (38),1-1,0-1,Mallorca (38)
+?,(Sat) 10 May 2014 (18),Sabadell (38),2-1,1-0,Barcelona B (38)
+?,(Sat) 10 May 2014 (18),Sporting Gijón (38),2-1,1-1,Hercules (38)
+?,(Sun) 11 May 2014 (18),Alaves (38),1-1,0-0,RCD La Coruña (38)
+?,(Sun) 11 May 2014 (18),Cordoba (38),1-2,1-0,Zaragoza (38)
+?,(Sun) 11 May 2014 (18),Jaen (38),3-1,2-0,Recreativo (38)
+?,(Sun) 11 May 2014 (18),Murcia (38),5-0,3-0,Mirandes (38)
+?,(Sat) 17 May 2014 (19),Barcelona B (39),4-0,3-0,Murcia (39)
+?,(Sat) 17 May 2014 (19),Hercules (39),1-2,0-0,Alcorcon (39)
+?,(Sat) 17 May 2014 (19),Mallorca (39),0-0,0-0,Jaen (39)
+?,(Sat) 17 May 2014 (19),Mirandes (39),1-1,0-1,Sporting Gijón (39)
+?,(Sat) 17 May 2014 (19),Tenerife (39),0-1,0-1,Cordoba (39)
+?,(Sat) 17 May 2014 (19),Zaragoza (39),2-2,2-0,Sabadell (39)
+?,(Sun) 18 May 2014 (19),RCD La Coruña (39),1-1,1-0,SD Eibar (39)
+?,(Sun) 18 May 2014 (19),Lugo (39),0-1,0-1,Alaves (39)
+?,(Sun) 18 May 2014 (19),Ponferradina (39),0-1,0-0,Numancia (39)
+?,(Sun) 18 May 2014 (19),Real Madrid B (39),3-2,3-1,UD Las Palmas (39)
+?,(Sun) 18 May 2014 (19),Recreativo (39),1-0,1-0,Girona (39)
+?,(Sat) 24 May 2014 (20),Sporting Gijón (40),1-0,1-0,Barcelona B (40)
+?,(Sun) 25 May 2014 (20),Alcorcon (40),2-0,0-0,Mirandes (40)
+?,(Sun) 25 May 2014 (20),Cordoba (40),2-0,0-0,Real Madrid B (40)
+?,(Sun) 25 May 2014 (20),SD Eibar (40),1-0,0-0,Alaves (40)
+?,(Sun) 25 May 2014 (20),Girona (40),1-1,1-0,Mallorca (40)
+?,(Sun) 25 May 2014 (20),Hercules (40),1-1,0-0,Lugo (40)
+?,(Sun) 25 May 2014 (20),Jaen (40),0-1,0-1,Ponferradina (40)
+?,(Sun) 25 May 2014 (20),UD Las Palmas (40),2-3,1-0,Recreativo (40)
+?,(Sun) 25 May 2014 (20),Murcia (40),1-1,1-0,Zaragoza (40)
+?,(Sun) 25 May 2014 (20),Numancia (40),2-1,1-1,RCD La Coruña (40)
+?,(Sun) 25 May 2014 (20),Sabadell (40),1-0,1-0,Tenerife (40)
+?,(Sat) 31 May 2014 (21),Alaves (41),3-1,1-0,Numancia (41)
+?,(Sat) 31 May 2014 (21),Barcelona B (41),4-3,0-2,Alcorcon (41)
+?,(Sat) 31 May 2014 (21),SD Eibar (41),1-0,1-0,Lugo (41)
+?,(Sat) 31 May 2014 (21),RCD La Coruña (41),1-0,1-0,Jaen (41)
+?,(Sat) 31 May 2014 (21),Mallorca (41),2-0,0-0,UD Las Palmas (41)
+?,(Sat) 31 May 2014 (21),Mirandes (41),0-1,0-0,Hercules (41)
+?,(Sat) 31 May 2014 (21),Ponferradina (41),1-2,0-1,Girona (41)
+?,(Sat) 31 May 2014 (21),Real Madrid B (41),2-1,0-0,Sabadell (41)
+?,(Sat) 31 May 2014 (21),Recreativo (41),1-1,0-1,Cordoba (41)
+?,(Sat) 31 May 2014 (21),Tenerife (41),0-1,0-1,Murcia (41)
+?,(Sat) 31 May 2014 (21),Zaragoza (41),1-1,1-0,Sporting Gijón (41)
+?,(Sat) 7 Jun 2014 (22),Cordoba (42),0-0,0-0,Mallorca (42)
+?,(Sat) 7 Jun 2014 (22),Girona (42),3-1,1-0,RCD La Coruña (42)
+?,(Sat) 7 Jun 2014 (22),Hercules (42),1-2,0-2,Barcelona B (42)
+?,(Sat) 7 Jun 2014 (22),Jaen (42),2-3,0-0,Alaves (42)
+?,(Sat) 7 Jun 2014 (22),UD Las Palmas (42),3-2,1-1,Ponferradina (42)
+?,(Sat) 7 Jun 2014 (22),Lugo (42),1-0,0-0,Mirandes (42)
+?,(Sat) 7 Jun 2014 (22),Murcia (42),1-0,1-0,Real Madrid B (42)
+?,(Sat) 7 Jun 2014 (22),Sabadell (42),0-0,0-0,Recreativo (42)
+?,(Sat) 7 Jun 2014 (22),Sporting Gijón (42),3-0,3-0,Tenerife (42)
+?,(Sun) 8 Jun 2014 (22),Alcorcon (42),1-0,0-0,Zaragoza (42)
+?,(Sun) 8 Jun 2014 (22),Numancia (42),1-1,1-0,SD Eibar (42)

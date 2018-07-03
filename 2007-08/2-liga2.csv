@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2007-08-25,Ferrol,Eibar,1-1,0-1
-2007-08-25,Hercules,Xerez,2-2,2-0
-2007-08-25,Numancia,Las Palmas,3-0,1-0
-2007-08-26,Albacete,Elche,0-1,0-1
-2007-08-26,Cadiz,Granada 74,2-0,0-0
-2007-08-26,Celta,Cordoba,1-1,0-0
-2007-08-26,Gimnastic,Alaves,2-0,1-0
-2007-08-26,Malaga,Salamanca,3-0,1-0
-2007-08-26,Sevilla B,Tenerife,1-1,1-0
-2007-08-26,Sociedad,Castellon,0-2,0-1
-2007-08-26,Sp Gijon,Poli Ejido,4-0,1-0
-2007-09-02,Alaves,Malaga,0-1,0-0
-2007-09-02,Castellon,Celta,2-1,0-0
-2007-09-02,Granada 74,Hercules,2-3,1-1
-2007-09-02,Cordoba,Gimnastic,2-2,1-1
-2007-09-02,Eibar,Sociedad,0-1,0-0
-2007-09-02,Elche,Numancia,1-1,0-0
-2007-09-02,Las Palmas,Sp Gijon,2-2,0-1
-2007-09-02,Poli Ejido,Ferrol,1-3,0-2
-2007-09-02,Salamanca,Sevilla B,0-1,0-1
-2007-09-02,Tenerife,Cadiz,2-0,1-0
-2007-09-02,Xerez,Albacete,1-1,1-1
-2007-09-08,Celta,Eibar,0-1,0-0
-2007-09-08,Gimnastic,Castellon,1-0,0-0
-2007-09-08,Granada 74,Tenerife,4-1,1-1
-2007-09-08,Malaga,Cordoba,4-1,2-1
-2007-09-09,Cadiz,Salamanca,1-0,1-0
-2007-09-09,Ferrol,Las Palmas,3-1,1-0
-2007-09-09,Hercules,Albacete,2-0,1-0
-2007-09-09,Numancia,Xerez,2-1,2-1
-2007-09-09,Sevilla B,Alaves,1-0,1-0
-2007-09-09,Sociedad,Poli Ejido,0-1,0-0
-2007-09-09,Sp Gijon,Elche,1-1,1-0
-2007-09-15,Alaves,Cadiz,1-1,0-0
-2007-09-15,Albacete,Numancia,1-4,1-2
-2007-09-15,Elche,Ferrol,0-1,0-1
-2007-09-15,Las Palmas,Sociedad,2-3,1-0
-2007-09-15,Xerez,Sp Gijon,0-2,0-0
-2007-09-16,Castellon,Malaga,2-3,0-1
-2007-09-16,Cordoba,Sevilla B,2-1,1-0
-2007-09-16,Eibar,Gimnastic,2-0,1-0
-2007-09-16,Poli Ejido,Celta,0-1,0-0
-2007-09-16,Salamanca,Granada 74,3-1,2-1
-2007-09-16,Tenerife,Hercules,0-1,0-0
-2007-09-22,Cadiz,Cordoba,0-1,0-1
-2007-09-22,Gimnastic,Poli Ejido,4-1,3-0
-2007-09-22,Sociedad,Elche,2-1,0-0
-2007-09-23,Celta,Las Palmas,2-0,0-0
-2007-09-23,Ferrol,Xerez,1-2,0-2
-2007-09-23,Granada 74,Alaves,2-2,0-1
-2007-09-23,Hercules,Numancia,1-3,0-1
-2007-09-23,Malaga,Eibar,1-0,0-0
-2007-09-23,Sevilla B,Castellon,2-2,1-2
-2007-09-23,Sp Gijon,Albacete,1-0,0-0
-2007-09-23,Tenerife,Salamanca,2-1,1-1
-2007-09-29,Alaves,Tenerife,0-0,0-0
-2007-09-29,Castellon,Cadiz,2-0,1-0
-2007-09-29,Las Palmas,Gimnastic,1-0,1-0
-2007-09-29,Numancia,Sp Gijon,0-2,0-0
-2007-09-29,Poli Ejido,Malaga,2-3,0-1
-2007-09-30,Albacete,Ferrol,1-2,0-2
-2007-09-30,Cordoba,Granada 74,0-0,0-0
-2007-09-30,Eibar,Sevilla B,0-1,0-0
-2007-09-30,Elche,Celta,2-0,1-0
-2007-09-30,Salamanca,Hercules,1-1,1-1
-2007-09-30,Xerez,Sociedad,1-1,1-1
-2007-10-06,Celta,Xerez,3-1,1-1
-2007-10-06,Hercules,Sp Gijon,2-3,1-2
-2007-10-06,Malaga,Las Palmas,2-0,0-0
-2007-10-06,Sociedad,Albacete,1-0,0-0
-2007-10-07,Cadiz,Eibar,1-2,1-0
-2007-10-07,Ferrol,Numancia,1-3,0-2
-2007-10-07,Gimnastic,Elche,1-2,1-2
-2007-10-07,Granada 74,Castellon,1-1,0-0
-2007-10-07,Salamanca,Alaves,2-3,2-1
-2007-10-07,Sevilla B,Poli Ejido,2-2,0-1
-2007-10-07,Tenerife,Cordoba,0-0,0-0
-2007-10-13,Alaves,Hercules,2-1,0-0
-2007-10-13,Albacete,Celta,1-1,0-1
-2007-10-13,Las Palmas,Sevilla B,0-1,0-0
-2007-10-13,Numancia,Sociedad,2-1,1-0
-2007-10-13,Poli Ejido,Cadiz,1-0,1-0
-2007-10-14,Castellon,Tenerife,1-1,0-1
-2007-10-14,Cordoba,Salamanca,1-1,0-0
-2007-10-14,Eibar,Granada 74,2-0,0-0
-2007-10-14,Elche,Malaga,2-0,1-0
-2007-10-14,Sp Gijon,Ferrol,0-0,0-0
-2007-10-14,Xerez,Gimnastic,2-2,1-1
-2007-10-20,Cadiz,Las Palmas,0-0,0-0
-2007-10-20,Granada 74,Poli Ejido,1-0,1-0
-2007-10-20,Sevilla B,Elche,2-1,0-0
-2007-10-20,Sociedad,Sp Gijon,0-1,0-0
-2007-10-21,Alaves,Cordoba,0-2,0-1
-2007-10-21,Celta,Numancia,2-2,1-1
-2007-10-21,Gimnastic,Albacete,0-2,0-1
-2007-10-21,Hercules,Ferrol,1-0,1-0
-2007-10-21,Malaga,Xerez,1-0,1-0
-2007-10-21,Salamanca,Castellon,1-0,1-0
-2007-10-21,Tenerife,Eibar,4-2,1-0
-2007-10-27,Elche,Cadiz,1-0,0-0
-2007-10-27,Ferrol,Sociedad,0-0,0-0
-2007-10-27,Las Palmas,Granada 74,0-1,0-1
-2007-10-27,Poli Ejido,Tenerife,1-1,1-0
-2007-10-28,Albacete,Malaga,2-1,0-0
-2007-10-28,Castellon,Alaves,2-0,2-0
-2007-10-28,Cordoba,Hercules,3-3,1-1
-2007-10-28,Eibar,Salamanca,2-2,1-1
-2007-10-28,Numancia,Gimnastic,1-0,0-0
-2007-10-28,Sp Gijon,Celta,0-1,0-0
-2007-10-28,Xerez,Sevilla B,0-0,0-0
-2007-11-03,Alaves,Eibar,1-0,1-0
-2007-11-03,Cadiz,Xerez,2-1,2-1
-2007-11-03,Gimnastic,Sp Gijon,2-0,1-0
-2007-11-03,Granada 74,Elche,0-0,0-0
-2007-11-03,Sevilla B,Albacete,0-0,0-0
-2007-11-03,Tenerife,Las Palmas,2-2,1-1
-2007-11-04,Celta,Ferrol,1-1,0-0
-2007-11-04,Cordoba,Castellon,2-1,0-0
-2007-11-04,Hercules,Sociedad,1-1,1-0
-2007-11-04,Malaga,Numancia,0-1,0-0
-2007-11-04,Salamanca,Poli Ejido,4-1,2-1
-2007-11-10,Castellon,Hercules,0-0,0-0
-2007-11-10,Eibar,Cordoba,2-1,1-0
-2007-11-10,Ferrol,Gimnastic,0-2,0-0
-2007-11-10,Las Palmas,Salamanca,1-2,0-0
-2007-11-11,Albacete,Cadiz,0-1,0-0
-2007-11-11,Elche,Tenerife,3-1,1-0
-2007-11-11,Numancia,Sevilla B,0-1,0-0
-2007-11-11,Poli Ejido,Alaves,1-0,0-0
-2007-11-11,Sociedad,Celta,1-1,1-1
-2007-11-11,Sp Gijon,Malaga,0-1,0-1
-2007-11-11,Xerez,Granada 74,2-1,2-1
-2007-11-17,Gimnastic,Sociedad,1-1,0-1
-2007-11-17,Granada 74,Albacete,1-0,0-0
-2007-11-17,Malaga,Ferrol,4-2,0-2
-2007-11-17,Sevilla B,Sp Gijon,1-3,0-2
-2007-11-18,Alaves,Las Palmas,3-1,1-0
-2007-11-18,Cadiz,Numancia,0-0,0-0
-2007-11-18,Castellon,Eibar,0-0,0-0
-2007-11-18,Cordoba,Poli Ejido,1-1,0-0
-2007-11-18,Hercules,Celta,0-1,0-0
-2007-11-18,Salamanca,Elche,3-1,0-1
-2007-11-18,Tenerife,Xerez,3-1,2-0
-2007-11-24,Elche,Alaves,2-2,1-1
-2007-11-24,Las Palmas,Cordoba,3-1,1-0
-2007-11-25,Albacete,Tenerife,0-0,0-0
-2007-11-25,Celta,Gimnastic,1-1,0-1
-2007-11-25,Eibar,Hercules,0-3,0-1
-2007-11-25,Ferrol,Sevilla B,1-1,1-1
-2007-11-25,Numancia,Granada 74,0-2,0-1
-2007-11-25,Poli Ejido,Castellon,1-0,1-0
-2007-11-25,Sociedad,Malaga,2-0,1-0
-2007-11-25,Sp Gijon,Cadiz,4-2,1-1
-2007-11-25,Xerez,Salamanca,1-1,1-0
-2007-12-01,Granada 74,Sp Gijon,1-0,1-0
-2007-12-01,Hercules,Gimnastic,3-0,1-0
-2007-12-01,Sevilla B,Sociedad,0-0,0-0
-2007-12-01,Tenerife,Numancia,0-2,0-1
-2007-12-02,Alaves,Xerez,0-0,0-0
-2007-12-02,Cadiz,Ferrol,3-1,1-0
-2007-12-02,Castellon,Las Palmas,1-1,1-1
-2007-12-02,Cordoba,Elche,1-1,0-1
-2007-12-02,Eibar,Poli Ejido,1-0,0-0
-2007-12-02,Malaga,Celta,1-1,0-0
-2007-12-02,Salamanca,Albacete,0-1,0-1
-2007-12-08,Albacete,Alaves,0-3,0-0
-2007-12-08,Elche,Castellon,1-0,1-0
-2007-12-08,Ferrol,Granada 74,1-3,1-0
-2007-12-08,Gimnastic,Malaga,1-1,0-0
-2007-12-08,Las Palmas,Eibar,1-0,0-0
-2007-12-09,Celta,Sevilla B,2-1,0-1
-2007-12-09,Numancia,Salamanca,1-0,1-0
-2007-12-09,Poli Ejido,Hercules,0-0,0-0
-2007-12-09,Sociedad,Cadiz,0-0,0-0
-2007-12-09,Sp Gijon,Tenerife,0-1,0-0
-2007-12-09,Xerez,Cordoba,0-0,0-0
-2007-12-15,Cordoba,Albacete,1-1,0-0
-2007-12-15,Eibar,Elche,2-1,1-1
-2007-12-15,Poli Ejido,Las Palmas,3-1,1-1
-2007-12-15,Salamanca,Sp Gijon,1-1,1-1
-2007-12-16,Alaves,Numancia,1-1,1-1
-2007-12-16,Cadiz,Celta,3-1,0-0
-2007-12-16,Castellon,Xerez,1-0,0-0
-2007-12-16,Granada 74,Sociedad,1-2,1-1
-2007-12-16,Hercules,Malaga,1-1,0-0
-2007-12-16,Sevilla B,Gimnastic,2-0,1-0
-2007-12-16,Tenerife,Ferrol,2-1,1-0
-2007-12-22,Elche,Poli Ejido,2-1,1-1
-2007-12-22,Ferrol,Salamanca,0-2,0-1
-2007-12-22,Gimnastic,Cadiz,0-1,0-0
-2007-12-22,Las Palmas,Hercules,0-0,0-0
-2007-12-22,Malaga,Sevilla B,3-0,0-0
-2007-12-22,Sociedad,Tenerife,2-1,0-1
-2007-12-22,Sp Gijon,Alaves,3-2,2-0
-2007-12-22,Xerez,Eibar,3-3,0-2
-2007-12-23,Albacete,Castellon,2-0,1-0
-2007-12-23,Celta,Granada 74,4-1,1-0
-2007-12-23,Numancia,Cordoba,2-1,1-0
-2008-01-05,Cadiz,Malaga,0-1,0-1
-2008-01-05,Castellon,Numancia,0-0,0-0
-2008-01-05,Eibar,Albacete,1-0,1-0
-2008-01-06,Alaves,Ferrol,1-0,0-0
-2008-01-06,Cordoba,Sp Gijon,2-2,2-0
-2008-01-06,Granada 74,Gimnastic,1-0,0-0
-2008-01-06,Hercules,Sevilla B,1-2,0-0
-2008-01-06,Las Palmas,Elche,1-0,0-0
-2008-01-06,Poli Ejido,Xerez,0-0,0-0
-2008-01-06,Salamanca,Sociedad,3-2,1-0
-2008-01-06,Tenerife,Celta,3-2,3-1
-2008-01-12,Celta,Salamanca,0-0,0-0
-2008-01-12,Malaga,Granada 74,1-1,1-1
-2008-01-12,Sociedad,Alaves,1-0,0-0
-2008-01-12,Xerez,Las Palmas,0-3,0-1
-2008-01-13,Albacete,Poli Ejido,2-0,1-0
-2008-01-13,Ferrol,Cordoba,0-1,0-1
-2008-01-13,Gimnastic,Tenerife,1-1,1-1
-2008-01-13,Hercules,Elche,0-1,0-1
-2008-01-13,Numancia,Eibar,1-1,1-1
-2008-01-13,Sevilla B,Cadiz,1-2,0-0
-2008-01-13,Sp Gijon,Castellon,0-2,0-1
-2008-01-19,Alaves,Celta,2-3,1-1
-2008-01-19,Granada 74,Sevilla B,1-1,1-1
-2008-01-20,Cadiz,Hercules,1-2,0-1
-2008-01-20,Castellon,Ferrol,1-0,1-0
-2008-01-20,Cordoba,Sociedad,1-3,0-1
-2008-01-20,Eibar,Sp Gijon,0-3,0-1
-2008-01-20,Elche,Xerez,2-4,1-3
-2008-01-20,Las Palmas,Albacete,2-1,1-0
-2008-01-20,Poli Ejido,Numancia,1-2,1-1
-2008-01-20,Salamanca,Gimnastic,1-1,1-0
-2008-01-20,Tenerife,Malaga,1-1,1-1
-2008-01-26,Alaves,Gimnastic,1-1,0-1
-2008-01-26,Elche,Albacete,1-1,0-0
-2008-01-26,Las Palmas,Numancia,1-2,1-0
-2008-01-26,Poli Ejido,Sp Gijon,1-1,1-0
-2008-01-26,Tenerife,Sevilla B,1-1,0-1
-2008-01-27,Castellon,Sociedad,1-0,0-0
-2008-01-27,Cordoba,Celta,0-2,0-1
-2008-01-27,Eibar,Ferrol,1-3,1-0
-2008-01-27,Granada 74,Cadiz,2-1,1-0
-2008-01-27,Salamanca,Malaga,0-0,0-0
-2008-01-27,Xerez,Hercules,4-3,1-3
-2008-02-02,Albacete,Xerez,1-0,1-0
-2008-02-02,Cadiz,Tenerife,0-0,0-0
-2008-02-02,Celta,Castellon,1-2,0-1
-2008-02-02,Malaga,Alaves,1-0,0-0
-2008-02-02,Sociedad,Eibar,1-1,0-0
-2008-02-03,Ferrol,Poli Ejido,2-0,0-0
-2008-02-03,Gimnastic,Cordoba,2-2,0-1
-2008-02-03,Hercules,Granada 74,0-0,0-0
-2008-02-03,Numancia,Elche,0-1,0-1
-2008-02-03,Sevilla B,Salamanca,2-1,1-0
-2008-02-03,Sp Gijon,Las Palmas,0-1,0-0
-2008-02-09,Alaves,Sevilla B,1-0,0-0
-2008-02-09,Castellon,Gimnastic,3-1,1-0
-2008-02-09,Cordoba,Malaga,2-1,1-1
-2008-02-09,Las Palmas,Ferrol,2-2,1-2
-2008-02-10,Albacete,Hercules,1-1,1-1
-2008-02-10,Eibar,Celta,2-1,0-1
-2008-02-10,Elche,Sp Gijon,3-1,2-1
-2008-02-10,Poli Ejido,Sociedad,0-1,0-0
-2008-02-10,Salamanca,Cadiz,1-1,0-1
-2008-02-10,Tenerife,Granada 74,2-0,1-0
-2008-02-10,Xerez,Numancia,0-3,0-1
-2008-02-16,Celta,Poli Ejido,2-1,1-1
-2008-02-16,Gimnastic,Eibar,2-1,2-1
-2008-02-16,Hercules,Tenerife,2-1,1-0
-2008-02-16,Numancia,Albacete,1-0,0-0
-2008-02-16,Sp Gijon,Xerez,2-0,2-0
-2008-02-17,Cadiz,Alaves,2-0,1-0
-2008-02-17,Ferrol,Elche,1-0,0-0
-2008-02-17,Granada 74,Salamanca,0-0,0-0
-2008-02-17,Malaga,Castellon,3-1,2-0
-2008-02-17,Sevilla B,Cordoba,2-1,0-1
-2008-02-17,Sociedad,Las Palmas,4-0,1-0
-2008-02-23,Albacete,Sp Gijon,1-2,0-1
-2008-02-23,Castellon,Sevilla B,0-0,0-0
-2008-02-23,Cordoba,Cadiz,2-2,2-1
-2008-02-23,Elche,Sociedad,0-0,0-0
-2008-02-23,Las Palmas,Celta,1-0,1-0
-2008-02-24,Alaves,Granada 74,2-2,0-1
-2008-02-24,Eibar,Malaga,1-1,0-0
-2008-02-24,Numancia,Hercules,2-1,0-0
-2008-02-24,Poli Ejido,Gimnastic,1-1,0-1
-2008-02-24,Salamanca,Tenerife,1-0,1-0
-2008-02-24,Xerez,Ferrol,0-2,0-2
-2008-03-01,Ferrol,Albacete,1-1,0-0
-2008-03-01,Granada 74,Cordoba,0-2,0-1
-2008-03-01,Tenerife,Alaves,1-0,1-0
-2008-03-02,Cadiz,Castellon,1-1,1-0
-2008-03-02,Celta,Elche,2-2,1-0
-2008-03-02,Gimnastic,Las Palmas,2-0,0-0
-2008-03-02,Hercules,Salamanca,2-2,1-2
-2008-03-02,Malaga,Poli Ejido,1-1,0-0
-2008-03-02,Sevilla B,Eibar,2-0,0-0
-2008-03-02,Sociedad,Xerez,4-2,2-0
-2008-03-02,Sp Gijon,Numancia,1-0,1-0
-2008-03-08,Cordoba,Tenerife,2-2,1-0
-2008-03-08,Eibar,Cadiz,1-0,1-0
-2008-03-08,Xerez,Celta,1-0,1-0
-2008-03-09,Alaves,Salamanca,0-0,0-0
-2008-03-09,Albacete,Sociedad,1-2,0-2
-2008-03-09,Castellon,Granada 74,2-1,1-1
-2008-03-09,Elche,Gimnastic,2-0,2-0
-2008-03-09,Las Palmas,Malaga,1-2,0-1
-2008-03-09,Numancia,Ferrol,1-0,1-0
-2008-03-09,Poli Ejido,Sevilla B,2-0,0-0
-2008-03-09,Sp Gijon,Hercules,1-1,0-0
-2008-03-15,Ferrol,Sp Gijon,2-2,2-1
-2008-03-15,Sevilla B,Las Palmas,0-0,0-0
-2008-03-15,Sociedad,Numancia,0-1,0-0
-2008-03-16,Cadiz,Poli Ejido,2-0,1-0
-2008-03-16,Celta,Albacete,0-1,0-1
-2008-03-16,Gimnastic,Xerez,1-1,0-1
-2008-03-16,Granada 74,Eibar,1-0,1-0
-2008-03-16,Hercules,Alaves,1-1,1-1
-2008-03-16,Malaga,Elche,2-0,1-0
-2008-03-16,Salamanca,Cordoba,1-1,0-0
-2008-03-16,Tenerife,Castellon,2-1,2-0
-2008-03-22,Eibar,Tenerife,4-0,1-0
-2008-03-22,Elche,Sevilla B,2-0,0-0
-2008-03-22,Sp Gijon,Sociedad,1-0,0-0
-2008-03-22,Xerez,Malaga,1-0,0-0
-2008-03-23,Las Palmas,Cadiz,2-0,1-0
-2008-03-23,Albacete,Gimnastic,0-0,0-0
-2008-03-23,Castellon,Salamanca,1-0,0-0
-2008-03-23,Cordoba,Alaves,0-1,0-1
-2008-03-23,Ferrol,Hercules,1-1,0-0
-2008-03-23,Numancia,Celta,1-2,1-0
-2008-03-23,Poli Ejido,Granada 74,1-0,0-0
-2008-03-29,Alaves,Castellon,0-0,0-0
-2008-03-29,Gimnastic,Numancia,1-2,0-1
-2008-03-29,Granada 74,Las Palmas,0-3,0-0
-2008-03-30,Cadiz,Elche,1-1,0-0
-2008-03-30,Celta,Sp Gijon,0-0,0-0
-2008-03-30,Hercules,Cordoba,2-1,2-0
-2008-03-30,Malaga,Albacete,0-0,0-0
-2008-03-30,Salamanca,Eibar,1-0,1-0
-2008-03-30,Sevilla B,Xerez,1-1,0-0
-2008-03-30,Sociedad,Ferrol,1-2,0-1
-2008-03-30,Tenerife,Poli Ejido,2-1,0-0
-2008-04-05,Eibar,Alaves,2-0,1-0
-2008-04-05,Ferrol,Celta,2-1,1-1
-2008-04-05,Las Palmas,Tenerife,1-1,0-0
-2008-04-05,Sp Gijon,Gimnastic,3-3,1-1
-2008-04-05,Xerez,Cadiz,2-1,0-0
-2008-04-06,Albacete,Sevilla B,1-0,0-0
-2008-04-06,Castellon,Cordoba,1-1,1-0
-2008-04-06,Elche,Granada 74,0-0,0-0
-2008-04-06,Numancia,Malaga,2-1,1-0
-2008-04-06,Poli Ejido,Salamanca,1-1,0-0
-2008-04-06,Sociedad,Hercules,2-1,0-0
-2008-04-12,Celta,Sociedad,1-1,1-1
-2008-04-12,Cordoba,Eibar,0-1,0-0
-2008-04-12,Hercules,Castellon,1-0,1-0
-2008-04-12,Tenerife,Elche,1-1,1-0
-2008-04-13,Alaves,Poli Ejido,2-1,0-1
-2008-04-13,Cadiz,Albacete,2-1,1-1
-2008-04-13,Gimnastic,Ferrol,0-0,0-0
-2008-04-13,Granada 74,Xerez,1-1,0-1
-2008-04-13,Malaga,Sp Gijon,3-2,1-1
-2008-04-13,Salamanca,Las Palmas,2-2,2-0
-2008-04-13,Sevilla B,Numancia,1-1,0-0
-2008-04-19,Celta,Hercules,1-0,1-0
-2008-04-19,Las Palmas,Alaves,2-1,2-0
-2008-04-19,Poli Ejido,Cordoba,1-0,0-0
-2008-04-20,Albacete,Granada 74,3-2,3-0
-2008-04-20,Eibar,Castellon,1-2,0-0
-2008-04-20,Elche,Salamanca,0-3,0-2
-2008-04-20,Ferrol,Malaga,0-0,0-0
-2008-04-20,Numancia,Cadiz,0-1,0-0
-2008-04-20,Sociedad,Gimnastic,0-0,0-0
-2008-04-20,Sp Gijon,Sevilla B,4-1,1-1
-2008-04-20,Xerez,Tenerife,2-1,1-0
-2008-04-26,Cordoba,Las Palmas,0-1,0-1
-2008-04-26,Gimnastic,Celta,2-1,0-0
-2008-04-26,Hercules,Eibar,5-1,2-1
-2008-04-26,Malaga,Sociedad,0-2,0-1
-2008-04-27,Alaves,Elche,2-0,2-0
-2008-04-27,Cadiz,Sp Gijon,0-1,0-0
-2008-04-27,Castellon,Poli Ejido,1-0,0-0
-2008-04-27,Granada 74,Numancia,1-1,0-0
-2008-04-27,Salamanca,Xerez,2-2,2-2
-2008-04-27,Sevilla B,Ferrol,2-1,2-0
-2008-04-27,Tenerife,Albacete,2-2,2-1
-2008-05-03,Albacete,Salamanca,2-1,1-0
-2008-05-03,Las Palmas,Castellon,1-1,0-0
-2008-05-03,Sociedad,Sevilla B,2-0,1-0
-2008-05-04,Celta,Malaga,1-2,1-0
-2008-05-04,Elche,Cordoba,3-2,0-1
-2008-05-04,Ferrol,Cadiz,2-1,2-0
-2008-05-04,Gimnastic,Hercules,2-2,0-1
-2008-05-04,Numancia,Tenerife,4-2,1-0
-2008-05-04,Poli Ejido,Eibar,1-0,0-0
-2008-05-04,Sp Gijon,Granada 74,2-1,0-0
-2008-05-04,Xerez,Alaves,3-0,0-0
-2008-05-10,Castellon,Elche,1-0,0-0
-2008-05-10,Eibar,Las Palmas,2-2,2-1
-2008-05-10,Malaga,Gimnastic,1-2,1-1
-2008-05-10,Sevilla B,Celta,2-1,1-0
-2008-05-10,Tenerife,Sp Gijon,0-2,0-2
-2008-05-11,Alaves,Albacete,0-0,0-0
-2008-05-11,Cadiz,Sociedad,2-2,0-1
-2008-05-11,Cordoba,Xerez,2-1,1-1
-2008-05-11,Granada 74,Ferrol,3-3,2-2
-2008-05-11,Hercules,Poli Ejido,1-2,1-1
-2008-05-11,Salamanca,Numancia,0-1,0-1
-2008-05-17,Ferrol,Tenerife,0-0,0-0
-2008-05-17,Las Palmas,Poli Ejido,2-1,1-1
-2008-05-17,Sociedad,Granada 74,3-1,0-0
-2008-05-17,Sp Gijon,Salamanca,0-0,0-0
-2008-05-17,Xerez,Castellon,2-1,0-1
-2008-05-18,Albacete,Cordoba,0-1,0-0
-2008-05-18,Celta,Cadiz,5-2,2-0
-2008-05-18,Elche,Eibar,1-1,1-1
-2008-05-18,Gimnastic,Sevilla B,1-0,0-0
-2008-05-18,Malaga,Hercules,4-6,3-1
-2008-05-18,Numancia,Alaves,0-0,0-0
-2008-05-24,Castellon,Albacete,0-2,0-1
-2008-05-24,Granada 74,Celta,1-1,0-0
-2008-05-24,Sevilla B,Malaga,0-1,0-1
-2008-05-24,Tenerife,Sociedad,1-2,1-1
-2008-05-25,Alaves,Sp Gijon,0-0,0-0
-2008-05-25,Cadiz,Gimnastic,0-2,0-0
-2008-05-25,Cordoba,Numancia,3-2,2-1
-2008-05-25,Eibar,Xerez,0-0,0-0
-2008-05-25,Hercules,Las Palmas,1-2,0-0
-2008-05-25,Poli Ejido,Elche,2-0,0-0
-2008-05-25,Salamanca,Ferrol,2-1,1-0
-2008-05-31,Celta,Tenerife,2-2,1-0
-2008-05-31,Elche,Las Palmas,1-4,0-1
-2008-05-31,Ferrol,Alaves,1-1,1-0
-2008-05-31,Gimnastic,Granada 74,3-2,2-1
-2008-05-31,Sociedad,Salamanca,1-1,1-1
-2008-05-31,Sp Gijon,Cordoba,2-1,0-0
-2008-06-01,Albacete,Eibar,1-0,0-0
-2008-06-01,Malaga,Cadiz,0-0,0-0
-2008-06-01,Numancia,Castellon,2-2,0-2
-2008-06-01,Sevilla B,Hercules,3-4,1-2
-2008-06-01,Xerez,Poli Ejido,1-0,0-0
-2008-06-07,Elche,Hercules,0-2,0-2
-2008-06-08,Alaves,Sociedad,3-2,0-1
-2008-06-08,Cadiz,Sevilla B,0-0,0-0
-2008-06-08,Castellon,Sp Gijon,1-0,0-0
-2008-06-08,Cordoba,Ferrol,1-0,1-0
-2008-06-08,Eibar,Numancia,1-0,0-0
-2008-06-08,Granada 74,Malaga,0-0,0-0
-2008-06-08,Las Palmas,Xerez,0-0,0-0
-2008-06-08,Poli Ejido,Albacete,0-0,0-0
-2008-06-08,Salamanca,Celta,3-1,0-0
-2008-06-08,Tenerife,Gimnastic,2-1,2-1
-2008-06-14,Gimnastic,Salamanca,1-2,0-1
-2008-06-14,Numancia,Poli Ejido,2-2,0-1
-2008-06-15,Albacete,Las Palmas,3-1,2-0
-2008-06-15,Celta,Alaves,2-3,1-0
-2008-06-15,Ferrol,Castellon,1-0,1-0
-2008-06-15,Hercules,Cadiz,1-1,1-1
-2008-06-15,Malaga,Tenerife,2-1,1-0
-2008-06-15,Sevilla B,Granada 74,4-2,0-1
-2008-06-15,Sociedad,Cordoba,1-1,1-1
-2008-06-15,Sp Gijon,Eibar,2-0,1-0
-2008-06-15,Xerez,Elche,1-0,0-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 25 Aug 2007 (34),Ferrol (1),1-1,0-1,SD Eibar (1)
+?,(Sat) 25 Aug 2007 (34),Hercules (1),2-2,2-0,Xerez (1)
+?,(Sat) 25 Aug 2007 (34),Numancia (1),3-0,1-0,UD Las Palmas (1)
+?,(Sun) 26 Aug 2007 (34),Albacete (1),0-1,0-1,Elche (1)
+?,(Sun) 26 Aug 2007 (34),Cadiz (1),2-0,0-0,Granada 74 (1)
+?,(Sun) 26 Aug 2007 (34),RC Celta Vigo (1),1-1,0-0,Cordoba (1)
+?,(Sun) 26 Aug 2007 (34),Gimnastic (1),2-0,1-0,Alaves (1)
+?,(Sun) 26 Aug 2007 (34),Málaga CF (1),3-0,1-0,Salamanca (1)
+?,(Sun) 26 Aug 2007 (34),Sevilla B (1),1-1,1-0,Tenerife (1)
+?,(Sun) 26 Aug 2007 (34),Real Sociedad (1),0-2,0-1,Castellon (1)
+?,(Sun) 26 Aug 2007 (34),Sporting Gijón (1),4-0,1-0,Poli Ejido (1)
+?,(Sun) 2 Sep 2007 (35),Alaves (2),0-1,0-0,Málaga CF (2)
+?,(Sun) 2 Sep 2007 (35),Castellon (2),2-1,0-0,RC Celta Vigo (2)
+?,(Sun) 2 Sep 2007 (35),Granada 74 (2),2-3,1-1,Hercules (2)
+?,(Sun) 2 Sep 2007 (35),Cordoba (2),2-2,1-1,Gimnastic (2)
+?,(Sun) 2 Sep 2007 (35),SD Eibar (2),0-1,0-0,Real Sociedad (2)
+?,(Sun) 2 Sep 2007 (35),Elche (2),1-1,0-0,Numancia (2)
+?,(Sun) 2 Sep 2007 (35),UD Las Palmas (2),2-2,0-1,Sporting Gijón (2)
+?,(Sun) 2 Sep 2007 (35),Poli Ejido (2),1-3,0-2,Ferrol (2)
+?,(Sun) 2 Sep 2007 (35),Salamanca (2),0-1,0-1,Sevilla B (2)
+?,(Sun) 2 Sep 2007 (35),Tenerife (2),2-0,1-0,Cadiz (2)
+?,(Sun) 2 Sep 2007 (35),Xerez (2),1-1,1-1,Albacete (2)
+?,(Sat) 8 Sep 2007 (36),RC Celta Vigo (3),0-1,0-0,SD Eibar (3)
+?,(Sat) 8 Sep 2007 (36),Gimnastic (3),1-0,0-0,Castellon (3)
+?,(Sat) 8 Sep 2007 (36),Granada 74 (3),4-1,1-1,Tenerife (3)
+?,(Sat) 8 Sep 2007 (36),Málaga CF (3),4-1,2-1,Cordoba (3)
+?,(Sun) 9 Sep 2007 (36),Cadiz (3),1-0,1-0,Salamanca (3)
+?,(Sun) 9 Sep 2007 (36),Ferrol (3),3-1,1-0,UD Las Palmas (3)
+?,(Sun) 9 Sep 2007 (36),Hercules (3),2-0,1-0,Albacete (3)
+?,(Sun) 9 Sep 2007 (36),Numancia (3),2-1,2-1,Xerez (3)
+?,(Sun) 9 Sep 2007 (36),Sevilla B (3),1-0,1-0,Alaves (3)
+?,(Sun) 9 Sep 2007 (36),Real Sociedad (3),0-1,0-0,Poli Ejido (3)
+?,(Sun) 9 Sep 2007 (36),Sporting Gijón (3),1-1,1-0,Elche (3)
+?,(Sat) 15 Sep 2007 (37),Alaves (4),1-1,0-0,Cadiz (4)
+?,(Sat) 15 Sep 2007 (37),Albacete (4),1-4,1-2,Numancia (4)
+?,(Sat) 15 Sep 2007 (37),Elche (4),0-1,0-1,Ferrol (4)
+?,(Sat) 15 Sep 2007 (37),UD Las Palmas (4),2-3,1-0,Real Sociedad (4)
+?,(Sat) 15 Sep 2007 (37),Xerez (4),0-2,0-0,Sporting Gijón (4)
+?,(Sun) 16 Sep 2007 (37),Castellon (4),2-3,0-1,Málaga CF (4)
+?,(Sun) 16 Sep 2007 (37),Cordoba (4),2-1,1-0,Sevilla B (4)
+?,(Sun) 16 Sep 2007 (37),SD Eibar (4),2-0,1-0,Gimnastic (4)
+?,(Sun) 16 Sep 2007 (37),Poli Ejido (4),0-1,0-0,RC Celta Vigo (4)
+?,(Sun) 16 Sep 2007 (37),Salamanca (4),3-1,2-1,Granada 74 (4)
+?,(Sun) 16 Sep 2007 (37),Tenerife (4),0-1,0-0,Hercules (4)
+?,(Sat) 22 Sep 2007 (38),Cadiz (5),0-1,0-1,Cordoba (5)
+?,(Sat) 22 Sep 2007 (38),Gimnastic (5),4-1,3-0,Poli Ejido (5)
+?,(Sat) 22 Sep 2007 (38),Real Sociedad (5),2-1,0-0,Elche (5)
+?,(Sun) 23 Sep 2007 (38),RC Celta Vigo (5),2-0,0-0,UD Las Palmas (5)
+?,(Sun) 23 Sep 2007 (38),Ferrol (5),1-2,0-2,Xerez (5)
+?,(Sun) 23 Sep 2007 (38),Granada 74 (5),2-2,0-1,Alaves (5)
+?,(Sun) 23 Sep 2007 (38),Hercules (5),1-3,0-1,Numancia (5)
+?,(Sun) 23 Sep 2007 (38),Málaga CF (5),1-0,0-0,SD Eibar (5)
+?,(Sun) 23 Sep 2007 (38),Sevilla B (5),2-2,1-2,Castellon (5)
+?,(Sun) 23 Sep 2007 (38),Sporting Gijón (5),1-0,0-0,Albacete (5)
+?,(Sun) 23 Sep 2007 (38),Tenerife (5),2-1,1-1,Salamanca (5)
+?,(Sat) 29 Sep 2007 (39),Alaves (6),0-0,0-0,Tenerife (6)
+?,(Sat) 29 Sep 2007 (39),Castellon (6),2-0,1-0,Cadiz (6)
+?,(Sat) 29 Sep 2007 (39),UD Las Palmas (6),1-0,1-0,Gimnastic (6)
+?,(Sat) 29 Sep 2007 (39),Numancia (6),0-2,0-0,Sporting Gijón (6)
+?,(Sat) 29 Sep 2007 (39),Poli Ejido (6),2-3,0-1,Málaga CF (6)
+?,(Sun) 30 Sep 2007 (39),Albacete (6),1-2,0-2,Ferrol (6)
+?,(Sun) 30 Sep 2007 (39),Cordoba (6),0-0,0-0,Granada 74 (6)
+?,(Sun) 30 Sep 2007 (39),SD Eibar (6),0-1,0-0,Sevilla B (6)
+?,(Sun) 30 Sep 2007 (39),Elche (6),2-0,1-0,RC Celta Vigo (6)
+?,(Sun) 30 Sep 2007 (39),Salamanca (6),1-1,1-1,Hercules (6)
+?,(Sun) 30 Sep 2007 (39),Xerez (6),1-1,1-1,Real Sociedad (6)
+?,(Sat) 6 Oct 2007 (40),RC Celta Vigo (7),3-1,1-1,Xerez (7)
+?,(Sat) 6 Oct 2007 (40),Hercules (7),2-3,1-2,Sporting Gijón (7)
+?,(Sat) 6 Oct 2007 (40),Málaga CF (7),2-0,0-0,UD Las Palmas (7)
+?,(Sat) 6 Oct 2007 (40),Real Sociedad (7),1-0,0-0,Albacete (7)
+?,(Sun) 7 Oct 2007 (40),Cadiz (7),1-2,1-0,SD Eibar (7)
+?,(Sun) 7 Oct 2007 (40),Ferrol (7),1-3,0-2,Numancia (7)
+?,(Sun) 7 Oct 2007 (40),Gimnastic (7),1-2,1-2,Elche (7)
+?,(Sun) 7 Oct 2007 (40),Granada 74 (7),1-1,0-0,Castellon (7)
+?,(Sun) 7 Oct 2007 (40),Salamanca (7),2-3,2-1,Alaves (7)
+?,(Sun) 7 Oct 2007 (40),Sevilla B (7),2-2,0-1,Poli Ejido (7)
+?,(Sun) 7 Oct 2007 (40),Tenerife (7),0-0,0-0,Cordoba (7)
+?,(Sat) 13 Oct 2007 (41),Alaves (8),2-1,0-0,Hercules (8)
+?,(Sat) 13 Oct 2007 (41),Albacete (8),1-1,0-1,RC Celta Vigo (8)
+?,(Sat) 13 Oct 2007 (41),UD Las Palmas (8),0-1,0-0,Sevilla B (8)
+?,(Sat) 13 Oct 2007 (41),Numancia (8),2-1,1-0,Real Sociedad (8)
+?,(Sat) 13 Oct 2007 (41),Poli Ejido (8),1-0,1-0,Cadiz (8)
+?,(Sun) 14 Oct 2007 (41),Castellon (8),1-1,0-1,Tenerife (8)
+?,(Sun) 14 Oct 2007 (41),Cordoba (8),1-1,0-0,Salamanca (8)
+?,(Sun) 14 Oct 2007 (41),SD Eibar (8),2-0,0-0,Granada 74 (8)
+?,(Sun) 14 Oct 2007 (41),Elche (8),2-0,1-0,Málaga CF (8)
+?,(Sun) 14 Oct 2007 (41),Sporting Gijón (8),0-0,0-0,Ferrol (8)
+?,(Sun) 14 Oct 2007 (41),Xerez (8),2-2,1-1,Gimnastic (8)
+?,(Sat) 20 Oct 2007 (42),Cadiz (9),0-0,0-0,UD Las Palmas (9)
+?,(Sat) 20 Oct 2007 (42),Granada 74 (9),1-0,1-0,Poli Ejido (9)
+?,(Sat) 20 Oct 2007 (42),Sevilla B (9),2-1,0-0,Elche (9)
+?,(Sat) 20 Oct 2007 (42),Real Sociedad (9),0-1,0-0,Sporting Gijón (9)
+?,(Sun) 21 Oct 2007 (42),Alaves (9),0-2,0-1,Cordoba (9)
+?,(Sun) 21 Oct 2007 (42),RC Celta Vigo (9),2-2,1-1,Numancia (9)
+?,(Sun) 21 Oct 2007 (42),Gimnastic (9),0-2,0-1,Albacete (9)
+?,(Sun) 21 Oct 2007 (42),Hercules (9),1-0,1-0,Ferrol (9)
+?,(Sun) 21 Oct 2007 (42),Málaga CF (9),1-0,1-0,Xerez (9)
+?,(Sun) 21 Oct 2007 (42),Salamanca (9),1-0,1-0,Castellon (9)
+?,(Sun) 21 Oct 2007 (42),Tenerife (9),4-2,1-0,SD Eibar (9)
+?,(Sat) 27 Oct 2007 (43),Elche (10),1-0,0-0,Cadiz (10)
+?,(Sat) 27 Oct 2007 (43),Ferrol (10),0-0,0-0,Real Sociedad (10)
+?,(Sat) 27 Oct 2007 (43),UD Las Palmas (10),0-1,0-1,Granada 74 (10)
+?,(Sat) 27 Oct 2007 (43),Poli Ejido (10),1-1,1-0,Tenerife (10)
+?,(Sun) 28 Oct 2007 (43),Albacete (10),2-1,0-0,Málaga CF (10)
+?,(Sun) 28 Oct 2007 (43),Castellon (10),2-0,2-0,Alaves (10)
+?,(Sun) 28 Oct 2007 (43),Cordoba (10),3-3,1-1,Hercules (10)
+?,(Sun) 28 Oct 2007 (43),SD Eibar (10),2-2,1-1,Salamanca (10)
+?,(Sun) 28 Oct 2007 (43),Numancia (10),1-0,0-0,Gimnastic (10)
+?,(Sun) 28 Oct 2007 (43),Sporting Gijón (10),0-1,0-0,RC Celta Vigo (10)
+?,(Sun) 28 Oct 2007 (43),Xerez (10),0-0,0-0,Sevilla B (10)
+?,(Sat) 3 Nov 2007 (44),Alaves (11),1-0,1-0,SD Eibar (11)
+?,(Sat) 3 Nov 2007 (44),Cadiz (11),2-1,2-1,Xerez (11)
+?,(Sat) 3 Nov 2007 (44),Gimnastic (11),2-0,1-0,Sporting Gijón (11)
+?,(Sat) 3 Nov 2007 (44),Granada 74 (11),0-0,0-0,Elche (11)
+?,(Sat) 3 Nov 2007 (44),Sevilla B (11),0-0,0-0,Albacete (11)
+?,(Sat) 3 Nov 2007 (44),Tenerife (11),2-2,1-1,UD Las Palmas (11)
+?,(Sun) 4 Nov 2007 (44),RC Celta Vigo (11),1-1,0-0,Ferrol (11)
+?,(Sun) 4 Nov 2007 (44),Cordoba (11),2-1,0-0,Castellon (11)
+?,(Sun) 4 Nov 2007 (44),Hercules (11),1-1,1-0,Real Sociedad (11)
+?,(Sun) 4 Nov 2007 (44),Málaga CF (11),0-1,0-0,Numancia (11)
+?,(Sun) 4 Nov 2007 (44),Salamanca (11),4-1,2-1,Poli Ejido (11)
+?,(Sat) 10 Nov 2007 (45),Castellon (12),0-0,0-0,Hercules (12)
+?,(Sat) 10 Nov 2007 (45),SD Eibar (12),2-1,1-0,Cordoba (12)
+?,(Sat) 10 Nov 2007 (45),Ferrol (12),0-2,0-0,Gimnastic (12)
+?,(Sat) 10 Nov 2007 (45),UD Las Palmas (12),1-2,0-0,Salamanca (12)
+?,(Sun) 11 Nov 2007 (45),Albacete (12),0-1,0-0,Cadiz (12)
+?,(Sun) 11 Nov 2007 (45),Elche (12),3-1,1-0,Tenerife (12)
+?,(Sun) 11 Nov 2007 (45),Numancia (12),0-1,0-0,Sevilla B (12)
+?,(Sun) 11 Nov 2007 (45),Poli Ejido (12),1-0,0-0,Alaves (12)
+?,(Sun) 11 Nov 2007 (45),Real Sociedad (12),1-1,1-1,RC Celta Vigo (12)
+?,(Sun) 11 Nov 2007 (45),Sporting Gijón (12),0-1,0-1,Málaga CF (12)
+?,(Sun) 11 Nov 2007 (45),Xerez (12),2-1,2-1,Granada 74 (12)
+?,(Sat) 17 Nov 2007 (46),Gimnastic (13),1-1,0-1,Real Sociedad (13)
+?,(Sat) 17 Nov 2007 (46),Granada 74 (13),1-0,0-0,Albacete (13)
+?,(Sat) 17 Nov 2007 (46),Málaga CF (13),4-2,0-2,Ferrol (13)
+?,(Sat) 17 Nov 2007 (46),Sevilla B (13),1-3,0-2,Sporting Gijón (13)
+?,(Sun) 18 Nov 2007 (46),Alaves (13),3-1,1-0,UD Las Palmas (13)
+?,(Sun) 18 Nov 2007 (46),Cadiz (13),0-0,0-0,Numancia (13)
+?,(Sun) 18 Nov 2007 (46),Castellon (13),0-0,0-0,SD Eibar (13)
+?,(Sun) 18 Nov 2007 (46),Cordoba (13),1-1,0-0,Poli Ejido (13)
+?,(Sun) 18 Nov 2007 (46),Hercules (13),0-1,0-0,RC Celta Vigo (13)
+?,(Sun) 18 Nov 2007 (46),Salamanca (13),3-1,0-1,Elche (13)
+?,(Sun) 18 Nov 2007 (46),Tenerife (13),3-1,2-0,Xerez (13)
+?,(Sat) 24 Nov 2007 (47),Elche (14),2-2,1-1,Alaves (14)
+?,(Sat) 24 Nov 2007 (47),UD Las Palmas (14),3-1,1-0,Cordoba (14)
+?,(Sun) 25 Nov 2007 (47),Albacete (14),0-0,0-0,Tenerife (14)
+?,(Sun) 25 Nov 2007 (47),RC Celta Vigo (14),1-1,0-1,Gimnastic (14)
+?,(Sun) 25 Nov 2007 (47),SD Eibar (14),0-3,0-1,Hercules (14)
+?,(Sun) 25 Nov 2007 (47),Ferrol (14),1-1,1-1,Sevilla B (14)
+?,(Sun) 25 Nov 2007 (47),Numancia (14),0-2,0-1,Granada 74 (14)
+?,(Sun) 25 Nov 2007 (47),Poli Ejido (14),1-0,1-0,Castellon (14)
+?,(Sun) 25 Nov 2007 (47),Real Sociedad (14),2-0,1-0,Málaga CF (14)
+?,(Sun) 25 Nov 2007 (47),Sporting Gijón (14),4-2,1-1,Cadiz (14)
+?,(Sun) 25 Nov 2007 (47),Xerez (14),1-1,1-0,Salamanca (14)
+?,(Sat) 1 Dec 2007 (48),Granada 74 (15),1-0,1-0,Sporting Gijón (15)
+?,(Sat) 1 Dec 2007 (48),Hercules (15),3-0,1-0,Gimnastic (15)
+?,(Sat) 1 Dec 2007 (48),Sevilla B (15),0-0,0-0,Real Sociedad (15)
+?,(Sat) 1 Dec 2007 (48),Tenerife (15),0-2,0-1,Numancia (15)
+?,(Sun) 2 Dec 2007 (48),Alaves (15),0-0,0-0,Xerez (15)
+?,(Sun) 2 Dec 2007 (48),Cadiz (15),3-1,1-0,Ferrol (15)
+?,(Sun) 2 Dec 2007 (48),Castellon (15),1-1,1-1,UD Las Palmas (15)
+?,(Sun) 2 Dec 2007 (48),Cordoba (15),1-1,0-1,Elche (15)
+?,(Sun) 2 Dec 2007 (48),SD Eibar (15),1-0,0-0,Poli Ejido (15)
+?,(Sun) 2 Dec 2007 (48),Málaga CF (15),1-1,0-0,RC Celta Vigo (15)
+?,(Sun) 2 Dec 2007 (48),Salamanca (15),0-1,0-1,Albacete (15)
+?,(Sat) 8 Dec 2007 (49),Albacete (16),0-3,0-0,Alaves (16)
+?,(Sat) 8 Dec 2007 (49),Elche (16),1-0,1-0,Castellon (16)
+?,(Sat) 8 Dec 2007 (49),Ferrol (16),1-3,1-0,Granada 74 (16)
+?,(Sat) 8 Dec 2007 (49),Gimnastic (16),1-1,0-0,Málaga CF (16)
+?,(Sat) 8 Dec 2007 (49),UD Las Palmas (16),1-0,0-0,SD Eibar (16)
+?,(Sun) 9 Dec 2007 (49),RC Celta Vigo (16),2-1,0-1,Sevilla B (16)
+?,(Sun) 9 Dec 2007 (49),Numancia (16),1-0,1-0,Salamanca (16)
+?,(Sun) 9 Dec 2007 (49),Poli Ejido (16),0-0,0-0,Hercules (16)
+?,(Sun) 9 Dec 2007 (49),Real Sociedad (16),0-0,0-0,Cadiz (16)
+?,(Sun) 9 Dec 2007 (49),Sporting Gijón (16),0-1,0-0,Tenerife (16)
+?,(Sun) 9 Dec 2007 (49),Xerez (16),0-0,0-0,Cordoba (16)
+?,(Sat) 15 Dec 2007 (50),Cordoba (17),1-1,0-0,Albacete (17)
+?,(Sat) 15 Dec 2007 (50),SD Eibar (17),2-1,1-1,Elche (17)
+?,(Sat) 15 Dec 2007 (50),Poli Ejido (17),3-1,1-1,UD Las Palmas (17)
+?,(Sat) 15 Dec 2007 (50),Salamanca (17),1-1,1-1,Sporting Gijón (17)
+?,(Sun) 16 Dec 2007 (50),Alaves (17),1-1,1-1,Numancia (17)
+?,(Sun) 16 Dec 2007 (50),Cadiz (17),3-1,0-0,RC Celta Vigo (17)
+?,(Sun) 16 Dec 2007 (50),Castellon (17),1-0,0-0,Xerez (17)
+?,(Sun) 16 Dec 2007 (50),Granada 74 (17),1-2,1-1,Real Sociedad (17)
+?,(Sun) 16 Dec 2007 (50),Hercules (17),1-1,0-0,Málaga CF (17)
+?,(Sun) 16 Dec 2007 (50),Sevilla B (17),2-0,1-0,Gimnastic (17)
+?,(Sun) 16 Dec 2007 (50),Tenerife (17),2-1,1-0,Ferrol (17)
+?,(Sat) 22 Dec 2007 (51),Elche (18),2-1,1-1,Poli Ejido (18)
+?,(Sat) 22 Dec 2007 (51),Ferrol (18),0-2,0-1,Salamanca (18)
+?,(Sat) 22 Dec 2007 (51),Gimnastic (18),0-1,0-0,Cadiz (18)
+?,(Sat) 22 Dec 2007 (51),UD Las Palmas (18),0-0,0-0,Hercules (18)
+?,(Sat) 22 Dec 2007 (51),Málaga CF (18),3-0,0-0,Sevilla B (18)
+?,(Sat) 22 Dec 2007 (51),Real Sociedad (18),2-1,0-1,Tenerife (18)
+?,(Sat) 22 Dec 2007 (51),Sporting Gijón (18),3-2,2-0,Alaves (18)
+?,(Sat) 22 Dec 2007 (51),Xerez (18),3-3,0-2,SD Eibar (18)
+?,(Sun) 23 Dec 2007 (51),Albacete (18),2-0,1-0,Castellon (18)
+?,(Sun) 23 Dec 2007 (51),RC Celta Vigo (18),4-1,1-0,Granada 74 (18)
+?,(Sun) 23 Dec 2007 (51),Numancia (18),2-1,1-0,Cordoba (18)
+?,(Sat) 5 Jan 2008 (0),Cadiz (19),0-1,0-1,Málaga CF (19)
+?,(Sat) 5 Jan 2008 (0),Castellon (19),0-0,0-0,Numancia (19)
+?,(Sat) 5 Jan 2008 (0),SD Eibar (19),1-0,1-0,Albacete (19)
+?,(Sun) 6 Jan 2008 (0),Alaves (19),1-0,0-0,Ferrol (19)
+?,(Sun) 6 Jan 2008 (0),Cordoba (19),2-2,2-0,Sporting Gijón (19)
+?,(Sun) 6 Jan 2008 (0),Granada 74 (19),1-0,0-0,Gimnastic (19)
+?,(Sun) 6 Jan 2008 (0),Hercules (19),1-2,0-0,Sevilla B (19)
+?,(Sun) 6 Jan 2008 (0),UD Las Palmas (19),1-0,0-0,Elche (19)
+?,(Sun) 6 Jan 2008 (0),Poli Ejido (19),0-0,0-0,Xerez (19)
+?,(Sun) 6 Jan 2008 (0),Salamanca (19),3-2,1-0,Real Sociedad (19)
+?,(Sun) 6 Jan 2008 (0),Tenerife (19),3-2,3-1,RC Celta Vigo (19)
+?,(Sat) 12 Jan 2008 (1),RC Celta Vigo (20),0-0,0-0,Salamanca (20)
+?,(Sat) 12 Jan 2008 (1),Málaga CF (20),1-1,1-1,Granada 74 (20)
+?,(Sat) 12 Jan 2008 (1),Real Sociedad (20),1-0,0-0,Alaves (20)
+?,(Sat) 12 Jan 2008 (1),Xerez (20),0-3,0-1,UD Las Palmas (20)
+?,(Sun) 13 Jan 2008 (1),Albacete (20),2-0,1-0,Poli Ejido (20)
+?,(Sun) 13 Jan 2008 (1),Ferrol (20),0-1,0-1,Cordoba (20)
+?,(Sun) 13 Jan 2008 (1),Gimnastic (20),1-1,1-1,Tenerife (20)
+?,(Sun) 13 Jan 2008 (1),Hercules (20),0-1,0-1,Elche (20)
+?,(Sun) 13 Jan 2008 (1),Numancia (20),1-1,1-1,SD Eibar (20)
+?,(Sun) 13 Jan 2008 (1),Sevilla B (20),1-2,0-0,Cadiz (20)
+?,(Sun) 13 Jan 2008 (1),Sporting Gijón (20),0-2,0-1,Castellon (20)
+?,(Sat) 19 Jan 2008 (2),Alaves (21),2-3,1-1,RC Celta Vigo (21)
+?,(Sat) 19 Jan 2008 (2),Granada 74 (21),1-1,1-1,Sevilla B (21)
+?,(Sun) 20 Jan 2008 (2),Cadiz (21),1-2,0-1,Hercules (21)
+?,(Sun) 20 Jan 2008 (2),Castellon (21),1-0,1-0,Ferrol (21)
+?,(Sun) 20 Jan 2008 (2),Cordoba (21),1-3,0-1,Real Sociedad (21)
+?,(Sun) 20 Jan 2008 (2),SD Eibar (21),0-3,0-1,Sporting Gijón (21)
+?,(Sun) 20 Jan 2008 (2),Elche (21),2-4,1-3,Xerez (21)
+?,(Sun) 20 Jan 2008 (2),UD Las Palmas (21),2-1,1-0,Albacete (21)
+?,(Sun) 20 Jan 2008 (2),Poli Ejido (21),1-2,1-1,Numancia (21)
+?,(Sun) 20 Jan 2008 (2),Salamanca (21),1-1,1-0,Gimnastic (21)
+?,(Sun) 20 Jan 2008 (2),Tenerife (21),1-1,1-1,Málaga CF (21)
+?,(Sat) 26 Jan 2008 (3),Alaves (22),1-1,0-1,Gimnastic (22)
+?,(Sat) 26 Jan 2008 (3),Elche (22),1-1,0-0,Albacete (22)
+?,(Sat) 26 Jan 2008 (3),UD Las Palmas (22),1-2,1-0,Numancia (22)
+?,(Sat) 26 Jan 2008 (3),Poli Ejido (22),1-1,1-0,Sporting Gijón (22)
+?,(Sat) 26 Jan 2008 (3),Tenerife (22),1-1,0-1,Sevilla B (22)
+?,(Sun) 27 Jan 2008 (3),Castellon (22),1-0,0-0,Real Sociedad (22)
+?,(Sun) 27 Jan 2008 (3),Cordoba (22),0-2,0-1,RC Celta Vigo (22)
+?,(Sun) 27 Jan 2008 (3),SD Eibar (22),1-3,1-0,Ferrol (22)
+?,(Sun) 27 Jan 2008 (3),Granada 74 (22),2-1,1-0,Cadiz (22)
+?,(Sun) 27 Jan 2008 (3),Salamanca (22),0-0,0-0,Málaga CF (22)
+?,(Sun) 27 Jan 2008 (3),Xerez (22),4-3,1-3,Hercules (22)
+?,(Sat) 2 Feb 2008 (4),Albacete (23),1-0,1-0,Xerez (23)
+?,(Sat) 2 Feb 2008 (4),Cadiz (23),0-0,0-0,Tenerife (23)
+?,(Sat) 2 Feb 2008 (4),RC Celta Vigo (23),1-2,0-1,Castellon (23)
+?,(Sat) 2 Feb 2008 (4),Málaga CF (23),1-0,0-0,Alaves (23)
+?,(Sat) 2 Feb 2008 (4),Real Sociedad (23),1-1,0-0,SD Eibar (23)
+?,(Sun) 3 Feb 2008 (4),Ferrol (23),2-0,0-0,Poli Ejido (23)
+?,(Sun) 3 Feb 2008 (4),Gimnastic (23),2-2,0-1,Cordoba (23)
+?,(Sun) 3 Feb 2008 (4),Hercules (23),0-0,0-0,Granada 74 (23)
+?,(Sun) 3 Feb 2008 (4),Numancia (23),0-1,0-1,Elche (23)
+?,(Sun) 3 Feb 2008 (4),Sevilla B (23),2-1,1-0,Salamanca (23)
+?,(Sun) 3 Feb 2008 (4),Sporting Gijón (23),0-1,0-0,UD Las Palmas (23)
+?,(Sat) 9 Feb 2008 (5),Alaves (24),1-0,0-0,Sevilla B (24)
+?,(Sat) 9 Feb 2008 (5),Castellon (24),3-1,1-0,Gimnastic (24)
+?,(Sat) 9 Feb 2008 (5),Cordoba (24),2-1,1-1,Málaga CF (24)
+?,(Sat) 9 Feb 2008 (5),UD Las Palmas (24),2-2,1-2,Ferrol (24)
+?,(Sun) 10 Feb 2008 (5),Albacete (24),1-1,1-1,Hercules (24)
+?,(Sun) 10 Feb 2008 (5),SD Eibar (24),2-1,0-1,RC Celta Vigo (24)
+?,(Sun) 10 Feb 2008 (5),Elche (24),3-1,2-1,Sporting Gijón (24)
+?,(Sun) 10 Feb 2008 (5),Poli Ejido (24),0-1,0-0,Real Sociedad (24)
+?,(Sun) 10 Feb 2008 (5),Salamanca (24),1-1,0-1,Cadiz (24)
+?,(Sun) 10 Feb 2008 (5),Tenerife (24),2-0,1-0,Granada 74 (24)
+?,(Sun) 10 Feb 2008 (5),Xerez (24),0-3,0-1,Numancia (24)
+?,(Sat) 16 Feb 2008 (6),RC Celta Vigo (25),2-1,1-1,Poli Ejido (25)
+?,(Sat) 16 Feb 2008 (6),Gimnastic (25),2-1,2-1,SD Eibar (25)
+?,(Sat) 16 Feb 2008 (6),Hercules (25),2-1,1-0,Tenerife (25)
+?,(Sat) 16 Feb 2008 (6),Numancia (25),1-0,0-0,Albacete (25)
+?,(Sat) 16 Feb 2008 (6),Sporting Gijón (25),2-0,2-0,Xerez (25)
+?,(Sun) 17 Feb 2008 (6),Cadiz (25),2-0,1-0,Alaves (25)
+?,(Sun) 17 Feb 2008 (6),Ferrol (25),1-0,0-0,Elche (25)
+?,(Sun) 17 Feb 2008 (6),Granada 74 (25),0-0,0-0,Salamanca (25)
+?,(Sun) 17 Feb 2008 (6),Málaga CF (25),3-1,2-0,Castellon (25)
+?,(Sun) 17 Feb 2008 (6),Sevilla B (25),2-1,0-1,Cordoba (25)
+?,(Sun) 17 Feb 2008 (6),Real Sociedad (25),4-0,1-0,UD Las Palmas (25)
+?,(Sat) 23 Feb 2008 (7),Albacete (26),1-2,0-1,Sporting Gijón (26)
+?,(Sat) 23 Feb 2008 (7),Castellon (26),0-0,0-0,Sevilla B (26)
+?,(Sat) 23 Feb 2008 (7),Cordoba (26),2-2,2-1,Cadiz (26)
+?,(Sat) 23 Feb 2008 (7),Elche (26),0-0,0-0,Real Sociedad (26)
+?,(Sat) 23 Feb 2008 (7),UD Las Palmas (26),1-0,1-0,RC Celta Vigo (26)
+?,(Sun) 24 Feb 2008 (7),Alaves (26),2-2,0-1,Granada 74 (26)
+?,(Sun) 24 Feb 2008 (7),SD Eibar (26),1-1,0-0,Málaga CF (26)
+?,(Sun) 24 Feb 2008 (7),Numancia (26),2-1,0-0,Hercules (26)
+?,(Sun) 24 Feb 2008 (7),Poli Ejido (26),1-1,0-1,Gimnastic (26)
+?,(Sun) 24 Feb 2008 (7),Salamanca (26),1-0,1-0,Tenerife (26)
+?,(Sun) 24 Feb 2008 (7),Xerez (26),0-2,0-2,Ferrol (26)
+?,(Sat) 1 Mar 2008 (8),Ferrol (27),1-1,0-0,Albacete (27)
+?,(Sat) 1 Mar 2008 (8),Granada 74 (27),0-2,0-1,Cordoba (27)
+?,(Sat) 1 Mar 2008 (8),Tenerife (27),1-0,1-0,Alaves (27)
+?,(Sun) 2 Mar 2008 (8),Cadiz (27),1-1,1-0,Castellon (27)
+?,(Sun) 2 Mar 2008 (8),RC Celta Vigo (27),2-2,1-0,Elche (27)
+?,(Sun) 2 Mar 2008 (8),Gimnastic (27),2-0,0-0,UD Las Palmas (27)
+?,(Sun) 2 Mar 2008 (8),Hercules (27),2-2,1-2,Salamanca (27)
+?,(Sun) 2 Mar 2008 (8),Málaga CF (27),1-1,0-0,Poli Ejido (27)
+?,(Sun) 2 Mar 2008 (8),Sevilla B (27),2-0,0-0,SD Eibar (27)
+?,(Sun) 2 Mar 2008 (8),Real Sociedad (27),4-2,2-0,Xerez (27)
+?,(Sun) 2 Mar 2008 (8),Sporting Gijón (27),1-0,1-0,Numancia (27)
+?,(Sat) 8 Mar 2008 (9),Cordoba (28),2-2,1-0,Tenerife (28)
+?,(Sat) 8 Mar 2008 (9),SD Eibar (28),1-0,1-0,Cadiz (28)
+?,(Sat) 8 Mar 2008 (9),Xerez (28),1-0,1-0,RC Celta Vigo (28)
+?,(Sun) 9 Mar 2008 (9),Alaves (28),0-0,0-0,Salamanca (28)
+?,(Sun) 9 Mar 2008 (9),Albacete (28),1-2,0-2,Real Sociedad (28)
+?,(Sun) 9 Mar 2008 (9),Castellon (28),2-1,1-1,Granada 74 (28)
+?,(Sun) 9 Mar 2008 (9),Elche (28),2-0,2-0,Gimnastic (28)
+?,(Sun) 9 Mar 2008 (9),UD Las Palmas (28),1-2,0-1,Málaga CF (28)
+?,(Sun) 9 Mar 2008 (9),Numancia (28),1-0,1-0,Ferrol (28)
+?,(Sun) 9 Mar 2008 (9),Poli Ejido (28),2-0,0-0,Sevilla B (28)
+?,(Sun) 9 Mar 2008 (9),Sporting Gijón (28),1-1,0-0,Hercules (28)
+?,(Sat) 15 Mar 2008 (10),Ferrol (29),2-2,2-1,Sporting Gijón (29)
+?,(Sat) 15 Mar 2008 (10),Sevilla B (29),0-0,0-0,UD Las Palmas (29)
+?,(Sat) 15 Mar 2008 (10),Real Sociedad (29),0-1,0-0,Numancia (29)
+?,(Sun) 16 Mar 2008 (10),Cadiz (29),2-0,1-0,Poli Ejido (29)
+?,(Sun) 16 Mar 2008 (10),RC Celta Vigo (29),0-1,0-1,Albacete (29)
+?,(Sun) 16 Mar 2008 (10),Gimnastic (29),1-1,0-1,Xerez (29)
+?,(Sun) 16 Mar 2008 (10),Granada 74 (29),1-0,1-0,SD Eibar (29)
+?,(Sun) 16 Mar 2008 (10),Hercules (29),1-1,1-1,Alaves (29)
+?,(Sun) 16 Mar 2008 (10),Málaga CF (29),2-0,1-0,Elche (29)
+?,(Sun) 16 Mar 2008 (10),Salamanca (29),1-1,0-0,Cordoba (29)
+?,(Sun) 16 Mar 2008 (10),Tenerife (29),2-1,2-0,Castellon (29)
+?,(Sat) 22 Mar 2008 (11),SD Eibar (30),4-0,1-0,Tenerife (30)
+?,(Sat) 22 Mar 2008 (11),Elche (30),2-0,0-0,Sevilla B (30)
+?,(Sat) 22 Mar 2008 (11),Sporting Gijón (30),1-0,0-0,Real Sociedad (30)
+?,(Sat) 22 Mar 2008 (11),Xerez (30),1-0,0-0,Málaga CF (30)
+?,(Sun) 23 Mar 2008 (11),UD Las Palmas (30),2-0,1-0,Cadiz (30)
+?,(Sun) 23 Mar 2008 (11),Albacete (30),0-0,0-0,Gimnastic (30)
+?,(Sun) 23 Mar 2008 (11),Castellon (30),1-0,0-0,Salamanca (30)
+?,(Sun) 23 Mar 2008 (11),Cordoba (30),0-1,0-1,Alaves (30)
+?,(Sun) 23 Mar 2008 (11),Ferrol (30),1-1,0-0,Hercules (30)
+?,(Sun) 23 Mar 2008 (11),Numancia (30),1-2,1-0,RC Celta Vigo (30)
+?,(Sun) 23 Mar 2008 (11),Poli Ejido (30),1-0,0-0,Granada 74 (30)
+?,(Sat) 29 Mar 2008 (12),Alaves (31),0-0,0-0,Castellon (31)
+?,(Sat) 29 Mar 2008 (12),Gimnastic (31),1-2,0-1,Numancia (31)
+?,(Sat) 29 Mar 2008 (12),Granada 74 (31),0-3,0-0,UD Las Palmas (31)
+?,(Sun) 30 Mar 2008 (12),Cadiz (31),1-1,0-0,Elche (31)
+?,(Sun) 30 Mar 2008 (12),RC Celta Vigo (31),0-0,0-0,Sporting Gijón (31)
+?,(Sun) 30 Mar 2008 (12),Hercules (31),2-1,2-0,Cordoba (31)
+?,(Sun) 30 Mar 2008 (12),Málaga CF (31),0-0,0-0,Albacete (31)
+?,(Sun) 30 Mar 2008 (12),Salamanca (31),1-0,1-0,SD Eibar (31)
+?,(Sun) 30 Mar 2008 (12),Sevilla B (31),1-1,0-0,Xerez (31)
+?,(Sun) 30 Mar 2008 (12),Real Sociedad (31),1-2,0-1,Ferrol (31)
+?,(Sun) 30 Mar 2008 (12),Tenerife (31),2-1,0-0,Poli Ejido (31)
+?,(Sat) 5 Apr 2008 (13),SD Eibar (32),2-0,1-0,Alaves (32)
+?,(Sat) 5 Apr 2008 (13),Ferrol (32),2-1,1-1,RC Celta Vigo (32)
+?,(Sat) 5 Apr 2008 (13),UD Las Palmas (32),1-1,0-0,Tenerife (32)
+?,(Sat) 5 Apr 2008 (13),Sporting Gijón (32),3-3,1-1,Gimnastic (32)
+?,(Sat) 5 Apr 2008 (13),Xerez (32),2-1,0-0,Cadiz (32)
+?,(Sun) 6 Apr 2008 (13),Albacete (32),1-0,0-0,Sevilla B (32)
+?,(Sun) 6 Apr 2008 (13),Castellon (32),1-1,1-0,Cordoba (32)
+?,(Sun) 6 Apr 2008 (13),Elche (32),0-0,0-0,Granada 74 (32)
+?,(Sun) 6 Apr 2008 (13),Numancia (32),2-1,1-0,Málaga CF (32)
+?,(Sun) 6 Apr 2008 (13),Poli Ejido (32),1-1,0-0,Salamanca (32)
+?,(Sun) 6 Apr 2008 (13),Real Sociedad (32),2-1,0-0,Hercules (32)
+?,(Sat) 12 Apr 2008 (14),RC Celta Vigo (33),1-1,1-1,Real Sociedad (33)
+?,(Sat) 12 Apr 2008 (14),Cordoba (33),0-1,0-0,SD Eibar (33)
+?,(Sat) 12 Apr 2008 (14),Hercules (33),1-0,1-0,Castellon (33)
+?,(Sat) 12 Apr 2008 (14),Tenerife (33),1-1,1-0,Elche (33)
+?,(Sun) 13 Apr 2008 (14),Alaves (33),2-1,0-1,Poli Ejido (33)
+?,(Sun) 13 Apr 2008 (14),Cadiz (33),2-1,1-1,Albacete (33)
+?,(Sun) 13 Apr 2008 (14),Gimnastic (33),0-0,0-0,Ferrol (33)
+?,(Sun) 13 Apr 2008 (14),Granada 74 (33),1-1,0-1,Xerez (33)
+?,(Sun) 13 Apr 2008 (14),Málaga CF (33),3-2,1-1,Sporting Gijón (33)
+?,(Sun) 13 Apr 2008 (14),Salamanca (33),2-2,2-0,UD Las Palmas (33)
+?,(Sun) 13 Apr 2008 (14),Sevilla B (33),1-1,0-0,Numancia (33)
+?,(Sat) 19 Apr 2008 (15),RC Celta Vigo (34),1-0,1-0,Hercules (34)
+?,(Sat) 19 Apr 2008 (15),UD Las Palmas (34),2-1,2-0,Alaves (34)
+?,(Sat) 19 Apr 2008 (15),Poli Ejido (34),1-0,0-0,Cordoba (34)
+?,(Sun) 20 Apr 2008 (15),Albacete (34),3-2,3-0,Granada 74 (34)
+?,(Sun) 20 Apr 2008 (15),SD Eibar (34),1-2,0-0,Castellon (34)
+?,(Sun) 20 Apr 2008 (15),Elche (34),0-3,0-2,Salamanca (34)
+?,(Sun) 20 Apr 2008 (15),Ferrol (34),0-0,0-0,Málaga CF (34)
+?,(Sun) 20 Apr 2008 (15),Numancia (34),0-1,0-0,Cadiz (34)
+?,(Sun) 20 Apr 2008 (15),Real Sociedad (34),0-0,0-0,Gimnastic (34)
+?,(Sun) 20 Apr 2008 (15),Sporting Gijón (34),4-1,1-1,Sevilla B (34)
+?,(Sun) 20 Apr 2008 (15),Xerez (34),2-1,1-0,Tenerife (34)
+?,(Sat) 26 Apr 2008 (16),Cordoba (35),0-1,0-1,UD Las Palmas (35)
+?,(Sat) 26 Apr 2008 (16),Gimnastic (35),2-1,0-0,RC Celta Vigo (35)
+?,(Sat) 26 Apr 2008 (16),Hercules (35),5-1,2-1,SD Eibar (35)
+?,(Sat) 26 Apr 2008 (16),Málaga CF (35),0-2,0-1,Real Sociedad (35)
+?,(Sun) 27 Apr 2008 (16),Alaves (35),2-0,2-0,Elche (35)
+?,(Sun) 27 Apr 2008 (16),Cadiz (35),0-1,0-0,Sporting Gijón (35)
+?,(Sun) 27 Apr 2008 (16),Castellon (35),1-0,0-0,Poli Ejido (35)
+?,(Sun) 27 Apr 2008 (16),Granada 74 (35),1-1,0-0,Numancia (35)
+?,(Sun) 27 Apr 2008 (16),Salamanca (35),2-2,2-2,Xerez (35)
+?,(Sun) 27 Apr 2008 (16),Sevilla B (35),2-1,2-0,Ferrol (35)
+?,(Sun) 27 Apr 2008 (16),Tenerife (35),2-2,2-1,Albacete (35)
+?,(Sat) 3 May 2008 (17),Albacete (36),2-1,1-0,Salamanca (36)
+?,(Sat) 3 May 2008 (17),UD Las Palmas (36),1-1,0-0,Castellon (36)
+?,(Sat) 3 May 2008 (17),Real Sociedad (36),2-0,1-0,Sevilla B (36)
+?,(Sun) 4 May 2008 (17),RC Celta Vigo (36),1-2,1-0,Málaga CF (36)
+?,(Sun) 4 May 2008 (17),Elche (36),3-2,0-1,Cordoba (36)
+?,(Sun) 4 May 2008 (17),Ferrol (36),2-1,2-0,Cadiz (36)
+?,(Sun) 4 May 2008 (17),Gimnastic (36),2-2,0-1,Hercules (36)
+?,(Sun) 4 May 2008 (17),Numancia (36),4-2,1-0,Tenerife (36)
+?,(Sun) 4 May 2008 (17),Poli Ejido (36),1-0,0-0,SD Eibar (36)
+?,(Sun) 4 May 2008 (17),Sporting Gijón (36),2-1,0-0,Granada 74 (36)
+?,(Sun) 4 May 2008 (17),Xerez (36),3-0,0-0,Alaves (36)
+?,(Sat) 10 May 2008 (18),Castellon (37),1-0,0-0,Elche (37)
+?,(Sat) 10 May 2008 (18),SD Eibar (37),2-2,2-1,UD Las Palmas (37)
+?,(Sat) 10 May 2008 (18),Málaga CF (37),1-2,1-1,Gimnastic (37)
+?,(Sat) 10 May 2008 (18),Sevilla B (37),2-1,1-0,RC Celta Vigo (37)
+?,(Sat) 10 May 2008 (18),Tenerife (37),0-2,0-2,Sporting Gijón (37)
+?,(Sun) 11 May 2008 (18),Alaves (37),0-0,0-0,Albacete (37)
+?,(Sun) 11 May 2008 (18),Cadiz (37),2-2,0-1,Real Sociedad (37)
+?,(Sun) 11 May 2008 (18),Cordoba (37),2-1,1-1,Xerez (37)
+?,(Sun) 11 May 2008 (18),Granada 74 (37),3-3,2-2,Ferrol (37)
+?,(Sun) 11 May 2008 (18),Hercules (37),1-2,1-1,Poli Ejido (37)
+?,(Sun) 11 May 2008 (18),Salamanca (37),0-1,0-1,Numancia (37)
+?,(Sat) 17 May 2008 (19),Ferrol (38),0-0,0-0,Tenerife (38)
+?,(Sat) 17 May 2008 (19),UD Las Palmas (38),2-1,1-1,Poli Ejido (38)
+?,(Sat) 17 May 2008 (19),Real Sociedad (38),3-1,0-0,Granada 74 (38)
+?,(Sat) 17 May 2008 (19),Sporting Gijón (38),0-0,0-0,Salamanca (38)
+?,(Sat) 17 May 2008 (19),Xerez (38),2-1,0-1,Castellon (38)
+?,(Sun) 18 May 2008 (19),Albacete (38),0-1,0-0,Cordoba (38)
+?,(Sun) 18 May 2008 (19),RC Celta Vigo (38),5-2,2-0,Cadiz (38)
+?,(Sun) 18 May 2008 (19),Elche (38),1-1,1-1,SD Eibar (38)
+?,(Sun) 18 May 2008 (19),Gimnastic (38),1-0,0-0,Sevilla B (38)
+?,(Sun) 18 May 2008 (19),Málaga CF (38),4-6,3-1,Hercules (38)
+?,(Sun) 18 May 2008 (19),Numancia (38),0-0,0-0,Alaves (38)
+?,(Sat) 24 May 2008 (20),Castellon (39),0-2,0-1,Albacete (39)
+?,(Sat) 24 May 2008 (20),Granada 74 (39),1-1,0-0,RC Celta Vigo (39)
+?,(Sat) 24 May 2008 (20),Sevilla B (39),0-1,0-1,Málaga CF (39)
+?,(Sat) 24 May 2008 (20),Tenerife (39),1-2,1-1,Real Sociedad (39)
+?,(Sun) 25 May 2008 (20),Alaves (39),0-0,0-0,Sporting Gijón (39)
+?,(Sun) 25 May 2008 (20),Cadiz (39),0-2,0-0,Gimnastic (39)
+?,(Sun) 25 May 2008 (20),Cordoba (39),3-2,2-1,Numancia (39)
+?,(Sun) 25 May 2008 (20),SD Eibar (39),0-0,0-0,Xerez (39)
+?,(Sun) 25 May 2008 (20),Hercules (39),1-2,0-0,UD Las Palmas (39)
+?,(Sun) 25 May 2008 (20),Poli Ejido (39),2-0,0-0,Elche (39)
+?,(Sun) 25 May 2008 (20),Salamanca (39),2-1,1-0,Ferrol (39)
+?,(Sat) 31 May 2008 (21),RC Celta Vigo (40),2-2,1-0,Tenerife (40)
+?,(Sat) 31 May 2008 (21),Elche (40),1-4,0-1,UD Las Palmas (40)
+?,(Sat) 31 May 2008 (21),Ferrol (40),1-1,1-0,Alaves (40)
+?,(Sat) 31 May 2008 (21),Gimnastic (40),3-2,2-1,Granada 74 (40)
+?,(Sat) 31 May 2008 (21),Real Sociedad (40),1-1,1-1,Salamanca (40)
+?,(Sat) 31 May 2008 (21),Sporting Gijón (40),2-1,0-0,Cordoba (40)
+?,(Sun) 1 Jun 2008 (21),Albacete (40),1-0,0-0,SD Eibar (40)
+?,(Sun) 1 Jun 2008 (21),Málaga CF (40),0-0,0-0,Cadiz (40)
+?,(Sun) 1 Jun 2008 (21),Numancia (40),2-2,0-2,Castellon (40)
+?,(Sun) 1 Jun 2008 (21),Sevilla B (40),3-4,1-2,Hercules (40)
+?,(Sun) 1 Jun 2008 (21),Xerez (40),1-0,0-0,Poli Ejido (40)
+?,(Sat) 7 Jun 2008 (22),Elche (41),0-2,0-2,Hercules (41)
+?,(Sun) 8 Jun 2008 (22),Alaves (41),3-2,0-1,Real Sociedad (41)
+?,(Sun) 8 Jun 2008 (22),Cadiz (41),0-0,0-0,Sevilla B (41)
+?,(Sun) 8 Jun 2008 (22),Castellon (41),1-0,0-0,Sporting Gijón (41)
+?,(Sun) 8 Jun 2008 (22),Cordoba (41),1-0,1-0,Ferrol (41)
+?,(Sun) 8 Jun 2008 (22),SD Eibar (41),1-0,0-0,Numancia (41)
+?,(Sun) 8 Jun 2008 (22),Granada 74 (41),0-0,0-0,Málaga CF (41)
+?,(Sun) 8 Jun 2008 (22),UD Las Palmas (41),0-0,0-0,Xerez (41)
+?,(Sun) 8 Jun 2008 (22),Poli Ejido (41),0-0,0-0,Albacete (41)
+?,(Sun) 8 Jun 2008 (22),Salamanca (41),3-1,0-0,RC Celta Vigo (41)
+?,(Sun) 8 Jun 2008 (22),Tenerife (41),2-1,2-1,Gimnastic (41)
+?,(Sat) 14 Jun 2008 (23),Gimnastic (42),1-2,0-1,Salamanca (42)
+?,(Sat) 14 Jun 2008 (23),Numancia (42),2-2,0-1,Poli Ejido (42)
+?,(Sun) 15 Jun 2008 (23),Albacete (42),3-1,2-0,UD Las Palmas (42)
+?,(Sun) 15 Jun 2008 (23),RC Celta Vigo (42),2-3,1-0,Alaves (42)
+?,(Sun) 15 Jun 2008 (23),Ferrol (42),1-0,1-0,Castellon (42)
+?,(Sun) 15 Jun 2008 (23),Hercules (42),1-1,1-1,Cadiz (42)
+?,(Sun) 15 Jun 2008 (23),Málaga CF (42),2-1,1-0,Tenerife (42)
+?,(Sun) 15 Jun 2008 (23),Sevilla B (42),4-2,0-1,Granada 74 (42)
+?,(Sun) 15 Jun 2008 (23),Real Sociedad (42),1-1,1-1,Cordoba (42)
+?,(Sun) 15 Jun 2008 (23),Sporting Gijón (42),2-0,1-0,SD Eibar (42)
+?,(Sun) 15 Jun 2008 (23),Xerez (42),1-0,0-0,Elche (42)

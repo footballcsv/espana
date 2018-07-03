@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2005-08-27,Ciudad de Murcia,Recreativo,3-1,2-1
-2005-08-27,Levante,Poli Ejido,2-0,1-0
-2005-08-27,Lorca,Ferrol,1-1,0-0
-2005-08-27,Sp Gijon,Albacete,2-0,2-0
-2005-08-27,Tenerife,Gimnastic,3-1,3-1
-2005-08-27,Xerez,Real Madrid B,2-1,1-1
-2005-08-28,Eibar,Elche,1-2,0-1
-2005-08-28,Hercules,Malaga B,1-1,1-1
-2005-08-28,Lleida,Castellon,1-0,1-0
-2005-08-28,Numancia,Almeria,3-0,2-0
-2005-08-28,Valladolid,Murcia,1-0,1-0
-2005-09-03,Castellon,Numancia,0-1,0-0
-2005-09-03,Ferrol,Levante,1-2,1-2
-2005-09-03,Recreativo,Tenerife,3-1,2-0
-2005-09-04,Albacete,Valladolid,2-3,1-2
-2005-09-04,Almeria,Xerez,3-0,0-0
-2005-09-04,Elche,Lorca,1-3,0-0
-2005-09-04,Gimnastic,Sp Gijon,0-4,0-2
-2005-09-04,Malaga B,Ciudad de Murcia,0-1,0-0
-2005-09-04,Murcia,Eibar,1-0,1-0
-2005-09-04,Poli Ejido,Lleida,2-1,0-1
-2005-09-04,Real Madrid B,Hercules,3-0,2-0
-2005-09-10,Eibar,Albacete,1-1,1-1
-2005-09-10,Hercules,Almeria,2-2,1-0
-2005-09-10,Lleida,Numancia,5-0,1-0
-2005-09-10,Valladolid,Gimnastic,0-2,0-1
-2005-09-11,Ciudad de Murcia,Real Madrid B,2-1,1-0
-2005-09-11,Levante,Elche,1-0,0-0
-2005-09-11,Lorca,Murcia,0-1,0-1
-2005-09-11,Poli Ejido,Ferrol,4-2,2-1
-2005-09-11,Sp Gijon,Recreativo,1-1,1-0
-2005-09-11,Tenerife,Malaga B,3-2,2-1
-2005-09-11,Xerez,Castellon,2-1,1-0
-2005-09-17,Almeria,Ciudad de Murcia,1-0,0-0
-2005-09-17,Castellon,Hercules,1-2,0-1
-2005-09-17,Malaga B,Sp Gijon,1-0,0-0
-2005-09-17,Real Madrid B,Tenerife,1-2,1-1
-2005-09-18,Albacete,Lorca,1-0,0-0
-2005-09-18,Elche,Poli Ejido,2-0,0-0
-2005-09-18,Ferrol,Lleida,0-0,0-0
-2005-09-18,Gimnastic,Eibar,1-0,1-0
-2005-09-18,Murcia,Levante,0-0,0-0
-2005-09-18,Numancia,Xerez,1-1,0-0
-2005-09-18,Recreativo,Valladolid,2-0,1-0
-2005-09-24,Eibar,Recreativo,2-1,1-1
-2005-09-24,Ferrol,Elche,2-1,0-0
-2005-09-24,Hercules,Numancia,4-0,1-0
-2005-09-24,Lleida,Xerez,0-1,0-0
-2005-09-25,Ciudad de Murcia,Castellon,0-0,0-0
-2005-09-25,Levante,Albacete,1-1,0-0
-2005-09-25,Lorca,Gimnastic,1-0,1-0
-2005-09-25,Poli Ejido,Murcia,0-3,0-0
-2005-09-25,Sp Gijon,Real Madrid B,1-1,0-0
-2005-09-25,Tenerife,Almeria,2-1,1-0
-2005-09-25,Valladolid,Malaga B,1-1,0-0
-2005-10-01,Castellon,Tenerife,1-0,0-0
-2005-10-01,Gimnastic,Levante,1-0,0-0
-2005-10-01,Real Madrid B,Valladolid,2-3,1-1
-2005-10-02,Albacete,Poli Ejido,1-0,0-0
-2005-10-02,Almeria,Sp Gijon,3-0,1-0
-2005-10-02,Elche,Lleida,3-2,0-1
-2005-10-02,Murcia,Ferrol,2-1,1-0
-2005-10-02,Numancia,Ciudad de Murcia,1-1,0-0
-2005-10-02,Recreativo,Lorca,2-1,0-1
-2005-10-02,Xerez,Hercules,1-0,0-0
-2005-10-03,Malaga B,Eibar,1-1,0-0
-2005-10-08,Ferrol,Albacete,2-3,1-1
-2005-10-08,Lleida,Hercules,0-1,0-0
-2005-10-08,Poli Ejido,Gimnastic,2-0,1-0
-2005-10-08,Tenerife,Numancia,2-1,1-0
-2005-10-09,Ciudad de Murcia,Xerez,2-6,1-3
-2005-10-09,Eibar,Real Madrid B,1-3,0-1
-2005-10-09,Elche,Murcia,1-1,1-1
-2005-10-09,Levante,Recreativo,1-3,0-0
-2005-10-09,Lorca,Malaga B,1-0,0-0
-2005-10-09,Sp Gijon,Castellon,2-0,0-0
-2005-10-09,Valladolid,Almeria,1-0,0-0
-2005-10-15,Albacete,Elche,1-2,0-1
-2005-10-15,Castellon,Valladolid,0-0,0-0
-2005-10-15,Gimnastic,Ferrol,1-2,0-1
-2005-10-15,Malaga B,Levante,0-0,0-0
-2005-10-15,Recreativo,Poli Ejido,2-2,1-1
-2005-10-16,Almeria,Eibar,1-1,1-1
-2005-10-16,Hercules,Ciudad de Murcia,2-1,1-0
-2005-10-16,Murcia,Lleida,2-0,1-0
-2005-10-16,Numancia,Sp Gijon,1-0,0-0
-2005-10-16,Real Madrid B,Lorca,1-2,0-0
-2005-10-16,Xerez,Tenerife,3-1,1-1
-2005-10-22,Elche,Gimnastic,1-0,1-0
-2005-10-22,Poli Ejido,Malaga B,1-2,1-1
-2005-10-23,Eibar,Castellon,2-0,1-0
-2005-10-23,Ferrol,Recreativo,0-3,0-1
-2005-10-23,Levante,Real Madrid B,3-0,0-0
-2005-10-23,Lleida,Ciudad de Murcia,1-2,0-1
-2005-10-23,Lorca,Almeria,1-1,1-0
-2005-10-23,Murcia,Albacete,2-0,1-0
-2005-10-23,Sp Gijon,Xerez,1-1,1-0
-2005-10-23,Tenerife,Hercules,0-0,0-0
-2005-10-23,Valladolid,Numancia,3-1,2-0
-2005-10-29,Almeria,Levante,5-1,2-1
-2005-10-29,Ciudad de Murcia,Tenerife,3-0,3-0
-2005-10-29,Gimnastic,Murcia,3-1,1-1
-2005-10-29,Hercules,Sp Gijon,3-2,1-1
-2005-10-30,Albacete,Lleida,1-0,1-0
-2005-10-30,Castellon,Lorca,0-0,0-0
-2005-10-30,Malaga B,Ferrol,0-1,0-1
-2005-10-30,Numancia,Eibar,1-2,0-0
-2005-10-30,Real Madrid B,Poli Ejido,2-0,0-0
-2005-10-30,Recreativo,Elche,2-0,2-0
-2005-10-30,Xerez,Valladolid,0-0,0-0
-2005-11-05,Albacete,Gimnastic,1-4,0-1
-2005-11-05,Eibar,Xerez,0-1,0-1
-2005-11-05,Levante,Castellon,3-2,1-1
-2005-11-05,Lleida,Tenerife,2-1,0-1
-2005-11-06,Elche,Malaga B,2-0,1-0
-2005-11-06,Ferrol,Real Madrid B,0-0,0-0
-2005-11-06,Lorca,Numancia,1-1,0-0
-2005-11-06,Murcia,Recreativo,0-2,0-0
-2005-11-06,Poli Ejido,Almeria,0-1,0-0
-2005-11-06,Sp Gijon,Ciudad de Murcia,2-2,0-2
-2005-11-06,Valladolid,Hercules,1-1,0-0
-2005-11-12,Gimnastic,Lleida,0-2,0-1
-2005-11-12,Hercules,Eibar,1-1,0-1
-2005-11-12,Recreativo,Albacete,1-1,0-0
-2005-11-13,Almeria,Ferrol,2-1,1-0
-2005-11-13,Castellon,Poli Ejido,2-1,0-0
-2005-11-13,Ciudad de Murcia,Valladolid,0-2,0-1
-2005-11-13,Malaga B,Murcia,2-0,2-0
-2005-11-13,Numancia,Levante,0-1,0-1
-2005-11-13,Real Madrid B,Elche,4-0,2-0
-2005-11-13,Tenerife,Sp Gijon,1-3,0-1
-2005-11-13,Xerez,Lorca,3-0,0-0
-2005-11-19,Elche,Almeria,0-0,0-0
-2005-11-19,Lleida,Sp Gijon,0-1,0-1
-2005-11-19,Valladolid,Tenerife,1-1,1-1
-2005-11-20,Albacete,Malaga B,0-1,0-0
-2005-11-20,Eibar,Ciudad de Murcia,0-0,0-0
-2005-11-20,Ferrol,Castellon,1-1,0-0
-2005-11-20,Gimnastic,Recreativo,0-0,0-0
-2005-11-20,Levante,Xerez,2-3,1-2
-2005-11-20,Lorca,Hercules,4-0,2-0
-2005-11-20,Murcia,Real Madrid B,1-1,1-1
-2005-11-20,Poli Ejido,Numancia,0-1,0-1
-2005-11-26,Hercules,Levante,3-0,2-0
-2005-11-26,Tenerife,Eibar,1-1,0-1
-2005-11-26,Xerez,Poli Ejido,1-1,0-0
-2005-11-27,Almeria,Murcia,2-0,1-0
-2005-11-27,Castellon,Elche,1-1,0-0
-2005-11-27,Ciudad de Murcia,Lorca,1-0,1-0
-2005-11-27,Malaga B,Gimnastic,1-2,0-2
-2005-11-27,Numancia,Ferrol,1-1,0-0
-2005-11-27,Real Madrid B,Albacete,3-0,2-0
-2005-11-27,Recreativo,Lleida,3-2,1-2
-2005-11-27,Sp Gijon,Valladolid,1-1,0-1
-2005-12-03,Ferrol,Xerez,1-1,1-0
-2005-12-03,Lleida,Valladolid,0-4,0-2
-2005-12-03,Lorca,Tenerife,1-1,1-1
-2005-12-03,Murcia,Castellon,4-1,2-0
-2005-12-04,Albacete,Almeria,3-1,2-0
-2005-12-04,Eibar,Sp Gijon,0-1,0-1
-2005-12-04,Elche,Numancia,4-1,2-1
-2005-12-04,Gimnastic,Real Madrid B,0-1,0-1
-2005-12-04,Levante,Ciudad de Murcia,6-0,3-0
-2005-12-04,Poli Ejido,Hercules,3-1,1-0
-2005-12-04,Recreativo,Malaga B,0-0,0-0
-2005-12-10,Hercules,Ferrol,1-1,1-0
-2005-12-10,Real Madrid B,Recreativo,1-2,0-1
-2005-12-11,Almeria,Gimnastic,0-1,0-1
-2005-12-11,Castellon,Albacete,0-0,0-0
-2005-12-11,Ciudad de Murcia,Poli Ejido,0-1,0-1
-2005-12-11,Numancia,Murcia,0-0,0-0
-2005-12-11,Sp Gijon,Lorca,1-0,0-0
-2005-12-11,Tenerife,Levante,0-1,0-0
-2005-12-11,Valladolid,Eibar,0-0,0-0
-2005-12-11,Xerez,Elche,1-2,1-1
-2005-12-12,Malaga B,Lleida,0-1,0-0
-2005-12-17,Albacete,Numancia,0-0,0-0
-2005-12-17,Ferrol,Ciudad de Murcia,1-1,1-0
-2005-12-17,Levante,Sp Gijon,0-0,0-0
-2005-12-17,Lleida,Eibar,0-0,0-0
-2005-12-17,Malaga B,Real Madrid B,0-1,0-1
-2005-12-17,Murcia,Xerez,0-1,0-1
-2005-12-17,Poli Ejido,Tenerife,2-0,2-0
-2005-12-18,Elche,Hercules,1-1,1-1
-2005-12-18,Gimnastic,Castellon,1-1,0-1
-2005-12-18,Lorca,Valladolid,2-0,2-0
-2005-12-18,Recreativo,Almeria,2-0,0-0
-2005-12-20,Real Madrid B,Lleida,0-0,0-0
-2005-12-20,Tenerife,Ferrol,1-2,1-1
-2005-12-21,Almeria,Malaga B,2-1,1-0
-2005-12-21,Ciudad de Murcia,Elche,4-1,1-0
-2005-12-21,Hercules,Murcia,1-1,1-1
-2005-12-21,Numancia,Gimnastic,0-1,0-1
-2005-12-21,Sp Gijon,Poli Ejido,1-1,0-1
-2005-12-21,Valladolid,Levante,3-3,2-2
-2005-12-21,Xerez,Albacete,3-1,2-1
-2005-12-22,Castellon,Recreativo,2-0,2-0
-2005-12-22,Eibar,Lorca,0-3,0-0
-2006-01-07,Elche,Tenerife,2-2,1-0
-2006-01-07,Ferrol,Sp Gijon,0-0,0-0
-2006-01-07,Gimnastic,Xerez,0-3,0-2
-2006-01-08,Albacete,Hercules,2-0,1-0
-2006-01-08,Levante,Eibar,0-0,0-0
-2006-01-08,Lleida,Lorca,2-2,1-1
-2006-01-08,Malaga B,Castellon,1-2,0-2
-2006-01-08,Murcia,Ciudad de Murcia,0-0,0-0
-2006-01-08,Poli Ejido,Valladolid,1-1,1-0
-2006-01-08,Real Madrid B,Almeria,0-1,0-1
-2006-01-08,Recreativo,Numancia,1-1,0-0
-2006-01-14,Ciudad de Murcia,Albacete,0-0,0-0
-2006-01-14,Eibar,Poli Ejido,3-1,1-1
-2006-01-14,Hercules,Gimnastic,0-1,0-0
-2006-01-15,Castellon,Real Madrid B,3-1,2-1
-2006-01-15,Lleida,Almeria,1-0,0-0
-2006-01-15,Lorca,Levante,1-1,1-0
-2006-01-15,Numancia,Malaga B,2-1,0-1
-2006-01-15,Sp Gijon,Elche,2-2,1-1
-2006-01-15,Tenerife,Murcia,3-1,1-1
-2006-01-15,Valladolid,Ferrol,3-3,1-1
-2006-01-15,Xerez,Recreativo,1-1,0-0
-2006-01-21,Albacete,Tenerife,3-2,2-1
-2006-01-21,Levante,Lleida,2-0,0-0
-2006-01-21,Malaga B,Xerez,0-0,0-0
-2006-01-21,Murcia,Sp Gijon,1-0,1-0
-2006-01-22,Almeria,Castellon,2-1,1-0
-2006-01-22,Elche,Valladolid,0-2,0-2
-2006-01-22,Ferrol,Eibar,4-0,1-0
-2006-01-22,Gimnastic,Ciudad de Murcia,2-0,0-0
-2006-01-22,Poli Ejido,Lorca,2-3,0-2
-2006-01-22,Real Madrid B,Numancia,1-1,1-1
-2006-01-22,Recreativo,Hercules,1-0,1-0
-2006-01-28,Gimnastic,Tenerife,0-0,0-0
-2006-01-28,Malaga B,Hercules,1-1,0-0
-2006-01-28,Poli Ejido,Levante,0-0,0-0
-2006-01-28,Real Madrid B,Xerez,4-3,2-0
-2006-01-29,Almeria,Numancia,1-2,0-1
-2006-01-29,Castellon,Lleida,0-3,0-1
-2006-01-29,Elche,Eibar,1-1,0-1
-2006-01-29,Ferrol,Lorca,0-3,0-2
-2006-01-29,Murcia,Valladolid,2-2,0-1
-2006-01-29,Recreativo,Ciudad de Murcia,1-0,0-0
-2006-02-04,Hercules,Real Madrid B,0-1,0-0
-2006-02-04,Sp Gijon,Gimnastic,0-1,0-0
-2006-02-04,Tenerife,Recreativo,1-0,1-0
-2006-02-04,Valladolid,Albacete,0-1,0-1
-2006-02-05,Ciudad de Murcia,Malaga B,5-0,3-0
-2006-02-05,Eibar,Murcia,0-0,0-0
-2006-02-05,Levante,Ferrol,2-1,2-0
-2006-02-05,Lleida,Poli Ejido,1-0,0-0
-2006-02-05,Lorca,Elche,2-1,1-0
-2006-02-05,Numancia,Castellon,2-1,1-1
-2006-02-05,Xerez,Almeria,0-0,0-0
-2006-02-11,Elche,Levante,0-1,0-0
-2006-02-11,Malaga B,Tenerife,1-4,1-1
-2006-02-12,Albacete,Eibar,2-1,2-1
-2006-02-12,Almeria,Hercules,1-0,1-0
-2006-02-12,Castellon,Xerez,3-2,2-1
-2006-02-12,Ferrol,Poli Ejido,0-1,0-1
-2006-02-12,Gimnastic,Valladolid,3-2,2-0
-2006-02-12,Murcia,Lorca,0-1,0-0
-2006-02-12,Numancia,Lleida,1-0,1-0
-2006-02-12,Real Madrid B,Ciudad de Murcia,0-1,0-1
-2006-02-12,Recreativo,Sp Gijon,0-0,0-0
-2006-02-15,Albacete,Sp Gijon,1-0,1-0
-2006-02-18,Ciudad de Murcia,Almeria,0-0,0-0
-2006-02-18,Eibar,Gimnastic,0-1,0-1
-2006-02-18,Hercules,Castellon,1-0,1-0
-2006-02-18,Lorca,Albacete,3-0,0-0
-2006-02-18,Sp Gijon,Malaga B,0-0,0-0
-2006-02-19,Levante,Murcia,1-0,1-0
-2006-02-19,Lleida,Ferrol,1-1,1-1
-2006-02-19,Poli Ejido,Elche,2-1,0-1
-2006-02-19,Tenerife,Real Madrid B,0-1,0-0
-2006-02-19,Valladolid,Recreativo,0-1,0-1
-2006-02-19,Xerez,Numancia,1-1,0-0
-2006-02-25,Albacete,Levante,1-1,1-1
-2006-02-25,Almeria,Tenerife,2-0,1-0
-2006-02-25,Malaga B,Valladolid,2-1,2-0
-2006-02-25,Real Madrid B,Sp Gijon,1-1,0-1
-2006-02-25,Recreativo,Eibar,0-0,0-0
-2006-02-26,Castellon,Ciudad de Murcia,1-2,1-0
-2006-02-26,Elche,Ferrol,1-0,0-0
-2006-02-26,Gimnastic,Lorca,2-0,1-0
-2006-02-26,Murcia,Poli Ejido,0-0,0-0
-2006-02-26,Xerez,Lleida,0-1,0-0
-2006-03-04,Ferrol,Murcia,2-2,2-1
-2006-03-04,Lleida,Elche,0-0,0-0
-2006-03-04,Sp Gijon,Almeria,1-0,1-0
-2006-03-04,Tenerife,Castellon,1-1,1-0
-2006-03-05,Ciudad de Murcia,Numancia,0-1,0-1
-2006-03-05,Eibar,Malaga B,1-1,1-0
-2006-03-05,Levante,Gimnastic,1-1,1-0
-2006-03-05,Lorca,Recreativo,2-1,2-1
-2006-03-05,Poli Ejido,Albacete,2-0,1-0
-2006-03-05,Valladolid,Real Madrid B,1-0,0-0
-2006-03-11,Almeria,Valladolid,2-1,0-0
-2006-03-11,Castellon,Sp Gijon,1-0,1-0
-2006-03-11,Hercules,Lleida,2-1,2-1
-2006-03-11,Malaga B,Lorca,2-1,1-1
-2006-03-11,Numancia,Tenerife,2-0,0-0
-2006-03-11,Real Madrid B,Eibar,1-0,1-0
-2006-03-12,Albacete,Ferrol,1-2,0-1
-2006-03-12,Gimnastic,Poli Ejido,2-0,1-0
-2006-03-12,Murcia,Elche,1-0,0-0
-2006-03-12,Recreativo,Levante,4-1,2-1
-2006-03-12,Xerez,Ciudad de Murcia,0-0,0-0
-2006-03-18,Ciudad de Murcia,Hercules,1-0,0-0
-2006-03-18,Elche,Albacete,4-3,2-1
-2006-03-18,Lleida,Murcia,1-1,0-0
-2006-03-18,Poli Ejido,Recreativo,0-0,0-0
-2006-03-18,Tenerife,Xerez,3-1,2-1
-2006-03-19,Eibar,Almeria,0-1,0-1
-2006-03-19,Ferrol,Gimnastic,1-1,0-0
-2006-03-19,Levante,Malaga B,2-1,2-1
-2006-03-19,Lorca,Real Madrid B,2-1,2-1
-2006-03-19,Sp Gijon,Numancia,1-0,1-0
-2006-03-19,Valladolid,Castellon,1-0,0-0
-2006-03-22,Numancia,Hercules,1-0,0-0
-2006-03-25,Albacete,Murcia,0-0,0-0
-2006-03-25,Almeria,Lorca,1-0,1-0
-2006-03-25,Gimnastic,Elche,1-0,0-0
-2006-03-25,Hercules,Tenerife,1-0,1-0
-2006-03-26,Castellon,Eibar,2-0,1-0
-2006-03-26,Ciudad de Murcia,Lleida,3-1,1-1
-2006-03-26,Malaga B,Poli Ejido,0-1,0-1
-2006-03-26,Numancia,Valladolid,3-2,2-0
-2006-03-26,Real Madrid B,Levante,0-0,0-0
-2006-03-26,Recreativo,Ferrol,3-0,0-0
-2006-03-26,Xerez,Sp Gijon,0-0,0-0
-2006-04-01,Eibar,Numancia,1-2,0-0
-2006-04-01,Poli Ejido,Real Madrid B,0-3,0-2
-2006-04-01,Sp Gijon,Hercules,1-1,0-1
-2006-04-01,Tenerife,Ciudad de Murcia,0-1,0-0
-2006-04-02,Elche,Recreativo,1-1,1-1
-2006-04-02,Ferrol,Malaga B,2-1,2-0
-2006-04-02,Levante,Almeria,2-4,1-1
-2006-04-02,Lleida,Albacete,3-0,1-0
-2006-04-02,Lorca,Castellon,3-2,1-1
-2006-04-02,Murcia,Gimnastic,0-1,0-0
-2006-04-02,Valladolid,Xerez,3-1,3-0
-2006-04-05,Hercules,Xerez,0-3,0-1
-2006-04-08,Castellon,Levante,0-0,0-0
-2006-04-08,Ciudad de Murcia,Sp Gijon,1-0,0-0
-2006-04-08,Real Madrid B,Ferrol,1-0,0-0
-2006-04-08,Xerez,Eibar,2-1,2-0
-2006-04-09,Almeria,Poli Ejido,1-2,1-0
-2006-04-09,Gimnastic,Albacete,4-1,2-1
-2006-04-09,Hercules,Valladolid,2-0,1-0
-2006-04-09,Malaga B,Elche,1-3,0-0
-2006-04-09,Numancia,Lorca,1-0,0-0
-2006-04-09,Recreativo,Murcia,1-0,1-0
-2006-04-09,Tenerife,Lleida,2-2,1-1
-2006-04-15,Albacete,Recreativo,1-0,1-0
-2006-04-15,Elche,Real Madrid B,2-1,0-1
-2006-04-15,Lleida,Gimnastic,1-2,0-1
-2006-04-15,Sp Gijon,Tenerife,2-2,1-2
-2006-04-16,Eibar,Hercules,0-1,0-1
-2006-04-16,Ferrol,Almeria,1-1,1-0
-2006-04-16,Levante,Numancia,1-0,0-0
-2006-04-16,Lorca,Xerez,1-1,0-1
-2006-04-16,Murcia,Malaga B,4-1,3-0
-2006-04-16,Poli Ejido,Castellon,0-2,0-1
-2006-04-16,Valladolid,Ciudad de Murcia,0-2,0-0
-2006-04-22,Ciudad de Murcia,Eibar,0-2,0-1
-2006-04-22,Malaga B,Albacete,1-1,0-1
-2006-04-22,Real Madrid B,Murcia,1-0,0-0
-2006-04-22,Xerez,Levante,0-1,0-0
-2006-04-23,Almeria,Elche,2-0,1-0
-2006-04-23,Castellon,Ferrol,1-0,1-0
-2006-04-23,Hercules,Lorca,0-2,0-0
-2006-04-23,Numancia,Poli Ejido,1-2,0-2
-2006-04-23,Recreativo,Gimnastic,3-0,2-0
-2006-04-23,Sp Gijon,Lleida,2-0,1-0
-2006-04-23,Tenerife,Valladolid,2-1,1-0
-2006-04-29,Eibar,Tenerife,0-1,0-0
-2006-04-29,Levante,Hercules,2-0,0-0
-2006-04-29,Murcia,Almeria,1-0,1-0
-2006-04-29,Valladolid,Sp Gijon,1-3,1-2
-2006-04-30,Albacete,Real Madrid B,1-0,0-0
-2006-04-30,Elche,Castellon,1-2,1-0
-2006-04-30,Ferrol,Numancia,1-3,1-3
-2006-04-30,Gimnastic,Malaga B,3-2,1-0
-2006-04-30,Lleida,Recreativo,0-4,0-2
-2006-04-30,Lorca,Ciudad de Murcia,2-2,1-2
-2006-04-30,Poli Ejido,Xerez,4-1,0-0
-2006-05-06,Almeria,Albacete,1-2,0-2
-2006-05-06,Castellon,Murcia,2-1,2-0
-2006-05-06,Numancia,Elche,3-1,2-0
-2006-05-06,Sp Gijon,Eibar,1-1,0-0
-2006-05-06,Tenerife,Lorca,2-3,0-0
-2006-05-07,Ciudad de Murcia,Levante,2-1,2-1
-2006-05-07,Hercules,Poli Ejido,1-0,0-0
-2006-05-07,Malaga B,Recreativo,0-2,0-2
-2006-05-07,Real Madrid B,Gimnastic,1-0,1-0
-2006-05-07,Valladolid,Lleida,3-2,0-1
-2006-05-07,Xerez,Ferrol,2-0,1-0
-2006-05-13,Ferrol,Hercules,1-1,1-1
-2006-05-13,Levante,Tenerife,1-0,0-0
-2006-05-13,Lorca,Sp Gijon,1-0,1-0
-2006-05-13,Recreativo,Real Madrid B,4-1,3-0
-2006-05-14,Albacete,Castellon,1-1,1-0
-2006-05-14,Eibar,Valladolid,0-1,0-1
-2006-05-14,Elche,Xerez,1-0,0-0
-2006-05-14,Gimnastic,Almeria,1-0,1-0
-2006-05-14,Lleida,Malaga B,0-0,0-0
-2006-05-14,Murcia,Numancia,3-1,2-1
-2006-05-14,Poli Ejido,Ciudad de Murcia,2-3,1-1
-2006-05-20,Ciudad de Murcia,Ferrol,2-1,2-0
-2006-05-20,Eibar,Lleida,1-1,1-0
-2006-05-20,Hercules,Elche,0-0,0-0
-2006-05-20,Numancia,Albacete,1-0,0-0
-2006-05-20,Tenerife,Poli Ejido,2-1,1-0
-2006-05-21,Almeria,Recreativo,2-1,1-0
-2006-05-21,Castellon,Gimnastic,0-2,0-2
-2006-05-21,Real Madrid B,Malaga B,4-1,2-0
-2006-05-21,Sp Gijon,Levante,0-2,0-1
-2006-05-21,Valladolid,Lorca,1-1,0-0
-2006-05-21,Xerez,Murcia,2-0,1-0
-2006-05-27,Ferrol,Tenerife,2-3,0-2
-2006-05-27,Levante,Valladolid,2-1,0-0
-2006-05-27,Lorca,Eibar,1-0,0-0
-2006-05-27,Malaga B,Almeria,3-1,2-1
-2006-05-27,Murcia,Hercules,3-1,2-0
-2006-05-28,Albacete,Xerez,2-0,1-0
-2006-05-28,Elche,Ciudad de Murcia,0-0,0-0
-2006-05-28,Gimnastic,Numancia,1-0,0-0
-2006-05-28,Lleida,Real Madrid B,2-1,2-1
-2006-05-28,Poli Ejido,Sp Gijon,1-0,0-0
-2006-05-28,Recreativo,Castellon,2-2,2-2
-2006-06-04,Almeria,Real Madrid B,3-2,0-2
-2006-06-04,Castellon,Malaga B,2-2,1-1
-2006-06-03,Ciudad de Murcia,Murcia,1-0,0-0
-2006-06-04,Eibar,Levante,1-1,0-0
-2006-06-04,Hercules,Albacete,2-1,2-0
-2006-06-04,Lorca,Lleida,1-2,1-0
-2006-06-04,Numancia,Recreativo,0-3,0-1
-2006-06-03,Sp Gijon,Ferrol,3-1,0-1
-2006-06-03,Tenerife,Elche,0-0,0-0
-2006-06-04,Valladolid,Poli Ejido,0-1,0-1
-2006-06-03,Xerez,Gimnastic,0-0,0-0
-2006-06-10,Elche,Sp Gijon,0-0,0-0
-2006-06-10,Ferrol,Valladolid,0-1,0-1
-2006-06-10,Malaga B,Numancia,5-4,2-0
-2006-06-10,Murcia,Tenerife,2-2,1-0
-2006-06-10,Real Madrid B,Castellon,1-2,1-1
-2006-06-10,Recreativo,Xerez,1-2,0-1
-2006-06-11,Albacete,Ciudad de Murcia,2-2,0-1
-2006-06-11,Almeria,Lleida,3-1,1-0
-2006-06-11,Gimnastic,Hercules,1-1,0-0
-2006-06-11,Levante,Lorca,0-0,0-0
-2006-06-11,Poli Ejido,Eibar,0-1,0-0
-2006-06-17,Castellon,Almeria,2-0,0-0
-2006-06-17,Ciudad de Murcia,Gimnastic,2-0,0-0
-2006-06-17,Eibar,Ferrol,1-1,0-1
-2006-06-17,Lleida,Levante,0-1,0-1
-2006-06-17,Lorca,Poli Ejido,0-0,0-0
-2006-06-17,Numancia,Real Madrid B,3-2,2-0
-2006-06-17,Sp Gijon,Murcia,1-0,0-0
-2006-06-17,Tenerife,Albacete,1-1,0-0
-2006-06-17,Valladolid,Elche,2-2,0-2
-2006-06-17,Xerez,Malaga B,4-2,4-1
-2006-06-18,Hercules,Recreativo,0-2,0-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 27 Aug 2005 (34),Ciudad de Murcia (1),3-1,2-1,Recreativo (1)
+?,(Sat) 27 Aug 2005 (34),Levante UD (1),2-0,1-0,Poli Ejido (1)
+?,(Sat) 27 Aug 2005 (34),Lorca (1),1-1,0-0,Ferrol (1)
+?,(Sat) 27 Aug 2005 (34),Sporting Gijón (1),2-0,2-0,Albacete (1)
+?,(Sat) 27 Aug 2005 (34),Tenerife (1),3-1,3-1,Gimnastic (1)
+?,(Sat) 27 Aug 2005 (34),Xerez (1),2-1,1-1,Real Madrid B (1)
+?,(Sun) 28 Aug 2005 (34),SD Eibar (1),1-2,0-1,Elche (1)
+?,(Sun) 28 Aug 2005 (34),Hercules (1),1-1,1-1,Malaga B (1)
+?,(Sun) 28 Aug 2005 (34),Lleida (1),1-0,1-0,Castellon (1)
+?,(Sun) 28 Aug 2005 (34),Numancia (1),3-0,2-0,Almeria (1)
+?,(Sun) 28 Aug 2005 (34),Valladolid (1),1-0,1-0,Murcia (1)
+?,(Sat) 3 Sep 2005 (35),Castellon (2),0-1,0-0,Numancia (2)
+?,(Sat) 3 Sep 2005 (35),Ferrol (2),1-2,1-2,Levante UD (2)
+?,(Sat) 3 Sep 2005 (35),Recreativo (2),3-1,2-0,Tenerife (2)
+?,(Sun) 4 Sep 2005 (35),Albacete (2),2-3,1-2,Valladolid (2)
+?,(Sun) 4 Sep 2005 (35),Almeria (2),3-0,0-0,Xerez (2)
+?,(Sun) 4 Sep 2005 (35),Elche (2),1-3,0-0,Lorca (2)
+?,(Sun) 4 Sep 2005 (35),Gimnastic (2),0-4,0-2,Sporting Gijón (2)
+?,(Sun) 4 Sep 2005 (35),Malaga B (2),0-1,0-0,Ciudad de Murcia (2)
+?,(Sun) 4 Sep 2005 (35),Murcia (2),1-0,1-0,SD Eibar (2)
+?,(Sun) 4 Sep 2005 (35),Poli Ejido (2),2-1,0-1,Lleida (2)
+?,(Sun) 4 Sep 2005 (35),Real Madrid B (2),3-0,2-0,Hercules (2)
+?,(Sat) 10 Sep 2005 (36),SD Eibar (3),1-1,1-1,Albacete (3)
+?,(Sat) 10 Sep 2005 (36),Hercules (3),2-2,1-0,Almeria (3)
+?,(Sat) 10 Sep 2005 (36),Lleida (3),5-0,1-0,Numancia (3)
+?,(Sat) 10 Sep 2005 (36),Valladolid (3),0-2,0-1,Gimnastic (3)
+?,(Sun) 11 Sep 2005 (36),Ciudad de Murcia (3),2-1,1-0,Real Madrid B (3)
+?,(Sun) 11 Sep 2005 (36),Levante UD (3),1-0,0-0,Elche (3)
+?,(Sun) 11 Sep 2005 (36),Lorca (3),0-1,0-1,Murcia (3)
+?,(Sun) 11 Sep 2005 (36),Poli Ejido (3),4-2,2-1,Ferrol (3)
+?,(Sun) 11 Sep 2005 (36),Sporting Gijón (3),1-1,1-0,Recreativo (3)
+?,(Sun) 11 Sep 2005 (36),Tenerife (3),3-2,2-1,Malaga B (3)
+?,(Sun) 11 Sep 2005 (36),Xerez (3),2-1,1-0,Castellon (3)
+?,(Sat) 17 Sep 2005 (37),Almeria (4),1-0,0-0,Ciudad de Murcia (4)
+?,(Sat) 17 Sep 2005 (37),Castellon (4),1-2,0-1,Hercules (4)
+?,(Sat) 17 Sep 2005 (37),Malaga B (4),1-0,0-0,Sporting Gijón (4)
+?,(Sat) 17 Sep 2005 (37),Real Madrid B (4),1-2,1-1,Tenerife (4)
+?,(Sun) 18 Sep 2005 (37),Albacete (4),1-0,0-0,Lorca (4)
+?,(Sun) 18 Sep 2005 (37),Elche (4),2-0,0-0,Poli Ejido (4)
+?,(Sun) 18 Sep 2005 (37),Ferrol (4),0-0,0-0,Lleida (4)
+?,(Sun) 18 Sep 2005 (37),Gimnastic (4),1-0,1-0,SD Eibar (4)
+?,(Sun) 18 Sep 2005 (37),Murcia (4),0-0,0-0,Levante UD (4)
+?,(Sun) 18 Sep 2005 (37),Numancia (4),1-1,0-0,Xerez (4)
+?,(Sun) 18 Sep 2005 (37),Recreativo (4),2-0,1-0,Valladolid (4)
+?,(Sat) 24 Sep 2005 (38),SD Eibar (5),2-1,1-1,Recreativo (5)
+?,(Sat) 24 Sep 2005 (38),Ferrol (5),2-1,0-0,Elche (5)
+?,(Sat) 24 Sep 2005 (38),Hercules (5),4-0,1-0,Numancia (5)
+?,(Sat) 24 Sep 2005 (38),Lleida (5),0-1,0-0,Xerez (5)
+?,(Sun) 25 Sep 2005 (38),Ciudad de Murcia (5),0-0,0-0,Castellon (5)
+?,(Sun) 25 Sep 2005 (38),Levante UD (5),1-1,0-0,Albacete (5)
+?,(Sun) 25 Sep 2005 (38),Lorca (5),1-0,1-0,Gimnastic (5)
+?,(Sun) 25 Sep 2005 (38),Poli Ejido (5),0-3,0-0,Murcia (5)
+?,(Sun) 25 Sep 2005 (38),Sporting Gijón (5),1-1,0-0,Real Madrid B (5)
+?,(Sun) 25 Sep 2005 (38),Tenerife (5),2-1,1-0,Almeria (5)
+?,(Sun) 25 Sep 2005 (38),Valladolid (5),1-1,0-0,Malaga B (5)
+?,(Sat) 1 Oct 2005 (39),Castellon (6),1-0,0-0,Tenerife (6)
+?,(Sat) 1 Oct 2005 (39),Gimnastic (6),1-0,0-0,Levante UD (6)
+?,(Sat) 1 Oct 2005 (39),Real Madrid B (6),2-3,1-1,Valladolid (6)
+?,(Sun) 2 Oct 2005 (39),Albacete (6),1-0,0-0,Poli Ejido (6)
+?,(Sun) 2 Oct 2005 (39),Almeria (6),3-0,1-0,Sporting Gijón (6)
+?,(Sun) 2 Oct 2005 (39),Elche (6),3-2,0-1,Lleida (6)
+?,(Sun) 2 Oct 2005 (39),Murcia (6),2-1,1-0,Ferrol (6)
+?,(Sun) 2 Oct 2005 (39),Numancia (6),1-1,0-0,Ciudad de Murcia (6)
+?,(Sun) 2 Oct 2005 (39),Recreativo (6),2-1,0-1,Lorca (6)
+?,(Sun) 2 Oct 2005 (39),Xerez (6),1-0,0-0,Hercules (6)
+?,(Mon) 3 Oct 2005 (40),Malaga B (6),1-1,0-0,SD Eibar (6)
+?,(Sat) 8 Oct 2005 (40),Ferrol (7),2-3,1-1,Albacete (7)
+?,(Sat) 8 Oct 2005 (40),Lleida (7),0-1,0-0,Hercules (7)
+?,(Sat) 8 Oct 2005 (40),Poli Ejido (7),2-0,1-0,Gimnastic (7)
+?,(Sat) 8 Oct 2005 (40),Tenerife (7),2-1,1-0,Numancia (7)
+?,(Sun) 9 Oct 2005 (40),Ciudad de Murcia (7),2-6,1-3,Xerez (7)
+?,(Sun) 9 Oct 2005 (40),SD Eibar (7),1-3,0-1,Real Madrid B (7)
+?,(Sun) 9 Oct 2005 (40),Elche (7),1-1,1-1,Murcia (7)
+?,(Sun) 9 Oct 2005 (40),Levante UD (7),1-3,0-0,Recreativo (7)
+?,(Sun) 9 Oct 2005 (40),Lorca (7),1-0,0-0,Malaga B (7)
+?,(Sun) 9 Oct 2005 (40),Sporting Gijón (7),2-0,0-0,Castellon (7)
+?,(Sun) 9 Oct 2005 (40),Valladolid (7),1-0,0-0,Almeria (7)
+?,(Sat) 15 Oct 2005 (41),Albacete (8),1-2,0-1,Elche (8)
+?,(Sat) 15 Oct 2005 (41),Castellon (8),0-0,0-0,Valladolid (8)
+?,(Sat) 15 Oct 2005 (41),Gimnastic (8),1-2,0-1,Ferrol (8)
+?,(Sat) 15 Oct 2005 (41),Malaga B (8),0-0,0-0,Levante UD (8)
+?,(Sat) 15 Oct 2005 (41),Recreativo (8),2-2,1-1,Poli Ejido (8)
+?,(Sun) 16 Oct 2005 (41),Almeria (8),1-1,1-1,SD Eibar (8)
+?,(Sun) 16 Oct 2005 (41),Hercules (8),2-1,1-0,Ciudad de Murcia (8)
+?,(Sun) 16 Oct 2005 (41),Murcia (8),2-0,1-0,Lleida (8)
+?,(Sun) 16 Oct 2005 (41),Numancia (8),1-0,0-0,Sporting Gijón (8)
+?,(Sun) 16 Oct 2005 (41),Real Madrid B (8),1-2,0-0,Lorca (8)
+?,(Sun) 16 Oct 2005 (41),Xerez (8),3-1,1-1,Tenerife (8)
+?,(Sat) 22 Oct 2005 (42),Elche (9),1-0,1-0,Gimnastic (9)
+?,(Sat) 22 Oct 2005 (42),Poli Ejido (9),1-2,1-1,Malaga B (9)
+?,(Sun) 23 Oct 2005 (42),SD Eibar (9),2-0,1-0,Castellon (9)
+?,(Sun) 23 Oct 2005 (42),Ferrol (9),0-3,0-1,Recreativo (9)
+?,(Sun) 23 Oct 2005 (42),Levante UD (9),3-0,0-0,Real Madrid B (9)
+?,(Sun) 23 Oct 2005 (42),Lleida (9),1-2,0-1,Ciudad de Murcia (9)
+?,(Sun) 23 Oct 2005 (42),Lorca (9),1-1,1-0,Almeria (9)
+?,(Sun) 23 Oct 2005 (42),Murcia (9),2-0,1-0,Albacete (9)
+?,(Sun) 23 Oct 2005 (42),Sporting Gijón (9),1-1,1-0,Xerez (9)
+?,(Sun) 23 Oct 2005 (42),Tenerife (9),0-0,0-0,Hercules (9)
+?,(Sun) 23 Oct 2005 (42),Valladolid (9),3-1,2-0,Numancia (9)
+?,(Sat) 29 Oct 2005 (43),Almeria (10),5-1,2-1,Levante UD (10)
+?,(Sat) 29 Oct 2005 (43),Ciudad de Murcia (10),3-0,3-0,Tenerife (10)
+?,(Sat) 29 Oct 2005 (43),Gimnastic (10),3-1,1-1,Murcia (10)
+?,(Sat) 29 Oct 2005 (43),Hercules (10),3-2,1-1,Sporting Gijón (10)
+?,(Sun) 30 Oct 2005 (43),Albacete (10),1-0,1-0,Lleida (10)
+?,(Sun) 30 Oct 2005 (43),Castellon (10),0-0,0-0,Lorca (10)
+?,(Sun) 30 Oct 2005 (43),Malaga B (10),0-1,0-1,Ferrol (10)
+?,(Sun) 30 Oct 2005 (43),Numancia (10),1-2,0-0,SD Eibar (10)
+?,(Sun) 30 Oct 2005 (43),Real Madrid B (10),2-0,0-0,Poli Ejido (10)
+?,(Sun) 30 Oct 2005 (43),Recreativo (10),2-0,2-0,Elche (10)
+?,(Sun) 30 Oct 2005 (43),Xerez (10),0-0,0-0,Valladolid (10)
+?,(Sat) 5 Nov 2005 (44),Albacete (11),1-4,0-1,Gimnastic (11)
+?,(Sat) 5 Nov 2005 (44),SD Eibar (11),0-1,0-1,Xerez (11)
+?,(Sat) 5 Nov 2005 (44),Levante UD (11),3-2,1-1,Castellon (11)
+?,(Sat) 5 Nov 2005 (44),Lleida (11),2-1,0-1,Tenerife (11)
+?,(Sun) 6 Nov 2005 (44),Elche (11),2-0,1-0,Malaga B (11)
+?,(Sun) 6 Nov 2005 (44),Ferrol (11),0-0,0-0,Real Madrid B (11)
+?,(Sun) 6 Nov 2005 (44),Lorca (11),1-1,0-0,Numancia (11)
+?,(Sun) 6 Nov 2005 (44),Murcia (11),0-2,0-0,Recreativo (11)
+?,(Sun) 6 Nov 2005 (44),Poli Ejido (11),0-1,0-0,Almeria (11)
+?,(Sun) 6 Nov 2005 (44),Sporting Gijón (11),2-2,0-2,Ciudad de Murcia (11)
+?,(Sun) 6 Nov 2005 (44),Valladolid (11),1-1,0-0,Hercules (11)
+?,(Sat) 12 Nov 2005 (45),Gimnastic (12),0-2,0-1,Lleida (12)
+?,(Sat) 12 Nov 2005 (45),Hercules (12),1-1,0-1,SD Eibar (12)
+?,(Sat) 12 Nov 2005 (45),Recreativo (12),1-1,0-0,Albacete (12)
+?,(Sun) 13 Nov 2005 (45),Almeria (12),2-1,1-0,Ferrol (12)
+?,(Sun) 13 Nov 2005 (45),Castellon (12),2-1,0-0,Poli Ejido (12)
+?,(Sun) 13 Nov 2005 (45),Ciudad de Murcia (12),0-2,0-1,Valladolid (12)
+?,(Sun) 13 Nov 2005 (45),Malaga B (12),2-0,2-0,Murcia (12)
+?,(Sun) 13 Nov 2005 (45),Numancia (12),0-1,0-1,Levante UD (12)
+?,(Sun) 13 Nov 2005 (45),Real Madrid B (12),4-0,2-0,Elche (12)
+?,(Sun) 13 Nov 2005 (45),Tenerife (12),1-3,0-1,Sporting Gijón (12)
+?,(Sun) 13 Nov 2005 (45),Xerez (12),3-0,0-0,Lorca (12)
+?,(Sat) 19 Nov 2005 (46),Elche (13),0-0,0-0,Almeria (13)
+?,(Sat) 19 Nov 2005 (46),Lleida (13),0-1,0-1,Sporting Gijón (13)
+?,(Sat) 19 Nov 2005 (46),Valladolid (13),1-1,1-1,Tenerife (13)
+?,(Sun) 20 Nov 2005 (46),Albacete (13),0-1,0-0,Malaga B (13)
+?,(Sun) 20 Nov 2005 (46),SD Eibar (13),0-0,0-0,Ciudad de Murcia (13)
+?,(Sun) 20 Nov 2005 (46),Ferrol (13),1-1,0-0,Castellon (13)
+?,(Sun) 20 Nov 2005 (46),Gimnastic (13),0-0,0-0,Recreativo (13)
+?,(Sun) 20 Nov 2005 (46),Levante UD (13),2-3,1-2,Xerez (13)
+?,(Sun) 20 Nov 2005 (46),Lorca (13),4-0,2-0,Hercules (13)
+?,(Sun) 20 Nov 2005 (46),Murcia (13),1-1,1-1,Real Madrid B (13)
+?,(Sun) 20 Nov 2005 (46),Poli Ejido (13),0-1,0-1,Numancia (13)
+?,(Sat) 26 Nov 2005 (47),Hercules (14),3-0,2-0,Levante UD (14)
+?,(Sat) 26 Nov 2005 (47),Tenerife (14),1-1,0-1,SD Eibar (14)
+?,(Sat) 26 Nov 2005 (47),Xerez (14),1-1,0-0,Poli Ejido (14)
+?,(Sun) 27 Nov 2005 (47),Almeria (14),2-0,1-0,Murcia (14)
+?,(Sun) 27 Nov 2005 (47),Castellon (14),1-1,0-0,Elche (14)
+?,(Sun) 27 Nov 2005 (47),Ciudad de Murcia (14),1-0,1-0,Lorca (14)
+?,(Sun) 27 Nov 2005 (47),Malaga B (14),1-2,0-2,Gimnastic (14)
+?,(Sun) 27 Nov 2005 (47),Numancia (14),1-1,0-0,Ferrol (14)
+?,(Sun) 27 Nov 2005 (47),Real Madrid B (14),3-0,2-0,Albacete (14)
+?,(Sun) 27 Nov 2005 (47),Recreativo (14),3-2,1-2,Lleida (14)
+?,(Sun) 27 Nov 2005 (47),Sporting Gijón (14),1-1,0-1,Valladolid (14)
+?,(Sat) 3 Dec 2005 (48),Ferrol (15),1-1,1-0,Xerez (15)
+?,(Sat) 3 Dec 2005 (48),Lleida (15),0-4,0-2,Valladolid (15)
+?,(Sat) 3 Dec 2005 (48),Lorca (15),1-1,1-1,Tenerife (15)
+?,(Sat) 3 Dec 2005 (48),Murcia (15),4-1,2-0,Castellon (15)
+?,(Sun) 4 Dec 2005 (48),Albacete (15),3-1,2-0,Almeria (15)
+?,(Sun) 4 Dec 2005 (48),SD Eibar (15),0-1,0-1,Sporting Gijón (15)
+?,(Sun) 4 Dec 2005 (48),Elche (15),4-1,2-1,Numancia (15)
+?,(Sun) 4 Dec 2005 (48),Gimnastic (15),0-1,0-1,Real Madrid B (15)
+?,(Sun) 4 Dec 2005 (48),Levante UD (15),6-0,3-0,Ciudad de Murcia (15)
+?,(Sun) 4 Dec 2005 (48),Poli Ejido (15),3-1,1-0,Hercules (15)
+?,(Sun) 4 Dec 2005 (48),Recreativo (15),0-0,0-0,Malaga B (15)
+?,(Sat) 10 Dec 2005 (49),Hercules (16),1-1,1-0,Ferrol (16)
+?,(Sat) 10 Dec 2005 (49),Real Madrid B (16),1-2,0-1,Recreativo (16)
+?,(Sun) 11 Dec 2005 (49),Almeria (16),0-1,0-1,Gimnastic (16)
+?,(Sun) 11 Dec 2005 (49),Castellon (16),0-0,0-0,Albacete (16)
+?,(Sun) 11 Dec 2005 (49),Ciudad de Murcia (16),0-1,0-1,Poli Ejido (16)
+?,(Sun) 11 Dec 2005 (49),Numancia (16),0-0,0-0,Murcia (16)
+?,(Sun) 11 Dec 2005 (49),Sporting Gijón (16),1-0,0-0,Lorca (16)
+?,(Sun) 11 Dec 2005 (49),Tenerife (16),0-1,0-0,Levante UD (16)
+?,(Sun) 11 Dec 2005 (49),Valladolid (16),0-0,0-0,SD Eibar (16)
+?,(Sun) 11 Dec 2005 (49),Xerez (16),1-2,1-1,Elche (16)
+?,(Mon) 12 Dec 2005 (50),Malaga B (16),0-1,0-0,Lleida (16)
+?,(Sat) 17 Dec 2005 (50),Albacete (17),0-0,0-0,Numancia (17)
+?,(Sat) 17 Dec 2005 (50),Ferrol (17),1-1,1-0,Ciudad de Murcia (17)
+?,(Sat) 17 Dec 2005 (50),Levante UD (17),0-0,0-0,Sporting Gijón (17)
+?,(Sat) 17 Dec 2005 (50),Lleida (17),0-0,0-0,SD Eibar (17)
+?,(Sat) 17 Dec 2005 (50),Malaga B (17),0-1,0-1,Real Madrid B (17)
+?,(Sat) 17 Dec 2005 (50),Murcia (17),0-1,0-1,Xerez (17)
+?,(Sat) 17 Dec 2005 (50),Poli Ejido (17),2-0,2-0,Tenerife (17)
+?,(Sun) 18 Dec 2005 (50),Elche (17),1-1,1-1,Hercules (17)
+?,(Sun) 18 Dec 2005 (50),Gimnastic (17),1-1,0-1,Castellon (17)
+?,(Sun) 18 Dec 2005 (50),Lorca (17),2-0,2-0,Valladolid (17)
+?,(Sun) 18 Dec 2005 (50),Recreativo (17),2-0,0-0,Almeria (17)
+?,(Tue) 20 Dec 2005 (51),Real Madrid B (18),0-0,0-0,Lleida (18)
+?,(Tue) 20 Dec 2005 (51),Tenerife (18),1-2,1-1,Ferrol (18)
+?,(Wed) 21 Dec 2005 (51),Almeria (18),2-1,1-0,Malaga B (18)
+?,(Wed) 21 Dec 2005 (51),Ciudad de Murcia (18),4-1,1-0,Elche (18)
+?,(Wed) 21 Dec 2005 (51),Hercules (18),1-1,1-1,Murcia (18)
+?,(Wed) 21 Dec 2005 (51),Numancia (18),0-1,0-1,Gimnastic (18)
+?,(Wed) 21 Dec 2005 (51),Sporting Gijón (18),1-1,0-1,Poli Ejido (18)
+?,(Wed) 21 Dec 2005 (51),Valladolid (18),3-3,2-2,Levante UD (18)
+?,(Wed) 21 Dec 2005 (51),Xerez (18),3-1,2-1,Albacete (18)
+?,(Thu) 22 Dec 2005 (51),Castellon (18),2-0,2-0,Recreativo (18)
+?,(Thu) 22 Dec 2005 (51),SD Eibar (18),0-3,0-0,Lorca (18)
+?,(Sat) 7 Jan 2006 (1),Elche (19),2-2,1-0,Tenerife (19)
+?,(Sat) 7 Jan 2006 (1),Ferrol (19),0-0,0-0,Sporting Gijón (19)
+?,(Sat) 7 Jan 2006 (1),Gimnastic (19),0-3,0-2,Xerez (19)
+?,(Sun) 8 Jan 2006 (1),Albacete (19),2-0,1-0,Hercules (19)
+?,(Sun) 8 Jan 2006 (1),Levante UD (19),0-0,0-0,SD Eibar (19)
+?,(Sun) 8 Jan 2006 (1),Lleida (19),2-2,1-1,Lorca (19)
+?,(Sun) 8 Jan 2006 (1),Malaga B (19),1-2,0-2,Castellon (19)
+?,(Sun) 8 Jan 2006 (1),Murcia (19),0-0,0-0,Ciudad de Murcia (19)
+?,(Sun) 8 Jan 2006 (1),Poli Ejido (19),1-1,1-0,Valladolid (19)
+?,(Sun) 8 Jan 2006 (1),Real Madrid B (19),0-1,0-1,Almeria (19)
+?,(Sun) 8 Jan 2006 (1),Recreativo (19),1-1,0-0,Numancia (19)
+?,(Sat) 14 Jan 2006 (2),Ciudad de Murcia (20),0-0,0-0,Albacete (20)
+?,(Sat) 14 Jan 2006 (2),SD Eibar (20),3-1,1-1,Poli Ejido (20)
+?,(Sat) 14 Jan 2006 (2),Hercules (20),0-1,0-0,Gimnastic (20)
+?,(Sun) 15 Jan 2006 (2),Castellon (20),3-1,2-1,Real Madrid B (20)
+?,(Sun) 15 Jan 2006 (2),Lleida (20),1-0,0-0,Almeria (20)
+?,(Sun) 15 Jan 2006 (2),Lorca (20),1-1,1-0,Levante UD (20)
+?,(Sun) 15 Jan 2006 (2),Numancia (20),2-1,0-1,Malaga B (20)
+?,(Sun) 15 Jan 2006 (2),Sporting Gijón (20),2-2,1-1,Elche (20)
+?,(Sun) 15 Jan 2006 (2),Tenerife (20),3-1,1-1,Murcia (20)
+?,(Sun) 15 Jan 2006 (2),Valladolid (20),3-3,1-1,Ferrol (20)
+?,(Sun) 15 Jan 2006 (2),Xerez (20),1-1,0-0,Recreativo (20)
+?,(Sat) 21 Jan 2006 (3),Albacete (21),3-2,2-1,Tenerife (21)
+?,(Sat) 21 Jan 2006 (3),Levante UD (21),2-0,0-0,Lleida (21)
+?,(Sat) 21 Jan 2006 (3),Malaga B (21),0-0,0-0,Xerez (21)
+?,(Sat) 21 Jan 2006 (3),Murcia (21),1-0,1-0,Sporting Gijón (21)
+?,(Sun) 22 Jan 2006 (3),Almeria (21),2-1,1-0,Castellon (21)
+?,(Sun) 22 Jan 2006 (3),Elche (21),0-2,0-2,Valladolid (21)
+?,(Sun) 22 Jan 2006 (3),Ferrol (21),4-0,1-0,SD Eibar (21)
+?,(Sun) 22 Jan 2006 (3),Gimnastic (21),2-0,0-0,Ciudad de Murcia (21)
+?,(Sun) 22 Jan 2006 (3),Poli Ejido (21),2-3,0-2,Lorca (21)
+?,(Sun) 22 Jan 2006 (3),Real Madrid B (21),1-1,1-1,Numancia (21)
+?,(Sun) 22 Jan 2006 (3),Recreativo (21),1-0,1-0,Hercules (21)
+?,(Sat) 28 Jan 2006 (4),Gimnastic (22),0-0,0-0,Tenerife (22)
+?,(Sat) 28 Jan 2006 (4),Malaga B (22),1-1,0-0,Hercules (22)
+?,(Sat) 28 Jan 2006 (4),Poli Ejido (22),0-0,0-0,Levante UD (22)
+?,(Sat) 28 Jan 2006 (4),Real Madrid B (22),4-3,2-0,Xerez (22)
+?,(Sun) 29 Jan 2006 (4),Almeria (22),1-2,0-1,Numancia (22)
+?,(Sun) 29 Jan 2006 (4),Castellon (22),0-3,0-1,Lleida (22)
+?,(Sun) 29 Jan 2006 (4),Elche (22),1-1,0-1,SD Eibar (22)
+?,(Sun) 29 Jan 2006 (4),Ferrol (22),0-3,0-2,Lorca (22)
+?,(Sun) 29 Jan 2006 (4),Murcia (22),2-2,0-1,Valladolid (22)
+?,(Sun) 29 Jan 2006 (4),Recreativo (22),1-0,0-0,Ciudad de Murcia (22)
+?,(Sat) 4 Feb 2006 (5),Hercules (23),0-1,0-0,Real Madrid B (23)
+?,(Sat) 4 Feb 2006 (5),Sporting Gijón (22),0-1,0-0,Gimnastic (23)
+?,(Sat) 4 Feb 2006 (5),Tenerife (23),1-0,1-0,Recreativo (23)
+?,(Sat) 4 Feb 2006 (5),Valladolid (23),0-1,0-1,Albacete (22)
+?,(Sun) 5 Feb 2006 (5),Ciudad de Murcia (23),5-0,3-0,Malaga B (23)
+?,(Sun) 5 Feb 2006 (5),SD Eibar (23),0-0,0-0,Murcia (23)
+?,(Sun) 5 Feb 2006 (5),Levante UD (23),2-1,2-0,Ferrol (23)
+?,(Sun) 5 Feb 2006 (5),Lleida (23),1-0,0-0,Poli Ejido (23)
+?,(Sun) 5 Feb 2006 (5),Lorca (23),2-1,1-0,Elche (23)
+?,(Sun) 5 Feb 2006 (5),Numancia (23),2-1,1-1,Castellon (23)
+?,(Sun) 5 Feb 2006 (5),Xerez (23),0-0,0-0,Almeria (23)
+?,(Sat) 11 Feb 2006 (6),Elche (24),0-1,0-0,Levante UD (24)
+?,(Sat) 11 Feb 2006 (6),Malaga B (24),1-4,1-1,Tenerife (24)
+?,(Sun) 12 Feb 2006 (6),Albacete (23),2-1,2-1,SD Eibar (24)
+?,(Sun) 12 Feb 2006 (6),Almeria (24),1-0,1-0,Hercules (24)
+?,(Sun) 12 Feb 2006 (6),Castellon (24),3-2,2-1,Xerez (24)
+?,(Sun) 12 Feb 2006 (6),Ferrol (24),0-1,0-1,Poli Ejido (24)
+?,(Sun) 12 Feb 2006 (6),Gimnastic (24),3-2,2-0,Valladolid (24)
+?,(Sun) 12 Feb 2006 (6),Murcia (24),0-1,0-0,Lorca (24)
+?,(Sun) 12 Feb 2006 (6),Numancia (24),1-0,1-0,Lleida (24)
+?,(Sun) 12 Feb 2006 (6),Real Madrid B (24),0-1,0-1,Ciudad de Murcia (24)
+?,(Sun) 12 Feb 2006 (6),Recreativo (24),0-0,0-0,Sporting Gijón (23)
+?,(Wed) 15 Feb 2006 (7),Albacete (24),1-0,1-0,Sporting Gijón (24)
+?,(Sat) 18 Feb 2006 (7),Ciudad de Murcia (25),0-0,0-0,Almeria (25)
+?,(Sat) 18 Feb 2006 (7),SD Eibar (25),0-1,0-1,Gimnastic (25)
+?,(Sat) 18 Feb 2006 (7),Hercules (25),1-0,1-0,Castellon (25)
+?,(Sat) 18 Feb 2006 (7),Lorca (25),3-0,0-0,Albacete (25)
+?,(Sat) 18 Feb 2006 (7),Sporting Gijón (25),0-0,0-0,Malaga B (25)
+?,(Sun) 19 Feb 2006 (7),Levante UD (25),1-0,1-0,Murcia (25)
+?,(Sun) 19 Feb 2006 (7),Lleida (25),1-1,1-1,Ferrol (25)
+?,(Sun) 19 Feb 2006 (7),Poli Ejido (25),2-1,0-1,Elche (25)
+?,(Sun) 19 Feb 2006 (7),Tenerife (25),0-1,0-0,Real Madrid B (25)
+?,(Sun) 19 Feb 2006 (7),Valladolid (25),0-1,0-1,Recreativo (25)
+?,(Sun) 19 Feb 2006 (7),Xerez (25),1-1,0-0,Numancia (25)
+?,(Sat) 25 Feb 2006 (8),Albacete (26),1-1,1-1,Levante UD (26)
+?,(Sat) 25 Feb 2006 (8),Almeria (26),2-0,1-0,Tenerife (26)
+?,(Sat) 25 Feb 2006 (8),Malaga B (26),2-1,2-0,Valladolid (26)
+?,(Sat) 25 Feb 2006 (8),Real Madrid B (26),1-1,0-1,Sporting Gijón (26)
+?,(Sat) 25 Feb 2006 (8),Recreativo (26),0-0,0-0,SD Eibar (26)
+?,(Sun) 26 Feb 2006 (8),Castellon (26),1-2,1-0,Ciudad de Murcia (26)
+?,(Sun) 26 Feb 2006 (8),Elche (26),1-0,0-0,Ferrol (26)
+?,(Sun) 26 Feb 2006 (8),Gimnastic (26),2-0,1-0,Lorca (26)
+?,(Sun) 26 Feb 2006 (8),Murcia (26),0-0,0-0,Poli Ejido (26)
+?,(Sun) 26 Feb 2006 (8),Xerez (26),0-1,0-0,Lleida (26)
+?,(Sat) 4 Mar 2006 (9),Ferrol (27),2-2,2-1,Murcia (27)
+?,(Sat) 4 Mar 2006 (9),Lleida (27),0-0,0-0,Elche (27)
+?,(Sat) 4 Mar 2006 (9),Sporting Gijón (27),1-0,1-0,Almeria (27)
+?,(Sat) 4 Mar 2006 (9),Tenerife (27),1-1,1-0,Castellon (27)
+?,(Sun) 5 Mar 2006 (9),Ciudad de Murcia (27),0-1,0-1,Numancia (26)
+?,(Sun) 5 Mar 2006 (9),SD Eibar (27),1-1,1-0,Malaga B (27)
+?,(Sun) 5 Mar 2006 (9),Levante UD (27),1-1,1-0,Gimnastic (27)
+?,(Sun) 5 Mar 2006 (9),Lorca (27),2-1,2-1,Recreativo (27)
+?,(Sun) 5 Mar 2006 (9),Poli Ejido (27),2-0,1-0,Albacete (27)
+?,(Sun) 5 Mar 2006 (9),Valladolid (27),1-0,0-0,Real Madrid B (27)
+?,(Sat) 11 Mar 2006 (10),Almeria (28),2-1,0-0,Valladolid (28)
+?,(Sat) 11 Mar 2006 (10),Castellon (28),1-0,1-0,Sporting Gijón (28)
+?,(Sat) 11 Mar 2006 (10),Hercules (26),2-1,2-1,Lleida (28)
+?,(Sat) 11 Mar 2006 (10),Malaga B (28),2-1,1-1,Lorca (28)
+?,(Sat) 11 Mar 2006 (10),Numancia (27),2-0,0-0,Tenerife (28)
+?,(Sat) 11 Mar 2006 (10),Real Madrid B (28),1-0,1-0,SD Eibar (28)
+?,(Sun) 12 Mar 2006 (10),Albacete (28),1-2,0-1,Ferrol (28)
+?,(Sun) 12 Mar 2006 (10),Gimnastic (28),2-0,1-0,Poli Ejido (28)
+?,(Sun) 12 Mar 2006 (10),Murcia (28),1-0,0-0,Elche (28)
+?,(Sun) 12 Mar 2006 (10),Recreativo (28),4-1,2-1,Levante UD (28)
+?,(Sun) 12 Mar 2006 (10),Xerez (27),0-0,0-0,Ciudad de Murcia (28)
+?,(Sat) 18 Mar 2006 (11),Ciudad de Murcia (29),1-0,0-0,Hercules (27)
+?,(Sat) 18 Mar 2006 (11),Elche (29),4-3,2-1,Albacete (29)
+?,(Sat) 18 Mar 2006 (11),Lleida (29),1-1,0-0,Murcia (29)
+?,(Sat) 18 Mar 2006 (11),Poli Ejido (29),0-0,0-0,Recreativo (29)
+?,(Sat) 18 Mar 2006 (11),Tenerife (29),3-1,2-1,Xerez (28)
+?,(Sun) 19 Mar 2006 (11),SD Eibar (29),0-1,0-1,Almeria (29)
+?,(Sun) 19 Mar 2006 (11),Ferrol (29),1-1,0-0,Gimnastic (29)
+?,(Sun) 19 Mar 2006 (11),Levante UD (29),2-1,2-1,Malaga B (29)
+?,(Sun) 19 Mar 2006 (11),Lorca (29),2-1,2-1,Real Madrid B (29)
+?,(Sun) 19 Mar 2006 (11),Sporting Gijón (29),1-0,1-0,Numancia (28)
+?,(Sun) 19 Mar 2006 (11),Valladolid (29),1-0,0-0,Castellon (29)
+?,(Wed) 22 Mar 2006 (12),Numancia (29),1-0,0-0,Hercules (28)
+?,(Sat) 25 Mar 2006 (12),Albacete (30),0-0,0-0,Murcia (30)
+?,(Sat) 25 Mar 2006 (12),Almeria (30),1-0,1-0,Lorca (30)
+?,(Sat) 25 Mar 2006 (12),Gimnastic (30),1-0,0-0,Elche (30)
+?,(Sat) 25 Mar 2006 (12),Hercules (29),1-0,1-0,Tenerife (30)
+?,(Sun) 26 Mar 2006 (12),Castellon (30),2-0,1-0,SD Eibar (30)
+?,(Sun) 26 Mar 2006 (12),Ciudad de Murcia (30),3-1,1-1,Lleida (30)
+?,(Sun) 26 Mar 2006 (12),Malaga B (30),0-1,0-1,Poli Ejido (30)
+?,(Sun) 26 Mar 2006 (12),Numancia (30),3-2,2-0,Valladolid (30)
+?,(Sun) 26 Mar 2006 (12),Real Madrid B (30),0-0,0-0,Levante UD (30)
+?,(Sun) 26 Mar 2006 (12),Recreativo (30),3-0,0-0,Ferrol (30)
+?,(Sun) 26 Mar 2006 (12),Xerez (29),0-0,0-0,Sporting Gijón (30)
+?,(Sat) 1 Apr 2006 (13),SD Eibar (31),1-2,0-0,Numancia (31)
+?,(Sat) 1 Apr 2006 (13),Poli Ejido (31),0-3,0-2,Real Madrid B (31)
+?,(Sat) 1 Apr 2006 (13),Sporting Gijón (31),1-1,0-1,Hercules (30)
+?,(Sat) 1 Apr 2006 (13),Tenerife (31),0-1,0-0,Ciudad de Murcia (31)
+?,(Sun) 2 Apr 2006 (13),Elche (31),1-1,1-1,Recreativo (31)
+?,(Sun) 2 Apr 2006 (13),Ferrol (31),2-1,2-0,Malaga B (31)
+?,(Sun) 2 Apr 2006 (13),Levante UD (31),2-4,1-1,Almeria (31)
+?,(Sun) 2 Apr 2006 (13),Lleida (31),3-0,1-0,Albacete (31)
+?,(Sun) 2 Apr 2006 (13),Lorca (31),3-2,1-1,Castellon (31)
+?,(Sun) 2 Apr 2006 (13),Murcia (31),0-1,0-0,Gimnastic (31)
+?,(Sun) 2 Apr 2006 (13),Valladolid (31),3-1,3-0,Xerez (30)
+?,(Wed) 5 Apr 2006 (14),Hercules (31),0-3,0-1,Xerez (31)
+?,(Sat) 8 Apr 2006 (14),Castellon (32),0-0,0-0,Levante UD (32)
+?,(Sat) 8 Apr 2006 (14),Ciudad de Murcia (32),1-0,0-0,Sporting Gijón (32)
+?,(Sat) 8 Apr 2006 (14),Real Madrid B (32),1-0,0-0,Ferrol (32)
+?,(Sat) 8 Apr 2006 (14),Xerez (32),2-1,2-0,SD Eibar (32)
+?,(Sun) 9 Apr 2006 (14),Almeria (32),1-2,1-0,Poli Ejido (32)
+?,(Sun) 9 Apr 2006 (14),Gimnastic (32),4-1,2-1,Albacete (32)
+?,(Sun) 9 Apr 2006 (14),Hercules (32),2-0,1-0,Valladolid (32)
+?,(Sun) 9 Apr 2006 (14),Malaga B (32),1-3,0-0,Elche (32)
+?,(Sun) 9 Apr 2006 (14),Numancia (32),1-0,0-0,Lorca (32)
+?,(Sun) 9 Apr 2006 (14),Recreativo (32),1-0,1-0,Murcia (32)
+?,(Sun) 9 Apr 2006 (14),Tenerife (32),2-2,1-1,Lleida (32)
+?,(Sat) 15 Apr 2006 (15),Albacete (33),1-0,1-0,Recreativo (33)
+?,(Sat) 15 Apr 2006 (15),Elche (33),2-1,0-1,Real Madrid B (33)
+?,(Sat) 15 Apr 2006 (15),Lleida (33),1-2,0-1,Gimnastic (33)
+?,(Sat) 15 Apr 2006 (15),Sporting Gijón (33),2-2,1-2,Tenerife (33)
+?,(Sun) 16 Apr 2006 (15),SD Eibar (33),0-1,0-1,Hercules (33)
+?,(Sun) 16 Apr 2006 (15),Ferrol (33),1-1,1-0,Almeria (33)
+?,(Sun) 16 Apr 2006 (15),Levante UD (33),1-0,0-0,Numancia (33)
+?,(Sun) 16 Apr 2006 (15),Lorca (33),1-1,0-1,Xerez (33)
+?,(Sun) 16 Apr 2006 (15),Murcia (33),4-1,3-0,Malaga B (33)
+?,(Sun) 16 Apr 2006 (15),Poli Ejido (33),0-2,0-1,Castellon (33)
+?,(Sun) 16 Apr 2006 (15),Valladolid (33),0-2,0-0,Ciudad de Murcia (33)
+?,(Sat) 22 Apr 2006 (16),Ciudad de Murcia (34),0-2,0-1,SD Eibar (34)
+?,(Sat) 22 Apr 2006 (16),Malaga B (34),1-1,0-1,Albacete (34)
+?,(Sat) 22 Apr 2006 (16),Real Madrid B (34),1-0,0-0,Murcia (34)
+?,(Sat) 22 Apr 2006 (16),Xerez (34),0-1,0-0,Levante UD (34)
+?,(Sun) 23 Apr 2006 (16),Almeria (34),2-0,1-0,Elche (34)
+?,(Sun) 23 Apr 2006 (16),Castellon (34),1-0,1-0,Ferrol (34)
+?,(Sun) 23 Apr 2006 (16),Hercules (34),0-2,0-0,Lorca (34)
+?,(Sun) 23 Apr 2006 (16),Numancia (34),1-2,0-2,Poli Ejido (34)
+?,(Sun) 23 Apr 2006 (16),Recreativo (34),3-0,2-0,Gimnastic (34)
+?,(Sun) 23 Apr 2006 (16),Sporting Gijón (34),2-0,1-0,Lleida (34)
+?,(Sun) 23 Apr 2006 (16),Tenerife (34),2-1,1-0,Valladolid (34)
+?,(Sat) 29 Apr 2006 (17),SD Eibar (35),0-1,0-0,Tenerife (35)
+?,(Sat) 29 Apr 2006 (17),Levante UD (35),2-0,0-0,Hercules (35)
+?,(Sat) 29 Apr 2006 (17),Murcia (35),1-0,1-0,Almeria (35)
+?,(Sat) 29 Apr 2006 (17),Valladolid (35),1-3,1-2,Sporting Gijón (35)
+?,(Sun) 30 Apr 2006 (17),Albacete (35),1-0,0-0,Real Madrid B (35)
+?,(Sun) 30 Apr 2006 (17),Elche (35),1-2,1-0,Castellon (35)
+?,(Sun) 30 Apr 2006 (17),Ferrol (35),1-3,1-3,Numancia (35)
+?,(Sun) 30 Apr 2006 (17),Gimnastic (35),3-2,1-0,Malaga B (35)
+?,(Sun) 30 Apr 2006 (17),Lleida (35),0-4,0-2,Recreativo (35)
+?,(Sun) 30 Apr 2006 (17),Lorca (35),2-2,1-2,Ciudad de Murcia (35)
+?,(Sun) 30 Apr 2006 (17),Poli Ejido (35),4-1,0-0,Xerez (35)
+?,(Sat) 6 May 2006 (18),Almeria (36),1-2,0-2,Albacete (36)
+?,(Sat) 6 May 2006 (18),Castellon (36),2-1,2-0,Murcia (36)
+?,(Sat) 6 May 2006 (18),Numancia (36),3-1,2-0,Elche (36)
+?,(Sat) 6 May 2006 (18),Sporting Gijón (36),1-1,0-0,SD Eibar (36)
+?,(Sat) 6 May 2006 (18),Tenerife (36),2-3,0-0,Lorca (36)
+?,(Sun) 7 May 2006 (18),Ciudad de Murcia (36),2-1,2-1,Levante UD (36)
+?,(Sun) 7 May 2006 (18),Hercules (36),1-0,0-0,Poli Ejido (36)
+?,(Sun) 7 May 2006 (18),Malaga B (36),0-2,0-2,Recreativo (36)
+?,(Sun) 7 May 2006 (18),Real Madrid B (36),1-0,1-0,Gimnastic (36)
+?,(Sun) 7 May 2006 (18),Valladolid (36),3-2,0-1,Lleida (36)
+?,(Sun) 7 May 2006 (18),Xerez (36),2-0,1-0,Ferrol (36)
+?,(Sat) 13 May 2006 (19),Ferrol (37),1-1,1-1,Hercules (37)
+?,(Sat) 13 May 2006 (19),Levante UD (37),1-0,0-0,Tenerife (37)
+?,(Sat) 13 May 2006 (19),Lorca (37),1-0,1-0,Sporting Gijón (37)
+?,(Sat) 13 May 2006 (19),Recreativo (37),4-1,3-0,Real Madrid B (37)
+?,(Sun) 14 May 2006 (19),Albacete (37),1-1,1-0,Castellon (37)
+?,(Sun) 14 May 2006 (19),SD Eibar (37),0-1,0-1,Valladolid (37)
+?,(Sun) 14 May 2006 (19),Elche (37),1-0,0-0,Xerez (37)
+?,(Sun) 14 May 2006 (19),Gimnastic (37),1-0,1-0,Almeria (37)
+?,(Sun) 14 May 2006 (19),Lleida (37),0-0,0-0,Malaga B (37)
+?,(Sun) 14 May 2006 (19),Murcia (37),3-1,2-1,Numancia (37)
+?,(Sun) 14 May 2006 (19),Poli Ejido (37),2-3,1-1,Ciudad de Murcia (37)
+?,(Sat) 20 May 2006 (20),Ciudad de Murcia (38),2-1,2-0,Ferrol (38)
+?,(Sat) 20 May 2006 (20),SD Eibar (38),1-1,1-0,Lleida (38)
+?,(Sat) 20 May 2006 (20),Hercules (38),0-0,0-0,Elche (38)
+?,(Sat) 20 May 2006 (20),Numancia (38),1-0,0-0,Albacete (38)
+?,(Sat) 20 May 2006 (20),Tenerife (38),2-1,1-0,Poli Ejido (38)
+?,(Sun) 21 May 2006 (20),Almeria (38),2-1,1-0,Recreativo (38)
+?,(Sun) 21 May 2006 (20),Castellon (38),0-2,0-2,Gimnastic (38)
+?,(Sun) 21 May 2006 (20),Real Madrid B (38),4-1,2-0,Malaga B (38)
+?,(Sun) 21 May 2006 (20),Sporting Gijón (38),0-2,0-1,Levante UD (38)
+?,(Sun) 21 May 2006 (20),Valladolid (38),1-1,0-0,Lorca (38)
+?,(Sun) 21 May 2006 (20),Xerez (38),2-0,1-0,Murcia (38)
+?,(Sat) 27 May 2006 (21),Ferrol (39),2-3,0-2,Tenerife (39)
+?,(Sat) 27 May 2006 (21),Levante UD (39),2-1,0-0,Valladolid (39)
+?,(Sat) 27 May 2006 (21),Lorca (39),1-0,0-0,SD Eibar (39)
+?,(Sat) 27 May 2006 (21),Malaga B (39),3-1,2-1,Almeria (39)
+?,(Sat) 27 May 2006 (21),Murcia (39),3-1,2-0,Hercules (39)
+?,(Sun) 28 May 2006 (21),Albacete (39),2-0,1-0,Xerez (39)
+?,(Sun) 28 May 2006 (21),Elche (39),0-0,0-0,Ciudad de Murcia (39)
+?,(Sun) 28 May 2006 (21),Gimnastic (39),1-0,0-0,Numancia (39)
+?,(Sun) 28 May 2006 (21),Lleida (39),2-1,2-1,Real Madrid B (39)
+?,(Sun) 28 May 2006 (21),Poli Ejido (39),1-0,0-0,Sporting Gijón (39)
+?,(Sun) 28 May 2006 (21),Recreativo (39),2-2,2-2,Castellon (39)
+?,(Sun) 4 Jun 2006 (22),Almeria (40),3-2,0-2,Real Madrid B (40)
+?,(Sun) 4 Jun 2006 (22),Castellon (40),2-2,1-1,Malaga B (40)
+?,(Sat) 3 Jun 2006 (22),Ciudad de Murcia (40),1-0,0-0,Murcia (40)
+?,(Sun) 4 Jun 2006 (22),SD Eibar (40),1-1,0-0,Levante UD (40)
+?,(Sun) 4 Jun 2006 (22),Hercules (40),2-1,2-0,Albacete (40)
+?,(Sun) 4 Jun 2006 (22),Lorca (40),1-2,1-0,Lleida (40)
+?,(Sun) 4 Jun 2006 (22),Numancia (40),0-3,0-1,Recreativo (40)
+?,(Sat) 3 Jun 2006 (22),Sporting Gijón (40),3-1,0-1,Ferrol (40)
+?,(Sat) 3 Jun 2006 (22),Tenerife (40),0-0,0-0,Elche (40)
+?,(Sun) 4 Jun 2006 (22),Valladolid (40),0-1,0-1,Poli Ejido (40)
+?,(Sat) 3 Jun 2006 (22),Xerez (40),0-0,0-0,Gimnastic (40)
+?,(Sat) 10 Jun 2006 (23),Elche (41),0-0,0-0,Sporting Gijón (41)
+?,(Sat) 10 Jun 2006 (23),Ferrol (41),0-1,0-1,Valladolid (41)
+?,(Sat) 10 Jun 2006 (23),Malaga B (41),5-4,2-0,Numancia (41)
+?,(Sat) 10 Jun 2006 (23),Murcia (41),2-2,1-0,Tenerife (41)
+?,(Sat) 10 Jun 2006 (23),Real Madrid B (41),1-2,1-1,Castellon (41)
+?,(Sat) 10 Jun 2006 (23),Recreativo (41),1-2,0-1,Xerez (41)
+?,(Sun) 11 Jun 2006 (23),Albacete (41),2-2,0-1,Ciudad de Murcia (41)
+?,(Sun) 11 Jun 2006 (23),Almeria (41),3-1,1-0,Lleida (41)
+?,(Sun) 11 Jun 2006 (23),Gimnastic (41),1-1,0-0,Hercules (41)
+?,(Sun) 11 Jun 2006 (23),Levante UD (41),0-0,0-0,Lorca (41)
+?,(Sun) 11 Jun 2006 (23),Poli Ejido (41),0-1,0-0,SD Eibar (41)
+?,(Sat) 17 Jun 2006 (24),Castellon (42),2-0,0-0,Almeria (42)
+?,(Sat) 17 Jun 2006 (24),Ciudad de Murcia (42),2-0,0-0,Gimnastic (42)
+?,(Sat) 17 Jun 2006 (24),SD Eibar (42),1-1,0-1,Ferrol (42)
+?,(Sat) 17 Jun 2006 (24),Lleida (42),0-1,0-1,Levante UD (42)
+?,(Sat) 17 Jun 2006 (24),Lorca (42),0-0,0-0,Poli Ejido (42)
+?,(Sat) 17 Jun 2006 (24),Numancia (42),3-2,2-0,Real Madrid B (42)
+?,(Sat) 17 Jun 2006 (24),Sporting Gijón (42),1-0,0-0,Murcia (42)
+?,(Sat) 17 Jun 2006 (24),Tenerife (42),1-1,0-0,Albacete (42)
+?,(Sat) 17 Jun 2006 (24),Valladolid (42),2-2,0-2,Elche (42)
+?,(Sat) 17 Jun 2006 (24),Xerez (42),4-2,4-1,Malaga B (42)
+?,(Sun) 18 Jun 2006 (24),Hercules (42),0-2,0-2,Recreativo (42)

@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2010-08-27,Valladolid,Villarreal B,3-0,1-0
-2010-08-28,Celta,Barcelona B,1-2,0-2
-2010-08-28,Elche,Recreativo,1-0,1-0
-2010-08-28,Girona,Tenerife,4-2,2-1
-2010-08-28,Las Palmas,Gimnastic,3-2,2-2
-2010-08-28,Ponferradina,Huesca,0-0,0-0
-2010-08-28,Xerez,Cartagena,1-4,1-1
-2010-08-29,Albacete,Alcorcon,1-1,0-1
-2010-08-29,Betis,Granada,4-1,2-1
-2010-08-29,Salamanca,Cordoba,1-1,1-1
-2010-08-29,Vallecano,Numancia,3-2,2-1
-2010-09-04,Cartagena,Elche,0-1,0-0
-2010-09-04,Cordoba,Vallecano,2-3,2-0
-2010-09-04,Gimnastic,Girona,2-0,0-0
-2010-09-04,Huesca,Las Palmas,0-0,0-0
-2010-09-04,Recreativo,Betis,1-3,0-1
-2010-09-04,Villarreal B,Albacete,1-0,0-0
-2010-09-05,Alcorcon,Ponferradina,2-0,2-0
-2010-09-05,Barcelona B,Xerez,2-1,1-1
-2010-09-05,Granada,Valladolid,0-1,0-1
-2010-09-05,Numancia,Celta,1-3,0-3
-2010-09-05,Tenerife,Salamanca,1-2,1-0
-2010-09-10,Salamanca,Gimnastic,1-0,1-0
-2010-09-11,Albacete,Granada,2-1,2-0
-2010-09-11,Cartagena,Barcelona B,5-1,2-0
-2010-09-11,Celta,Cordoba,3-2,1-0
-2010-09-11,Elche,Betis,0-2,0-0
-2010-09-11,Las Palmas,Alcorcon,4-1,1-0
-2010-09-11,Ponferradina,Villarreal B,1-5,0-2
-2010-09-11,Vallecano,Tenerife,1-0,0-0
-2010-09-12,Girona,Huesca,3-1,2-0
-2010-09-12,Valladolid,Recreativo,4-0,2-0
-2010-09-12,Xerez,Numancia,1-0,1-0
-2010-09-17,Villarreal B,Las Palmas,0-3,0-1
-2010-09-18,Alcorcon,Girona,3-1,1-1
-2010-09-18,Barcelona B,Elche,2-0,1-0
-2010-09-18,Cordoba,Xerez,0-2,0-1
-2010-09-18,Huesca,Salamanca,0-1,0-0
-2010-09-18,Numancia,Cartagena,2-0,0-0
-2010-09-18,Tenerife,Celta,0-2,0-2
-2010-09-19,Betis,Valladolid,2-1,0-1
-2010-09-19,Gimnastic,Vallecano,0-1,0-1
-2010-09-19,Granada,Ponferradina,2-0,1-0
-2010-09-19,Recreativo,Albacete,0-0,0-0
-2010-09-24,Xerez,Tenerife,2-0,2-0
-2010-09-25,Albacete,Betis,2-1,1-1
-2010-09-25,Cartagena,Cordoba,1-2,1-1
-2010-09-25,Girona,Villarreal B,2-3,2-1
-2010-09-25,Las Palmas,Granada,1-1,0-0
-2010-09-25,Vallecano,Huesca,4-0,1-0
-2010-09-26,Barcelona B,Numancia,1-0,1-0
-2010-09-26,Celta,Gimnastic,1-0,1-0
-2010-09-26,Elche,Valladolid,2-2,0-1
-2010-09-26,Ponferradina,Recreativo,1-1,1-0
-2010-09-26,Salamanca,Alcorcon,1-1,1-0
-2010-10-01,Villarreal B,Salamanca,0-1,0-0
-2010-10-02,Betis,Ponferradina,3-0,2-0
-2010-10-02,Gimnastic,Xerez,0-2,0-1
-2010-10-02,Huesca,Celta,1-2,0-0
-2010-10-02,Recreativo,Las Palmas,1-1,0-1
-2010-10-03,Alcorcon,Vallecano,2-0,0-0
-2010-10-03,Cordoba,Barcelona B,2-0,1-0
-2010-10-03,Granada,Girona,2-1,2-1
-2010-10-03,Numancia,Elche,2-0,1-0
-2010-10-03,Tenerife,Cartagena,1-1,0-0
-2010-10-04,Valladolid,Albacete,1-1,0-0
-2010-10-09,Cartagena,Gimnastic,2-2,1-0
-2010-10-09,Celta,Alcorcon,3-0,1-0
-2010-10-09,Elche,Albacete,1-0,0-0
-2010-10-09,Las Palmas,Betis,2-2,1-0
-2010-10-09,Vallecano,Villarreal B,3-0,0-0
-2010-10-10,Barcelona B,Tenerife,3-1,2-0
-2010-10-10,Girona,Recreativo,0-0,0-0
-2010-10-10,Numancia,Cordoba,1-1,1-0
-2010-10-10,Ponferradina,Valladolid,1-1,0-0
-2010-10-10,Salamanca,Granada,1-2,1-1
-2010-10-10,Xerez,Huesca,1-3,0-2
-2010-10-15,Recreativo,Salamanca,0-2,0-0
-2010-10-16,Albacete,Ponferradina,0-1,0-0
-2010-10-16,Alcorcon,Xerez,3-1,3-0
-2010-10-16,Betis,Girona,2-1,0-1
-2010-10-16,Gimnastic,Barcelona B,1-1,1-1
-2010-10-16,Huesca,Cartagena,0-0,0-0
-2010-10-16,Villarreal B,Celta,2-2,1-0
-2010-10-17,Cordoba,Elche,0-0,0-0
-2010-10-17,Granada,Vallecano,1-1,1-1
-2010-10-17,Tenerife,Numancia,1-1,0-1
-2010-10-17,Valladolid,Las Palmas,3-0,2-0
-2010-10-22,Xerez,Villarreal B,3-1,1-1
-2010-10-23,Barcelona B,Huesca,0-1,0-0
-2010-10-23,Cartagena,Alcorcon,1-0,1-0
-2010-10-23,Celta,Granada,1-1,0-0
-2010-10-23,Cordoba,Tenerife,2-2,0-0
-2010-10-23,Elche,Ponferradina,2-0,0-0
-2010-10-23,Girona,Valladolid,2-0,0-0
-2010-10-23,Las Palmas,Albacete,2-1,1-0
-2010-10-23,Vallecano,Recreativo,0-0,0-0
-2010-10-24,Numancia,Gimnastic,1-0,0-0
-2010-10-24,Salamanca,Betis,0-3,0-2
-2010-10-29,Recreativo,Celta,1-1,1-0
-2010-10-30,Albacete,Girona,1-1,0-0
-2010-10-30,Granada,Xerez,5-0,3-0
-2010-10-30,Huesca,Numancia,0-0,0-0
-2010-10-30,Ponferradina,Las Palmas,3-2,1-1
-2010-10-30,Valladolid,Salamanca,1-0,0-0
-2010-10-30,Villarreal B,Cartagena,2-0,1-0
-2010-10-31,Alcorcon,Barcelona B,1-3,1-1
-2010-10-31,Betis,Vallecano,4-0,1-0
-2010-10-31,Gimnastic,Cordoba,1-1,0-0
-2010-10-31,Tenerife,Elche,1-0,0-0
-2010-11-05,Elche,Las Palmas,2-2,0-1
-2010-11-06,Barcelona B,Villarreal B,4-1,2-1
-2010-11-06,Cartagena,Granada,2-1,2-1
-2010-11-06,Cordoba,Huesca,2-0,2-0
-2010-11-06,Girona,Ponferradina,3-0,3-0
-2010-11-06,Numancia,Alcorcon,2-1,1-0
-2010-11-06,Salamanca,Albacete,1-0,1-0
-2010-11-06,Vallecano,Valladolid,3-0,1-0
-2010-11-06,Xerez,Recreativo,1-1,1-1
-2010-11-07,Celta,Betis,1-1,1-0
-2010-11-07,Tenerife,Gimnastic,0-2,0-0
-2010-11-12,Villarreal B,Numancia,1-0,1-0
-2010-11-13,Albacete,Vallecano,1-1,1-0
-2010-11-13,Betis,Xerez,3-1,1-0
-2010-11-13,Gimnastic,Elche,0-0,0-0
-2010-11-13,Granada,Barcelona B,4-1,1-1
-2010-11-13,Huesca,Tenerife,0-0,0-0
-2010-11-13,Las Palmas,Girona,1-1,1-0
-2010-11-14,Ponferradina,Salamanca,3-2,2-0
-2010-11-14,Recreativo,Cartagena,3-0,0-0
-2010-11-14,Valladolid,Celta,3-2,1-2
-2010-11-15,Alcorcon,Cordoba,2-1,2-1
-2010-11-19,Barcelona B,Recreativo,1-1,1-0
-2010-11-20,Cartagena,Betis,2-1,0-0
-2010-11-20,Elche,Girona,0-0,0-0
-2010-11-20,Gimnastic,Huesca,0-0,0-0
-2010-11-20,Salamanca,Las Palmas,4-2,1-1
-2010-11-20,Vallecano,Ponferradina,3-1,2-0
-2010-11-21,Celta,Albacete,3-1,1-1
-2010-11-21,Cordoba,Villarreal B,0-0,0-0
-2010-11-21,Numancia,Granada,3-2,2-0
-2010-11-21,Tenerife,Alcorcon,1-0,0-0
-2010-11-21,Xerez,Valladolid,4-0,0-0
-2010-11-26,Ponferradina,Celta,0-0,0-0
-2010-11-27,Albacete,Xerez,1-1,0-0
-2010-11-27,Huesca,Elche,2-2,1-2
-2010-11-27,Las Palmas,Vallecano,2-1,0-1
-2010-11-28,Alcorcon,Gimnastic,1-1,1-0
-2010-11-28,Girona,Salamanca,1-1,0-1
-2010-11-28,Granada,Cordoba,1-1,0-1
-2010-11-28,Recreativo,Numancia,1-0,0-0
-2010-11-28,Valladolid,Cartagena,0-1,0-0
-2010-11-28,Villarreal B,Tenerife,0-2,0-1
-2010-12-03,Xerez,Ponferradina,0-0,0-0
-2010-12-04,Barcelona B,Valladolid,0-0,0-0
-2010-12-04,Cartagena,Albacete,1-1,1-1
-2010-12-04,Cordoba,Recreativo,3-3,2-1
-2010-12-04,Gimnastic,Villarreal B,1-2,0-0
-2010-12-04,Huesca,Alcorcon,3-1,3-1
-2010-12-04,Numancia,Betis,1-2,1-2
-2010-12-05,Celta,Las Palmas,2-0,1-0
-2010-12-05,Elche,Salamanca,3-1,1-1
-2010-12-05,Vallecano,Girona,2-0,0-0
-2010-12-08,Betis,Barcelona B,2-2,1-0
-2010-12-10,Ponferradina,Cartagena,1-2,0-1
-2010-12-11,Alcorcon,Elche,0-1,0-0
-2010-12-11,Betis,Cordoba,3-1,2-0
-2010-12-11,Girona,Celta,1-1,0-1
-2010-12-11,Las Palmas,Xerez,0-3,0-0
-2010-12-11,Valladolid,Numancia,4-5,3-2
-2010-12-11,Villarreal B,Huesca,1-1,0-0
-2010-12-12,Albacete,Barcelona B,2-2,1-0
-2010-12-12,Granada,Gimnastic,6-1,3-0
-2010-12-12,Recreativo,Tenerife,3-0,1-0
-2010-12-12,Salamanca,Vallecano,0-1,0-1
-2010-12-17,Xerez,Girona,3-1,0-1
-2010-12-18,Alcorcon,Villarreal B,1-2,1-1
-2010-12-18,Celta,Salamanca,1-0,1-0
-2010-12-18,Cordoba,Valladolid,1-0,0-0
-2010-12-18,Elche,Vallecano,1-1,0-1
-2010-12-18,Gimnastic,Recreativo,0-0,0-0
-2010-12-18,Huesca,Granada,0-0,0-0
-2010-12-18,Numancia,Albacete,0-1,0-0
-2010-12-18,Tenerife,Betis,0-3,0-3
-2010-12-19,Barcelona B,Ponferradina,1-1,0-0
-2010-12-19,Cartagena,Las Palmas,5-2,3-1
-2011-01-02,Albacete,Cordoba,1-0,0-0
-2011-01-02,Betis,Gimnastic,1-0,1-0
-2011-01-02,Girona,Cartagena,1-1,0-0
-2011-01-02,Granada,Alcorcon,1-0,0-0
-2011-01-02,Las Palmas,Barcelona B,2-2,1-0
-2011-01-02,Ponferradina,Numancia,0-4,0-3
-2011-01-02,Recreativo,Huesca,0-1,0-0
-2011-01-02,Valladolid,Tenerife,2-2,2-1
-2011-01-02,Vallecano,Celta,1-3,1-0
-2011-01-02,Villarreal B,Elche,1-1,1-1
-2011-01-03,Salamanca,Xerez,2-3,0-1
-2011-01-07,Villarreal B,Granada,2-1,1-0
-2011-01-08,Alcorcon,Recreativo,2-1,1-1
-2011-01-08,Barcelona B,Girona,1-2,0-0
-2011-01-08,Cartagena,Salamanca,1-0,1-0
-2011-01-08,Cordoba,Ponferradina,3-3,2-2
-2011-01-08,Elche,Celta,1-3,0-1
-2011-01-08,Gimnastic,Valladolid,1-0,0-0
-2011-01-08,Numancia,Las Palmas,4-0,1-0
-2011-01-09,Huesca,Betis,1-1,0-0
-2011-01-09,Tenerife,Albacete,0-1,0-1
-2011-01-09,Xerez,Vallecano,0-1,0-0
-2011-01-14,Girona,Numancia,2-0,1-0
-2011-01-15,Albacete,Gimnastic,0-1,0-0
-2011-01-15,Betis,Alcorcon,3-0,1-0
-2011-01-15,Celta,Xerez,1-1,1-0
-2011-01-15,Las Palmas,Cordoba,0-1,0-1
-2011-01-15,Valladolid,Huesca,2-0,1-0
-2011-01-15,Vallecano,Cartagena,3-1,2-1
-2011-01-16,Elche,Granada,0-0,0-0
-2011-01-16,Ponferradina,Tenerife,1-1,0-1
-2011-01-16,Recreativo,Villarreal B,2-0,1-0
-2011-01-16,Salamanca,Barcelona B,2-3,1-1
-2011-01-21,Xerez,Elche,0-0,0-0
-2011-01-22,Alcorcon,Valladolid,1-0,0-0
-2011-01-22,Barcelona B,Vallecano,1-2,1-1
-2011-01-22,Cartagena,Celta,0-4,0-2
-2011-01-22,Granada,Recreativo,2-1,0-1
-2011-01-22,Huesca,Albacete,1-0,1-0
-2011-01-22,Villarreal B,Betis,1-0,1-0
-2011-01-23,Cordoba,Girona,1-1,0-0
-2011-01-23,Gimnastic,Ponferradina,0-0,0-0
-2011-01-23,Numancia,Salamanca,3-2,1-0
-2011-01-23,Tenerife,Las Palmas,1-1,0-0
-2011-01-26,Tenerife,Granada,2-2,2-1
-2011-01-28,Alcorcon,Albacete,2-0,0-0
-2011-01-29,Barcelona B,Celta,1-1,1-0
-2011-01-29,Cartagena,Xerez,1-2,1-1
-2011-01-29,Cordoba,Salamanca,2-0,0-0
-2011-01-29,Gimnastic,Las Palmas,0-0,0-0
-2011-01-29,Huesca,Ponferradina,1-0,0-0
-2011-01-29,Numancia,Vallecano,0-3,0-2
-2011-01-29,Recreativo,Elche,0-0,0-0
-2011-01-29,Villarreal B,Valladolid,2-0,1-0
-2011-01-30,Granada,Betis,3-0,0-0
-2011-01-30,Tenerife,Girona,3-3,1-2
-2011-02-04,Xerez,Barcelona B,1-0,1-0
-2011-02-05,Albacete,Villarreal B,0-2,0-0
-2011-02-05,Elche,Cartagena,1-2,1-1
-2011-02-05,Girona,Gimnastic,2-1,1-1
-2011-02-05,Las Palmas,Huesca,1-1,1-0
-2011-02-05,Salamanca,Tenerife,1-2,1-1
-2011-02-05,Valladolid,Granada,2-3,1-2
-2011-02-05,Vallecano,Cordoba,4-2,1-2
-2011-02-06,Betis,Recreativo,0-1,0-0
-2011-02-06,Ponferradina,Alcorcon,1-2,0-2
-2011-02-07,Celta,Numancia,4-0,1-0
-2011-02-11,Granada,Albacete,3-0,0-0
-2011-02-12,Alcorcon,Las Palmas,5-0,0-0
-2011-02-12,Barcelona B,Cartagena,3-0,1-0
-2011-02-12,Betis,Elche,1-4,0-2
-2011-02-12,Huesca,Girona,0-1,0-0
-2011-02-12,Numancia,Xerez,3-0,1-0
-2011-02-12,Recreativo,Valladolid,0-1,0-0
-2011-02-12,Villarreal B,Ponferradina,1-0,0-0
-2011-02-13,Cordoba,Celta,0-0,0-0
-2011-02-13,Gimnastic,Salamanca,2-0,1-0
-2011-02-13,Tenerife,Vallecano,2-1,0-0
-2011-02-18,Girona,Alcorcon,3-1,2-0
-2011-02-19,Albacete,Recreativo,1-1,0-0
-2011-02-19,Cartagena,Numancia,1-0,0-0
-2011-02-19,Celta,Tenerife,1-0,0-0
-2011-02-19,Elche,Barcelona B,2-1,1-1
-2011-02-19,Las Palmas,Villarreal B,2-2,2-1
-2011-02-19,Salamanca,Huesca,1-1,0-1
-2011-02-19,Vallecano,Gimnastic,1-1,0-1
-2011-02-19,Xerez,Cordoba,1-3,1-2
-2011-02-20,Ponferradina,Granada,0-0,0-0
-2011-02-20,Valladolid,Betis,1-0,1-0
-2011-02-25,Tenerife,Xerez,2-1,1-0
-2011-02-26,Alcorcon,Salamanca,4-0,1-0
-2011-02-26,Cordoba,Cartagena,2-0,1-0
-2011-02-26,Gimnastic,Celta,1-2,0-1
-2011-02-26,Granada,Las Palmas,5-2,1-1
-2011-02-26,Numancia,Barcelona B,4-6,1-1
-2011-02-26,Recreativo,Ponferradina,1-1,1-0
-2011-02-26,Valladolid,Elche,2-0,1-0
-2011-02-26,Villarreal B,Girona,0-1,0-1
-2011-02-27,Betis,Albacete,2-0,0-0
-2011-02-27,Huesca,Vallecano,4-1,2-0
-2011-03-01,Barcelona B,Cordoba,4-1,0-0
-2011-03-01,Cartagena,Tenerife,1-0,0-0
-2011-03-01,Elche,Numancia,1-0,1-0
-2011-03-01,Girona,Granada,2-0,1-0
-2011-03-01,Salamanca,Villarreal B,1-0,1-0
-2011-03-02,Albacete,Valladolid,1-1,1-0
-2011-03-02,Las Palmas,Recreativo,1-1,0-1
-2011-03-02,Vallecano,Alcorcon,1-0,1-0
-2011-03-02,Xerez,Gimnastic,1-2,1-1
-2011-03-03,Celta,Huesca,1-2,0-1
-2011-03-03,Ponferradina,Betis,1-1,1-0
-2011-03-05,Albacete,Elche,0-2,0-0
-2011-03-05,Gimnastic,Cartagena,2-0,1-0
-2011-03-05,Granada,Salamanca,0-1,0-0
-2011-03-05,Villarreal B,Vallecano,1-2,0-1
-2011-03-06,Alcorcon,Celta,1-0,1-0
-2011-03-06,Betis,Las Palmas,4-1,2-0
-2011-03-06,Cordoba,Numancia,1-2,1-1
-2011-03-06,Huesca,Xerez,1-1,0-0
-2011-03-06,Recreativo,Girona,4-0,1-0
-2011-03-06,Valladolid,Ponferradina,2-1,0-0
-2011-03-07,Tenerife,Barcelona B,1-4,0-2
-2011-03-11,Elche,Cordoba,2-1,1-0
-2011-03-12,Barcelona B,Gimnastic,4-0,2-0
-2011-03-12,Cartagena,Huesca,2-0,1-0
-2011-03-12,Celta,Villarreal B,0-1,0-0
-2011-03-12,Girona,Betis,0-1,0-0
-2011-03-12,Las Palmas,Valladolid,2-0,1-0
-2011-03-12,Numancia,Tenerife,2-1,1-1
-2011-03-12,Ponferradina,Albacete,2-1,1-1
-2011-03-12,Xerez,Alcorcon,0-0,0-0
-2011-03-13,Salamanca,Recreativo,0-1,0-0
-2011-03-13,Vallecano,Granada,1-1,0-1
-2011-03-18,Villarreal B,Xerez,1-2,0-1
-2011-03-19,Albacete,Las Palmas,0-1,0-1
-2011-03-19,Alcorcon,Cartagena,0-0,0-0
-2011-03-19,Betis,Salamanca,1-0,0-0
-2011-03-19,Huesca,Barcelona B,1-1,1-0
-2011-03-19,Ponferradina,Elche,0-1,0-0
-2011-03-19,Recreativo,Vallecano,1-1,1-0
-2011-03-19,Tenerife,Cordoba,1-2,1-1
-2011-03-20,Gimnastic,Numancia,1-0,1-0
-2011-03-20,Granada,Celta,1-1,1-1
-2011-03-21,Valladolid,Girona,1-0,0-0
-2011-03-26,Barcelona B,Alcorcon,2-0,1-0
-2011-03-26,Cartagena,Villarreal B,2-0,1-0
-2011-03-26,Celta,Recreativo,0-3,0-1
-2011-03-26,Cordoba,Gimnastic,1-0,1-0
-2011-03-26,Girona,Albacete,3-0,1-0
-2011-03-26,Las Palmas,Ponferradina,1-0,0-0
-2011-03-26,Numancia,Huesca,3-1,2-1
-2011-03-27,Elche,Tenerife,1-0,1-0
-2011-03-27,Salamanca,Valladolid,0-5,0-0
-2011-03-27,Vallecano,Betis,1-0,0-0
-2011-03-27,Xerez,Granada,1-1,0-1
-2011-04-01,Las Palmas,Elche,2-1,0-0
-2011-04-02,Albacete,Salamanca,1-0,0-0
-2011-04-02,Gimnastic,Tenerife,1-1,1-1
-2011-04-02,Granada,Cartagena,2-1,2-0
-2011-04-02,Huesca,Cordoba,2-0,1-0
-2011-04-02,Recreativo,Xerez,1-1,0-0
-2011-04-02,Valladolid,Vallecano,2-2,1-0
-2011-04-02,Villarreal B,Barcelona B,2-3,2-1
-2011-04-03,Alcorcon,Numancia,3-1,1-1
-2011-04-03,Betis,Celta,1-1,1-1
-2011-04-03,Ponferradina,Girona,1-1,0-0
-2011-04-08,Barcelona B,Granada,4-0,2-0
-2011-04-09,Cartagena,Recreativo,1-3,1-2
-2011-04-09,Celta,Valladolid,1-2,0-1
-2011-04-09,Elche,Gimnastic,1-0,0-0
-2011-04-09,Tenerife,Huesca,0-1,0-0
-2011-04-09,Vallecano,Albacete,3-3,0-0
-2011-04-10,Cordoba,Alcorcon,1-4,1-2
-2011-04-10,Girona,Las Palmas,1-1,1-1
-2011-04-10,Numancia,Villarreal B,2-1,1-0
-2011-04-10,Salamanca,Ponferradina,2-2,1-0
-2011-04-10,Xerez,Betis,2-3,0-0
-2011-04-15,Recreativo,Barcelona B,1-1,1-0
-2011-04-16,Betis,Cartagena,5-0,1-0
-2011-04-16,Girona,Elche,2-2,0-0
-2011-04-16,Granada,Numancia,2-0,1-0
-2011-04-16,Huesca,Gimnastic,1-1,1-0
-2011-04-16,Las Palmas,Salamanca,2-1,1-1
-2011-04-16,Ponferradina,Vallecano,0-1,0-0
-2011-04-17,Albacete,Celta,0-1,0-1
-2011-04-17,Alcorcon,Tenerife,3-2,1-1
-2011-04-17,Valladolid,Xerez,2-1,0-0
-2011-04-17,Villarreal B,Cordoba,0-3,0-1
-2011-04-22,Salamanca,Girona,1-0,1-0
-2011-04-23,Cartagena,Valladolid,1-1,0-1
-2011-04-23,Celta,Ponferradina,1-1,1-0
-2011-04-23,Cordoba,Granada,1-1,1-1
-2011-04-23,Elche,Huesca,3-0,1-0
-2011-04-23,Numancia,Recreativo,1-2,0-1
-2011-04-23,Tenerife,Villarreal B,0-1,0-1
-2011-04-23,Vallecano,Las Palmas,2-0,0-0
-2011-04-23,Xerez,Albacete,4-2,0-0
-2011-04-24,Barcelona B,Betis,0-3,0-2
-2011-04-24,Gimnastic,Alcorcon,2-0,2-0
-2011-04-29,Valladolid,Barcelona B,2-1,0-0
-2011-04-30,Albacete,Cartagena,1-2,1-1
-2011-04-30,Alcorcon,Huesca,0-1,0-0
-2011-04-30,Betis,Numancia,4-1,1-1
-2011-04-30,Las Palmas,Celta,1-1,1-1
-2011-04-30,Ponferradina,Xerez,1-2,1-0
-2011-04-30,Recreativo,Cordoba,2-1,0-1
-2011-04-30,Salamanca,Elche,5-4,2-2
-2011-04-30,Villarreal B,Gimnastic,0-2,0-0
-2011-05-01,Girona,Vallecano,1-3,1-0
-2011-05-01,Granada,Tenerife,2-1,0-1
-2011-05-06,Elche,Alcorcon,1-0,1-0
-2011-05-07,Barcelona B,Albacete,2-1,0-0
-2011-05-07,Cartagena,Ponferradina,1-1,0-1
-2011-05-07,Celta,Girona,0-4,0-3
-2011-05-07,Huesca,Villarreal B,3-0,1-0
-2011-05-07,Numancia,Valladolid,3-3,0-0
-2011-05-07,Tenerife,Recreativo,1-0,0-0
-2011-05-07,Vallecano,Salamanca,1-2,0-1
-2011-05-07,Xerez,Las Palmas,2-1,2-0
-2011-05-08,Cordoba,Betis,1-1,1-1
-2011-05-08,Gimnastic,Granada,0-3,0-1
-2011-05-11,Albacete,Numancia,1-2,0-1
-2011-05-11,Betis,Tenerife,3-1,3-1
-2011-05-11,Ponferradina,Barcelona B,2-2,1-0
-2011-05-11,Recreativo,Gimnastic,1-0,1-0
-2011-05-11,Valladolid,Cordoba,5-1,4-1
-2011-05-12,Girona,Xerez,4-2,1-2
-2011-05-12,Granada,Huesca,2-0,0-0
-2011-05-12,Las Palmas,Cartagena,2-0,1-0
-2011-05-12,Salamanca,Celta,1-1,1-0
-2011-05-12,Vallecano,Elche,1-2,0-2
-2011-05-12,Villarreal B,Alcorcon,1-4,1-4
-2011-05-14,Cordoba,Albacete,5-1,3-0
-2011-05-14,Numancia,Ponferradina,3-0,2-0
-2011-05-14,Tenerife,Valladolid,3-2,1-2
-2011-05-15,Alcorcon,Granada,2-0,1-0
-2011-05-15,Barcelona B,Las Palmas,3-5,3-3
-2011-05-15,Cartagena,Girona,1-0,1-0
-2011-05-15,Celta,Vallecano,0-0,0-0
-2011-05-15,Gimnastic,Betis,3-1,1-0
-2011-05-15,Huesca,Recreativo,1-1,1-1
-2011-05-15,Xerez,Salamanca,2-0,0-0
-2011-05-16,Elche,Villarreal B,0-0,0-0
-2011-05-20,Granada,Villarreal B,3-0,3-0
-2011-05-21,Albacete,Tenerife,1-2,1-1
-2011-05-21,Betis,Huesca,3-1,1-0
-2011-05-21,Celta,Elche,2-2,1-1
-2011-05-21,Girona,Barcelona B,0-2,0-1
-2011-05-21,Las Palmas,Numancia,0-0,0-0
-2011-05-21,Ponferradina,Cordoba,3-0,1-0
-2011-05-21,Recreativo,Alcorcon,0-0,0-0
-2011-05-21,Salamanca,Cartagena,2-0,1-0
-2011-05-21,Valladolid,Gimnastic,1-0,0-0
-2011-05-22,Vallecano,Xerez,3-0,0-0
-2011-05-28,Tenerife,Ponferradina,1-1,1-0
-2011-05-29,Alcorcon,Betis,3-3,2-0
-2011-05-29,Barcelona B,Salamanca,5-1,1-0
-2011-05-29,Cartagena,Vallecano,2-4,1-2
-2011-05-29,Cordoba,Las Palmas,2-0,1-0
-2011-05-29,Gimnastic,Albacete,2-1,1-1
-2011-05-29,Granada,Elche,3-3,2-0
-2011-05-29,Huesca,Valladolid,1-0,1-0
-2011-05-29,Numancia,Girona,4-0,2-0
-2011-05-29,Villarreal B,Recreativo,2-0,1-0
-2011-05-29,Xerez,Celta,2-1,0-0
-2011-06-04,Albacete,Huesca,3-1,2-0
-2011-06-04,Betis,Villarreal B,2-1,0-1
-2011-06-04,Celta,Cartagena,3-0,2-0
-2011-06-04,Elche,Xerez,4-1,2-1
-2011-06-04,Girona,Cordoba,2-1,1-1
-2011-06-04,Las Palmas,Tenerife,1-0,1-0
-2011-06-04,Ponferradina,Gimnastic,1-1,1-1
-2011-06-04,Recreativo,Granada,0-0,0-0
-2011-06-04,Salamanca,Numancia,2-2,1-0
-2011-06-04,Valladolid,Alcorcon,2-0,2-0
-2011-06-04,Vallecano,Barcelona B,2-3,1-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 27 Aug 2010 (34),Valladolid (1),3-0,1-0,Villarreal B (1)
+?,(Sat) 28 Aug 2010 (34),RC Celta Vigo (1),1-2,0-2,Barcelona B (1)
+?,(Sat) 28 Aug 2010 (34),Elche (1),1-0,1-0,Recreativo (1)
+?,(Sat) 28 Aug 2010 (34),Girona (1),4-2,2-1,Tenerife (1)
+?,(Sat) 28 Aug 2010 (34),UD Las Palmas (1),3-2,2-2,Gimnastic (1)
+?,(Sat) 28 Aug 2010 (34),Ponferradina (1),0-0,0-0,Huesca (1)
+?,(Sat) 28 Aug 2010 (34),Xerez (1),1-4,1-1,Cartagena (1)
+?,(Sun) 29 Aug 2010 (34),Albacete (1),1-1,0-1,Alcorcon (1)
+?,(Sun) 29 Aug 2010 (34),Real Betis (1),4-1,2-1,Granada CF (1)
+?,(Sun) 29 Aug 2010 (34),Salamanca (1),1-1,1-1,Cordoba (1)
+?,(Sun) 29 Aug 2010 (34),Rayo Vallecano (1),3-2,2-1,Numancia (1)
+?,(Sat) 4 Sep 2010 (35),Cartagena (2),0-1,0-0,Elche (2)
+?,(Sat) 4 Sep 2010 (35),Cordoba (2),2-3,2-0,Rayo Vallecano (2)
+?,(Sat) 4 Sep 2010 (35),Gimnastic (2),2-0,0-0,Girona (2)
+?,(Sat) 4 Sep 2010 (35),Huesca (2),0-0,0-0,UD Las Palmas (2)
+?,(Sat) 4 Sep 2010 (35),Recreativo (2),1-3,0-1,Real Betis (2)
+?,(Sat) 4 Sep 2010 (35),Villarreal B (2),1-0,0-0,Albacete (2)
+?,(Sun) 5 Sep 2010 (35),Alcorcon (2),2-0,2-0,Ponferradina (2)
+?,(Sun) 5 Sep 2010 (35),Barcelona B (2),2-1,1-1,Xerez (2)
+?,(Sun) 5 Sep 2010 (35),Granada CF (2),0-1,0-1,Valladolid (2)
+?,(Sun) 5 Sep 2010 (35),Numancia (2),1-3,0-3,RC Celta Vigo (2)
+?,(Sun) 5 Sep 2010 (35),Tenerife (2),1-2,1-0,Salamanca (2)
+?,(Fri) 10 Sep 2010 (36),Salamanca (3),1-0,1-0,Gimnastic (3)
+?,(Sat) 11 Sep 2010 (36),Albacete (3),2-1,2-0,Granada CF (3)
+?,(Sat) 11 Sep 2010 (36),Cartagena (3),5-1,2-0,Barcelona B (3)
+?,(Sat) 11 Sep 2010 (36),RC Celta Vigo (3),3-2,1-0,Cordoba (3)
+?,(Sat) 11 Sep 2010 (36),Elche (3),0-2,0-0,Real Betis (3)
+?,(Sat) 11 Sep 2010 (36),UD Las Palmas (3),4-1,1-0,Alcorcon (3)
+?,(Sat) 11 Sep 2010 (36),Ponferradina (3),1-5,0-2,Villarreal B (3)
+?,(Sat) 11 Sep 2010 (36),Rayo Vallecano (3),1-0,0-0,Tenerife (3)
+?,(Sun) 12 Sep 2010 (36),Girona (3),3-1,2-0,Huesca (3)
+?,(Sun) 12 Sep 2010 (36),Valladolid (3),4-0,2-0,Recreativo (3)
+?,(Sun) 12 Sep 2010 (36),Xerez (3),1-0,1-0,Numancia (3)
+?,(Fri) 17 Sep 2010 (37),Villarreal B (4),0-3,0-1,UD Las Palmas (4)
+?,(Sat) 18 Sep 2010 (37),Alcorcon (4),3-1,1-1,Girona (4)
+?,(Sat) 18 Sep 2010 (37),Barcelona B (4),2-0,1-0,Elche (4)
+?,(Sat) 18 Sep 2010 (37),Cordoba (4),0-2,0-1,Xerez (4)
+?,(Sat) 18 Sep 2010 (37),Huesca (4),0-1,0-0,Salamanca (4)
+?,(Sat) 18 Sep 2010 (37),Numancia (4),2-0,0-0,Cartagena (4)
+?,(Sat) 18 Sep 2010 (37),Tenerife (4),0-2,0-2,RC Celta Vigo (4)
+?,(Sun) 19 Sep 2010 (37),Real Betis (4),2-1,0-1,Valladolid (4)
+?,(Sun) 19 Sep 2010 (37),Gimnastic (4),0-1,0-1,Rayo Vallecano (4)
+?,(Sun) 19 Sep 2010 (37),Granada CF (4),2-0,1-0,Ponferradina (4)
+?,(Sun) 19 Sep 2010 (37),Recreativo (4),0-0,0-0,Albacete (4)
+?,(Fri) 24 Sep 2010 (38),Xerez (5),2-0,2-0,Tenerife (5)
+?,(Sat) 25 Sep 2010 (38),Albacete (5),2-1,1-1,Real Betis (5)
+?,(Sat) 25 Sep 2010 (38),Cartagena (5),1-2,1-1,Cordoba (5)
+?,(Sat) 25 Sep 2010 (38),Girona (5),2-3,2-1,Villarreal B (5)
+?,(Sat) 25 Sep 2010 (38),UD Las Palmas (5),1-1,0-0,Granada CF (5)
+?,(Sat) 25 Sep 2010 (38),Rayo Vallecano (5),4-0,1-0,Huesca (5)
+?,(Sun) 26 Sep 2010 (38),Barcelona B (5),1-0,1-0,Numancia (5)
+?,(Sun) 26 Sep 2010 (38),RC Celta Vigo (5),1-0,1-0,Gimnastic (5)
+?,(Sun) 26 Sep 2010 (38),Elche (5),2-2,0-1,Valladolid (5)
+?,(Sun) 26 Sep 2010 (38),Ponferradina (5),1-1,1-0,Recreativo (5)
+?,(Sun) 26 Sep 2010 (38),Salamanca (5),1-1,1-0,Alcorcon (5)
+?,(Fri) 1 Oct 2010 (39),Villarreal B (6),0-1,0-0,Salamanca (6)
+?,(Sat) 2 Oct 2010 (39),Real Betis (6),3-0,2-0,Ponferradina (6)
+?,(Sat) 2 Oct 2010 (39),Gimnastic (6),0-2,0-1,Xerez (6)
+?,(Sat) 2 Oct 2010 (39),Huesca (6),1-2,0-0,RC Celta Vigo (6)
+?,(Sat) 2 Oct 2010 (39),Recreativo (6),1-1,0-1,UD Las Palmas (6)
+?,(Sun) 3 Oct 2010 (39),Alcorcon (6),2-0,0-0,Rayo Vallecano (6)
+?,(Sun) 3 Oct 2010 (39),Cordoba (6),2-0,1-0,Barcelona B (6)
+?,(Sun) 3 Oct 2010 (39),Granada CF (6),2-1,2-1,Girona (6)
+?,(Sun) 3 Oct 2010 (39),Numancia (6),2-0,1-0,Elche (6)
+?,(Sun) 3 Oct 2010 (39),Tenerife (6),1-1,0-0,Cartagena (6)
+?,(Mon) 4 Oct 2010 (40),Valladolid (6),1-1,0-0,Albacete (6)
+?,(Sat) 9 Oct 2010 (40),Cartagena (7),2-2,1-0,Gimnastic (7)
+?,(Sat) 9 Oct 2010 (40),RC Celta Vigo (7),3-0,1-0,Alcorcon (7)
+?,(Sat) 9 Oct 2010 (40),Elche (7),1-0,0-0,Albacete (7)
+?,(Sat) 9 Oct 2010 (40),UD Las Palmas (7),2-2,1-0,Real Betis (7)
+?,(Sat) 9 Oct 2010 (40),Rayo Vallecano (7),3-0,0-0,Villarreal B (7)
+?,(Sun) 10 Oct 2010 (40),Barcelona B (7),3-1,2-0,Tenerife (7)
+?,(Sun) 10 Oct 2010 (40),Girona (7),0-0,0-0,Recreativo (7)
+?,(Sun) 10 Oct 2010 (40),Numancia (7),1-1,1-0,Cordoba (7)
+?,(Sun) 10 Oct 2010 (40),Ponferradina (7),1-1,0-0,Valladolid (7)
+?,(Sun) 10 Oct 2010 (40),Salamanca (7),1-2,1-1,Granada CF (7)
+?,(Sun) 10 Oct 2010 (40),Xerez (7),1-3,0-2,Huesca (7)
+?,(Fri) 15 Oct 2010 (41),Recreativo (8),0-2,0-0,Salamanca (8)
+?,(Sat) 16 Oct 2010 (41),Albacete (8),0-1,0-0,Ponferradina (8)
+?,(Sat) 16 Oct 2010 (41),Alcorcon (8),3-1,3-0,Xerez (8)
+?,(Sat) 16 Oct 2010 (41),Real Betis (8),2-1,0-1,Girona (8)
+?,(Sat) 16 Oct 2010 (41),Gimnastic (8),1-1,1-1,Barcelona B (8)
+?,(Sat) 16 Oct 2010 (41),Huesca (8),0-0,0-0,Cartagena (8)
+?,(Sat) 16 Oct 2010 (41),Villarreal B (8),2-2,1-0,RC Celta Vigo (8)
+?,(Sun) 17 Oct 2010 (41),Cordoba (8),0-0,0-0,Elche (8)
+?,(Sun) 17 Oct 2010 (41),Granada CF (8),1-1,1-1,Rayo Vallecano (8)
+?,(Sun) 17 Oct 2010 (41),Tenerife (8),1-1,0-1,Numancia (8)
+?,(Sun) 17 Oct 2010 (41),Valladolid (8),3-0,2-0,UD Las Palmas (8)
+?,(Fri) 22 Oct 2010 (42),Xerez (9),3-1,1-1,Villarreal B (9)
+?,(Sat) 23 Oct 2010 (42),Barcelona B (9),0-1,0-0,Huesca (9)
+?,(Sat) 23 Oct 2010 (42),Cartagena (9),1-0,1-0,Alcorcon (9)
+?,(Sat) 23 Oct 2010 (42),RC Celta Vigo (9),1-1,0-0,Granada CF (9)
+?,(Sat) 23 Oct 2010 (42),Cordoba (9),2-2,0-0,Tenerife (9)
+?,(Sat) 23 Oct 2010 (42),Elche (9),2-0,0-0,Ponferradina (9)
+?,(Sat) 23 Oct 2010 (42),Girona (9),2-0,0-0,Valladolid (9)
+?,(Sat) 23 Oct 2010 (42),UD Las Palmas (9),2-1,1-0,Albacete (9)
+?,(Sat) 23 Oct 2010 (42),Rayo Vallecano (9),0-0,0-0,Recreativo (9)
+?,(Sun) 24 Oct 2010 (42),Numancia (9),1-0,0-0,Gimnastic (9)
+?,(Sun) 24 Oct 2010 (42),Salamanca (9),0-3,0-2,Real Betis (9)
+?,(Fri) 29 Oct 2010 (43),Recreativo (10),1-1,1-0,RC Celta Vigo (10)
+?,(Sat) 30 Oct 2010 (43),Albacete (10),1-1,0-0,Girona (10)
+?,(Sat) 30 Oct 2010 (43),Granada CF (10),5-0,3-0,Xerez (10)
+?,(Sat) 30 Oct 2010 (43),Huesca (10),0-0,0-0,Numancia (10)
+?,(Sat) 30 Oct 2010 (43),Ponferradina (10),3-2,1-1,UD Las Palmas (10)
+?,(Sat) 30 Oct 2010 (43),Valladolid (10),1-0,0-0,Salamanca (10)
+?,(Sat) 30 Oct 2010 (43),Villarreal B (10),2-0,1-0,Cartagena (10)
+?,(Sun) 31 Oct 2010 (43),Alcorcon (10),1-3,1-1,Barcelona B (10)
+?,(Sun) 31 Oct 2010 (43),Real Betis (10),4-0,1-0,Rayo Vallecano (10)
+?,(Sun) 31 Oct 2010 (43),Gimnastic (10),1-1,0-0,Cordoba (10)
+?,(Sun) 31 Oct 2010 (43),Tenerife (10),1-0,0-0,Elche (10)
+?,(Fri) 5 Nov 2010 (44),Elche (11),2-2,0-1,UD Las Palmas (11)
+?,(Sat) 6 Nov 2010 (44),Barcelona B (11),4-1,2-1,Villarreal B (11)
+?,(Sat) 6 Nov 2010 (44),Cartagena (11),2-1,2-1,Granada CF (11)
+?,(Sat) 6 Nov 2010 (44),Cordoba (11),2-0,2-0,Huesca (11)
+?,(Sat) 6 Nov 2010 (44),Girona (11),3-0,3-0,Ponferradina (11)
+?,(Sat) 6 Nov 2010 (44),Numancia (11),2-1,1-0,Alcorcon (11)
+?,(Sat) 6 Nov 2010 (44),Salamanca (11),1-0,1-0,Albacete (11)
+?,(Sat) 6 Nov 2010 (44),Rayo Vallecano (11),3-0,1-0,Valladolid (11)
+?,(Sat) 6 Nov 2010 (44),Xerez (11),1-1,1-1,Recreativo (11)
+?,(Sun) 7 Nov 2010 (44),RC Celta Vigo (11),1-1,1-0,Real Betis (11)
+?,(Sun) 7 Nov 2010 (44),Tenerife (11),0-2,0-0,Gimnastic (11)
+?,(Fri) 12 Nov 2010 (45),Villarreal B (12),1-0,1-0,Numancia (12)
+?,(Sat) 13 Nov 2010 (45),Albacete (12),1-1,1-0,Rayo Vallecano (12)
+?,(Sat) 13 Nov 2010 (45),Real Betis (12),3-1,1-0,Xerez (12)
+?,(Sat) 13 Nov 2010 (45),Gimnastic (12),0-0,0-0,Elche (12)
+?,(Sat) 13 Nov 2010 (45),Granada CF (12),4-1,1-1,Barcelona B (12)
+?,(Sat) 13 Nov 2010 (45),Huesca (12),0-0,0-0,Tenerife (12)
+?,(Sat) 13 Nov 2010 (45),UD Las Palmas (12),1-1,1-0,Girona (12)
+?,(Sun) 14 Nov 2010 (45),Ponferradina (12),3-2,2-0,Salamanca (12)
+?,(Sun) 14 Nov 2010 (45),Recreativo (12),3-0,0-0,Cartagena (12)
+?,(Sun) 14 Nov 2010 (45),Valladolid (12),3-2,1-2,RC Celta Vigo (12)
+?,(Mon) 15 Nov 2010 (46),Alcorcon (12),2-1,2-1,Cordoba (12)
+?,(Fri) 19 Nov 2010 (46),Barcelona B (13),1-1,1-0,Recreativo (13)
+?,(Sat) 20 Nov 2010 (46),Cartagena (13),2-1,0-0,Real Betis (13)
+?,(Sat) 20 Nov 2010 (46),Elche (13),0-0,0-0,Girona (13)
+?,(Sat) 20 Nov 2010 (46),Gimnastic (13),0-0,0-0,Huesca (13)
+?,(Sat) 20 Nov 2010 (46),Salamanca (13),4-2,1-1,UD Las Palmas (13)
+?,(Sat) 20 Nov 2010 (46),Rayo Vallecano (13),3-1,2-0,Ponferradina (13)
+?,(Sun) 21 Nov 2010 (46),RC Celta Vigo (13),3-1,1-1,Albacete (13)
+?,(Sun) 21 Nov 2010 (46),Cordoba (13),0-0,0-0,Villarreal B (13)
+?,(Sun) 21 Nov 2010 (46),Numancia (13),3-2,2-0,Granada CF (13)
+?,(Sun) 21 Nov 2010 (46),Tenerife (13),1-0,0-0,Alcorcon (13)
+?,(Sun) 21 Nov 2010 (46),Xerez (13),4-0,0-0,Valladolid (13)
+?,(Fri) 26 Nov 2010 (47),Ponferradina (14),0-0,0-0,RC Celta Vigo (14)
+?,(Sat) 27 Nov 2010 (47),Albacete (14),1-1,0-0,Xerez (14)
+?,(Sat) 27 Nov 2010 (47),Huesca (14),2-2,1-2,Elche (14)
+?,(Sat) 27 Nov 2010 (47),UD Las Palmas (14),2-1,0-1,Rayo Vallecano (14)
+?,(Sun) 28 Nov 2010 (47),Alcorcon (14),1-1,1-0,Gimnastic (14)
+?,(Sun) 28 Nov 2010 (47),Girona (14),1-1,0-1,Salamanca (14)
+?,(Sun) 28 Nov 2010 (47),Granada CF (14),1-1,0-1,Cordoba (14)
+?,(Sun) 28 Nov 2010 (47),Recreativo (14),1-0,0-0,Numancia (14)
+?,(Sun) 28 Nov 2010 (47),Valladolid (14),0-1,0-0,Cartagena (14)
+?,(Sun) 28 Nov 2010 (47),Villarreal B (14),0-2,0-1,Tenerife (14)
+?,(Fri) 3 Dec 2010 (48),Xerez (15),0-0,0-0,Ponferradina (15)
+?,(Sat) 4 Dec 2010 (48),Barcelona B (14),0-0,0-0,Valladolid (15)
+?,(Sat) 4 Dec 2010 (48),Cartagena (15),1-1,1-1,Albacete (15)
+?,(Sat) 4 Dec 2010 (48),Cordoba (15),3-3,2-1,Recreativo (15)
+?,(Sat) 4 Dec 2010 (48),Gimnastic (15),1-2,0-0,Villarreal B (15)
+?,(Sat) 4 Dec 2010 (48),Huesca (15),3-1,3-1,Alcorcon (15)
+?,(Sat) 4 Dec 2010 (48),Numancia (15),1-2,1-2,Real Betis (14)
+?,(Sun) 5 Dec 2010 (48),RC Celta Vigo (15),2-0,1-0,UD Las Palmas (15)
+?,(Sun) 5 Dec 2010 (48),Elche (15),3-1,1-1,Salamanca (15)
+?,(Sun) 5 Dec 2010 (48),Rayo Vallecano (15),2-0,0-0,Girona (15)
+?,(Wed) 8 Dec 2010 (49),Real Betis (15),2-2,1-0,Barcelona B (15)
+?,(Fri) 10 Dec 2010 (49),Ponferradina (16),1-2,0-1,Cartagena (16)
+?,(Sat) 11 Dec 2010 (49),Alcorcon (16),0-1,0-0,Elche (16)
+?,(Sat) 11 Dec 2010 (49),Real Betis (16),3-1,2-0,Cordoba (16)
+?,(Sat) 11 Dec 2010 (49),Girona (16),1-1,0-1,RC Celta Vigo (16)
+?,(Sat) 11 Dec 2010 (49),UD Las Palmas (16),0-3,0-0,Xerez (16)
+?,(Sat) 11 Dec 2010 (49),Valladolid (16),4-5,3-2,Numancia (16)
+?,(Sat) 11 Dec 2010 (49),Villarreal B (16),1-1,0-0,Huesca (16)
+?,(Sun) 12 Dec 2010 (49),Albacete (16),2-2,1-0,Barcelona B (16)
+?,(Sun) 12 Dec 2010 (49),Granada CF (15),6-1,3-0,Gimnastic (16)
+?,(Sun) 12 Dec 2010 (49),Recreativo (16),3-0,1-0,Tenerife (15)
+?,(Sun) 12 Dec 2010 (49),Salamanca (16),0-1,0-1,Rayo Vallecano (16)
+?,(Fri) 17 Dec 2010 (50),Xerez (17),3-1,0-1,Girona (17)
+?,(Sat) 18 Dec 2010 (50),Alcorcon (17),1-2,1-1,Villarreal B (17)
+?,(Sat) 18 Dec 2010 (50),RC Celta Vigo (17),1-0,1-0,Salamanca (17)
+?,(Sat) 18 Dec 2010 (50),Cordoba (17),1-0,0-0,Valladolid (17)
+?,(Sat) 18 Dec 2010 (50),Elche (17),1-1,0-1,Rayo Vallecano (17)
+?,(Sat) 18 Dec 2010 (50),Gimnastic (17),0-0,0-0,Recreativo (17)
+?,(Sat) 18 Dec 2010 (50),Huesca (17),0-0,0-0,Granada CF (16)
+?,(Sat) 18 Dec 2010 (50),Numancia (17),0-1,0-0,Albacete (17)
+?,(Sat) 18 Dec 2010 (50),Tenerife (16),0-3,0-3,Real Betis (17)
+?,(Sun) 19 Dec 2010 (50),Barcelona B (17),1-1,0-0,Ponferradina (17)
+?,(Sun) 19 Dec 2010 (50),Cartagena (17),5-2,3-1,UD Las Palmas (17)
+?,(Sun) 2 Jan 2011 (0),Albacete (18),1-0,0-0,Cordoba (18)
+?,(Sun) 2 Jan 2011 (0),Real Betis (18),1-0,1-0,Gimnastic (18)
+?,(Sun) 2 Jan 2011 (0),Girona (18),1-1,0-0,Cartagena (18)
+?,(Sun) 2 Jan 2011 (0),Granada CF (17),1-0,0-0,Alcorcon (18)
+?,(Sun) 2 Jan 2011 (0),UD Las Palmas (18),2-2,1-0,Barcelona B (18)
+?,(Sun) 2 Jan 2011 (0),Ponferradina (18),0-4,0-3,Numancia (18)
+?,(Sun) 2 Jan 2011 (0),Recreativo (18),0-1,0-0,Huesca (18)
+?,(Sun) 2 Jan 2011 (0),Valladolid (18),2-2,2-1,Tenerife (17)
+?,(Sun) 2 Jan 2011 (0),Rayo Vallecano (18),1-3,1-0,RC Celta Vigo (18)
+?,(Sun) 2 Jan 2011 (0),Villarreal B (18),1-1,1-1,Elche (18)
+?,(Mon) 3 Jan 2011 (1),Salamanca (18),2-3,0-1,Xerez (18)
+?,(Fri) 7 Jan 2011 (1),Villarreal B (19),2-1,1-0,Granada CF (18)
+?,(Sat) 8 Jan 2011 (1),Alcorcon (19),2-1,1-1,Recreativo (19)
+?,(Sat) 8 Jan 2011 (1),Barcelona B (19),1-2,0-0,Girona (19)
+?,(Sat) 8 Jan 2011 (1),Cartagena (19),1-0,1-0,Salamanca (19)
+?,(Sat) 8 Jan 2011 (1),Cordoba (19),3-3,2-2,Ponferradina (19)
+?,(Sat) 8 Jan 2011 (1),Elche (19),1-3,0-1,RC Celta Vigo (19)
+?,(Sat) 8 Jan 2011 (1),Gimnastic (19),1-0,0-0,Valladolid (19)
+?,(Sat) 8 Jan 2011 (1),Numancia (19),4-0,1-0,UD Las Palmas (19)
+?,(Sun) 9 Jan 2011 (1),Huesca (19),1-1,0-0,Real Betis (19)
+?,(Sun) 9 Jan 2011 (1),Tenerife (18),0-1,0-1,Albacete (19)
+?,(Sun) 9 Jan 2011 (1),Xerez (19),0-1,0-0,Rayo Vallecano (19)
+?,(Fri) 14 Jan 2011 (2),Girona (20),2-0,1-0,Numancia (20)
+?,(Sat) 15 Jan 2011 (2),Albacete (20),0-1,0-0,Gimnastic (20)
+?,(Sat) 15 Jan 2011 (2),Real Betis (20),3-0,1-0,Alcorcon (20)
+?,(Sat) 15 Jan 2011 (2),RC Celta Vigo (20),1-1,1-0,Xerez (20)
+?,(Sat) 15 Jan 2011 (2),UD Las Palmas (20),0-1,0-1,Cordoba (20)
+?,(Sat) 15 Jan 2011 (2),Valladolid (20),2-0,1-0,Huesca (20)
+?,(Sat) 15 Jan 2011 (2),Rayo Vallecano (20),3-1,2-1,Cartagena (20)
+?,(Sun) 16 Jan 2011 (2),Elche (20),0-0,0-0,Granada CF (19)
+?,(Sun) 16 Jan 2011 (2),Ponferradina (20),1-1,0-1,Tenerife (19)
+?,(Sun) 16 Jan 2011 (2),Recreativo (20),2-0,1-0,Villarreal B (20)
+?,(Sun) 16 Jan 2011 (2),Salamanca (20),2-3,1-1,Barcelona B (20)
+?,(Fri) 21 Jan 2011 (3),Xerez (21),0-0,0-0,Elche (21)
+?,(Sat) 22 Jan 2011 (3),Alcorcon (21),1-0,0-0,Valladolid (21)
+?,(Sat) 22 Jan 2011 (3),Barcelona B (21),1-2,1-1,Rayo Vallecano (21)
+?,(Sat) 22 Jan 2011 (3),Cartagena (21),0-4,0-2,RC Celta Vigo (21)
+?,(Sat) 22 Jan 2011 (3),Granada CF (20),2-1,0-1,Recreativo (21)
+?,(Sat) 22 Jan 2011 (3),Huesca (21),1-0,1-0,Albacete (21)
+?,(Sat) 22 Jan 2011 (3),Villarreal B (21),1-0,1-0,Real Betis (21)
+?,(Sun) 23 Jan 2011 (3),Cordoba (21),1-1,0-0,Girona (21)
+?,(Sun) 23 Jan 2011 (3),Gimnastic (21),0-0,0-0,Ponferradina (21)
+?,(Sun) 23 Jan 2011 (3),Numancia (21),3-2,1-0,Salamanca (21)
+?,(Sun) 23 Jan 2011 (3),Tenerife (20),1-1,0-0,UD Las Palmas (21)
+?,(Wed) 26 Jan 2011 (4),Tenerife (21),2-2,2-1,Granada CF (21)
+?,(Fri) 28 Jan 2011 (4),Alcorcon (22),2-0,0-0,Albacete (22)
+?,(Sat) 29 Jan 2011 (4),Barcelona B (22),1-1,1-0,RC Celta Vigo (22)
+?,(Sat) 29 Jan 2011 (4),Cartagena (22),1-2,1-1,Xerez (22)
+?,(Sat) 29 Jan 2011 (4),Cordoba (22),2-0,0-0,Salamanca (22)
+?,(Sat) 29 Jan 2011 (4),Gimnastic (22),0-0,0-0,UD Las Palmas (22)
+?,(Sat) 29 Jan 2011 (4),Huesca (22),1-0,0-0,Ponferradina (22)
+?,(Sat) 29 Jan 2011 (4),Numancia (22),0-3,0-2,Rayo Vallecano (22)
+?,(Sat) 29 Jan 2011 (4),Recreativo (22),0-0,0-0,Elche (22)
+?,(Sat) 29 Jan 2011 (4),Villarreal B (22),2-0,1-0,Valladolid (22)
+?,(Sun) 30 Jan 2011 (4),Granada CF (22),3-0,0-0,Real Betis (22)
+?,(Sun) 30 Jan 2011 (4),Tenerife (22),3-3,1-2,Girona (22)
+?,(Fri) 4 Feb 2011 (5),Xerez (23),1-0,1-0,Barcelona B (23)
+?,(Sat) 5 Feb 2011 (5),Albacete (23),0-2,0-0,Villarreal B (23)
+?,(Sat) 5 Feb 2011 (5),Elche (23),1-2,1-1,Cartagena (23)
+?,(Sat) 5 Feb 2011 (5),Girona (23),2-1,1-1,Gimnastic (23)
+?,(Sat) 5 Feb 2011 (5),UD Las Palmas (23),1-1,1-0,Huesca (23)
+?,(Sat) 5 Feb 2011 (5),Salamanca (23),1-2,1-1,Tenerife (23)
+?,(Sat) 5 Feb 2011 (5),Valladolid (23),2-3,1-2,Granada CF (23)
+?,(Sat) 5 Feb 2011 (5),Rayo Vallecano (23),4-2,1-2,Cordoba (23)
+?,(Sun) 6 Feb 2011 (5),Real Betis (23),0-1,0-0,Recreativo (23)
+?,(Sun) 6 Feb 2011 (5),Ponferradina (23),1-2,0-2,Alcorcon (23)
+?,(Mon) 7 Feb 2011 (6),RC Celta Vigo (23),4-0,1-0,Numancia (23)
+?,(Fri) 11 Feb 2011 (6),Granada CF (24),3-0,0-0,Albacete (24)
+?,(Sat) 12 Feb 2011 (6),Alcorcon (24),5-0,0-0,UD Las Palmas (24)
+?,(Sat) 12 Feb 2011 (6),Barcelona B (24),3-0,1-0,Cartagena (24)
+?,(Sat) 12 Feb 2011 (6),Real Betis (24),1-4,0-2,Elche (24)
+?,(Sat) 12 Feb 2011 (6),Huesca (24),0-1,0-0,Girona (24)
+?,(Sat) 12 Feb 2011 (6),Numancia (24),3-0,1-0,Xerez (24)
+?,(Sat) 12 Feb 2011 (6),Recreativo (24),0-1,0-0,Valladolid (24)
+?,(Sat) 12 Feb 2011 (6),Villarreal B (24),1-0,0-0,Ponferradina (24)
+?,(Sun) 13 Feb 2011 (6),Cordoba (24),0-0,0-0,RC Celta Vigo (24)
+?,(Sun) 13 Feb 2011 (6),Gimnastic (24),2-0,1-0,Salamanca (24)
+?,(Sun) 13 Feb 2011 (6),Tenerife (24),2-1,0-0,Rayo Vallecano (24)
+?,(Fri) 18 Feb 2011 (7),Girona (25),3-1,2-0,Alcorcon (25)
+?,(Sat) 19 Feb 2011 (7),Albacete (25),1-1,0-0,Recreativo (25)
+?,(Sat) 19 Feb 2011 (7),Cartagena (25),1-0,0-0,Numancia (25)
+?,(Sat) 19 Feb 2011 (7),RC Celta Vigo (25),1-0,0-0,Tenerife (25)
+?,(Sat) 19 Feb 2011 (7),Elche (25),2-1,1-1,Barcelona B (25)
+?,(Sat) 19 Feb 2011 (7),UD Las Palmas (25),2-2,2-1,Villarreal B (25)
+?,(Sat) 19 Feb 2011 (7),Salamanca (25),1-1,0-1,Huesca (25)
+?,(Sat) 19 Feb 2011 (7),Rayo Vallecano (25),1-1,0-1,Gimnastic (25)
+?,(Sat) 19 Feb 2011 (7),Xerez (25),1-3,1-2,Cordoba (25)
+?,(Sun) 20 Feb 2011 (7),Ponferradina (25),0-0,0-0,Granada CF (25)
+?,(Sun) 20 Feb 2011 (7),Valladolid (25),1-0,1-0,Real Betis (25)
+?,(Fri) 25 Feb 2011 (8),Tenerife (26),2-1,1-0,Xerez (26)
+?,(Sat) 26 Feb 2011 (8),Alcorcon (26),4-0,1-0,Salamanca (26)
+?,(Sat) 26 Feb 2011 (8),Cordoba (26),2-0,1-0,Cartagena (26)
+?,(Sat) 26 Feb 2011 (8),Gimnastic (26),1-2,0-1,RC Celta Vigo (26)
+?,(Sat) 26 Feb 2011 (8),Granada CF (26),5-2,1-1,UD Las Palmas (26)
+?,(Sat) 26 Feb 2011 (8),Numancia (26),4-6,1-1,Barcelona B (26)
+?,(Sat) 26 Feb 2011 (8),Recreativo (26),1-1,1-0,Ponferradina (26)
+?,(Sat) 26 Feb 2011 (8),Valladolid (26),2-0,1-0,Elche (26)
+?,(Sat) 26 Feb 2011 (8),Villarreal B (26),0-1,0-1,Girona (26)
+?,(Sun) 27 Feb 2011 (8),Real Betis (26),2-0,0-0,Albacete (26)
+?,(Sun) 27 Feb 2011 (8),Huesca (26),4-1,2-0,Rayo Vallecano (26)
+?,(Tue) 1 Mar 2011 (9),Barcelona B (27),4-1,0-0,Cordoba (27)
+?,(Tue) 1 Mar 2011 (9),Cartagena (27),1-0,0-0,Tenerife (27)
+?,(Tue) 1 Mar 2011 (9),Elche (27),1-0,1-0,Numancia (27)
+?,(Tue) 1 Mar 2011 (9),Girona (27),2-0,1-0,Granada CF (27)
+?,(Tue) 1 Mar 2011 (9),Salamanca (27),1-0,1-0,Villarreal B (27)
+?,(Wed) 2 Mar 2011 (9),Albacete (27),1-1,1-0,Valladolid (27)
+?,(Wed) 2 Mar 2011 (9),UD Las Palmas (27),1-1,0-1,Recreativo (27)
+?,(Wed) 2 Mar 2011 (9),Rayo Vallecano (27),1-0,1-0,Alcorcon (27)
+?,(Wed) 2 Mar 2011 (9),Xerez (27),1-2,1-1,Gimnastic (27)
+?,(Thu) 3 Mar 2011 (9),RC Celta Vigo (27),1-2,0-1,Huesca (27)
+?,(Thu) 3 Mar 2011 (9),Ponferradina (27),1-1,1-0,Real Betis (27)
+?,(Sat) 5 Mar 2011 (9),Albacete (28),0-2,0-0,Elche (28)
+?,(Sat) 5 Mar 2011 (9),Gimnastic (28),2-0,1-0,Cartagena (28)
+?,(Sat) 5 Mar 2011 (9),Granada CF (28),0-1,0-0,Salamanca (28)
+?,(Sat) 5 Mar 2011 (9),Villarreal B (28),1-2,0-1,Rayo Vallecano (28)
+?,(Sun) 6 Mar 2011 (9),Alcorcon (28),1-0,1-0,RC Celta Vigo (28)
+?,(Sun) 6 Mar 2011 (9),Real Betis (28),4-1,2-0,UD Las Palmas (28)
+?,(Sun) 6 Mar 2011 (9),Cordoba (28),1-2,1-1,Numancia (28)
+?,(Sun) 6 Mar 2011 (9),Huesca (28),1-1,0-0,Xerez (28)
+?,(Sun) 6 Mar 2011 (9),Recreativo (28),4-0,1-0,Girona (28)
+?,(Sun) 6 Mar 2011 (9),Valladolid (28),2-1,0-0,Ponferradina (28)
+?,(Mon) 7 Mar 2011 (10),Tenerife (28),1-4,0-2,Barcelona B (28)
+?,(Fri) 11 Mar 2011 (10),Elche (29),2-1,1-0,Cordoba (29)
+?,(Sat) 12 Mar 2011 (10),Barcelona B (29),4-0,2-0,Gimnastic (29)
+?,(Sat) 12 Mar 2011 (10),Cartagena (29),2-0,1-0,Huesca (29)
+?,(Sat) 12 Mar 2011 (10),RC Celta Vigo (29),0-1,0-0,Villarreal B (29)
+?,(Sat) 12 Mar 2011 (10),Girona (29),0-1,0-0,Real Betis (29)
+?,(Sat) 12 Mar 2011 (10),UD Las Palmas (29),2-0,1-0,Valladolid (29)
+?,(Sat) 12 Mar 2011 (10),Numancia (29),2-1,1-1,Tenerife (29)
+?,(Sat) 12 Mar 2011 (10),Ponferradina (29),2-1,1-1,Albacete (29)
+?,(Sat) 12 Mar 2011 (10),Xerez (29),0-0,0-0,Alcorcon (29)
+?,(Sun) 13 Mar 2011 (10),Salamanca (29),0-1,0-0,Recreativo (29)
+?,(Sun) 13 Mar 2011 (10),Rayo Vallecano (29),1-1,0-1,Granada CF (29)
+?,(Fri) 18 Mar 2011 (11),Villarreal B (30),1-2,0-1,Xerez (30)
+?,(Sat) 19 Mar 2011 (11),Albacete (30),0-1,0-1,UD Las Palmas (30)
+?,(Sat) 19 Mar 2011 (11),Alcorcon (30),0-0,0-0,Cartagena (30)
+?,(Sat) 19 Mar 2011 (11),Real Betis (30),1-0,0-0,Salamanca (30)
+?,(Sat) 19 Mar 2011 (11),Huesca (30),1-1,1-0,Barcelona B (30)
+?,(Sat) 19 Mar 2011 (11),Ponferradina (30),0-1,0-0,Elche (30)
+?,(Sat) 19 Mar 2011 (11),Recreativo (30),1-1,1-0,Rayo Vallecano (30)
+?,(Sat) 19 Mar 2011 (11),Tenerife (30),1-2,1-1,Cordoba (30)
+?,(Sun) 20 Mar 2011 (11),Gimnastic (30),1-0,1-0,Numancia (30)
+?,(Sun) 20 Mar 2011 (11),Granada CF (30),1-1,1-1,RC Celta Vigo (30)
+?,(Mon) 21 Mar 2011 (12),Valladolid (30),1-0,0-0,Girona (30)
+?,(Sat) 26 Mar 2011 (12),Barcelona B (31),2-0,1-0,Alcorcon (31)
+?,(Sat) 26 Mar 2011 (12),Cartagena (31),2-0,1-0,Villarreal B (31)
+?,(Sat) 26 Mar 2011 (12),RC Celta Vigo (31),0-3,0-1,Recreativo (31)
+?,(Sat) 26 Mar 2011 (12),Cordoba (31),1-0,1-0,Gimnastic (31)
+?,(Sat) 26 Mar 2011 (12),Girona (31),3-0,1-0,Albacete (31)
+?,(Sat) 26 Mar 2011 (12),UD Las Palmas (31),1-0,0-0,Ponferradina (31)
+?,(Sat) 26 Mar 2011 (12),Numancia (31),3-1,2-1,Huesca (31)
+?,(Sun) 27 Mar 2011 (12),Elche (31),1-0,1-0,Tenerife (31)
+?,(Sun) 27 Mar 2011 (12),Salamanca (31),0-5,0-0,Valladolid (31)
+?,(Sun) 27 Mar 2011 (12),Rayo Vallecano (31),1-0,0-0,Real Betis (31)
+?,(Sun) 27 Mar 2011 (12),Xerez (31),1-1,0-1,Granada CF (31)
+?,(Fri) 1 Apr 2011 (13),UD Las Palmas (32),2-1,0-0,Elche (32)
+?,(Sat) 2 Apr 2011 (13),Albacete (32),1-0,0-0,Salamanca (32)
+?,(Sat) 2 Apr 2011 (13),Gimnastic (32),1-1,1-1,Tenerife (32)
+?,(Sat) 2 Apr 2011 (13),Granada CF (32),2-1,2-0,Cartagena (32)
+?,(Sat) 2 Apr 2011 (13),Huesca (32),2-0,1-0,Cordoba (32)
+?,(Sat) 2 Apr 2011 (13),Recreativo (32),1-1,0-0,Xerez (32)
+?,(Sat) 2 Apr 2011 (13),Valladolid (32),2-2,1-0,Rayo Vallecano (32)
+?,(Sat) 2 Apr 2011 (13),Villarreal B (32),2-3,2-1,Barcelona B (32)
+?,(Sun) 3 Apr 2011 (13),Alcorcon (32),3-1,1-1,Numancia (32)
+?,(Sun) 3 Apr 2011 (13),Real Betis (32),1-1,1-1,RC Celta Vigo (32)
+?,(Sun) 3 Apr 2011 (13),Ponferradina (32),1-1,0-0,Girona (32)
+?,(Fri) 8 Apr 2011 (14),Barcelona B (33),4-0,2-0,Granada CF (33)
+?,(Sat) 9 Apr 2011 (14),Cartagena (33),1-3,1-2,Recreativo (33)
+?,(Sat) 9 Apr 2011 (14),RC Celta Vigo (33),1-2,0-1,Valladolid (33)
+?,(Sat) 9 Apr 2011 (14),Elche (33),1-0,0-0,Gimnastic (33)
+?,(Sat) 9 Apr 2011 (14),Tenerife (33),0-1,0-0,Huesca (33)
+?,(Sat) 9 Apr 2011 (14),Rayo Vallecano (33),3-3,0-0,Albacete (33)
+?,(Sun) 10 Apr 2011 (14),Cordoba (33),1-4,1-2,Alcorcon (33)
+?,(Sun) 10 Apr 2011 (14),Girona (33),1-1,1-1,UD Las Palmas (33)
+?,(Sun) 10 Apr 2011 (14),Numancia (33),2-1,1-0,Villarreal B (33)
+?,(Sun) 10 Apr 2011 (14),Salamanca (33),2-2,1-0,Ponferradina (33)
+?,(Sun) 10 Apr 2011 (14),Xerez (33),2-3,0-0,Real Betis (33)
+?,(Fri) 15 Apr 2011 (15),Recreativo (34),1-1,1-0,Barcelona B (34)
+?,(Sat) 16 Apr 2011 (15),Real Betis (34),5-0,1-0,Cartagena (34)
+?,(Sat) 16 Apr 2011 (15),Girona (34),2-2,0-0,Elche (34)
+?,(Sat) 16 Apr 2011 (15),Granada CF (34),2-0,1-0,Numancia (34)
+?,(Sat) 16 Apr 2011 (15),Huesca (34),1-1,1-0,Gimnastic (34)
+?,(Sat) 16 Apr 2011 (15),UD Las Palmas (34),2-1,1-1,Salamanca (34)
+?,(Sat) 16 Apr 2011 (15),Ponferradina (34),0-1,0-0,Rayo Vallecano (34)
+?,(Sun) 17 Apr 2011 (15),Albacete (34),0-1,0-1,RC Celta Vigo (34)
+?,(Sun) 17 Apr 2011 (15),Alcorcon (34),3-2,1-1,Tenerife (34)
+?,(Sun) 17 Apr 2011 (15),Valladolid (34),2-1,0-0,Xerez (34)
+?,(Sun) 17 Apr 2011 (15),Villarreal B (34),0-3,0-1,Cordoba (34)
+?,(Fri) 22 Apr 2011 (16),Salamanca (35),1-0,1-0,Girona (35)
+?,(Sat) 23 Apr 2011 (16),Cartagena (35),1-1,0-1,Valladolid (35)
+?,(Sat) 23 Apr 2011 (16),RC Celta Vigo (35),1-1,1-0,Ponferradina (35)
+?,(Sat) 23 Apr 2011 (16),Cordoba (35),1-1,1-1,Granada CF (35)
+?,(Sat) 23 Apr 2011 (16),Elche (35),3-0,1-0,Huesca (35)
+?,(Sat) 23 Apr 2011 (16),Numancia (35),1-2,0-1,Recreativo (35)
+?,(Sat) 23 Apr 2011 (16),Tenerife (35),0-1,0-1,Villarreal B (35)
+?,(Sat) 23 Apr 2011 (16),Rayo Vallecano (35),2-0,0-0,UD Las Palmas (35)
+?,(Sat) 23 Apr 2011 (16),Xerez (35),4-2,0-0,Albacete (35)
+?,(Sun) 24 Apr 2011 (16),Barcelona B (35),0-3,0-2,Real Betis (35)
+?,(Sun) 24 Apr 2011 (16),Gimnastic (35),2-0,2-0,Alcorcon (35)
+?,(Fri) 29 Apr 2011 (17),Valladolid (36),2-1,0-0,Barcelona B (36)
+?,(Sat) 30 Apr 2011 (17),Albacete (36),1-2,1-1,Cartagena (36)
+?,(Sat) 30 Apr 2011 (17),Alcorcon (36),0-1,0-0,Huesca (36)
+?,(Sat) 30 Apr 2011 (17),Real Betis (36),4-1,1-1,Numancia (36)
+?,(Sat) 30 Apr 2011 (17),UD Las Palmas (36),1-1,1-1,RC Celta Vigo (36)
+?,(Sat) 30 Apr 2011 (17),Ponferradina (36),1-2,1-0,Xerez (36)
+?,(Sat) 30 Apr 2011 (17),Recreativo (36),2-1,0-1,Cordoba (36)
+?,(Sat) 30 Apr 2011 (17),Salamanca (36),5-4,2-2,Elche (36)
+?,(Sat) 30 Apr 2011 (17),Villarreal B (36),0-2,0-0,Gimnastic (36)
+?,(Sun) 1 May 2011 (17),Girona (36),1-3,1-0,Rayo Vallecano (36)
+?,(Sun) 1 May 2011 (17),Granada CF (36),2-1,0-1,Tenerife (36)
+?,(Fri) 6 May 2011 (18),Elche (37),1-0,1-0,Alcorcon (37)
+?,(Sat) 7 May 2011 (18),Barcelona B (37),2-1,0-0,Albacete (37)
+?,(Sat) 7 May 2011 (18),Cartagena (37),1-1,0-1,Ponferradina (37)
+?,(Sat) 7 May 2011 (18),RC Celta Vigo (37),0-4,0-3,Girona (37)
+?,(Sat) 7 May 2011 (18),Huesca (37),3-0,1-0,Villarreal B (37)
+?,(Sat) 7 May 2011 (18),Numancia (37),3-3,0-0,Valladolid (37)
+?,(Sat) 7 May 2011 (18),Tenerife (37),1-0,0-0,Recreativo (37)
+?,(Sat) 7 May 2011 (18),Rayo Vallecano (37),1-2,0-1,Salamanca (37)
+?,(Sat) 7 May 2011 (18),Xerez (37),2-1,2-0,UD Las Palmas (37)
+?,(Sun) 8 May 2011 (18),Cordoba (37),1-1,1-1,Real Betis (37)
+?,(Sun) 8 May 2011 (18),Gimnastic (37),0-3,0-1,Granada CF (37)
+?,(Wed) 11 May 2011 (19),Albacete (38),1-2,0-1,Numancia (38)
+?,(Wed) 11 May 2011 (19),Real Betis (38),3-1,3-1,Tenerife (38)
+?,(Wed) 11 May 2011 (19),Ponferradina (38),2-2,1-0,Barcelona B (38)
+?,(Wed) 11 May 2011 (19),Recreativo (38),1-0,1-0,Gimnastic (38)
+?,(Wed) 11 May 2011 (19),Valladolid (38),5-1,4-1,Cordoba (38)
+?,(Thu) 12 May 2011 (19),Girona (38),4-2,1-2,Xerez (38)
+?,(Thu) 12 May 2011 (19),Granada CF (38),2-0,0-0,Huesca (38)
+?,(Thu) 12 May 2011 (19),UD Las Palmas (38),2-0,1-0,Cartagena (38)
+?,(Thu) 12 May 2011 (19),Salamanca (38),1-1,1-0,RC Celta Vigo (38)
+?,(Thu) 12 May 2011 (19),Rayo Vallecano (38),1-2,0-2,Elche (38)
+?,(Thu) 12 May 2011 (19),Villarreal B (38),1-4,1-4,Alcorcon (38)
+?,(Sat) 14 May 2011 (19),Cordoba (39),5-1,3-0,Albacete (39)
+?,(Sat) 14 May 2011 (19),Numancia (39),3-0,2-0,Ponferradina (39)
+?,(Sat) 14 May 2011 (19),Tenerife (39),3-2,1-2,Valladolid (39)
+?,(Sun) 15 May 2011 (19),Alcorcon (39),2-0,1-0,Granada CF (39)
+?,(Sun) 15 May 2011 (19),Barcelona B (39),3-5,3-3,UD Las Palmas (39)
+?,(Sun) 15 May 2011 (19),Cartagena (39),1-0,1-0,Girona (39)
+?,(Sun) 15 May 2011 (19),RC Celta Vigo (39),0-0,0-0,Rayo Vallecano (39)
+?,(Sun) 15 May 2011 (19),Gimnastic (39),3-1,1-0,Real Betis (39)
+?,(Sun) 15 May 2011 (19),Huesca (39),1-1,1-1,Recreativo (39)
+?,(Sun) 15 May 2011 (19),Xerez (39),2-0,0-0,Salamanca (39)
+?,(Mon) 16 May 2011 (20),Elche (39),0-0,0-0,Villarreal B (39)
+?,(Fri) 20 May 2011 (20),Granada CF (40),3-0,3-0,Villarreal B (40)
+?,(Sat) 21 May 2011 (20),Albacete (40),1-2,1-1,Tenerife (40)
+?,(Sat) 21 May 2011 (20),Real Betis (40),3-1,1-0,Huesca (40)
+?,(Sat) 21 May 2011 (20),RC Celta Vigo (40),2-2,1-1,Elche (40)
+?,(Sat) 21 May 2011 (20),Girona (40),0-2,0-1,Barcelona B (40)
+?,(Sat) 21 May 2011 (20),UD Las Palmas (40),0-0,0-0,Numancia (40)
+?,(Sat) 21 May 2011 (20),Ponferradina (40),3-0,1-0,Cordoba (40)
+?,(Sat) 21 May 2011 (20),Recreativo (40),0-0,0-0,Alcorcon (40)
+?,(Sat) 21 May 2011 (20),Salamanca (40),2-0,1-0,Cartagena (40)
+?,(Sat) 21 May 2011 (20),Valladolid (40),1-0,0-0,Gimnastic (40)
+?,(Sun) 22 May 2011 (20),Rayo Vallecano (40),3-0,0-0,Xerez (40)
+?,(Sat) 28 May 2011 (21),Tenerife (41),1-1,1-0,Ponferradina (41)
+?,(Sun) 29 May 2011 (21),Alcorcon (41),3-3,2-0,Real Betis (41)
+?,(Sun) 29 May 2011 (21),Barcelona B (41),5-1,1-0,Salamanca (41)
+?,(Sun) 29 May 2011 (21),Cartagena (41),2-4,1-2,Rayo Vallecano (41)
+?,(Sun) 29 May 2011 (21),Cordoba (41),2-0,1-0,UD Las Palmas (41)
+?,(Sun) 29 May 2011 (21),Gimnastic (41),2-1,1-1,Albacete (41)
+?,(Sun) 29 May 2011 (21),Granada CF (41),3-3,2-0,Elche (41)
+?,(Sun) 29 May 2011 (21),Huesca (41),1-0,1-0,Valladolid (41)
+?,(Sun) 29 May 2011 (21),Numancia (41),4-0,2-0,Girona (41)
+?,(Sun) 29 May 2011 (21),Villarreal B (41),2-0,1-0,Recreativo (41)
+?,(Sun) 29 May 2011 (21),Xerez (41),2-1,0-0,RC Celta Vigo (41)
+?,(Sat) 4 Jun 2011 (22),Albacete (42),3-1,2-0,Huesca (42)
+?,(Sat) 4 Jun 2011 (22),Real Betis (42),2-1,0-1,Villarreal B (42)
+?,(Sat) 4 Jun 2011 (22),RC Celta Vigo (42),3-0,2-0,Cartagena (42)
+?,(Sat) 4 Jun 2011 (22),Elche (42),4-1,2-1,Xerez (42)
+?,(Sat) 4 Jun 2011 (22),Girona (42),2-1,1-1,Cordoba (42)
+?,(Sat) 4 Jun 2011 (22),UD Las Palmas (42),1-0,1-0,Tenerife (42)
+?,(Sat) 4 Jun 2011 (22),Ponferradina (42),1-1,1-1,Gimnastic (42)
+?,(Sat) 4 Jun 2011 (22),Recreativo (42),0-0,0-0,Granada CF (42)
+?,(Sat) 4 Jun 2011 (22),Salamanca (42),2-2,1-0,Numancia (42)
+?,(Sat) 4 Jun 2011 (22),Valladolid (42),2-0,2-0,Alcorcon (42)
+?,(Sat) 4 Jun 2011 (22),Rayo Vallecano (42),2-3,1-2,Barcelona B (42)

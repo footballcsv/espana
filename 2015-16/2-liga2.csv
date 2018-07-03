@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2015-08-22,Alcorcon,Mallorca,2-0,1-0
-2015-08-22,Cordoba,Valladolid,1-0,0-0
-2015-08-22,Huesca,Alaves,2-3,0-1
-2015-08-22,Llagostera,Osasuna,0-2,0-0
-2015-08-23,Almeria,Leganes,3-2,3-0
-2015-08-23,Gimnastic,Albacete,2-2,0-0
-2015-08-23,Mirandes,Zaragoza,1-1,0-0
-2015-08-23,Numancia,Tenerife,6-3,1-2
-2015-08-23,Oviedo,Lugo,2-2,1-1
-2015-08-23,Ponferradina,Elche,2-0,0-0
-2015-08-24,Ath Bilbao B,Girona,0-1,0-0
-2015-08-29,Albacete,Huesca,1-1,1-1
-2015-08-29,Girona,Numancia,2-3,1-1
-2015-08-29,Leganes,Cordoba,3-1,2-0
-2015-08-29,Lugo,Llagostera,1-0,0-0
-2015-08-29,Zaragoza,Almeria,3-2,1-1
-2015-08-30,Alaves,Oviedo,2-0,2-0
-2015-08-30,Elche,Ath Bilbao B,2-1,0-0
-2015-08-30,Mallorca,Ponferradina,1-0,1-0
-2015-08-30,Osasuna,Mirandes,1-0,0-0
-2015-08-30,Tenerife,Gimnastic,1-2,0-0
-2015-08-30,Valladolid,Alcorcon,2-0,0-0
-2015-09-05,Gimnastic,Girona,1-0,0-0
-2015-09-05,Huesca,Tenerife,1-1,1-1
-2015-09-05,Mirandes,Lugo,1-1,0-1
-2015-09-05,Numancia,Elche,0-0,0-0
-2015-09-06,Almeria,Osasuna,2-1,0-1
-2015-09-06,Ath Bilbao B,Mallorca,3-1,1-1
-2015-09-06,Cordoba,Alcorcon,1-3,1-1
-2015-09-06,Leganes,Zaragoza,1-1,1-0
-2015-09-06,Llagostera,Alaves,3-0,1-0
-2015-09-06,Oviedo,Albacete,3-1,2-1
-2015-09-06,Ponferradina,Valladolid,3-0,1-0
-2015-09-12,Alaves,Mirandes,2-3,0-2
-2015-09-12,Elche,Gimnastic,1-0,1-0
-2015-09-12,Osasuna,Leganes,2-1,1-0
-2015-09-12,Valladolid,Ath Bilbao B,1-0,1-0
-2015-09-12,Zaragoza,Cordoba,0-1,0-1
-2015-09-13,Albacete,Llagostera,1-0,1-0
-2015-09-13,Alcorcon,Ponferradina,1-0,0-0
-2015-09-13,Girona,Huesca,0-0,0-0
-2015-09-13,Lugo,Almeria,1-0,0-0
-2015-09-13,Mallorca,Numancia,0-0,0-0
-2015-09-13,Tenerife,Oviedo,0-2,0-1
-2015-09-19,Ath Bilbao B,Alcorcon,1-0,0-0
-2015-09-19,Leganes,Lugo,0-0,0-0
-2015-09-19,Llagostera,Tenerife,0-2,0-0
-2015-09-19,Mirandes,Albacete,1-1,1-0
-2015-09-19,Oviedo,Girona,1-2,1-1
-2015-09-20,Almeria,Alaves,0-2,0-1
-2015-09-20,Cordoba,Ponferradina,1-0,1-0
-2015-09-20,Gimnastic,Mallorca,1-0,1-0
-2015-09-20,Huesca,Elche,1-3,0-1
-2015-09-20,Numancia,Valladolid,2-2,0-1
-2015-09-20,Zaragoza,Osasuna,0-1,0-1
-2015-09-26,Alcorcon,Numancia,1-1,1-1
-2015-09-26,Lugo,Zaragoza,0-0,0-0
-2015-09-26,Mallorca,Huesca,0-1,0-0
-2015-09-26,Osasuna,Cordoba,0-0,0-0
-2015-09-26,Ponferradina,Ath Bilbao B,1-0,0-0
-2015-09-27,Alaves,Leganes,0-0,0-0
-2015-09-27,Albacete,Almeria,3-0,2-0
-2015-09-27,Elche,Oviedo,1-1,1-0
-2015-09-27,Girona,Llagostera,2-2,1-0
-2015-09-27,Tenerife,Mirandes,3-0,1-0
-2015-09-27,Valladolid,Gimnastic,0-0,0-0
-2015-10-03,Almeria,Tenerife,2-2,0-1
-2015-10-03,Cordoba,Ath Bilbao B,1-0,1-0
-2015-10-03,Gimnastic,Alcorcon,0-2,0-0
-2015-10-03,Numancia,Ponferradina,1-0,1-0
-2015-10-03,Zaragoza,Alaves,1-0,1-0
-2015-10-04,Huesca,Valladolid,1-1,0-1
-2015-10-04,Leganes,Albacete,3-2,0-1
-2015-10-04,Llagostera,Elche,4-1,2-0
-2015-10-04,Mirandes,Girona,1-0,0-0
-2015-10-04,Osasuna,Lugo,4-0,3-0
-2015-10-04,Oviedo,Mallorca,1-1,1-1
-2015-10-10,Alaves,Osasuna,3-0,1-0
-2015-10-10,Ath Bilbao B,Numancia,0-0,0-0
-2015-10-10,Elche,Mirandes,1-4,0-0
-2015-10-10,Ponferradina,Gimnastic,2-2,0-0
-2015-10-10,Tenerife,Leganes,0-0,0-0
-2015-10-11,Albacete,Zaragoza,1-3,0-3
-2015-10-11,Alcorcon,Huesca,0-1,0-0
-2015-10-11,Girona,Almeria,1-1,1-1
-2015-10-11,Lugo,Cordoba,1-2,1-1
-2015-10-11,Mallorca,Llagostera,1-0,0-0
-2015-10-11,Valladolid,Oviedo,2-3,1-2
-2015-10-17,Gimnastic,Ath Bilbao B,2-1,1-0
-2015-10-17,Leganes,Girona,2-2,1-0
-2015-10-17,Mirandes,Mallorca,2-2,2-0
-2015-10-17,Osasuna,Albacete,1-0,1-0
-2015-10-17,Oviedo,Alcorcon,3-2,1-0
-2015-10-18,Almeria,Elche,2-3,1-1
-2015-10-18,Cordoba,Numancia,3-2,2-1
-2015-10-18,Huesca,Ponferradina,1-1,1-0
-2015-10-18,Llagostera,Valladolid,3-1,1-0
-2015-10-18,Lugo,Alaves,1-0,1-0
-2015-10-18,Zaragoza,Tenerife,2-0,1-0
-2015-10-24,Alaves,Cordoba,3-2,1-2
-2015-10-24,Alcorcon,Llagostera,6-1,5-0
-2015-10-24,Ath Bilbao B,Huesca,0-0,0-0
-2015-10-24,Elche,Leganes,0-0,0-0
-2015-10-24,Girona,Zaragoza,0-0,0-0
-2015-10-25,Albacete,Lugo,2-0,1-0
-2015-10-25,Mallorca,Almeria,1-0,0-0
-2015-10-25,Numancia,Gimnastic,1-1,0-0
-2015-10-25,Ponferradina,Oviedo,4-2,2-1
-2015-10-25,Tenerife,Osasuna,2-2,1-1
-2015-10-25,Valladolid,Mirandes,2-1,2-0
-2015-10-31,Cordoba,Gimnastic,2-0,2-0
-2015-10-31,Huesca,Numancia,2-0,1-0
-2015-10-31,Llagostera,Ponferradina,0-1,0-0
-2015-10-31,Lugo,Tenerife,2-0,2-0
-2015-10-31,Mirandes,Alcorcon,3-0,2-0
-2015-11-01,Alaves,Albacete,1-1,1-1
-2015-11-01,Almeria,Valladolid,1-1,0-0
-2015-11-01,Leganes,Mallorca,0-0,0-0
-2015-11-01,Osasuna,Girona,0-1,0-1
-2015-11-01,Oviedo,Ath Bilbao B,0-0,0-0
-2015-11-01,Zaragoza,Elche,2-0,0-0
-2015-11-07,Mallorca,Zaragoza,0-0,0-0
-2015-11-07,Ponferradina,Mirandes,2-2,1-1
-2015-11-07,Tenerife,Alaves,2-0,0-0
-2015-11-07,Valladolid,Leganes,1-1,1-0
-2015-11-08,Albacete,Cordoba,2-0,0-0
-2015-11-08,Alcorcon,Almeria,0-0,0-0
-2015-11-08,Elche,Osasuna,2-1,1-1
-2015-11-08,Gimnastic,Huesca,2-0,2-0
-2015-11-08,Girona,Lugo,0-1,0-0
-2015-11-08,Numancia,Oviedo,1-0,0-0
-2015-11-09,Ath Bilbao B,Llagostera,2-0,1-0
-2015-11-14,Alaves,Girona,1-0,1-0
-2015-11-14,Albacete,Tenerife,1-2,1-1
-2015-11-14,Leganes,Alcorcon,3-0,2-0
-2015-11-14,Lugo,Elche,1-1,1-0
-2015-11-14,Mirandes,Ath Bilbao B,3-0,2-0
-2015-11-15,Almeria,Ponferradina,1-1,1-1
-2015-11-15,Cordoba,Huesca,1-1,0-0
-2015-11-15,Llagostera,Numancia,2-1,2-0
-2015-11-15,Osasuna,Mallorca,2-1,2-1
-2015-11-15,Oviedo,Gimnastic,2-0,2-0
-2015-11-15,Zaragoza,Valladolid,0-2,0-1
-2015-11-21,Ath Bilbao B,Almeria,0-0,0-0
-2015-11-21,Elche,Alaves,0-1,0-0
-2015-11-21,Huesca,Oviedo,0-1,0-0
-2015-11-21,Mallorca,Lugo,1-1,0-0
-2015-11-21,Numancia,Mirandes,2-2,0-1
-2015-11-22,Alcorcon,Zaragoza,1-0,1-0
-2015-11-22,Gimnastic,Llagostera,2-0,1-0
-2015-11-22,Girona,Albacete,3-0,2-0
-2015-11-22,Ponferradina,Leganes,1-0,0-0
-2015-11-22,Tenerife,Cordoba,1-1,0-0
-2015-11-22,Valladolid,Osasuna,0-1,0-0
-2015-11-28,Alaves,Mallorca,1-0,1-0
-2015-11-28,Almeria,Numancia,1-1,1-0
-2015-11-28,Leganes,Ath Bilbao B,1-0,1-0
-2015-11-28,Llagostera,Huesca,2-0,1-0
-2015-11-28,Osasuna,Alcorcon,1-2,0-1
-2015-11-29,Albacete,Elche,1-0,0-0
-2015-11-29,Cordoba,Oviedo,2-1,2-1
-2015-11-29,Lugo,Valladolid,1-1,0-0
-2015-11-29,Mirandes,Gimnastic,0-1,0-0
-2015-11-29,Tenerife,Girona,1-1,1-1
-2015-11-29,Zaragoza,Ponferradina,2-0,2-0
-2015-12-05,Alcorcon,Lugo,1-1,0-1
-2015-12-05,Elche,Tenerife,0-0,0-0
-2015-12-05,Gimnastic,Almeria,2-2,2-1
-2015-12-05,Valladolid,Alaves,1-2,0-1
-2015-12-06,Girona,Cordoba,1-2,0-0
-2015-12-06,Huesca,Mirandes,1-2,0-1
-2015-12-06,Mallorca,Albacete,2-0,0-0
-2015-12-06,Numancia,Leganes,1-2,0-1
-2015-12-06,Oviedo,Llagostera,2-1,2-1
-2015-12-06,Ponferradina,Osasuna,3-0,2-0
-2015-12-07,Ath Bilbao B,Zaragoza,0-1,0-1
-2015-12-12,Alaves,Alcorcon,1-1,0-0
-2015-12-12,Cordoba,Llagostera,2-0,1-0
-2015-12-12,Girona,Elche,0-1,0-1
-2015-12-12,Lugo,Ponferradina,3-1,1-1
-2015-12-12,Tenerife,Mallorca,2-1,0-1
-2015-12-13,Albacete,Valladolid,0-1,0-1
-2015-12-13,Almeria,Huesca,1-2,0-2
-2015-12-13,Leganes,Gimnastic,1-0,1-0
-2015-12-13,Mirandes,Oviedo,1-2,1-0
-2015-12-13,Osasuna,Ath Bilbao B,1-1,0-1
-2015-12-13,Zaragoza,Numancia,2-2,1-0
-2015-12-18,Elche,Cordoba,2-1,2-1
-2015-12-19,Gimnastic,Zaragoza,3-1,1-0
-2015-12-19,Mallorca,Girona,1-1,1-0
-2015-12-19,Numancia,Osasuna,1-3,0-0
-2015-12-19,Ponferradina,Alaves,0-1,0-0
-2015-12-20,Alcorcon,Albacete,1-0,1-0
-2015-12-20,Huesca,Leganes,1-1,0-0
-2015-12-20,Llagostera,Mirandes,0-0,0-0
-2015-12-20,Oviedo,Almeria,1-0,1-0
-2015-12-20,Valladolid,Tenerife,4-1,2-1
-2015-12-21,Ath Bilbao B,Lugo,1-1,1-1
-2016-01-02,Alaves,Ath Bilbao B,3-0,2-0
-2016-01-02,Elche,Mallorca,1-1,1-0
-2016-01-02,Osasuna,Gimnastic,1-1,0-0
-2016-01-03,Albacete,Ponferradina,2-2,1-0
-2016-01-03,Almeria,Llagostera,2-1,0-0
-2016-01-03,Cordoba,Mirandes,1-2,0-1
-2016-01-03,Leganes,Oviedo,1-1,1-0
-2016-01-03,Lugo,Numancia,2-3,1-1
-2016-01-03,Zaragoza,Huesca,3-3,1-0
-2016-01-04,Girona,Valladolid,1-0,0-0
-2016-01-04,Tenerife,Alcorcon,1-2,0-2
-2016-01-09,Alcorcon,Girona,1-0,1-0
-2016-01-09,Ath Bilbao B,Albacete,0-1,0-0
-2016-01-09,Gimnastic,Lugo,1-2,0-0
-2016-01-09,Numancia,Alaves,0-1,0-0
-2016-01-09,Valladolid,Elche,1-1,0-0
-2016-01-10,Cordoba,Mallorca,3-1,2-0
-2016-01-10,Huesca,Osasuna,0-1,0-1
-2016-01-10,Llagostera,Leganes,0-1,0-1
-2016-01-10,Mirandes,Almeria,1-1,0-0
-2016-01-10,Oviedo,Zaragoza,1-0,1-0
-2016-01-10,Ponferradina,Tenerife,0-1,0-0
-2016-01-16,Albacete,Numancia,0-2,0-1
-2016-01-16,Elche,Alcorcon,2-0,1-0
-2016-01-16,Osasuna,Oviedo,0-0,0-0
-2016-01-16,Tenerife,Ath Bilbao B,2-0,2-0
-2016-01-16,Zaragoza,Llagostera,1-0,1-0
-2016-01-17,Alaves,Gimnastic,1-3,0-1
-2016-01-17,Almeria,Cordoba,0-1,0-0
-2016-01-17,Girona,Ponferradina,4-0,1-0
-2016-01-17,Leganes,Mirandes,4-0,3-0
-2016-01-17,Lugo,Huesca,1-1,1-0
-2016-01-17,Mallorca,Valladolid,0-1,0-0
-2016-01-23,Alaves,Huesca,1-0,1-0
-2016-01-23,Girona,Ath Bilbao B,2-1,1-1
-2016-01-23,Leganes,Almeria,2-1,2-0
-2016-01-23,Lugo,Oviedo,2-2,2-2
-2016-01-23,Mallorca,Alcorcon,1-0,0-0
-2016-01-24,Albacete,Gimnastic,1-1,0-0
-2016-01-24,Elche,Ponferradina,1-0,0-0
-2016-01-24,Osasuna,Llagostera,3-0,1-0
-2016-01-24,Tenerife,Numancia,0-0,0-0
-2016-01-24,Valladolid,Cordoba,2-0,2-0
-2016-01-24,Zaragoza,Mirandes,1-2,1-1
-2016-01-30,Alcorcon,Valladolid,0-0,0-0
-2016-01-30,Cordoba,Leganes,2-3,1-0
-2016-01-30,Huesca,Albacete,3-1,1-0
-2016-01-30,Llagostera,Lugo,0-0,0-0
-2016-01-30,Oviedo,Alaves,1-1,1-0
-2016-01-31,Almeria,Zaragoza,2-1,0-0
-2016-01-31,Ath Bilbao B,Elche,0-1,0-0
-2016-01-31,Gimnastic,Tenerife,2-1,2-0
-2016-01-31,Mirandes,Osasuna,4-0,0-0
-2016-01-31,Numancia,Girona,1-1,1-0
-2016-01-31,Ponferradina,Mallorca,0-2,0-0
-2016-02-06,Albacete,Oviedo,2-2,2-0
-2016-02-06,Elche,Numancia,0-0,0-0
-2016-02-06,Tenerife,Huesca,1-1,1-0
-2016-02-06,Valladolid,Ponferradina,0-0,0-0
-2016-02-06,Zaragoza,Leganes,1-0,0-0
-2016-02-07,Alaves,Llagostera,1-0,0-0
-2016-02-07,Alcorcon,Cordoba,3-3,2-2
-2016-02-07,Girona,Gimnastic,1-1,0-1
-2016-02-07,Lugo,Mirandes,1-4,0-1
-2016-02-07,Mallorca,Ath Bilbao B,2-3,1-1
-2016-02-07,Osasuna,Almeria,0-0,0-0
-2016-02-13,Almeria,Lugo,0-2,0-0
-2016-02-13,Ath Bilbao B,Valladolid,0-1,0-1
-2016-02-13,Gimnastic,Elche,1-0,1-0
-2016-02-13,Mirandes,Alaves,0-0,0-0
-2016-02-13,Ponferradina,Alcorcon,0-0,0-0
-2016-02-14,Cordoba,Zaragoza,0-2,0-1
-2016-02-14,Huesca,Girona,0-1,0-1
-2016-02-14,Leganes,Osasuna,2-0,1-0
-2016-02-14,Llagostera,Albacete,2-0,0-0
-2016-02-14,Numancia,Mallorca,2-0,1-0
-2016-02-14,Oviedo,Tenerife,1-0,1-0
-2016-02-20,Albacete,Mirandes,1-1,1-0
-2016-02-20,Alcorcon,Ath Bilbao B,1-0,0-0
-2016-02-20,Lugo,Leganes,1-2,1-1
-2016-02-20,Mallorca,Gimnastic,2-2,0-2
-2016-02-20,Ponferradina,Cordoba,1-3,0-2
-2016-02-21,Alaves,Almeria,1-1,0-1
-2016-02-21,Elche,Huesca,1-1,0-1
-2016-02-21,Girona,Oviedo,1-1,0-0
-2016-02-21,Osasuna,Zaragoza,1-1,0-1
-2016-02-21,Tenerife,Llagostera,3-1,2-1
-2016-02-21,Valladolid,Numancia,2-2,1-1
-2016-02-27,Ath Bilbao B,Ponferradina,4-2,2-1
-2016-02-27,Cordoba,Osasuna,0-1,0-0
-2016-02-27,Llagostera,Girona,0-1,0-0
-2016-02-27,Numancia,Alcorcon,1-1,1-0
-2016-02-28,Almeria,Albacete,1-0,0-0
-2016-02-28,Gimnastic,Valladolid,1-1,1-1
-2016-02-28,Leganes,Alaves,2-0,1-0
-2016-02-28,Mirandes,Tenerife,1-2,0-1
-2016-02-28,Oviedo,Elche,3-0,0-0
-2016-02-28,Zaragoza,Lugo,3-1,0-0
-2016-03-05,Ath Bilbao B,Cordoba,1-2,0-1
-2016-03-05,Elche,Llagostera,1-1,0-0
-2016-03-05,Girona,Mirandes,2-0,0-0
-2016-03-05,Lugo,Osasuna,2-0,0-0
-2016-03-05,Mallorca,Oviedo,1-0,0-0
-2016-03-06,Alaves,Zaragoza,0-0,0-0
-2016-03-06,Albacete,Leganes,0-3,0-2
-2016-03-06,Alcorcon,Gimnastic,1-1,0-0
-2016-03-06,Ponferradina,Numancia,1-0,0-0
-2016-03-06,Tenerife,Almeria,0-0,0-0
-2016-03-06,Valladolid,Huesca,0-1,0-1
-2016-03-12,Almeria,Girona,1-0,1-0
-2016-03-12,Mirandes,Elche,1-2,1-0
-2016-03-12,Numancia,Ath Bilbao B,3-2,1-1
-2016-03-12,Oviedo,Valladolid,2-4,1-3
-2016-03-12,Zaragoza,Albacete,1-0,0-0
-2016-03-13,Cordoba,Lugo,1-2,0-2
-2016-03-13,Gimnastic,Ponferradina,1-1,0-1
-2016-03-13,Huesca,Alcorcon,1-0,1-0
-2016-03-13,Leganes,Tenerife,0-1,0-0
-2016-03-13,Llagostera,Mallorca,3-0,1-0
-2016-03-13,Osasuna,Alaves,3-1,3-1
-2016-03-16,Huesca,Mallorca,1-2,0-2
-2016-03-19,Alaves,Lugo,0-0,0-0
-2016-03-19,Albacete,Osasuna,3-1,2-1
-2016-03-19,Alcorcon,Oviedo,1-0,0-0
-2016-03-19,Elche,Almeria,0-0,0-0
-2016-03-19,Valladolid,Llagostera,3-0,1-0
-2016-03-20,Ath Bilbao B,Gimnastic,0-4,0-1
-2016-03-20,Girona,Leganes,1-1,0-0
-2016-03-20,Mallorca,Mirandes,1-1,1-1
-2016-03-20,Numancia,Cordoba,1-1,1-1
-2016-03-20,Ponferradina,Huesca,2-1,1-0
-2016-03-20,Tenerife,Zaragoza,0-0,0-0
-2016-03-26,Gimnastic,Numancia,1-0,0-0
-2016-03-26,Huesca,Ath Bilbao B,1-2,0-0
-2016-03-26,Leganes,Elche,0-0,0-0
-2016-03-26,Osasuna,Tenerife,0-0,0-0
-2016-03-26,Oviedo,Ponferradina,3-0,2-0
-2016-03-27,Almeria,Mallorca,1-1,0-0
-2016-03-27,Cordoba,Alaves,1-2,0-0
-2016-03-27,Llagostera,Alcorcon,4-0,3-0
-2016-03-27,Lugo,Albacete,2-1,1-0
-2016-03-27,Mirandes,Valladolid,4-1,2-0
-2016-03-27,Zaragoza,Girona,0-3,0-2
-2016-04-02,Alcorcon,Mirandes,1-0,0-0
-2016-04-02,Elche,Zaragoza,2-1,1-1
-2016-04-02,Mallorca,Leganes,3-0,0-0
-2016-04-02,Ponferradina,Llagostera,1-0,0-0
-2016-04-03,Albacete,Alaves,0-1,0-0
-2016-04-03,Gimnastic,Cordoba,4-4,2-3
-2016-04-03,Girona,Osasuna,0-0,0-0
-2016-04-03,Numancia,Huesca,3-2,1-1
-2016-04-03,Tenerife,Lugo,1-0,0-0
-2016-04-03,Valladolid,Almeria,1-1,0-0
-2016-04-04,Ath Bilbao B,Oviedo,2-1,1-1
-2016-04-09,Almeria,Alcorcon,1-1,1-1
-2016-04-09,Leganes,Valladolid,4-0,2-0
-2016-04-09,Llagostera,Ath Bilbao B,2-1,0-0
-2016-04-09,Lugo,Girona,1-1,1-1
-2016-04-09,Mirandes,Ponferradina,1-0,1-0
-2016-04-10,Alaves,Tenerife,2-2,1-1
-2016-04-10,Cordoba,Albacete,2-3,0-1
-2016-04-10,Huesca,Gimnastic,2-0,1-0
-2016-04-10,Osasuna,Elche,0-0,0-0
-2016-04-10,Oviedo,Numancia,1-0,0-0
-2016-04-10,Zaragoza,Mallorca,2-1,1-1
-2016-04-16,Ath Bilbao B,Mirandes,1-1,0-0
-2016-04-16,Elche,Lugo,2-0,1-0
-2016-04-16,Girona,Alaves,1-0,1-0
-2016-04-16,Numancia,Llagostera,1-1,0-0
-2016-04-16,Valladolid,Zaragoza,1-2,1-1
-2016-04-17,Alcorcon,Leganes,2-0,1-0
-2016-04-17,Gimnastic,Oviedo,0-0,0-0
-2016-04-17,Huesca,Cordoba,0-2,0-1
-2016-04-17,Mallorca,Osasuna,1-1,1-0
-2016-04-17,Ponferradina,Almeria,1-3,0-2
-2016-04-17,Tenerife,Albacete,1-0,0-0
-2016-04-23,Alaves,Elche,0-0,0-0
-2016-04-23,Albacete,Girona,0-3,0-1
-2016-04-23,Leganes,Ponferradina,3-0,1-0
-2016-04-23,Llagostera,Gimnastic,1-1,0-0
-2016-04-23,Oviedo,Huesca,0-1,0-0
-2016-04-24,Almeria,Ath Bilbao B,3-2,1-1
-2016-04-24,Cordoba,Tenerife,0-0,0-0
-2016-04-24,Lugo,Mallorca,2-1,1-0
-2016-04-24,Mirandes,Numancia,0-2,0-2
-2016-04-24,Osasuna,Valladolid,1-0,1-0
-2016-04-24,Zaragoza,Alcorcon,3-1,2-1
-2016-04-30,Alcorcon,Osasuna,0-1,0-1
-2016-04-30,Huesca,Llagostera,3-1,3-0
-2016-04-30,Mallorca,Alaves,0-0,0-0
-2016-04-30,Numancia,Almeria,2-0,1-0
-2016-05-01,Elche,Albacete,1-1,0-0
-2016-05-01,Gimnastic,Mirandes,3-2,0-1
-2016-05-01,Girona,Tenerife,1-0,0-0
-2016-05-01,Oviedo,Cordoba,1-0,1-0
-2016-05-01,Ponferradina,Zaragoza,1-1,0-0
-2016-05-01,Valladolid,Lugo,1-1,0-0
-2016-05-02,Ath Bilbao B,Leganes,1-2,1-0
-2016-05-07,Almeria,Gimnastic,1-2,1-1
-2016-05-07,Llagostera,Oviedo,2-0,1-0
-2016-05-07,Lugo,Alcorcon,1-2,1-1
-2016-05-07,Osasuna,Ponferradina,0-0,0-0
-2016-05-07,Tenerife,Elche,1-1,0-0
-2016-05-08,Alaves,Valladolid,2-1,0-0
-2016-05-08,Albacete,Mallorca,1-0,0-0
-2016-05-08,Cordoba,Girona,1-0,0-0
-2016-05-08,Leganes,Numancia,2-2,0-1
-2016-05-08,Mirandes,Huesca,1-0,1-0
-2016-05-08,Zaragoza,Ath Bilbao B,2-0,1-0
-2016-05-14,Mallorca,Tenerife,1-0,0-0
-2016-05-14,Numancia,Zaragoza,2-2,1-2
-2016-05-14,Oviedo,Mirandes,4-1,1-0
-2016-05-14,Valladolid,Albacete,1-0,1-0
-2016-05-15,Alcorcon,Alaves,0-1,0-0
-2016-05-15,Ath Bilbao B,Osasuna,0-0,0-0
-2016-05-15,Elche,Girona,1-1,0-1
-2016-05-15,Gimnastic,Leganes,0-0,0-0
-2016-05-15,Huesca,Almeria,2-1,0-1
-2016-05-15,Llagostera,Cordoba,1-0,1-0
-2016-05-15,Ponferradina,Lugo,2-1,1-0
-2016-05-21,Albacete,Alcorcon,0-2,0-0
-2016-05-21,Cordoba,Elche,3-1,1-0
-2016-05-21,Girona,Mallorca,1-0,0-0
-2016-05-21,Leganes,Huesca,2-3,1-1
-2016-05-21,Tenerife,Valladolid,3-1,2-0
-2016-05-22,Alaves,Ponferradina,2-0,2-0
-2016-05-22,Almeria,Oviedo,3-1,0-0
-2016-05-22,Lugo,Ath Bilbao B,2-0,1-0
-2016-05-22,Mirandes,Llagostera,0-0,0-0
-2016-05-22,Osasuna,Numancia,3-2,1-2
-2016-05-22,Zaragoza,Gimnastic,0-1,0-0
-2016-05-24,Alcorcon,Tenerife,2-1,1-0
-2016-05-24,Mallorca,Elche,2-1,1-0
-2016-05-24,Valladolid,Girona,0-0,0-0
-2016-05-25,Gimnastic,Osasuna,1-0,0-0
-2016-05-25,Llagostera,Almeria,0-0,0-0
-2016-05-25,Mirandes,Cordoba,0-3,0-0
-2016-05-25,Numancia,Lugo,1-0,1-0
-2016-05-25,Ponferradina,Albacete,2-1,0-0
-2016-05-26,Ath Bilbao B,Alaves,2-3,0-2
-2016-05-26,Huesca,Zaragoza,1-1,0-1
-2016-05-26,Oviedo,Leganes,0-1,0-0
-2016-05-29,Alaves,Numancia,2-0,2-0
-2016-05-29,Albacete,Ath Bilbao B,2-1,0-0
-2016-05-29,Almeria,Mirandes,2-1,1-0
-2016-05-29,Elche,Valladolid,2-2,1-1
-2016-05-29,Girona,Alcorcon,2-0,1-0
-2016-05-29,Leganes,Llagostera,2-0,1-0
-2016-05-29,Lugo,Gimnastic,0-3,0-2
-2016-05-29,Mallorca,Cordoba,0-1,0-1
-2016-05-29,Osasuna,Huesca,2-3,1-2
-2016-05-29,Tenerife,Ponferradina,1-1,0-0
-2016-05-29,Zaragoza,Oviedo,1-0,1-0
-2016-06-04,Alcorcon ,Elche,4-1,2-0
-2016-06-04,Ath Bilbao B ,Tenerife,2-0,1-0
-2016-06-04,Cordoba ,Almeria,1-1,0-1
-2016-06-04,Gimnastic ,Alaves,1-1,0-0
-2016-06-04,Huesca ,Lugo,1-0,0-0
-2016-06-04,Llagostera ,Zaragoza,6-2,2-0
-2016-06-04,Mirandes ,Leganes,0-1,0-0
-2016-06-04,Numancia ,Albacete,2-0,0-0
-2016-06-04,Oviedo ,Osasuna,0-5,0-1
-2016-06-04,Ponferradina ,Girona,0-1,0-0
-2016-06-04,Valladolid ,Mallorca,1-3,1-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 22 Aug 2015 (33),Alcorcon (1),2-0,1-0,Mallorca (1)
+?,(Sat) 22 Aug 2015 (33),Cordoba (1),1-0,0-0,Valladolid (1)
+?,(Sat) 22 Aug 2015 (33),Huesca (1),2-3,0-1,Alaves (1)
+?,(Sat) 22 Aug 2015 (33),Llagostera (1),0-2,0-0,Osasuna (1)
+?,(Sun) 23 Aug 2015 (33),Almeria (1),3-2,3-0,Leganes (1)
+?,(Sun) 23 Aug 2015 (33),Gimnastic (1),2-2,0-0,Albacete (1)
+?,(Sun) 23 Aug 2015 (33),Mirandes (1),1-1,0-0,Zaragoza (1)
+?,(Sun) 23 Aug 2015 (33),Numancia (1),6-3,1-2,Tenerife (1)
+?,(Sun) 23 Aug 2015 (33),Oviedo (1),2-2,1-1,Lugo (1)
+?,(Sun) 23 Aug 2015 (33),Ponferradina (1),2-0,0-0,Elche (1)
+?,(Mon) 24 Aug 2015 (34),Ath Bilbao B (1),0-1,0-0,Girona (1)
+?,(Sat) 29 Aug 2015 (34),Albacete (2),1-1,1-1,Huesca (2)
+?,(Sat) 29 Aug 2015 (34),Girona (2),2-3,1-1,Numancia (2)
+?,(Sat) 29 Aug 2015 (34),Leganes (2),3-1,2-0,Cordoba (2)
+?,(Sat) 29 Aug 2015 (34),Lugo (2),1-0,0-0,Llagostera (2)
+?,(Sat) 29 Aug 2015 (34),Zaragoza (2),3-2,1-1,Almeria (2)
+?,(Sun) 30 Aug 2015 (34),Alaves (2),2-0,2-0,Oviedo (2)
+?,(Sun) 30 Aug 2015 (34),Elche (2),2-1,0-0,Ath Bilbao B (2)
+?,(Sun) 30 Aug 2015 (34),Mallorca (2),1-0,1-0,Ponferradina (2)
+?,(Sun) 30 Aug 2015 (34),Osasuna (2),1-0,0-0,Mirandes (2)
+?,(Sun) 30 Aug 2015 (34),Tenerife (2),1-2,0-0,Gimnastic (2)
+?,(Sun) 30 Aug 2015 (34),Valladolid (2),2-0,0-0,Alcorcon (2)
+?,(Sat) 5 Sep 2015 (35),Gimnastic (3),1-0,0-0,Girona (3)
+?,(Sat) 5 Sep 2015 (35),Huesca (3),1-1,1-1,Tenerife (3)
+?,(Sat) 5 Sep 2015 (35),Mirandes (3),1-1,0-1,Lugo (3)
+?,(Sat) 5 Sep 2015 (35),Numancia (3),0-0,0-0,Elche (3)
+?,(Sun) 6 Sep 2015 (35),Almeria (3),2-1,0-1,Osasuna (3)
+?,(Sun) 6 Sep 2015 (35),Ath Bilbao B (3),3-1,1-1,Mallorca (3)
+?,(Sun) 6 Sep 2015 (35),Cordoba (3),1-3,1-1,Alcorcon (3)
+?,(Sun) 6 Sep 2015 (35),Leganes (3),1-1,1-0,Zaragoza (3)
+?,(Sun) 6 Sep 2015 (35),Llagostera (3),3-0,1-0,Alaves (3)
+?,(Sun) 6 Sep 2015 (35),Oviedo (3),3-1,2-1,Albacete (3)
+?,(Sun) 6 Sep 2015 (35),Ponferradina (3),3-0,1-0,Valladolid (3)
+?,(Sat) 12 Sep 2015 (36),Alaves (4),2-3,0-2,Mirandes (4)
+?,(Sat) 12 Sep 2015 (36),Elche (4),1-0,1-0,Gimnastic (4)
+?,(Sat) 12 Sep 2015 (36),Osasuna (4),2-1,1-0,Leganes (4)
+?,(Sat) 12 Sep 2015 (36),Valladolid (4),1-0,1-0,Ath Bilbao B (4)
+?,(Sat) 12 Sep 2015 (36),Zaragoza (4),0-1,0-1,Cordoba (4)
+?,(Sun) 13 Sep 2015 (36),Albacete (4),1-0,1-0,Llagostera (4)
+?,(Sun) 13 Sep 2015 (36),Alcorcon (4),1-0,0-0,Ponferradina (4)
+?,(Sun) 13 Sep 2015 (36),Girona (4),0-0,0-0,Huesca (4)
+?,(Sun) 13 Sep 2015 (36),Lugo (4),1-0,0-0,Almeria (4)
+?,(Sun) 13 Sep 2015 (36),Mallorca (4),0-0,0-0,Numancia (4)
+?,(Sun) 13 Sep 2015 (36),Tenerife (4),0-2,0-1,Oviedo (4)
+?,(Sat) 19 Sep 2015 (37),Ath Bilbao B (5),1-0,0-0,Alcorcon (5)
+?,(Sat) 19 Sep 2015 (37),Leganes (5),0-0,0-0,Lugo (5)
+?,(Sat) 19 Sep 2015 (37),Llagostera (5),0-2,0-0,Tenerife (5)
+?,(Sat) 19 Sep 2015 (37),Mirandes (5),1-1,1-0,Albacete (5)
+?,(Sat) 19 Sep 2015 (37),Oviedo (5),1-2,1-1,Girona (5)
+?,(Sun) 20 Sep 2015 (37),Almeria (5),0-2,0-1,Alaves (5)
+?,(Sun) 20 Sep 2015 (37),Cordoba (5),1-0,1-0,Ponferradina (5)
+?,(Sun) 20 Sep 2015 (37),Gimnastic (5),1-0,1-0,Mallorca (5)
+?,(Sun) 20 Sep 2015 (37),Huesca (5),1-3,0-1,Elche (5)
+?,(Sun) 20 Sep 2015 (37),Numancia (5),2-2,0-1,Valladolid (5)
+?,(Sun) 20 Sep 2015 (37),Zaragoza (5),0-1,0-1,Osasuna (5)
+?,(Sat) 26 Sep 2015 (38),Alcorcon (6),1-1,1-1,Numancia (6)
+?,(Sat) 26 Sep 2015 (38),Lugo (6),0-0,0-0,Zaragoza (6)
+?,(Sat) 26 Sep 2015 (38),Mallorca (6),0-1,0-0,Huesca (6)
+?,(Sat) 26 Sep 2015 (38),Osasuna (6),0-0,0-0,Cordoba (6)
+?,(Sat) 26 Sep 2015 (38),Ponferradina (6),1-0,0-0,Ath Bilbao B (6)
+?,(Sun) 27 Sep 2015 (38),Alaves (6),0-0,0-0,Leganes (6)
+?,(Sun) 27 Sep 2015 (38),Albacete (6),3-0,2-0,Almeria (6)
+?,(Sun) 27 Sep 2015 (38),Elche (6),1-1,1-0,Oviedo (6)
+?,(Sun) 27 Sep 2015 (38),Girona (6),2-2,1-0,Llagostera (6)
+?,(Sun) 27 Sep 2015 (38),Tenerife (6),3-0,1-0,Mirandes (6)
+?,(Sun) 27 Sep 2015 (38),Valladolid (6),0-0,0-0,Gimnastic (6)
+?,(Sat) 3 Oct 2015 (39),Almeria (7),2-2,0-1,Tenerife (7)
+?,(Sat) 3 Oct 2015 (39),Cordoba (7),1-0,1-0,Ath Bilbao B (7)
+?,(Sat) 3 Oct 2015 (39),Gimnastic (7),0-2,0-0,Alcorcon (7)
+?,(Sat) 3 Oct 2015 (39),Numancia (7),1-0,1-0,Ponferradina (7)
+?,(Sat) 3 Oct 2015 (39),Zaragoza (7),1-0,1-0,Alaves (7)
+?,(Sun) 4 Oct 2015 (39),Huesca (7),1-1,0-1,Valladolid (7)
+?,(Sun) 4 Oct 2015 (39),Leganes (7),3-2,0-1,Albacete (7)
+?,(Sun) 4 Oct 2015 (39),Llagostera (7),4-1,2-0,Elche (7)
+?,(Sun) 4 Oct 2015 (39),Mirandes (7),1-0,0-0,Girona (7)
+?,(Sun) 4 Oct 2015 (39),Osasuna (7),4-0,3-0,Lugo (7)
+?,(Sun) 4 Oct 2015 (39),Oviedo (7),1-1,1-1,Mallorca (7)
+?,(Sat) 10 Oct 2015 (40),Alaves (8),3-0,1-0,Osasuna (8)
+?,(Sat) 10 Oct 2015 (40),Ath Bilbao B (8),0-0,0-0,Numancia (8)
+?,(Sat) 10 Oct 2015 (40),Elche (8),1-4,0-0,Mirandes (8)
+?,(Sat) 10 Oct 2015 (40),Ponferradina (8),2-2,0-0,Gimnastic (8)
+?,(Sat) 10 Oct 2015 (40),Tenerife (8),0-0,0-0,Leganes (8)
+?,(Sun) 11 Oct 2015 (40),Albacete (8),1-3,0-3,Zaragoza (8)
+?,(Sun) 11 Oct 2015 (40),Alcorcon (8),0-1,0-0,Huesca (8)
+?,(Sun) 11 Oct 2015 (40),Girona (8),1-1,1-1,Almeria (8)
+?,(Sun) 11 Oct 2015 (40),Lugo (8),1-2,1-1,Cordoba (8)
+?,(Sun) 11 Oct 2015 (40),Mallorca (8),1-0,0-0,Llagostera (8)
+?,(Sun) 11 Oct 2015 (40),Valladolid (8),2-3,1-2,Oviedo (8)
+?,(Sat) 17 Oct 2015 (41),Gimnastic (9),2-1,1-0,Ath Bilbao B (9)
+?,(Sat) 17 Oct 2015 (41),Leganes (9),2-2,1-0,Girona (9)
+?,(Sat) 17 Oct 2015 (41),Mirandes (9),2-2,2-0,Mallorca (9)
+?,(Sat) 17 Oct 2015 (41),Osasuna (9),1-0,1-0,Albacete (9)
+?,(Sat) 17 Oct 2015 (41),Oviedo (9),3-2,1-0,Alcorcon (9)
+?,(Sun) 18 Oct 2015 (41),Almeria (9),2-3,1-1,Elche (9)
+?,(Sun) 18 Oct 2015 (41),Cordoba (9),3-2,2-1,Numancia (9)
+?,(Sun) 18 Oct 2015 (41),Huesca (9),1-1,1-0,Ponferradina (9)
+?,(Sun) 18 Oct 2015 (41),Llagostera (9),3-1,1-0,Valladolid (9)
+?,(Sun) 18 Oct 2015 (41),Lugo (9),1-0,1-0,Alaves (9)
+?,(Sun) 18 Oct 2015 (41),Zaragoza (9),2-0,1-0,Tenerife (9)
+?,(Sat) 24 Oct 2015 (42),Alaves (10),3-2,1-2,Cordoba (10)
+?,(Sat) 24 Oct 2015 (42),Alcorcon (10),6-1,5-0,Llagostera (10)
+?,(Sat) 24 Oct 2015 (42),Ath Bilbao B (10),0-0,0-0,Huesca (10)
+?,(Sat) 24 Oct 2015 (42),Elche (10),0-0,0-0,Leganes (10)
+?,(Sat) 24 Oct 2015 (42),Girona (10),0-0,0-0,Zaragoza (10)
+?,(Sun) 25 Oct 2015 (42),Albacete (10),2-0,1-0,Lugo (10)
+?,(Sun) 25 Oct 2015 (42),Mallorca (10),1-0,0-0,Almeria (10)
+?,(Sun) 25 Oct 2015 (42),Numancia (10),1-1,0-0,Gimnastic (10)
+?,(Sun) 25 Oct 2015 (42),Ponferradina (10),4-2,2-1,Oviedo (10)
+?,(Sun) 25 Oct 2015 (42),Tenerife (10),2-2,1-1,Osasuna (10)
+?,(Sun) 25 Oct 2015 (42),Valladolid (10),2-1,2-0,Mirandes (10)
+?,(Sat) 31 Oct 2015 (43),Cordoba (11),2-0,2-0,Gimnastic (11)
+?,(Sat) 31 Oct 2015 (43),Huesca (11),2-0,1-0,Numancia (11)
+?,(Sat) 31 Oct 2015 (43),Llagostera (11),0-1,0-0,Ponferradina (11)
+?,(Sat) 31 Oct 2015 (43),Lugo (11),2-0,2-0,Tenerife (11)
+?,(Sat) 31 Oct 2015 (43),Mirandes (11),3-0,2-0,Alcorcon (11)
+?,(Sun) 1 Nov 2015 (43),Alaves (11),1-1,1-1,Albacete (11)
+?,(Sun) 1 Nov 2015 (43),Almeria (11),1-1,0-0,Valladolid (11)
+?,(Sun) 1 Nov 2015 (43),Leganes (11),0-0,0-0,Mallorca (11)
+?,(Sun) 1 Nov 2015 (43),Osasuna (11),0-1,0-1,Girona (11)
+?,(Sun) 1 Nov 2015 (43),Oviedo (11),0-0,0-0,Ath Bilbao B (11)
+?,(Sun) 1 Nov 2015 (43),Zaragoza (11),2-0,0-0,Elche (11)
+?,(Sat) 7 Nov 2015 (44),Mallorca (12),0-0,0-0,Zaragoza (12)
+?,(Sat) 7 Nov 2015 (44),Ponferradina (12),2-2,1-1,Mirandes (12)
+?,(Sat) 7 Nov 2015 (44),Tenerife (12),2-0,0-0,Alaves (12)
+?,(Sat) 7 Nov 2015 (44),Valladolid (12),1-1,1-0,Leganes (12)
+?,(Sun) 8 Nov 2015 (44),Albacete (12),2-0,0-0,Cordoba (12)
+?,(Sun) 8 Nov 2015 (44),Alcorcon (12),0-0,0-0,Almeria (12)
+?,(Sun) 8 Nov 2015 (44),Elche (12),2-1,1-1,Osasuna (12)
+?,(Sun) 8 Nov 2015 (44),Gimnastic (12),2-0,2-0,Huesca (12)
+?,(Sun) 8 Nov 2015 (44),Girona (12),0-1,0-0,Lugo (12)
+?,(Sun) 8 Nov 2015 (44),Numancia (12),1-0,0-0,Oviedo (12)
+?,(Mon) 9 Nov 2015 (45),Ath Bilbao B (12),2-0,1-0,Llagostera (12)
+?,(Sat) 14 Nov 2015 (45),Alaves (13),1-0,1-0,Girona (13)
+?,(Sat) 14 Nov 2015 (45),Albacete (13),1-2,1-1,Tenerife (13)
+?,(Sat) 14 Nov 2015 (45),Leganes (13),3-0,2-0,Alcorcon (13)
+?,(Sat) 14 Nov 2015 (45),Lugo (13),1-1,1-0,Elche (13)
+?,(Sat) 14 Nov 2015 (45),Mirandes (13),3-0,2-0,Ath Bilbao B (13)
+?,(Sun) 15 Nov 2015 (45),Almeria (13),1-1,1-1,Ponferradina (13)
+?,(Sun) 15 Nov 2015 (45),Cordoba (13),1-1,0-0,Huesca (13)
+?,(Sun) 15 Nov 2015 (45),Llagostera (13),2-1,2-0,Numancia (13)
+?,(Sun) 15 Nov 2015 (45),Osasuna (13),2-1,2-1,Mallorca (13)
+?,(Sun) 15 Nov 2015 (45),Oviedo (13),2-0,2-0,Gimnastic (13)
+?,(Sun) 15 Nov 2015 (45),Zaragoza (13),0-2,0-1,Valladolid (13)
+?,(Sat) 21 Nov 2015 (46),Ath Bilbao B (14),0-0,0-0,Almeria (14)
+?,(Sat) 21 Nov 2015 (46),Elche (14),0-1,0-0,Alaves (14)
+?,(Sat) 21 Nov 2015 (46),Huesca (14),0-1,0-0,Oviedo (14)
+?,(Sat) 21 Nov 2015 (46),Mallorca (14),1-1,0-0,Lugo (14)
+?,(Sat) 21 Nov 2015 (46),Numancia (14),2-2,0-1,Mirandes (14)
+?,(Sun) 22 Nov 2015 (46),Alcorcon (14),1-0,1-0,Zaragoza (14)
+?,(Sun) 22 Nov 2015 (46),Gimnastic (14),2-0,1-0,Llagostera (14)
+?,(Sun) 22 Nov 2015 (46),Girona (14),3-0,2-0,Albacete (14)
+?,(Sun) 22 Nov 2015 (46),Ponferradina (14),1-0,0-0,Leganes (14)
+?,(Sun) 22 Nov 2015 (46),Tenerife (14),1-1,0-0,Cordoba (14)
+?,(Sun) 22 Nov 2015 (46),Valladolid (14),0-1,0-0,Osasuna (14)
+?,(Sat) 28 Nov 2015 (47),Alaves (15),1-0,1-0,Mallorca (15)
+?,(Sat) 28 Nov 2015 (47),Almeria (15),1-1,1-0,Numancia (15)
+?,(Sat) 28 Nov 2015 (47),Leganes (15),1-0,1-0,Ath Bilbao B (15)
+?,(Sat) 28 Nov 2015 (47),Llagostera (15),2-0,1-0,Huesca (15)
+?,(Sat) 28 Nov 2015 (47),Osasuna (15),1-2,0-1,Alcorcon (15)
+?,(Sun) 29 Nov 2015 (47),Albacete (15),1-0,0-0,Elche (15)
+?,(Sun) 29 Nov 2015 (47),Cordoba (15),2-1,2-1,Oviedo (15)
+?,(Sun) 29 Nov 2015 (47),Lugo (15),1-1,0-0,Valladolid (15)
+?,(Sun) 29 Nov 2015 (47),Mirandes (15),0-1,0-0,Gimnastic (15)
+?,(Sun) 29 Nov 2015 (47),Tenerife (15),1-1,1-1,Girona (15)
+?,(Sun) 29 Nov 2015 (47),Zaragoza (15),2-0,2-0,Ponferradina (15)
+?,(Sat) 5 Dec 2015 (48),Alcorcon (16),1-1,0-1,Lugo (16)
+?,(Sat) 5 Dec 2015 (48),Elche (16),0-0,0-0,Tenerife (16)
+?,(Sat) 5 Dec 2015 (48),Gimnastic (16),2-2,2-1,Almeria (16)
+?,(Sat) 5 Dec 2015 (48),Valladolid (16),1-2,0-1,Alaves (16)
+?,(Sun) 6 Dec 2015 (48),Girona (16),1-2,0-0,Cordoba (16)
+?,(Sun) 6 Dec 2015 (48),Huesca (16),1-2,0-1,Mirandes (16)
+?,(Sun) 6 Dec 2015 (48),Mallorca (16),2-0,0-0,Albacete (16)
+?,(Sun) 6 Dec 2015 (48),Numancia (16),1-2,0-1,Leganes (16)
+?,(Sun) 6 Dec 2015 (48),Oviedo (16),2-1,2-1,Llagostera (16)
+?,(Sun) 6 Dec 2015 (48),Ponferradina (16),3-0,2-0,Osasuna (16)
+?,(Mon) 7 Dec 2015 (49),Ath Bilbao B (16),0-1,0-1,Zaragoza (16)
+?,(Sat) 12 Dec 2015 (49),Alaves (17),1-1,0-0,Alcorcon (17)
+?,(Sat) 12 Dec 2015 (49),Cordoba (17),2-0,1-0,Llagostera (17)
+?,(Sat) 12 Dec 2015 (49),Girona (17),0-1,0-1,Elche (17)
+?,(Sat) 12 Dec 2015 (49),Lugo (17),3-1,1-1,Ponferradina (17)
+?,(Sat) 12 Dec 2015 (49),Tenerife (17),2-1,0-1,Mallorca (17)
+?,(Sun) 13 Dec 2015 (49),Albacete (17),0-1,0-1,Valladolid (17)
+?,(Sun) 13 Dec 2015 (49),Almeria (17),1-2,0-2,Huesca (17)
+?,(Sun) 13 Dec 2015 (49),Leganes (17),1-0,1-0,Gimnastic (17)
+?,(Sun) 13 Dec 2015 (49),Mirandes (17),1-2,1-0,Oviedo (17)
+?,(Sun) 13 Dec 2015 (49),Osasuna (17),1-1,0-1,Ath Bilbao B (17)
+?,(Sun) 13 Dec 2015 (49),Zaragoza (17),2-2,1-0,Numancia (17)
+?,(Fri) 18 Dec 2015 (50),Elche (18),2-1,2-1,Cordoba (18)
+?,(Sat) 19 Dec 2015 (50),Gimnastic (18),3-1,1-0,Zaragoza (18)
+?,(Sat) 19 Dec 2015 (50),Mallorca (18),1-1,1-0,Girona (18)
+?,(Sat) 19 Dec 2015 (50),Numancia (18),1-3,0-0,Osasuna (18)
+?,(Sat) 19 Dec 2015 (50),Ponferradina (18),0-1,0-0,Alaves (18)
+?,(Sun) 20 Dec 2015 (50),Alcorcon (18),1-0,1-0,Albacete (18)
+?,(Sun) 20 Dec 2015 (50),Huesca (18),1-1,0-0,Leganes (18)
+?,(Sun) 20 Dec 2015 (50),Llagostera (18),0-0,0-0,Mirandes (18)
+?,(Sun) 20 Dec 2015 (50),Oviedo (18),1-0,1-0,Almeria (18)
+?,(Sun) 20 Dec 2015 (50),Valladolid (18),4-1,2-1,Tenerife (18)
+?,(Mon) 21 Dec 2015 (51),Ath Bilbao B (18),1-1,1-1,Lugo (18)
+?,(Sat) 2 Jan 2016 (0),Alaves (19),3-0,2-0,Ath Bilbao B (19)
+?,(Sat) 2 Jan 2016 (0),Elche (19),1-1,1-0,Mallorca (19)
+?,(Sat) 2 Jan 2016 (0),Osasuna (19),1-1,0-0,Gimnastic (19)
+?,(Sun) 3 Jan 2016 (0),Albacete (19),2-2,1-0,Ponferradina (19)
+?,(Sun) 3 Jan 2016 (0),Almeria (19),2-1,0-0,Llagostera (19)
+?,(Sun) 3 Jan 2016 (0),Cordoba (19),1-2,0-1,Mirandes (19)
+?,(Sun) 3 Jan 2016 (0),Leganes (19),1-1,1-0,Oviedo (19)
+?,(Sun) 3 Jan 2016 (0),Lugo (19),2-3,1-1,Numancia (19)
+?,(Sun) 3 Jan 2016 (0),Zaragoza (19),3-3,1-0,Huesca (19)
+?,(Mon) 4 Jan 2016 (1),Girona (19),1-0,0-0,Valladolid (19)
+?,(Mon) 4 Jan 2016 (1),Tenerife (19),1-2,0-2,Alcorcon (19)
+?,(Sat) 9 Jan 2016 (1),Alcorcon (20),1-0,1-0,Girona (20)
+?,(Sat) 9 Jan 2016 (1),Ath Bilbao B (20),0-1,0-0,Albacete (20)
+?,(Sat) 9 Jan 2016 (1),Gimnastic (20),1-2,0-0,Lugo (20)
+?,(Sat) 9 Jan 2016 (1),Numancia (20),0-1,0-0,Alaves (20)
+?,(Sat) 9 Jan 2016 (1),Valladolid (20),1-1,0-0,Elche (20)
+?,(Sun) 10 Jan 2016 (1),Cordoba (20),3-1,2-0,Mallorca (20)
+?,(Sun) 10 Jan 2016 (1),Huesca (20),0-1,0-1,Osasuna (20)
+?,(Sun) 10 Jan 2016 (1),Llagostera (20),0-1,0-1,Leganes (20)
+?,(Sun) 10 Jan 2016 (1),Mirandes (20),1-1,0-0,Almeria (20)
+?,(Sun) 10 Jan 2016 (1),Oviedo (20),1-0,1-0,Zaragoza (20)
+?,(Sun) 10 Jan 2016 (1),Ponferradina (20),0-1,0-0,Tenerife (20)
+?,(Sat) 16 Jan 2016 (2),Albacete (21),0-2,0-1,Numancia (21)
+?,(Sat) 16 Jan 2016 (2),Elche (21),2-0,1-0,Alcorcon (21)
+?,(Sat) 16 Jan 2016 (2),Osasuna (21),0-0,0-0,Oviedo (21)
+?,(Sat) 16 Jan 2016 (2),Tenerife (21),2-0,2-0,Ath Bilbao B (21)
+?,(Sat) 16 Jan 2016 (2),Zaragoza (21),1-0,1-0,Llagostera (21)
+?,(Sun) 17 Jan 2016 (2),Alaves (21),1-3,0-1,Gimnastic (21)
+?,(Sun) 17 Jan 2016 (2),Almeria (21),0-1,0-0,Cordoba (21)
+?,(Sun) 17 Jan 2016 (2),Girona (21),4-0,1-0,Ponferradina (21)
+?,(Sun) 17 Jan 2016 (2),Leganes (21),4-0,3-0,Mirandes (21)
+?,(Sun) 17 Jan 2016 (2),Lugo (21),1-1,1-0,Huesca (21)
+?,(Sun) 17 Jan 2016 (2),Mallorca (21),0-1,0-0,Valladolid (21)
+?,(Sat) 23 Jan 2016 (3),Alaves (22),1-0,1-0,Huesca (22)
+?,(Sat) 23 Jan 2016 (3),Girona (22),2-1,1-1,Ath Bilbao B (22)
+?,(Sat) 23 Jan 2016 (3),Leganes (22),2-1,2-0,Almeria (22)
+?,(Sat) 23 Jan 2016 (3),Lugo (22),2-2,2-2,Oviedo (22)
+?,(Sat) 23 Jan 2016 (3),Mallorca (22),1-0,0-0,Alcorcon (22)
+?,(Sun) 24 Jan 2016 (3),Albacete (22),1-1,0-0,Gimnastic (22)
+?,(Sun) 24 Jan 2016 (3),Elche (22),1-0,0-0,Ponferradina (22)
+?,(Sun) 24 Jan 2016 (3),Osasuna (22),3-0,1-0,Llagostera (22)
+?,(Sun) 24 Jan 2016 (3),Tenerife (22),0-0,0-0,Numancia (22)
+?,(Sun) 24 Jan 2016 (3),Valladolid (22),2-0,2-0,Cordoba (22)
+?,(Sun) 24 Jan 2016 (3),Zaragoza (22),1-2,1-1,Mirandes (22)
+?,(Sat) 30 Jan 2016 (4),Alcorcon (23),0-0,0-0,Valladolid (23)
+?,(Sat) 30 Jan 2016 (4),Cordoba (23),2-3,1-0,Leganes (23)
+?,(Sat) 30 Jan 2016 (4),Huesca (23),3-1,1-0,Albacete (23)
+?,(Sat) 30 Jan 2016 (4),Llagostera (23),0-0,0-0,Lugo (23)
+?,(Sat) 30 Jan 2016 (4),Oviedo (23),1-1,1-0,Alaves (23)
+?,(Sun) 31 Jan 2016 (4),Almeria (23),2-1,0-0,Zaragoza (23)
+?,(Sun) 31 Jan 2016 (4),Ath Bilbao B (23),0-1,0-0,Elche (23)
+?,(Sun) 31 Jan 2016 (4),Gimnastic (23),2-1,2-0,Tenerife (23)
+?,(Sun) 31 Jan 2016 (4),Mirandes (23),4-0,0-0,Osasuna (23)
+?,(Sun) 31 Jan 2016 (4),Numancia (23),1-1,1-0,Girona (23)
+?,(Sun) 31 Jan 2016 (4),Ponferradina (23),0-2,0-0,Mallorca (23)
+?,(Sat) 6 Feb 2016 (5),Albacete (24),2-2,2-0,Oviedo (24)
+?,(Sat) 6 Feb 2016 (5),Elche (24),0-0,0-0,Numancia (24)
+?,(Sat) 6 Feb 2016 (5),Tenerife (24),1-1,1-0,Huesca (24)
+?,(Sat) 6 Feb 2016 (5),Valladolid (24),0-0,0-0,Ponferradina (24)
+?,(Sat) 6 Feb 2016 (5),Zaragoza (24),1-0,0-0,Leganes (24)
+?,(Sun) 7 Feb 2016 (5),Alaves (24),1-0,0-0,Llagostera (24)
+?,(Sun) 7 Feb 2016 (5),Alcorcon (24),3-3,2-2,Cordoba (24)
+?,(Sun) 7 Feb 2016 (5),Girona (24),1-1,0-1,Gimnastic (24)
+?,(Sun) 7 Feb 2016 (5),Lugo (24),1-4,0-1,Mirandes (24)
+?,(Sun) 7 Feb 2016 (5),Mallorca (24),2-3,1-1,Ath Bilbao B (24)
+?,(Sun) 7 Feb 2016 (5),Osasuna (24),0-0,0-0,Almeria (24)
+?,(Sat) 13 Feb 2016 (6),Almeria (25),0-2,0-0,Lugo (25)
+?,(Sat) 13 Feb 2016 (6),Ath Bilbao B (25),0-1,0-1,Valladolid (25)
+?,(Sat) 13 Feb 2016 (6),Gimnastic (25),1-0,1-0,Elche (25)
+?,(Sat) 13 Feb 2016 (6),Mirandes (25),0-0,0-0,Alaves (25)
+?,(Sat) 13 Feb 2016 (6),Ponferradina (25),0-0,0-0,Alcorcon (25)
+?,(Sun) 14 Feb 2016 (6),Cordoba (25),0-2,0-1,Zaragoza (25)
+?,(Sun) 14 Feb 2016 (6),Huesca (25),0-1,0-1,Girona (25)
+?,(Sun) 14 Feb 2016 (6),Leganes (25),2-0,1-0,Osasuna (25)
+?,(Sun) 14 Feb 2016 (6),Llagostera (25),2-0,0-0,Albacete (25)
+?,(Sun) 14 Feb 2016 (6),Numancia (25),2-0,1-0,Mallorca (25)
+?,(Sun) 14 Feb 2016 (6),Oviedo (25),1-0,1-0,Tenerife (25)
+?,(Sat) 20 Feb 2016 (7),Albacete (26),1-1,1-0,Mirandes (26)
+?,(Sat) 20 Feb 2016 (7),Alcorcon (26),1-0,0-0,Ath Bilbao B (26)
+?,(Sat) 20 Feb 2016 (7),Lugo (26),1-2,1-1,Leganes (26)
+?,(Sat) 20 Feb 2016 (7),Mallorca (26),2-2,0-2,Gimnastic (26)
+?,(Sat) 20 Feb 2016 (7),Ponferradina (26),1-3,0-2,Cordoba (26)
+?,(Sun) 21 Feb 2016 (7),Alaves (26),1-1,0-1,Almeria (26)
+?,(Sun) 21 Feb 2016 (7),Elche (26),1-1,0-1,Huesca (26)
+?,(Sun) 21 Feb 2016 (7),Girona (26),1-1,0-0,Oviedo (26)
+?,(Sun) 21 Feb 2016 (7),Osasuna (26),1-1,0-1,Zaragoza (26)
+?,(Sun) 21 Feb 2016 (7),Tenerife (26),3-1,2-1,Llagostera (26)
+?,(Sun) 21 Feb 2016 (7),Valladolid (26),2-2,1-1,Numancia (26)
+?,(Sat) 27 Feb 2016 (8),Ath Bilbao B (27),4-2,2-1,Ponferradina (27)
+?,(Sat) 27 Feb 2016 (8),Cordoba (27),0-1,0-0,Osasuna (27)
+?,(Sat) 27 Feb 2016 (8),Llagostera (27),0-1,0-0,Girona (27)
+?,(Sat) 27 Feb 2016 (8),Numancia (27),1-1,1-0,Alcorcon (27)
+?,(Sun) 28 Feb 2016 (8),Almeria (27),1-0,0-0,Albacete (27)
+?,(Sun) 28 Feb 2016 (8),Gimnastic (27),1-1,1-1,Valladolid (27)
+?,(Sun) 28 Feb 2016 (8),Leganes (27),2-0,1-0,Alaves (27)
+?,(Sun) 28 Feb 2016 (8),Mirandes (27),1-2,0-1,Tenerife (27)
+?,(Sun) 28 Feb 2016 (8),Oviedo (27),3-0,0-0,Elche (27)
+?,(Sun) 28 Feb 2016 (8),Zaragoza (27),3-1,0-0,Lugo (27)
+?,(Sat) 5 Mar 2016 (9),Ath Bilbao B (28),1-2,0-1,Cordoba (28)
+?,(Sat) 5 Mar 2016 (9),Elche (28),1-1,0-0,Llagostera (28)
+?,(Sat) 5 Mar 2016 (9),Girona (28),2-0,0-0,Mirandes (28)
+?,(Sat) 5 Mar 2016 (9),Lugo (28),2-0,0-0,Osasuna (28)
+?,(Sat) 5 Mar 2016 (9),Mallorca (27),1-0,0-0,Oviedo (28)
+?,(Sun) 6 Mar 2016 (9),Alaves (28),0-0,0-0,Zaragoza (28)
+?,(Sun) 6 Mar 2016 (9),Albacete (28),0-3,0-2,Leganes (28)
+?,(Sun) 6 Mar 2016 (9),Alcorcon (28),1-1,0-0,Gimnastic (28)
+?,(Sun) 6 Mar 2016 (9),Ponferradina (28),1-0,0-0,Numancia (28)
+?,(Sun) 6 Mar 2016 (9),Tenerife (28),0-0,0-0,Almeria (28)
+?,(Sun) 6 Mar 2016 (9),Valladolid (28),0-1,0-1,Huesca (27)
+?,(Sat) 12 Mar 2016 (10),Almeria (29),1-0,1-0,Girona (29)
+?,(Sat) 12 Mar 2016 (10),Mirandes (29),1-2,1-0,Elche (29)
+?,(Sat) 12 Mar 2016 (10),Numancia (29),3-2,1-1,Ath Bilbao B (29)
+?,(Sat) 12 Mar 2016 (10),Oviedo (29),2-4,1-3,Valladolid (29)
+?,(Sat) 12 Mar 2016 (10),Zaragoza (29),1-0,0-0,Albacete (29)
+?,(Sun) 13 Mar 2016 (10),Cordoba (29),1-2,0-2,Lugo (29)
+?,(Sun) 13 Mar 2016 (10),Gimnastic (29),1-1,0-1,Ponferradina (29)
+?,(Sun) 13 Mar 2016 (10),Huesca (28),1-0,1-0,Alcorcon (29)
+?,(Sun) 13 Mar 2016 (10),Leganes (29),0-1,0-0,Tenerife (29)
+?,(Sun) 13 Mar 2016 (10),Llagostera (29),3-0,1-0,Mallorca (28)
+?,(Sun) 13 Mar 2016 (10),Osasuna (29),3-1,3-1,Alaves (29)
+?,(Wed) 16 Mar 2016 (11),Huesca (29),1-2,0-2,Mallorca (29)
+?,(Sat) 19 Mar 2016 (11),Alaves (30),0-0,0-0,Lugo (30)
+?,(Sat) 19 Mar 2016 (11),Albacete (30),3-1,2-1,Osasuna (30)
+?,(Sat) 19 Mar 2016 (11),Alcorcon (30),1-0,0-0,Oviedo (30)
+?,(Sat) 19 Mar 2016 (11),Elche (30),0-0,0-0,Almeria (30)
+?,(Sat) 19 Mar 2016 (11),Valladolid (30),3-0,1-0,Llagostera (30)
+?,(Sun) 20 Mar 2016 (11),Ath Bilbao B (30),0-4,0-1,Gimnastic (30)
+?,(Sun) 20 Mar 2016 (11),Girona (30),1-1,0-0,Leganes (30)
+?,(Sun) 20 Mar 2016 (11),Mallorca (30),1-1,1-1,Mirandes (30)
+?,(Sun) 20 Mar 2016 (11),Numancia (30),1-1,1-1,Cordoba (30)
+?,(Sun) 20 Mar 2016 (11),Ponferradina (30),2-1,1-0,Huesca (30)
+?,(Sun) 20 Mar 2016 (11),Tenerife (30),0-0,0-0,Zaragoza (30)
+?,(Sat) 26 Mar 2016 (12),Gimnastic (31),1-0,0-0,Numancia (31)
+?,(Sat) 26 Mar 2016 (12),Huesca (31),1-2,0-0,Ath Bilbao B (31)
+?,(Sat) 26 Mar 2016 (12),Leganes (31),0-0,0-0,Elche (31)
+?,(Sat) 26 Mar 2016 (12),Osasuna (31),0-0,0-0,Tenerife (31)
+?,(Sat) 26 Mar 2016 (12),Oviedo (31),3-0,2-0,Ponferradina (31)
+?,(Sun) 27 Mar 2016 (12),Almeria (31),1-1,0-0,Mallorca (31)
+?,(Sun) 27 Mar 2016 (12),Cordoba (31),1-2,0-0,Alaves (31)
+?,(Sun) 27 Mar 2016 (12),Llagostera (31),4-0,3-0,Alcorcon (31)
+?,(Sun) 27 Mar 2016 (12),Lugo (31),2-1,1-0,Albacete (31)
+?,(Sun) 27 Mar 2016 (12),Mirandes (31),4-1,2-0,Valladolid (31)
+?,(Sun) 27 Mar 2016 (12),Zaragoza (31),0-3,0-2,Girona (31)
+?,(Sat) 2 Apr 2016 (13),Alcorcon (32),1-0,0-0,Mirandes (32)
+?,(Sat) 2 Apr 2016 (13),Elche (32),2-1,1-1,Zaragoza (32)
+?,(Sat) 2 Apr 2016 (13),Mallorca (32),3-0,0-0,Leganes (32)
+?,(Sat) 2 Apr 2016 (13),Ponferradina (32),1-0,0-0,Llagostera (32)
+?,(Sun) 3 Apr 2016 (13),Albacete (32),0-1,0-0,Alaves (32)
+?,(Sun) 3 Apr 2016 (13),Gimnastic (32),4-4,2-3,Cordoba (32)
+?,(Sun) 3 Apr 2016 (13),Girona (32),0-0,0-0,Osasuna (32)
+?,(Sun) 3 Apr 2016 (13),Numancia (32),3-2,1-1,Huesca (32)
+?,(Sun) 3 Apr 2016 (13),Tenerife (32),1-0,0-0,Lugo (32)
+?,(Sun) 3 Apr 2016 (13),Valladolid (32),1-1,0-0,Almeria (32)
+?,(Mon) 4 Apr 2016 (14),Ath Bilbao B (32),2-1,1-1,Oviedo (32)
+?,(Sat) 9 Apr 2016 (14),Almeria (33),1-1,1-1,Alcorcon (33)
+?,(Sat) 9 Apr 2016 (14),Leganes (33),4-0,2-0,Valladolid (33)
+?,(Sat) 9 Apr 2016 (14),Llagostera (33),2-1,0-0,Ath Bilbao B (33)
+?,(Sat) 9 Apr 2016 (14),Lugo (33),1-1,1-1,Girona (33)
+?,(Sat) 9 Apr 2016 (14),Mirandes (33),1-0,1-0,Ponferradina (33)
+?,(Sun) 10 Apr 2016 (14),Alaves (33),2-2,1-1,Tenerife (33)
+?,(Sun) 10 Apr 2016 (14),Cordoba (33),2-3,0-1,Albacete (33)
+?,(Sun) 10 Apr 2016 (14),Huesca (33),2-0,1-0,Gimnastic (33)
+?,(Sun) 10 Apr 2016 (14),Osasuna (33),0-0,0-0,Elche (33)
+?,(Sun) 10 Apr 2016 (14),Oviedo (33),1-0,0-0,Numancia (33)
+?,(Sun) 10 Apr 2016 (14),Zaragoza (33),2-1,1-1,Mallorca (33)
+?,(Sat) 16 Apr 2016 (15),Ath Bilbao B (34),1-1,0-0,Mirandes (34)
+?,(Sat) 16 Apr 2016 (15),Elche (34),2-0,1-0,Lugo (34)
+?,(Sat) 16 Apr 2016 (15),Girona (34),1-0,1-0,Alaves (34)
+?,(Sat) 16 Apr 2016 (15),Numancia (34),1-1,0-0,Llagostera (34)
+?,(Sat) 16 Apr 2016 (15),Valladolid (34),1-2,1-1,Zaragoza (34)
+?,(Sun) 17 Apr 2016 (15),Alcorcon (34),2-0,1-0,Leganes (34)
+?,(Sun) 17 Apr 2016 (15),Gimnastic (34),0-0,0-0,Oviedo (34)
+?,(Sun) 17 Apr 2016 (15),Huesca (34),0-2,0-1,Cordoba (34)
+?,(Sun) 17 Apr 2016 (15),Mallorca (34),1-1,1-0,Osasuna (34)
+?,(Sun) 17 Apr 2016 (15),Ponferradina (34),1-3,0-2,Almeria (34)
+?,(Sun) 17 Apr 2016 (15),Tenerife (34),1-0,0-0,Albacete (34)
+?,(Sat) 23 Apr 2016 (16),Alaves (35),0-0,0-0,Elche (35)
+?,(Sat) 23 Apr 2016 (16),Albacete (35),0-3,0-1,Girona (35)
+?,(Sat) 23 Apr 2016 (16),Leganes (35),3-0,1-0,Ponferradina (35)
+?,(Sat) 23 Apr 2016 (16),Llagostera (35),1-1,0-0,Gimnastic (35)
+?,(Sat) 23 Apr 2016 (16),Oviedo (35),0-1,0-0,Huesca (35)
+?,(Sun) 24 Apr 2016 (16),Almeria (35),3-2,1-1,Ath Bilbao B (35)
+?,(Sun) 24 Apr 2016 (16),Cordoba (35),0-0,0-0,Tenerife (35)
+?,(Sun) 24 Apr 2016 (16),Lugo (35),2-1,1-0,Mallorca (35)
+?,(Sun) 24 Apr 2016 (16),Mirandes (35),0-2,0-2,Numancia (35)
+?,(Sun) 24 Apr 2016 (16),Osasuna (35),1-0,1-0,Valladolid (35)
+?,(Sun) 24 Apr 2016 (16),Zaragoza (35),3-1,2-1,Alcorcon (35)
+?,(Sat) 30 Apr 2016 (17),Alcorcon (36),0-1,0-1,Osasuna (36)
+?,(Sat) 30 Apr 2016 (17),Huesca (36),3-1,3-0,Llagostera (36)
+?,(Sat) 30 Apr 2016 (17),Mallorca (36),0-0,0-0,Alaves (36)
+?,(Sat) 30 Apr 2016 (17),Numancia (36),2-0,1-0,Almeria (36)
+?,(Sun) 1 May 2016 (17),Elche (36),1-1,0-0,Albacete (36)
+?,(Sun) 1 May 2016 (17),Gimnastic (36),3-2,0-1,Mirandes (36)
+?,(Sun) 1 May 2016 (17),Girona (36),1-0,0-0,Tenerife (36)
+?,(Sun) 1 May 2016 (17),Oviedo (36),1-0,1-0,Cordoba (36)
+?,(Sun) 1 May 2016 (17),Ponferradina (36),1-1,0-0,Zaragoza (36)
+?,(Sun) 1 May 2016 (17),Valladolid (36),1-1,0-0,Lugo (36)
+?,(Mon) 2 May 2016 (18),Ath Bilbao B (36),1-2,1-0,Leganes (36)
+?,(Sat) 7 May 2016 (18),Almeria (37),1-2,1-1,Gimnastic (37)
+?,(Sat) 7 May 2016 (18),Llagostera (37),2-0,1-0,Oviedo (37)
+?,(Sat) 7 May 2016 (18),Lugo (37),1-2,1-1,Alcorcon (37)
+?,(Sat) 7 May 2016 (18),Osasuna (37),0-0,0-0,Ponferradina (37)
+?,(Sat) 7 May 2016 (18),Tenerife (37),1-1,0-0,Elche (37)
+?,(Sun) 8 May 2016 (18),Alaves (37),2-1,0-0,Valladolid (37)
+?,(Sun) 8 May 2016 (18),Albacete (37),1-0,0-0,Mallorca (37)
+?,(Sun) 8 May 2016 (18),Cordoba (37),1-0,0-0,Girona (37)
+?,(Sun) 8 May 2016 (18),Leganes (37),2-2,0-1,Numancia (37)
+?,(Sun) 8 May 2016 (18),Mirandes (37),1-0,1-0,Huesca (37)
+?,(Sun) 8 May 2016 (18),Zaragoza (37),2-0,1-0,Ath Bilbao B (37)
+?,(Sat) 14 May 2016 (19),Mallorca (38),1-0,0-0,Tenerife (38)
+?,(Sat) 14 May 2016 (19),Numancia (38),2-2,1-2,Zaragoza (38)
+?,(Sat) 14 May 2016 (19),Oviedo (38),4-1,1-0,Mirandes (38)
+?,(Sat) 14 May 2016 (19),Valladolid (38),1-0,1-0,Albacete (38)
+?,(Sun) 15 May 2016 (19),Alcorcon (38),0-1,0-0,Alaves (38)
+?,(Sun) 15 May 2016 (19),Ath Bilbao B (38),0-0,0-0,Osasuna (38)
+?,(Sun) 15 May 2016 (19),Elche (38),1-1,0-1,Girona (38)
+?,(Sun) 15 May 2016 (19),Gimnastic (38),0-0,0-0,Leganes (38)
+?,(Sun) 15 May 2016 (19),Huesca (38),2-1,0-1,Almeria (38)
+?,(Sun) 15 May 2016 (19),Llagostera (38),1-0,1-0,Cordoba (38)
+?,(Sun) 15 May 2016 (19),Ponferradina (38),2-1,1-0,Lugo (38)
+?,(Sat) 21 May 2016 (20),Albacete (39),0-2,0-0,Alcorcon (39)
+?,(Sat) 21 May 2016 (20),Cordoba (39),3-1,1-0,Elche (39)
+?,(Sat) 21 May 2016 (20),Girona (39),1-0,0-0,Mallorca (39)
+?,(Sat) 21 May 2016 (20),Leganes (39),2-3,1-1,Huesca (39)
+?,(Sat) 21 May 2016 (20),Tenerife (39),3-1,2-0,Valladolid (39)
+?,(Sun) 22 May 2016 (20),Alaves (39),2-0,2-0,Ponferradina (39)
+?,(Sun) 22 May 2016 (20),Almeria (39),3-1,0-0,Oviedo (39)
+?,(Sun) 22 May 2016 (20),Lugo (39),2-0,1-0,Ath Bilbao B (39)
+?,(Sun) 22 May 2016 (20),Mirandes (39),0-0,0-0,Llagostera (39)
+?,(Sun) 22 May 2016 (20),Osasuna (39),3-2,1-2,Numancia (39)
+?,(Sun) 22 May 2016 (20),Zaragoza (39),0-1,0-0,Gimnastic (39)
+?,(Tue) 24 May 2016 (21),Alcorcon (40),2-1,1-0,Tenerife (40)
+?,(Tue) 24 May 2016 (21),Mallorca (40),2-1,1-0,Elche (40)
+?,(Tue) 24 May 2016 (21),Valladolid (40),0-0,0-0,Girona (40)
+?,(Wed) 25 May 2016 (21),Gimnastic (40),1-0,0-0,Osasuna (40)
+?,(Wed) 25 May 2016 (21),Llagostera (40),0-0,0-0,Almeria (40)
+?,(Wed) 25 May 2016 (21),Mirandes (40),0-3,0-0,Cordoba (40)
+?,(Wed) 25 May 2016 (21),Numancia (40),1-0,1-0,Lugo (40)
+?,(Wed) 25 May 2016 (21),Ponferradina (40),2-1,0-0,Albacete (40)
+?,(Thu) 26 May 2016 (21),Ath Bilbao B (40),2-3,0-2,Alaves (40)
+?,(Thu) 26 May 2016 (21),Huesca (40),1-1,0-1,Zaragoza (40)
+?,(Thu) 26 May 2016 (21),Oviedo (40),0-1,0-0,Leganes (40)
+?,(Sun) 29 May 2016 (21),Alaves (41),2-0,2-0,Numancia (41)
+?,(Sun) 29 May 2016 (21),Albacete (41),2-1,0-0,Ath Bilbao B (41)
+?,(Sun) 29 May 2016 (21),Almeria (41),2-1,1-0,Mirandes (41)
+?,(Sun) 29 May 2016 (21),Elche (41),2-2,1-1,Valladolid (41)
+?,(Sun) 29 May 2016 (21),Girona (41),2-0,1-0,Alcorcon (41)
+?,(Sun) 29 May 2016 (21),Leganes (41),2-0,1-0,Llagostera (41)
+?,(Sun) 29 May 2016 (21),Lugo (41),0-3,0-2,Gimnastic (41)
+?,(Sun) 29 May 2016 (21),Mallorca (41),0-1,0-1,Cordoba (41)
+?,(Sun) 29 May 2016 (21),Osasuna (41),2-3,1-2,Huesca (41)
+?,(Sun) 29 May 2016 (21),Tenerife (41),1-1,0-0,Ponferradina (41)
+?,(Sun) 29 May 2016 (21),Zaragoza (41),1-0,1-0,Oviedo (41)
+?,(Sat) 4 Jun 2016 (22),Alcorcon (42),4-1,2-0,Elche (42)
+?,(Sat) 4 Jun 2016 (22),Ath Bilbao B (42),2-0,1-0,Tenerife (42)
+?,(Sat) 4 Jun 2016 (22),Cordoba (42),1-1,0-1,Almeria (42)
+?,(Sat) 4 Jun 2016 (22),Gimnastic (42),1-1,0-0,Alaves (42)
+?,(Sat) 4 Jun 2016 (22),Huesca (42),1-0,0-0,Lugo (42)
+?,(Sat) 4 Jun 2016 (22),Llagostera (42),6-2,2-0,Zaragoza (42)
+?,(Sat) 4 Jun 2016 (22),Mirandes (42),0-1,0-0,Leganes (42)
+?,(Sat) 4 Jun 2016 (22),Numancia (42),2-0,0-0,Albacete (42)
+?,(Sat) 4 Jun 2016 (22),Oviedo (42),0-5,0-1,Osasuna (42)
+?,(Sat) 4 Jun 2016 (22),Ponferradina (42),0-1,0-0,Girona (42)
+?,(Sat) 4 Jun 2016 (22),Valladolid (42),1-3,1-2,Mallorca (42)

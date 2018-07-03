@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT,HT
-2002-08-31,Almeria,Salamanca,1-2,1-0
-2002-08-31,Elche,Xerez,0-1,0-0
-2002-08-31,Getafe,Levante,2-2,0-2
-2002-08-31,Las Palmas,Ferrol,2-0,2-0
-2002-08-31,Terrassa,Albacete,1-1,1-1
-2002-09-01,Badajoz,Leganes,0-0,0-0
-2002-09-01,Compostela,Tenerife,1-1,1-0
-2002-09-01,Eibar,Poli Ejido,0-0,0-0
-2002-09-01,Numancia,Sp Gijon,1-0,1-0
-2002-09-01,Oviedo,Murcia,0-1,0-0
-2002-09-01,Zaragoza,Cordoba,0-0,0-0
-2002-09-14,Cordoba,Almeria,3-0,1-0
-2002-09-14,Ferrol,Compostela,1-1,1-1
-2002-09-14,Tenerife,Oviedo,1-1,0-1
-2002-09-15,Albacete,Badajoz,1-0,1-0
-2002-09-15,Leganes,Numancia,2-1,0-0
-2002-09-15,Levante,Zaragoza,3-2,0-0
-2002-09-15,Murcia,Getafe,2-0,1-0
-2002-09-15,Poli Ejido,Terrassa,1-2,0-1
-2002-09-15,Salamanca,Eibar,0-0,0-0
-2002-09-15,Sp Gijon,Elche,0-0,0-0
-2002-09-15,Xerez,Las Palmas,2-2,0-1
-2002-09-21,Almeria,Levante,2-2,2-0
-2002-09-21,Eibar,Cordoba,1-0,0-0
-2002-09-21,Las Palmas,Compostela,1-1,0-1
-2002-09-21,Numancia,Albacete,1-2,0-1
-2002-09-21,Oviedo,Ferrol,1-2,0-0
-2002-09-22,Badajoz,Poli Ejido,0-2,0-1
-2002-09-22,Elche,Leganes,1-1,1-1
-2002-09-22,Getafe,Tenerife,2-1,1-1
-2002-09-22,Terrassa,Salamanca,1-0,1-0
-2002-09-22,Xerez,Sp Gijon,1-0,0-0
-2002-09-22,Zaragoza,Murcia,1-0,0-0
-2002-09-28,Compostela,Oviedo,0-1,0-0
-2002-09-28,Cordoba,Terrassa,0-2,0-0
-2002-09-28,Leganes,Xerez,1-2,1-2
-2002-09-28,Levante,Eibar,3-1,1-1
-2002-09-29,Albacete,Elche,1-1,0-1
-2002-09-29,Ferrol,Getafe,2-1,1-0
-2002-09-29,Murcia,Almeria,3-0,2-0
-2002-09-29,Poli Ejido,Numancia,3-2,1-2
-2002-09-29,Salamanca,Badajoz,0-1,0-0
-2002-09-29,Sp Gijon,Las Palmas,0-0,0-0
-2002-09-29,Tenerife,Zaragoza,2-0,0-0
-2002-10-05,Getafe,Compostela,2-0,0-0
-2002-10-05,Las Palmas,Oviedo,2-0,1-0
-2002-10-05,Xerez,Albacete,1-0,0-0
-2002-10-06,Almeria,Tenerife,1-1,1-0
-2002-10-06,Badajoz,Cordoba,2-0,2-0
-2002-10-06,Eibar,Murcia,1-1,0-0
-2002-10-06,Elche,Poli Ejido,3-0,0-0
-2002-10-06,Numancia,Salamanca,1-0,1-0
-2002-10-06,Sp Gijon,Leganes,1-1,1-1
-2002-10-06,Terrassa,Levante,1-1,1-0
-2002-10-06,Zaragoza,Ferrol,2-2,2-1
-2002-10-12,Leganes,Las Palmas,1-1,0-1
-2002-10-12,Poli Ejido,Xerez,2-0,1-0
-2002-10-13,Albacete,Sp Gijon,4-0,1-0
-2002-10-13,Compostela,Zaragoza,0-0,0-0
-2002-10-13,Cordoba,Numancia,1-1,0-1
-2002-10-13,Ferrol,Almeria,1-1,0-1
-2002-10-13,Levante,Badajoz,4-0,3-0
-2002-10-13,Murcia,Terrassa,0-0,0-0
-2002-10-13,Oviedo,Getafe,3-4,3-2
-2002-10-13,Salamanca,Elche,1-3,1-0
-2002-10-13,Tenerife,Eibar,1-0,1-0
-2002-10-19,Eibar,Ferrol,1-0,1-0
-2002-10-19,Elche,Cordoba,0-0,0-0
-2002-10-19,Las Palmas,Getafe,2-1,2-1
-2002-10-20,Almeria,Compostela,2-1,0-1
-2002-10-20,Badajoz,Murcia,1-0,1-0
-2002-10-20,Leganes,Albacete,1-1,0-0
-2002-10-20,Numancia,Levante,0-2,0-1
-2002-10-20,Sp Gijon,Poli Ejido,1-1,0-0
-2002-10-20,Terrassa,Tenerife,1-1,1-1
-2002-10-20,Xerez,Salamanca,0-1,0-1
-2002-10-20,Zaragoza,Oviedo,3-1,0-0
-2002-10-26,Levante,Elche,2-2,1-0
-2002-10-26,Poli Ejido,Leganes,1-0,0-0
-2002-10-27,Albacete,Las Palmas,2-1,1-0
-2002-10-27,Compostela,Eibar,1-0,1-0
-2002-10-27,Cordoba,Xerez,1-3,1-2
-2002-10-27,Ferrol,Terrassa,1-1,0-1
-2002-10-27,Getafe,Zaragoza,1-2,0-0
-2002-10-27,Murcia,Numancia,2-1,0-0
-2002-10-27,Oviedo,Almeria,1-1,1-0
-2002-10-27,Salamanca,Sp Gijon,0-0,0-0
-2002-10-27,Tenerife,Badajoz,3-3,0-1
-2002-11-02,Albacete,Poli Ejido,1-1,1-1
-2002-11-02,Badajoz,Ferrol,1-0,1-0
-2002-11-02,Eibar,Oviedo,2-1,2-1
-2002-11-02,Las Palmas,Zaragoza,0-1,0-0
-2002-11-02,Terrassa,Compostela,2-1,1-1
-2002-11-02,Xerez,Levante,2-1,1-1
-2002-11-03,Almeria,Getafe,1-1,1-0
-2002-11-03,Elche,Murcia,0-2,0-0
-2002-11-03,Leganes,Salamanca,0-2,0-1
-2002-11-03,Numancia,Tenerife,1-0,0-0
-2002-11-03,Sp Gijon,Cordoba,0-0,0-0
-2002-11-09,Cordoba,Leganes,1-0,0-0
-2002-11-09,Tenerife,Elche,0-0,0-0
-2002-11-10,Compostela,Badajoz,3-0,0-0
-2002-11-10,Ferrol,Numancia,1-0,0-0
-2002-11-10,Getafe,Eibar,4-2,1-1
-2002-11-10,Levante,Sp Gijon,2-1,1-0
-2002-11-10,Murcia,Xerez,1-1,0-1
-2002-11-10,Oviedo,Terrassa,2-2,1-0
-2002-11-10,Poli Ejido,Las Palmas,0-0,0-0
-2002-11-10,Salamanca,Albacete,0-1,0-0
-2002-11-10,Zaragoza,Almeria,1-0,0-0
-2002-11-16,Albacete,Cordoba,0-0,0-0
-2002-11-16,Terrassa,Getafe,1-1,1-1
-2002-11-17,Badajoz,Oviedo,0-1,0-0
-2002-11-17,Eibar,Zaragoza,0-0,0-0
-2002-11-17,Elche,Ferrol,1-2,1-1
-2002-11-17,Las Palmas,Almeria,2-2,2-1
-2002-11-17,Leganes,Levante,0-1,0-0
-2002-11-17,Numancia,Compostela,2-2,2-2
-2002-11-17,Poli Ejido,Salamanca,1-1,1-1
-2002-11-17,Sp Gijon,Murcia,1-0,0-0
-2002-11-17,Xerez,Tenerife,1-1,1-1
-2002-11-23,Almeria,Eibar,2-1,0-0
-2002-11-23,Compostela,Elche,0-1,0-0
-2002-11-24,Cordoba,Poli Ejido,0-1,0-0
-2002-11-24,Ferrol,Xerez,2-1,1-0
-2002-11-24,Getafe,Badajoz,0-1,0-0
-2002-11-24,Levante,Albacete,2-2,1-1
-2002-11-24,Murcia,Leganes,0-1,0-0
-2002-11-24,Oviedo,Numancia,1-1,1-0
-2002-11-24,Salamanca,Las Palmas,2-1,0-1
-2002-11-24,Tenerife,Sp Gijon,2-2,1-0
-2002-11-24,Zaragoza,Terrassa,1-0,1-0
-2002-11-30,Las Palmas,Eibar,0-1,0-1
-2002-11-30,Leganes,Tenerife,1-1,1-1
-2002-11-30,Sp Gijon,Ferrol,3-1,1-0
-2002-12-01,Albacete,Murcia,0-0,0-0
-2002-12-01,Badajoz,Zaragoza,0-4,0-3
-2002-12-01,Elche,Oviedo,2-1,1-1
-2002-12-01,Numancia,Getafe,1-3,0-1
-2002-12-01,Poli Ejido,Levante,0-0,0-0
-2002-12-01,Salamanca,Cordoba,2-0,1-0
-2002-12-01,Terrassa,Almeria,0-2,0-0
-2002-12-01,Xerez,Compostela,0-1,0-1
-2002-12-07,Eibar,Terrassa,1-1,1-0
-2002-12-07,Oviedo,Xerez,1-2,1-0
-2002-12-07,Tenerife,Albacete,1-1,1-1
-2002-12-08,Almeria,Badajoz,2-1,1-0
-2002-12-08,Compostela,Sp Gijon,2-3,1-2
-2002-12-08,Cordoba,Las Palmas,2-2,1-1
-2002-12-08,Ferrol,Leganes,1-1,0-0
-2002-12-08,Getafe,Elche,1-1,0-1
-2002-12-08,Levante,Salamanca,0-1,0-0
-2002-12-08,Murcia,Poli Ejido,3-0,1-0
-2002-12-08,Zaragoza,Numancia,1-0,1-0
-2002-12-14,Albacete,Ferrol,2-0,2-0
-2002-12-14,Las Palmas,Terrassa,2-0,1-0
-2002-12-14,Poli Ejido,Tenerife,0-1,0-0
-2002-12-15,Badajoz,Eibar,1-1,0-0
-2002-12-15,Cordoba,Levante,1-2,0-0
-2002-12-15,Elche,Zaragoza,4-0,1-0
-2002-12-15,Leganes,Compostela,0-0,0-0
-2002-12-15,Numancia,Almeria,0-0,0-0
-2002-12-15,Salamanca,Murcia,0-0,0-0
-2002-12-15,Sp Gijon,Oviedo,1-0,1-0
-2002-12-15,Xerez,Getafe,0-0,0-0
-2002-12-21,Almeria,Elche,0-3,0-1
-2002-12-21,Compostela,Albacete,3-3,1-2
-2002-12-21,Ferrol,Poli Ejido,1-1,0-0
-2002-12-21,Murcia,Cordoba,1-0,1-0
-2002-12-21,Oviedo,Leganes,1-1,0-1
-2002-12-21,Tenerife,Salamanca,0-0,0-0
-2002-12-21,Terrassa,Badajoz,1-0,1-0
-2002-12-22,Eibar,Numancia,1-2,1-0
-2002-12-22,Getafe,Sp Gijon,0-1,0-1
-2002-12-22,Levante,Las Palmas,1-1,0-0
-2002-12-22,Zaragoza,Xerez,1-0,0-0
-2003-01-04,Cordoba,Tenerife,1-1,0-0
-2003-01-04,Elche,Eibar,0-0,0-0
-2003-01-04,Las Palmas,Badajoz,2-0,0-0
-2003-01-04,Numancia,Terrassa,1-1,0-0
-2003-01-04,Sp Gijon,Zaragoza,1-1,0-0
-2003-01-04,Xerez,Almeria,1-2,0-1
-2003-01-05,Albacete,Oviedo,0-1,0-0
-2003-01-05,Leganes,Getafe,2-1,1-0
-2003-01-05,Levante,Murcia,0-0,0-0
-2003-01-05,Poli Ejido,Compostela,0-2,0-2
-2003-01-05,Salamanca,Ferrol,0-0,0-0
-2003-01-11,Almeria,Sp Gijon,1-0,1-0
-2003-01-11,Ferrol,Cordoba,0-0,0-0
-2003-01-11,Murcia,Las Palmas,6-1,2-0
-2003-01-11,Oviedo,Poli Ejido,0-3,0-0
-2003-01-11,Terrassa,Elche,1-1,1-1
-2003-01-12,Badajoz,Numancia,1-1,1-0
-2003-01-12,Compostela,Salamanca,0-0,0-0
-2003-01-12,Eibar,Xerez,1-0,0-0
-2003-01-12,Getafe,Albacete,1-2,0-0
-2003-01-12,Tenerife,Levante,0-0,0-0
-2003-01-12,Zaragoza,Leganes,2-2,1-0
-2003-01-18,Albacete,Zaragoza,0-0,0-0
-2003-01-18,Las Palmas,Numancia,0-0,0-0
-2003-01-18,Poli Ejido,Getafe,1-1,0-1
-2003-01-18,Xerez,Terrassa,2-2,1-2
-2003-01-19,Cordoba,Compostela,0-0,0-0
-2003-01-19,Elche,Badajoz,0-1,0-0
-2003-01-19,Leganes,Almeria,5-2,3-1
-2003-01-19,Levante,Ferrol,1-0,0-0
-2003-01-19,Murcia,Tenerife,2-0,2-0
-2003-01-19,Salamanca,Oviedo,0-0,0-0
-2003-01-19,Sp Gijon,Eibar,1-0,0-0
-2003-01-25,Las Palmas,Tenerife,1-0,0-0
-2003-01-26,Almeria,Albacete,1-1,0-0
-2003-01-26,Badajoz,Xerez,0-1,0-1
-2003-01-26,Compostela,Levante,3-1,2-0
-2003-01-26,Eibar,Leganes,0-1,0-1
-2003-01-26,Ferrol,Murcia,0-3,0-2
-2003-01-26,Getafe,Salamanca,1-0,0-0
-2003-01-26,Numancia,Elche,1-0,0-0
-2003-01-26,Oviedo,Cordoba,1-0,0-0
-2003-01-26,Terrassa,Sp Gijon,0-0,0-0
-2003-01-26,Zaragoza,Poli Ejido,0-0,0-0
-2003-02-01,Leganes,Terrassa,1-1,1-1
-2003-02-01,Levante,Oviedo,1-0,1-0
-2003-02-01,Tenerife,Ferrol,4-0,0-0
-2003-02-02,Albacete,Eibar,1-1,1-1
-2003-02-02,Cordoba,Getafe,3-0,2-0
-2003-02-02,Elche,Las Palmas,3-2,1-2
-2003-02-02,Murcia,Compostela,2-0,1-0
-2003-02-02,Poli Ejido,Almeria,2-0,2-0
-2003-02-02,Salamanca,Zaragoza,0-1,0-0
-2003-02-02,Sp Gijon,Badajoz,4-0,2-0
-2003-02-02,Xerez,Numancia,2-2,1-2
-2003-02-08,Cordoba,Zaragoza,2-1,0-0
-2003-02-08,Ferrol,Las Palmas,1-2,1-1
-2003-02-09,Albacete,Terrassa,1-0,1-0
-2003-02-09,Leganes,Badajoz,1-3,0-2
-2003-02-09,Levante,Getafe,1-0,0-0
-2003-02-09,Murcia,Oviedo,0-1,0-0
-2003-02-09,Poli Ejido,Eibar,0-0,0-0
-2003-02-09,Salamanca,Almeria,2-1,2-1
-2003-02-09,Sp Gijon,Numancia,1-2,1-2
-2003-02-09,Tenerife,Compostela,5-1,1-1
-2003-02-09,Xerez,Elche,2-1,1-0
-2003-02-15,Almeria,Cordoba,1-3,0-1
-2003-02-15,Compostela,Ferrol,1-1,1-1
-2003-02-15,Getafe,Murcia,3-1,1-0
-2003-02-15,Las Palmas,Xerez,4-0,2-0
-2003-02-15,Oviedo,Tenerife,0-2,0-2
-2003-02-16,Badajoz,Albacete,0-3,0-1
-2003-02-16,Eibar,Salamanca,1-1,0-1
-2003-02-16,Elche,Sp Gijon,1-1,0-1
-2003-02-16,Numancia,Leganes,2-1,2-1
-2003-02-16,Terrassa,Poli Ejido,2-0,1-0
-2003-02-16,Zaragoza,Levante,1-0,1-0
-2003-02-22,Sp Gijon,Xerez,1-1,0-0
-2003-02-23,Albacete,Numancia,3-1,1-1
-2003-02-23,Compostela,Las Palmas,0-3,0-0
-2003-02-23,Cordoba,Eibar,0-0,0-0
-2003-02-23,Ferrol,Oviedo,1-1,0-1
-2003-02-23,Leganes,Elche,2-2,1-1
-2003-02-23,Levante,Almeria,2-1,1-0
-2003-02-23,Murcia,Zaragoza,2-0,1-0
-2003-02-23,Poli Ejido,Badajoz,1-0,1-0
-2003-02-23,Salamanca,Terrassa,1-2,0-1
-2003-02-23,Tenerife,Getafe,1-0,0-0
-2003-03-01,Badajoz,Salamanca,1-1,0-0
-2003-03-01,Zaragoza,Tenerife,1-3,0-3
-2003-03-02,Almeria,Murcia,1-1,0-0
-2003-03-02,Eibar,Levante,1-1,0-0
-2003-03-02,Elche,Albacete,1-2,0-1
-2003-03-02,Getafe,Ferrol,3-1,1-1
-2003-03-02,Las Palmas,Sp Gijon,2-2,1-1
-2003-03-02,Numancia,Poli Ejido,2-2,1-2
-2003-03-02,Oviedo,Compostela,1-1,0-1
-2003-03-02,Terrassa,Cordoba,0-4,0-2
-2003-03-02,Xerez,Leganes,2-2,0-1
-2003-03-08,Ferrol,Zaragoza,1-2,0-1
-2003-03-08,Levante,Terrassa,1-0,0-0
-2003-03-08,Tenerife,Almeria,1-1,0-1
-2003-03-09,Albacete,Xerez,0-0,0-0
-2003-03-09,Compostela,Getafe,1-3,0-1
-2003-03-09,Cordoba,Badajoz,0-0,0-0
-2003-03-09,Leganes,Sp Gijon,0-2,0-0
-2003-03-09,Murcia,Eibar,4-2,2-0
-2003-03-09,Oviedo,Las Palmas,0-0,0-0
-2003-03-09,Poli Ejido,Elche,2-0,1-0
-2003-03-09,Salamanca,Numancia,0-0,0-0
-2003-03-15,Las Palmas,Leganes,1-4,1-3
-2003-03-15,Terrassa,Murcia,0-1,0-0
-2003-03-16,Almeria,Ferrol,3-2,3-2
-2003-03-16,Badajoz,Levante,1-1,0-1
-2003-03-16,Eibar,Tenerife,1-1,1-0
-2003-03-16,Elche,Salamanca,2-1,2-0
-2003-03-16,Getafe,Oviedo,1-1,1-0
-2003-03-16,Numancia,Cordoba,0-0,0-0
-2003-03-16,Sp Gijon,Albacete,0-1,0-0
-2003-03-16,Xerez,Poli Ejido,2-1,0-1
-2003-03-16,Zaragoza,Compostela,0-1,0-0
-2003-03-22,Ferrol,Eibar,0-1,0-0
-2003-03-22,Getafe,Las Palmas,0-0,0-0
-2003-03-22,Poli Ejido,Sp Gijon,1-0,1-0
-2003-03-23,Albacete,Leganes,2-0,1-0
-2003-03-23,Compostela,Almeria,4-1,2-0
-2003-03-23,Cordoba,Elche,1-0,1-0
-2003-03-23,Levante,Numancia,0-0,0-0
-2003-03-23,Murcia,Badajoz,2-0,0-0
-2003-03-23,Oviedo,Zaragoza,0-2,0-1
-2003-03-23,Salamanca,Xerez,1-1,1-1
-2003-03-23,Tenerife,Terrassa,1-1,0-1
-2003-03-29,Eibar,Compostela,2-1,1-0
-2003-03-29,Elche,Levante,0-2,0-1
-2003-03-29,Las Palmas,Albacete,1-1,0-1
-2003-03-29,Xerez,Cordoba,1-0,1-0
-2003-03-30,Almeria,Oviedo,1-1,1-1
-2003-03-30,Badajoz,Tenerife,2-1,2-0
-2003-03-30,Leganes,Poli Ejido,2-0,1-0
-2003-03-30,Numancia,Murcia,0-2,0-2
-2003-03-30,Sp Gijon,Salamanca,1-1,0-1
-2003-03-30,Terrassa,Ferrol,2-1,2-1
-2003-03-30,Zaragoza,Getafe,3-1,1-1
-2003-04-05,Murcia,Elche,1-0,1-0
-2003-04-06,Compostela,Terrassa,2-1,0-0
-2003-04-06,Cordoba,Sp Gijon,1-1,1-0
-2003-04-06,Ferrol,Badajoz,2-0,1-0
-2003-04-06,Getafe,Almeria,1-1,0-1
-2003-04-06,Levante,Xerez,0-0,0-0
-2003-04-06,Oviedo,Eibar,1-2,0-1
-2003-04-06,Poli Ejido,Albacete,0-1,0-0
-2003-04-06,Salamanca,Leganes,1-1,1-0
-2003-04-06,Tenerife,Numancia,2-0,1-0
-2003-04-06,Zaragoza,Las Palmas,1-2,0-0
-2003-04-12,Elche,Tenerife,1-0,0-0
-2003-04-12,Las Palmas,Poli Ejido,2-0,2-0
-2003-04-12,Terrassa,Oviedo,2-2,0-0
-2003-04-13,Albacete,Salamanca,0-0,0-0
-2003-04-13,Almeria,Zaragoza,0-1,0-1
-2003-04-13,Badajoz,Compostela,0-2,0-1
-2003-04-13,Eibar,Getafe,0-0,0-0
-2003-04-13,Leganes,Cordoba,0-3,0-1
-2003-04-13,Numancia,Ferrol,4-2,1-0
-2003-04-13,Sp Gijon,Levante,3-2,1-0
-2003-04-13,Xerez,Murcia,2-0,0-0
-2003-04-19,Almeria,Las Palmas,1-0,1-0
-2003-04-20,Compostela,Numancia,1-0,0-0
-2003-04-20,Cordoba,Albacete,0-2,0-0
-2003-04-20,Ferrol,Elche,1-0,1-0
-2003-04-20,Getafe,Terrassa,2-1,0-0
-2003-04-20,Levante,Leganes,4-0,0-0
-2003-04-20,Murcia,Sp Gijon,0-0,0-0
-2003-04-20,Oviedo,Badajoz,2-1,0-0
-2003-04-20,Salamanca,Poli Ejido,2-0,2-0
-2003-04-20,Tenerife,Xerez,1-3,1-2
-2003-04-20,Zaragoza,Eibar,2-0,0-0
-2003-04-26,Las Palmas,Salamanca,2-1,1-1
-2003-04-26,Poli Ejido,Cordoba,2-1,1-1
-2003-04-26,Sp Gijon,Tenerife,2-1,1-0
-2003-04-26,Terrassa,Zaragoza,0-2,0-1
-2003-04-27,Albacete,Levante,2-2,0-1
-2003-04-27,Badajoz,Getafe,1-2,1-0
-2003-04-27,Eibar,Almeria,2-0,0-0
-2003-04-27,Elche,Compostela,3-1,1-1
-2003-04-27,Leganes,Murcia,0-1,0-0
-2003-04-27,Numancia,Oviedo,4-2,1-0
-2003-04-27,Xerez,Ferrol,1-1,0-0
-2003-05-03,Compostela,Xerez,0-1,0-1
-2003-05-03,Eibar,Las Palmas,0-0,0-0
-2003-05-04,Almeria,Terrassa,3-0,1-0
-2003-05-04,Cordoba,Salamanca,0-2,0-1
-2003-05-04,Ferrol,Sp Gijon,2-1,1-1
-2003-05-04,Getafe,Numancia,1-1,0-0
-2003-05-04,Levante,Poli Ejido,2-2,1-0
-2003-05-04,Murcia,Albacete,0-0,0-0
-2003-05-04,Oviedo,Elche,2-1,1-1
-2003-05-04,Tenerife,Leganes,1-1,1-1
-2003-05-04,Zaragoza,Badajoz,2-0,1-0
-2003-05-10,Albacete,Tenerife,1-0,0-0
-2003-05-10,Las Palmas,Cordoba,0-1,0-1
-2003-05-10,Sp Gijon,Compostela,1-3,1-1
-2003-05-10,Xerez,Oviedo,4-1,1-0
-2003-05-11,Badajoz,Almeria,4-3,0-1
-2003-05-11,Elche,Getafe,1-1,1-0
-2003-05-11,Leganes,Ferrol,1-0,1-0
-2003-05-11,Numancia,Zaragoza,2-2,1-2
-2003-05-11,Poli Ejido,Murcia,0-1,0-1
-2003-05-11,Salamanca,Levante,1-1,0-1
-2003-05-11,Terrassa,Eibar,1-0,1-0
-2003-05-17,Ferrol,Albacete,2-1,1-0
-2003-05-17,Levante,Cordoba,1-2,1-1
-2003-05-18,Almeria,Numancia,1-2,0-1
-2003-05-18,Compostela,Leganes,2-0,1-0
-2003-05-18,Eibar,Badajoz,1-2,1-1
-2003-05-18,Getafe,Xerez,2-1,1-0
-2003-05-18,Murcia,Salamanca,1-1,1-0
-2003-05-18,Oviedo,Sp Gijon,2-1,1-1
-2003-05-18,Tenerife,Poli Ejido,4-0,2-0
-2003-05-18,Terrassa,Las Palmas,0-1,0-0
-2003-05-18,Zaragoza,Elche,5-2,1-1
-2003-05-24,Albacete,Compostela,1-1,0-0
-2003-05-24,Cordoba,Murcia,0-2,0-1
-2003-05-24,Elche,Almeria,0-2,0-1
-2003-05-24,Las Palmas,Levante,1-1,1-0
-2003-05-24,Poli Ejido,Ferrol,1-1,0-1
-2003-05-25,Badajoz,Terrassa,1-1,0-0
-2003-05-25,Leganes,Oviedo,0-1,0-0
-2003-05-25,Numancia,Eibar,1-0,1-0
-2003-05-25,Salamanca,Tenerife,2-1,0-1
-2003-05-25,Sp Gijon,Getafe,0-0,0-0
-2003-05-25,Xerez,Zaragoza,1-3,0-1
-2003-05-31,Almeria,Xerez,6-0,3-0
-2003-05-31,Badajoz,Las Palmas,0-1,0-0
-2003-05-31,Getafe,Leganes,0-3,0-0
-2003-05-31,Oviedo,Albacete,0-0,0-0
-2003-05-31,Zaragoza,Sp Gijon,1-1,1-0
-2003-06-01,Compostela,Poli Ejido,2-2,2-1
-2003-06-01,Eibar,Elche,0-1,0-1
-2003-06-01,Ferrol,Salamanca,1-1,1-0
-2003-06-01,Murcia,Levante,1-0,0-0
-2003-06-01,Tenerife,Cordoba,2-0,1-0
-2003-06-01,Terrassa,Numancia,1-1,0-1
-2003-06-07,Elche,Terrassa,2-2,0-1
-2003-06-07,Las Palmas,Murcia,1-4,0-2
-2003-06-07,Leganes,Zaragoza,2-0,1-0
-2003-06-07,Sp Gijon,Almeria,2-2,1-1
-2003-06-08,Albacete,Getafe,3-1,1-1
-2003-06-08,Cordoba,Ferrol,1-2,0-1
-2003-06-08,Levante,Tenerife,2-1,1-1
-2003-06-08,Numancia,Badajoz,4-0,2-0
-2003-06-08,Poli Ejido,Oviedo,1-0,1-0
-2003-06-08,Salamanca,Compostela,4-2,1-2
-2003-06-08,Xerez,Eibar,1-1,1-1
-2003-06-14,Almeria,Leganes,0-2,0-2
-2003-06-14,Eibar,Sp Gijon,1-1,0-0
-2003-06-14,Ferrol,Levante,1-0,0-0
-2003-06-14,Getafe,Poli Ejido,2-0,1-0
-2003-06-14,Numancia,Las Palmas,0-1,0-1
-2003-06-14,Tenerife,Murcia,2-1,1-0
-2003-06-15,Badajoz,Elche,2-3,1-1
-2003-06-15,Compostela,Cordoba,1-2,1-0
-2003-06-15,Oviedo,Salamanca,0-3,0-1
-2003-06-15,Terrassa,Xerez,2-0,1-0
-2003-06-15,Zaragoza,Albacete,1-1,0-0
-2003-06-21,Albacete,Almeria,0-1,0-1
-2003-06-21,Cordoba,Oviedo,1-0,0-0
-2003-06-21,Elche,Numancia,1-1,0-0
-2003-06-21,Leganes,Eibar,0-1,0-1
-2003-06-21,Levante,Compostela,3-4,2-0
-2003-06-21,Murcia,Ferrol,5-0,3-0
-2003-06-21,Poli Ejido,Zaragoza,0-0,0-0
-2003-06-21,Salamanca,Getafe,3-1,1-0
-2003-06-21,Sp Gijon,Terrassa,0-0,0-0
-2003-06-21,Tenerife,Las Palmas,0-0,0-0
-2003-06-21,Xerez,Badajoz,5-3,3-1
-2003-06-28,Badajoz,Sp Gijon,0-3,0-1
-2003-06-28,Numancia,Xerez,1-4,1-3
-2003-06-28,Oviedo,Levante,1-2,0-1
-2003-06-28,Zaragoza,Salamanca,1-3,1-1
-2003-06-29,Almeria,Poli Ejido,1-1,0-0
-2003-06-29,Compostela,Murcia,1-0,0-0
-2003-06-29,Eibar,Albacete,2-0,0-0
-2003-06-29,Ferrol,Tenerife,0-1,0-0
-2003-06-29,Getafe,Cordoba,1-1,0-1
-2003-06-29,Las Palmas,Elche,4-1,2-0
-2003-06-29,Terrassa,Leganes,2-0,1-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 31 Aug 2002 (34),Almeria (1),1-2,1-0,Salamanca (1)
+?,(Sat) 31 Aug 2002 (34),Elche (1),0-1,0-0,Xerez (1)
+?,(Sat) 31 Aug 2002 (34),Getafe CF (1),2-2,0-2,Levante UD (1)
+?,(Sat) 31 Aug 2002 (34),UD Las Palmas (1),2-0,2-0,Ferrol (1)
+?,(Sat) 31 Aug 2002 (34),Terrassa (1),1-1,1-1,Albacete (1)
+?,(Sun) 1 Sep 2002 (34),Badajoz (1),0-0,0-0,Leganes (1)
+?,(Sun) 1 Sep 2002 (34),Compostela (1),1-1,1-0,Tenerife (1)
+?,(Sun) 1 Sep 2002 (34),SD Eibar (1),0-0,0-0,Poli Ejido (1)
+?,(Sun) 1 Sep 2002 (34),Numancia (1),1-0,1-0,Sporting Gijón (1)
+?,(Sun) 1 Sep 2002 (34),Oviedo (1),0-1,0-0,Murcia (1)
+?,(Sun) 1 Sep 2002 (34),Zaragoza (1),0-0,0-0,Cordoba (1)
+?,(Sat) 14 Sep 2002 (36),Cordoba (2),3-0,1-0,Almeria (2)
+?,(Sat) 14 Sep 2002 (36),Ferrol (2),1-1,1-1,Compostela (2)
+?,(Sat) 14 Sep 2002 (36),Tenerife (2),1-1,0-1,Oviedo (2)
+?,(Sun) 15 Sep 2002 (36),Albacete (2),1-0,1-0,Badajoz (2)
+?,(Sun) 15 Sep 2002 (36),Leganes (2),2-1,0-0,Numancia (2)
+?,(Sun) 15 Sep 2002 (36),Levante UD (2),3-2,0-0,Zaragoza (2)
+?,(Sun) 15 Sep 2002 (36),Murcia (2),2-0,1-0,Getafe CF (2)
+?,(Sun) 15 Sep 2002 (36),Poli Ejido (2),1-2,0-1,Terrassa (2)
+?,(Sun) 15 Sep 2002 (36),Salamanca (2),0-0,0-0,SD Eibar (2)
+?,(Sun) 15 Sep 2002 (36),Sporting Gijón (2),0-0,0-0,Elche (2)
+?,(Sun) 15 Sep 2002 (36),Xerez (2),2-2,0-1,UD Las Palmas (2)
+?,(Sat) 21 Sep 2002 (37),Almeria (3),2-2,2-0,Levante UD (3)
+?,(Sat) 21 Sep 2002 (37),SD Eibar (3),1-0,0-0,Cordoba (3)
+?,(Sat) 21 Sep 2002 (37),UD Las Palmas (3),1-1,0-1,Compostela (3)
+?,(Sat) 21 Sep 2002 (37),Numancia (3),1-2,0-1,Albacete (3)
+?,(Sat) 21 Sep 2002 (37),Oviedo (3),1-2,0-0,Ferrol (3)
+?,(Sun) 22 Sep 2002 (37),Badajoz (3),0-2,0-1,Poli Ejido (3)
+?,(Sun) 22 Sep 2002 (37),Elche (3),1-1,1-1,Leganes (3)
+?,(Sun) 22 Sep 2002 (37),Getafe CF (3),2-1,1-1,Tenerife (3)
+?,(Sun) 22 Sep 2002 (37),Terrassa (3),1-0,1-0,Salamanca (3)
+?,(Sun) 22 Sep 2002 (37),Xerez (3),1-0,0-0,Sporting Gijón (3)
+?,(Sun) 22 Sep 2002 (37),Zaragoza (3),1-0,0-0,Murcia (3)
+?,(Sat) 28 Sep 2002 (38),Compostela (4),0-1,0-0,Oviedo (4)
+?,(Sat) 28 Sep 2002 (38),Cordoba (4),0-2,0-0,Terrassa (4)
+?,(Sat) 28 Sep 2002 (38),Leganes (4),1-2,1-2,Xerez (4)
+?,(Sat) 28 Sep 2002 (38),Levante UD (4),3-1,1-1,SD Eibar (4)
+?,(Sun) 29 Sep 2002 (38),Albacete (4),1-1,0-1,Elche (4)
+?,(Sun) 29 Sep 2002 (38),Ferrol (4),2-1,1-0,Getafe CF (4)
+?,(Sun) 29 Sep 2002 (38),Murcia (4),3-0,2-0,Almeria (4)
+?,(Sun) 29 Sep 2002 (38),Poli Ejido (4),3-2,1-2,Numancia (4)
+?,(Sun) 29 Sep 2002 (38),Salamanca (4),0-1,0-0,Badajoz (4)
+?,(Sun) 29 Sep 2002 (38),Sporting Gijón (4),0-0,0-0,UD Las Palmas (4)
+?,(Sun) 29 Sep 2002 (38),Tenerife (4),2-0,0-0,Zaragoza (4)
+?,(Sat) 5 Oct 2002 (39),Getafe CF (5),2-0,0-0,Compostela (5)
+?,(Sat) 5 Oct 2002 (39),UD Las Palmas (5),2-0,1-0,Oviedo (5)
+?,(Sat) 5 Oct 2002 (39),Xerez (5),1-0,0-0,Albacete (5)
+?,(Sun) 6 Oct 2002 (39),Almeria (5),1-1,1-0,Tenerife (5)
+?,(Sun) 6 Oct 2002 (39),Badajoz (5),2-0,2-0,Cordoba (5)
+?,(Sun) 6 Oct 2002 (39),SD Eibar (5),1-1,0-0,Murcia (5)
+?,(Sun) 6 Oct 2002 (39),Elche (5),3-0,0-0,Poli Ejido (5)
+?,(Sun) 6 Oct 2002 (39),Numancia (5),1-0,1-0,Salamanca (5)
+?,(Sun) 6 Oct 2002 (39),Sporting Gijón (5),1-1,1-1,Leganes (5)
+?,(Sun) 6 Oct 2002 (39),Terrassa (5),1-1,1-0,Levante UD (5)
+?,(Sun) 6 Oct 2002 (39),Zaragoza (5),2-2,2-1,Ferrol (5)
+?,(Sat) 12 Oct 2002 (40),Leganes (6),1-1,0-1,UD Las Palmas (6)
+?,(Sat) 12 Oct 2002 (40),Poli Ejido (6),2-0,1-0,Xerez (6)
+?,(Sun) 13 Oct 2002 (40),Albacete (6),4-0,1-0,Sporting Gijón (6)
+?,(Sun) 13 Oct 2002 (40),Compostela (6),0-0,0-0,Zaragoza (6)
+?,(Sun) 13 Oct 2002 (40),Cordoba (6),1-1,0-1,Numancia (6)
+?,(Sun) 13 Oct 2002 (40),Ferrol (6),1-1,0-1,Almeria (6)
+?,(Sun) 13 Oct 2002 (40),Levante UD (6),4-0,3-0,Badajoz (6)
+?,(Sun) 13 Oct 2002 (40),Murcia (6),0-0,0-0,Terrassa (6)
+?,(Sun) 13 Oct 2002 (40),Oviedo (6),3-4,3-2,Getafe CF (6)
+?,(Sun) 13 Oct 2002 (40),Salamanca (6),1-3,1-0,Elche (6)
+?,(Sun) 13 Oct 2002 (40),Tenerife (6),1-0,1-0,SD Eibar (6)
+?,(Sat) 19 Oct 2002 (41),SD Eibar (7),1-0,1-0,Ferrol (7)
+?,(Sat) 19 Oct 2002 (41),Elche (7),0-0,0-0,Cordoba (7)
+?,(Sat) 19 Oct 2002 (41),UD Las Palmas (7),2-1,2-1,Getafe CF (7)
+?,(Sun) 20 Oct 2002 (41),Almeria (7),2-1,0-1,Compostela (7)
+?,(Sun) 20 Oct 2002 (41),Badajoz (7),1-0,1-0,Murcia (7)
+?,(Sun) 20 Oct 2002 (41),Leganes (7),1-1,0-0,Albacete (7)
+?,(Sun) 20 Oct 2002 (41),Numancia (7),0-2,0-1,Levante UD (7)
+?,(Sun) 20 Oct 2002 (41),Sporting Gijón (7),1-1,0-0,Poli Ejido (7)
+?,(Sun) 20 Oct 2002 (41),Terrassa (7),1-1,1-1,Tenerife (7)
+?,(Sun) 20 Oct 2002 (41),Xerez (7),0-1,0-1,Salamanca (7)
+?,(Sun) 20 Oct 2002 (41),Zaragoza (7),3-1,0-0,Oviedo (7)
+?,(Sat) 26 Oct 2002 (42),Levante UD (8),2-2,1-0,Elche (8)
+?,(Sat) 26 Oct 2002 (42),Poli Ejido (8),1-0,0-0,Leganes (8)
+?,(Sun) 27 Oct 2002 (42),Albacete (8),2-1,1-0,UD Las Palmas (8)
+?,(Sun) 27 Oct 2002 (42),Compostela (8),1-0,1-0,SD Eibar (8)
+?,(Sun) 27 Oct 2002 (42),Cordoba (8),1-3,1-2,Xerez (8)
+?,(Sun) 27 Oct 2002 (42),Ferrol (8),1-1,0-1,Terrassa (8)
+?,(Sun) 27 Oct 2002 (42),Getafe CF (8),1-2,0-0,Zaragoza (8)
+?,(Sun) 27 Oct 2002 (42),Murcia (8),2-1,0-0,Numancia (8)
+?,(Sun) 27 Oct 2002 (42),Oviedo (8),1-1,1-0,Almeria (8)
+?,(Sun) 27 Oct 2002 (42),Salamanca (8),0-0,0-0,Sporting Gijón (8)
+?,(Sun) 27 Oct 2002 (42),Tenerife (8),3-3,0-1,Badajoz (8)
+?,(Sat) 2 Nov 2002 (43),Albacete (9),1-1,1-1,Poli Ejido (9)
+?,(Sat) 2 Nov 2002 (43),Badajoz (9),1-0,1-0,Ferrol (9)
+?,(Sat) 2 Nov 2002 (43),SD Eibar (9),2-1,2-1,Oviedo (9)
+?,(Sat) 2 Nov 2002 (43),UD Las Palmas (9),0-1,0-0,Zaragoza (9)
+?,(Sat) 2 Nov 2002 (43),Terrassa (9),2-1,1-1,Compostela (9)
+?,(Sat) 2 Nov 2002 (43),Xerez (9),2-1,1-1,Levante UD (9)
+?,(Sun) 3 Nov 2002 (43),Almeria (9),1-1,1-0,Getafe CF (9)
+?,(Sun) 3 Nov 2002 (43),Elche (9),0-2,0-0,Murcia (9)
+?,(Sun) 3 Nov 2002 (43),Leganes (9),0-2,0-1,Salamanca (9)
+?,(Sun) 3 Nov 2002 (43),Numancia (9),1-0,0-0,Tenerife (9)
+?,(Sun) 3 Nov 2002 (43),Sporting Gijón (9),0-0,0-0,Cordoba (9)
+?,(Sat) 9 Nov 2002 (44),Cordoba (10),1-0,0-0,Leganes (10)
+?,(Sat) 9 Nov 2002 (44),Tenerife (10),0-0,0-0,Elche (10)
+?,(Sun) 10 Nov 2002 (44),Compostela (10),3-0,0-0,Badajoz (10)
+?,(Sun) 10 Nov 2002 (44),Ferrol (10),1-0,0-0,Numancia (10)
+?,(Sun) 10 Nov 2002 (44),Getafe CF (10),4-2,1-1,SD Eibar (10)
+?,(Sun) 10 Nov 2002 (44),Levante UD (10),2-1,1-0,Sporting Gijón (10)
+?,(Sun) 10 Nov 2002 (44),Murcia (10),1-1,0-1,Xerez (10)
+?,(Sun) 10 Nov 2002 (44),Oviedo (10),2-2,1-0,Terrassa (10)
+?,(Sun) 10 Nov 2002 (44),Poli Ejido (10),0-0,0-0,UD Las Palmas (10)
+?,(Sun) 10 Nov 2002 (44),Salamanca (10),0-1,0-0,Albacete (10)
+?,(Sun) 10 Nov 2002 (44),Zaragoza (10),1-0,0-0,Almeria (10)
+?,(Sat) 16 Nov 2002 (45),Albacete (11),0-0,0-0,Cordoba (11)
+?,(Sat) 16 Nov 2002 (45),Terrassa (11),1-1,1-1,Getafe CF (11)
+?,(Sun) 17 Nov 2002 (45),Badajoz (11),0-1,0-0,Oviedo (11)
+?,(Sun) 17 Nov 2002 (45),SD Eibar (11),0-0,0-0,Zaragoza (11)
+?,(Sun) 17 Nov 2002 (45),Elche (11),1-2,1-1,Ferrol (11)
+?,(Sun) 17 Nov 2002 (45),UD Las Palmas (11),2-2,2-1,Almeria (11)
+?,(Sun) 17 Nov 2002 (45),Leganes (11),0-1,0-0,Levante UD (11)
+?,(Sun) 17 Nov 2002 (45),Numancia (11),2-2,2-2,Compostela (11)
+?,(Sun) 17 Nov 2002 (45),Poli Ejido (11),1-1,1-1,Salamanca (11)
+?,(Sun) 17 Nov 2002 (45),Sporting Gijón (11),1-0,0-0,Murcia (11)
+?,(Sun) 17 Nov 2002 (45),Xerez (11),1-1,1-1,Tenerife (11)
+?,(Sat) 23 Nov 2002 (46),Almeria (12),2-1,0-0,SD Eibar (12)
+?,(Sat) 23 Nov 2002 (46),Compostela (12),0-1,0-0,Elche (12)
+?,(Sun) 24 Nov 2002 (46),Cordoba (12),0-1,0-0,Poli Ejido (12)
+?,(Sun) 24 Nov 2002 (46),Ferrol (12),2-1,1-0,Xerez (12)
+?,(Sun) 24 Nov 2002 (46),Getafe CF (12),0-1,0-0,Badajoz (12)
+?,(Sun) 24 Nov 2002 (46),Levante UD (12),2-2,1-1,Albacete (12)
+?,(Sun) 24 Nov 2002 (46),Murcia (12),0-1,0-0,Leganes (12)
+?,(Sun) 24 Nov 2002 (46),Oviedo (12),1-1,1-0,Numancia (12)
+?,(Sun) 24 Nov 2002 (46),Salamanca (12),2-1,0-1,UD Las Palmas (12)
+?,(Sun) 24 Nov 2002 (46),Tenerife (12),2-2,1-0,Sporting Gijón (12)
+?,(Sun) 24 Nov 2002 (46),Zaragoza (12),1-0,1-0,Terrassa (12)
+?,(Sat) 30 Nov 2002 (47),UD Las Palmas (13),0-1,0-1,SD Eibar (13)
+?,(Sat) 30 Nov 2002 (47),Leganes (13),1-1,1-1,Tenerife (13)
+?,(Sat) 30 Nov 2002 (47),Sporting Gijón (13),3-1,1-0,Ferrol (13)
+?,(Sun) 1 Dec 2002 (47),Albacete (13),0-0,0-0,Murcia (13)
+?,(Sun) 1 Dec 2002 (47),Badajoz (13),0-4,0-3,Zaragoza (13)
+?,(Sun) 1 Dec 2002 (47),Elche (13),2-1,1-1,Oviedo (13)
+?,(Sun) 1 Dec 2002 (47),Numancia (13),1-3,0-1,Getafe CF (13)
+?,(Sun) 1 Dec 2002 (47),Poli Ejido (13),0-0,0-0,Levante UD (13)
+?,(Sun) 1 Dec 2002 (47),Salamanca (13),2-0,1-0,Cordoba (13)
+?,(Sun) 1 Dec 2002 (47),Terrassa (13),0-2,0-0,Almeria (13)
+?,(Sun) 1 Dec 2002 (47),Xerez (13),0-1,0-1,Compostela (13)
+?,(Sat) 7 Dec 2002 (48),SD Eibar (14),1-1,1-0,Terrassa (14)
+?,(Sat) 7 Dec 2002 (48),Oviedo (14),1-2,1-0,Xerez (14)
+?,(Sat) 7 Dec 2002 (48),Tenerife (14),1-1,1-1,Albacete (14)
+?,(Sun) 8 Dec 2002 (48),Almeria (14),2-1,1-0,Badajoz (14)
+?,(Sun) 8 Dec 2002 (48),Compostela (14),2-3,1-2,Sporting Gijón (14)
+?,(Sun) 8 Dec 2002 (48),Cordoba (14),2-2,1-1,UD Las Palmas (14)
+?,(Sun) 8 Dec 2002 (48),Ferrol (14),1-1,0-0,Leganes (14)
+?,(Sun) 8 Dec 2002 (48),Getafe CF (14),1-1,0-1,Elche (14)
+?,(Sun) 8 Dec 2002 (48),Levante UD (14),0-1,0-0,Salamanca (14)
+?,(Sun) 8 Dec 2002 (48),Murcia (14),3-0,1-0,Poli Ejido (14)
+?,(Sun) 8 Dec 2002 (48),Zaragoza (14),1-0,1-0,Numancia (14)
+?,(Sat) 14 Dec 2002 (49),Albacete (15),2-0,2-0,Ferrol (15)
+?,(Sat) 14 Dec 2002 (49),UD Las Palmas (15),2-0,1-0,Terrassa (15)
+?,(Sat) 14 Dec 2002 (49),Poli Ejido (15),0-1,0-0,Tenerife (15)
+?,(Sun) 15 Dec 2002 (49),Badajoz (15),1-1,0-0,SD Eibar (15)
+?,(Sun) 15 Dec 2002 (49),Cordoba (15),1-2,0-0,Levante UD (15)
+?,(Sun) 15 Dec 2002 (49),Elche (15),4-0,1-0,Zaragoza (15)
+?,(Sun) 15 Dec 2002 (49),Leganes (15),0-0,0-0,Compostela (15)
+?,(Sun) 15 Dec 2002 (49),Numancia (15),0-0,0-0,Almeria (15)
+?,(Sun) 15 Dec 2002 (49),Salamanca (15),0-0,0-0,Murcia (15)
+?,(Sun) 15 Dec 2002 (49),Sporting Gijón (15),1-0,1-0,Oviedo (15)
+?,(Sun) 15 Dec 2002 (49),Xerez (15),0-0,0-0,Getafe CF (15)
+?,(Sat) 21 Dec 2002 (50),Almeria (16),0-3,0-1,Elche (16)
+?,(Sat) 21 Dec 2002 (50),Compostela (16),3-3,1-2,Albacete (16)
+?,(Sat) 21 Dec 2002 (50),Ferrol (16),1-1,0-0,Poli Ejido (16)
+?,(Sat) 21 Dec 2002 (50),Murcia (16),1-0,1-0,Cordoba (16)
+?,(Sat) 21 Dec 2002 (50),Oviedo (16),1-1,0-1,Leganes (16)
+?,(Sat) 21 Dec 2002 (50),Tenerife (16),0-0,0-0,Salamanca (16)
+?,(Sat) 21 Dec 2002 (50),Terrassa (16),1-0,1-0,Badajoz (16)
+?,(Sun) 22 Dec 2002 (50),SD Eibar (16),1-2,1-0,Numancia (16)
+?,(Sun) 22 Dec 2002 (50),Getafe CF (16),0-1,0-1,Sporting Gijón (16)
+?,(Sun) 22 Dec 2002 (50),Levante UD (16),1-1,0-0,UD Las Palmas (16)
+?,(Sun) 22 Dec 2002 (50),Zaragoza (16),1-0,0-0,Xerez (16)
+?,(Sat) 4 Jan 2003 (0),Cordoba (17),1-1,0-0,Tenerife (17)
+?,(Sat) 4 Jan 2003 (0),Elche (17),0-0,0-0,SD Eibar (17)
+?,(Sat) 4 Jan 2003 (0),UD Las Palmas (17),2-0,0-0,Badajoz (17)
+?,(Sat) 4 Jan 2003 (0),Numancia (17),1-1,0-0,Terrassa (17)
+?,(Sat) 4 Jan 2003 (0),Sporting Gijón (17),1-1,0-0,Zaragoza (17)
+?,(Sat) 4 Jan 2003 (0),Xerez (17),1-2,0-1,Almeria (17)
+?,(Sun) 5 Jan 2003 (0),Albacete (17),0-1,0-0,Oviedo (17)
+?,(Sun) 5 Jan 2003 (0),Leganes (17),2-1,1-0,Getafe CF (17)
+?,(Sun) 5 Jan 2003 (0),Levante UD (17),0-0,0-0,Murcia (17)
+?,(Sun) 5 Jan 2003 (0),Poli Ejido (17),0-2,0-2,Compostela (17)
+?,(Sun) 5 Jan 2003 (0),Salamanca (17),0-0,0-0,Ferrol (17)
+?,(Sat) 11 Jan 2003 (1),Almeria (18),1-0,1-0,Sporting Gijón (18)
+?,(Sat) 11 Jan 2003 (1),Ferrol (18),0-0,0-0,Cordoba (18)
+?,(Sat) 11 Jan 2003 (1),Murcia (18),6-1,2-0,UD Las Palmas (18)
+?,(Sat) 11 Jan 2003 (1),Oviedo (18),0-3,0-0,Poli Ejido (18)
+?,(Sat) 11 Jan 2003 (1),Terrassa (18),1-1,1-1,Elche (18)
+?,(Sun) 12 Jan 2003 (1),Badajoz (18),1-1,1-0,Numancia (18)
+?,(Sun) 12 Jan 2003 (1),Compostela (18),0-0,0-0,Salamanca (18)
+?,(Sun) 12 Jan 2003 (1),SD Eibar (18),1-0,0-0,Xerez (18)
+?,(Sun) 12 Jan 2003 (1),Getafe CF (18),1-2,0-0,Albacete (18)
+?,(Sun) 12 Jan 2003 (1),Tenerife (18),0-0,0-0,Levante UD (18)
+?,(Sun) 12 Jan 2003 (1),Zaragoza (18),2-2,1-0,Leganes (18)
+?,(Sat) 18 Jan 2003 (2),Albacete (19),0-0,0-0,Zaragoza (19)
+?,(Sat) 18 Jan 2003 (2),UD Las Palmas (19),0-0,0-0,Numancia (19)
+?,(Sat) 18 Jan 2003 (2),Poli Ejido (19),1-1,0-1,Getafe CF (19)
+?,(Sat) 18 Jan 2003 (2),Xerez (19),2-2,1-2,Terrassa (19)
+?,(Sun) 19 Jan 2003 (2),Cordoba (19),0-0,0-0,Compostela (19)
+?,(Sun) 19 Jan 2003 (2),Elche (19),0-1,0-0,Badajoz (19)
+?,(Sun) 19 Jan 2003 (2),Leganes (19),5-2,3-1,Almeria (19)
+?,(Sun) 19 Jan 2003 (2),Levante UD (19),1-0,0-0,Ferrol (19)
+?,(Sun) 19 Jan 2003 (2),Murcia (19),2-0,2-0,Tenerife (19)
+?,(Sun) 19 Jan 2003 (2),Salamanca (19),0-0,0-0,Oviedo (19)
+?,(Sun) 19 Jan 2003 (2),Sporting Gijón (19),1-0,0-0,SD Eibar (19)
+?,(Sat) 25 Jan 2003 (3),UD Las Palmas (20),1-0,0-0,Tenerife (20)
+?,(Sun) 26 Jan 2003 (3),Almeria (20),1-1,0-0,Albacete (20)
+?,(Sun) 26 Jan 2003 (3),Badajoz (20),0-1,0-1,Xerez (20)
+?,(Sun) 26 Jan 2003 (3),Compostela (20),3-1,2-0,Levante UD (20)
+?,(Sun) 26 Jan 2003 (3),SD Eibar (20),0-1,0-1,Leganes (20)
+?,(Sun) 26 Jan 2003 (3),Ferrol (20),0-3,0-2,Murcia (20)
+?,(Sun) 26 Jan 2003 (3),Getafe CF (20),1-0,0-0,Salamanca (20)
+?,(Sun) 26 Jan 2003 (3),Numancia (20),1-0,0-0,Elche (20)
+?,(Sun) 26 Jan 2003 (3),Oviedo (20),1-0,0-0,Cordoba (20)
+?,(Sun) 26 Jan 2003 (3),Terrassa (20),0-0,0-0,Sporting Gijón (20)
+?,(Sun) 26 Jan 2003 (3),Zaragoza (20),0-0,0-0,Poli Ejido (20)
+?,(Sat) 1 Feb 2003 (4),Leganes (21),1-1,1-1,Terrassa (21)
+?,(Sat) 1 Feb 2003 (4),Levante UD (21),1-0,1-0,Oviedo (21)
+?,(Sat) 1 Feb 2003 (4),Tenerife (21),4-0,0-0,Ferrol (21)
+?,(Sun) 2 Feb 2003 (4),Albacete (21),1-1,1-1,SD Eibar (21)
+?,(Sun) 2 Feb 2003 (4),Cordoba (21),3-0,2-0,Getafe CF (21)
+?,(Sun) 2 Feb 2003 (4),Elche (21),3-2,1-2,UD Las Palmas (21)
+?,(Sun) 2 Feb 2003 (4),Murcia (21),2-0,1-0,Compostela (21)
+?,(Sun) 2 Feb 2003 (4),Poli Ejido (21),2-0,2-0,Almeria (21)
+?,(Sun) 2 Feb 2003 (4),Salamanca (21),0-1,0-0,Zaragoza (21)
+?,(Sun) 2 Feb 2003 (4),Sporting Gijón (21),4-0,2-0,Badajoz (21)
+?,(Sun) 2 Feb 2003 (4),Xerez (21),2-2,1-2,Numancia (21)
+?,(Sat) 8 Feb 2003 (5),Cordoba (22),2-1,0-0,Zaragoza (22)
+?,(Sat) 8 Feb 2003 (5),Ferrol (22),1-2,1-1,UD Las Palmas (22)
+?,(Sun) 9 Feb 2003 (5),Albacete (22),1-0,1-0,Terrassa (22)
+?,(Sun) 9 Feb 2003 (5),Leganes (22),1-3,0-2,Badajoz (22)
+?,(Sun) 9 Feb 2003 (5),Levante UD (22),1-0,0-0,Getafe CF (22)
+?,(Sun) 9 Feb 2003 (5),Murcia (22),0-1,0-0,Oviedo (22)
+?,(Sun) 9 Feb 2003 (5),Poli Ejido (22),0-0,0-0,SD Eibar (22)
+?,(Sun) 9 Feb 2003 (5),Salamanca (22),2-1,2-1,Almeria (22)
+?,(Sun) 9 Feb 2003 (5),Sporting Gijón (22),1-2,1-2,Numancia (22)
+?,(Sun) 9 Feb 2003 (5),Tenerife (22),5-1,1-1,Compostela (22)
+?,(Sun) 9 Feb 2003 (5),Xerez (22),2-1,1-0,Elche (22)
+?,(Sat) 15 Feb 2003 (6),Almeria (23),1-3,0-1,Cordoba (23)
+?,(Sat) 15 Feb 2003 (6),Compostela (23),1-1,1-1,Ferrol (23)
+?,(Sat) 15 Feb 2003 (6),Getafe CF (23),3-1,1-0,Murcia (23)
+?,(Sat) 15 Feb 2003 (6),UD Las Palmas (23),4-0,2-0,Xerez (23)
+?,(Sat) 15 Feb 2003 (6),Oviedo (23),0-2,0-2,Tenerife (23)
+?,(Sun) 16 Feb 2003 (6),Badajoz (23),0-3,0-1,Albacete (23)
+?,(Sun) 16 Feb 2003 (6),SD Eibar (23),1-1,0-1,Salamanca (23)
+?,(Sun) 16 Feb 2003 (6),Elche (23),1-1,0-1,Sporting Gijón (23)
+?,(Sun) 16 Feb 2003 (6),Numancia (23),2-1,2-1,Leganes (23)
+?,(Sun) 16 Feb 2003 (6),Terrassa (23),2-0,1-0,Poli Ejido (23)
+?,(Sun) 16 Feb 2003 (6),Zaragoza (23),1-0,1-0,Levante UD (23)
+?,(Sat) 22 Feb 2003 (7),Sporting Gijón (24),1-1,0-0,Xerez (24)
+?,(Sun) 23 Feb 2003 (7),Albacete (24),3-1,1-1,Numancia (24)
+?,(Sun) 23 Feb 2003 (7),Compostela (24),0-3,0-0,UD Las Palmas (24)
+?,(Sun) 23 Feb 2003 (7),Cordoba (24),0-0,0-0,SD Eibar (24)
+?,(Sun) 23 Feb 2003 (7),Ferrol (24),1-1,0-1,Oviedo (24)
+?,(Sun) 23 Feb 2003 (7),Leganes (24),2-2,1-1,Elche (24)
+?,(Sun) 23 Feb 2003 (7),Levante UD (24),2-1,1-0,Almeria (24)
+?,(Sun) 23 Feb 2003 (7),Murcia (24),2-0,1-0,Zaragoza (24)
+?,(Sun) 23 Feb 2003 (7),Poli Ejido (24),1-0,1-0,Badajoz (24)
+?,(Sun) 23 Feb 2003 (7),Salamanca (24),1-2,0-1,Terrassa (24)
+?,(Sun) 23 Feb 2003 (7),Tenerife (24),1-0,0-0,Getafe CF (24)
+?,(Sat) 1 Mar 2003 (8),Badajoz (25),1-1,0-0,Salamanca (25)
+?,(Sat) 1 Mar 2003 (8),Zaragoza (25),1-3,0-3,Tenerife (25)
+?,(Sun) 2 Mar 2003 (8),Almeria (25),1-1,0-0,Murcia (25)
+?,(Sun) 2 Mar 2003 (8),SD Eibar (25),1-1,0-0,Levante UD (25)
+?,(Sun) 2 Mar 2003 (8),Elche (25),1-2,0-1,Albacete (25)
+?,(Sun) 2 Mar 2003 (8),Getafe CF (25),3-1,1-1,Ferrol (25)
+?,(Sun) 2 Mar 2003 (8),UD Las Palmas (25),2-2,1-1,Sporting Gijón (25)
+?,(Sun) 2 Mar 2003 (8),Numancia (25),2-2,1-2,Poli Ejido (25)
+?,(Sun) 2 Mar 2003 (8),Oviedo (25),1-1,0-1,Compostela (25)
+?,(Sun) 2 Mar 2003 (8),Terrassa (25),0-4,0-2,Cordoba (25)
+?,(Sun) 2 Mar 2003 (8),Xerez (25),2-2,0-1,Leganes (25)
+?,(Sat) 8 Mar 2003 (9),Ferrol (26),1-2,0-1,Zaragoza (26)
+?,(Sat) 8 Mar 2003 (9),Levante UD (26),1-0,0-0,Terrassa (26)
+?,(Sat) 8 Mar 2003 (9),Tenerife (26),1-1,0-1,Almeria (26)
+?,(Sun) 9 Mar 2003 (9),Albacete (26),0-0,0-0,Xerez (26)
+?,(Sun) 9 Mar 2003 (9),Compostela (26),1-3,0-1,Getafe CF (26)
+?,(Sun) 9 Mar 2003 (9),Cordoba (26),0-0,0-0,Badajoz (26)
+?,(Sun) 9 Mar 2003 (9),Leganes (26),0-2,0-0,Sporting Gijón (26)
+?,(Sun) 9 Mar 2003 (9),Murcia (26),4-2,2-0,SD Eibar (26)
+?,(Sun) 9 Mar 2003 (9),Oviedo (26),0-0,0-0,UD Las Palmas (26)
+?,(Sun) 9 Mar 2003 (9),Poli Ejido (26),2-0,1-0,Elche (26)
+?,(Sun) 9 Mar 2003 (9),Salamanca (26),0-0,0-0,Numancia (26)
+?,(Sat) 15 Mar 2003 (10),UD Las Palmas (27),1-4,1-3,Leganes (27)
+?,(Sat) 15 Mar 2003 (10),Terrassa (27),0-1,0-0,Murcia (27)
+?,(Sun) 16 Mar 2003 (10),Almeria (27),3-2,3-2,Ferrol (27)
+?,(Sun) 16 Mar 2003 (10),Badajoz (27),1-1,0-1,Levante UD (27)
+?,(Sun) 16 Mar 2003 (10),SD Eibar (27),1-1,1-0,Tenerife (27)
+?,(Sun) 16 Mar 2003 (10),Elche (27),2-1,2-0,Salamanca (27)
+?,(Sun) 16 Mar 2003 (10),Getafe CF (27),1-1,1-0,Oviedo (27)
+?,(Sun) 16 Mar 2003 (10),Numancia (27),0-0,0-0,Cordoba (27)
+?,(Sun) 16 Mar 2003 (10),Sporting Gijón (27),0-1,0-0,Albacete (27)
+?,(Sun) 16 Mar 2003 (10),Xerez (27),2-1,0-1,Poli Ejido (27)
+?,(Sun) 16 Mar 2003 (10),Zaragoza (27),0-1,0-0,Compostela (27)
+?,(Sat) 22 Mar 2003 (11),Ferrol (28),0-1,0-0,SD Eibar (28)
+?,(Sat) 22 Mar 2003 (11),Getafe CF (28),0-0,0-0,UD Las Palmas (28)
+?,(Sat) 22 Mar 2003 (11),Poli Ejido (28),1-0,1-0,Sporting Gijón (28)
+?,(Sun) 23 Mar 2003 (11),Albacete (28),2-0,1-0,Leganes (28)
+?,(Sun) 23 Mar 2003 (11),Compostela (28),4-1,2-0,Almeria (28)
+?,(Sun) 23 Mar 2003 (11),Cordoba (28),1-0,1-0,Elche (28)
+?,(Sun) 23 Mar 2003 (11),Levante UD (28),0-0,0-0,Numancia (28)
+?,(Sun) 23 Mar 2003 (11),Murcia (28),2-0,0-0,Badajoz (28)
+?,(Sun) 23 Mar 2003 (11),Oviedo (28),0-2,0-1,Zaragoza (28)
+?,(Sun) 23 Mar 2003 (11),Salamanca (28),1-1,1-1,Xerez (28)
+?,(Sun) 23 Mar 2003 (11),Tenerife (28),1-1,0-1,Terrassa (28)
+?,(Sat) 29 Mar 2003 (12),SD Eibar (29),2-1,1-0,Compostela (29)
+?,(Sat) 29 Mar 2003 (12),Elche (29),0-2,0-1,Levante UD (29)
+?,(Sat) 29 Mar 2003 (12),UD Las Palmas (29),1-1,0-1,Albacete (29)
+?,(Sat) 29 Mar 2003 (12),Xerez (29),1-0,1-0,Cordoba (29)
+?,(Sun) 30 Mar 2003 (12),Almeria (29),1-1,1-1,Oviedo (29)
+?,(Sun) 30 Mar 2003 (12),Badajoz (29),2-1,2-0,Tenerife (29)
+?,(Sun) 30 Mar 2003 (12),Leganes (29),2-0,1-0,Poli Ejido (29)
+?,(Sun) 30 Mar 2003 (12),Numancia (29),0-2,0-2,Murcia (29)
+?,(Sun) 30 Mar 2003 (12),Sporting Gijón (29),1-1,0-1,Salamanca (29)
+?,(Sun) 30 Mar 2003 (12),Terrassa (29),2-1,2-1,Ferrol (29)
+?,(Sun) 30 Mar 2003 (12),Zaragoza (29),3-1,1-1,Getafe CF (29)
+?,(Sat) 5 Apr 2003 (13),Murcia (30),1-0,1-0,Elche (30)
+?,(Sun) 6 Apr 2003 (13),Compostela (30),2-1,0-0,Terrassa (30)
+?,(Sun) 6 Apr 2003 (13),Cordoba (30),1-1,1-0,Sporting Gijón (30)
+?,(Sun) 6 Apr 2003 (13),Ferrol (30),2-0,1-0,Badajoz (30)
+?,(Sun) 6 Apr 2003 (13),Getafe CF (30),1-1,0-1,Almeria (30)
+?,(Sun) 6 Apr 2003 (13),Levante UD (30),0-0,0-0,Xerez (30)
+?,(Sun) 6 Apr 2003 (13),Oviedo (30),1-2,0-1,SD Eibar (30)
+?,(Sun) 6 Apr 2003 (13),Poli Ejido (30),0-1,0-0,Albacete (30)
+?,(Sun) 6 Apr 2003 (13),Salamanca (30),1-1,1-0,Leganes (30)
+?,(Sun) 6 Apr 2003 (13),Tenerife (30),2-0,1-0,Numancia (30)
+?,(Sun) 6 Apr 2003 (13),Zaragoza (30),1-2,0-0,UD Las Palmas (30)
+?,(Sat) 12 Apr 2003 (14),Elche (31),1-0,0-0,Tenerife (31)
+?,(Sat) 12 Apr 2003 (14),UD Las Palmas (31),2-0,2-0,Poli Ejido (31)
+?,(Sat) 12 Apr 2003 (14),Terrassa (31),2-2,0-0,Oviedo (31)
+?,(Sun) 13 Apr 2003 (14),Albacete (31),0-0,0-0,Salamanca (31)
+?,(Sun) 13 Apr 2003 (14),Almeria (31),0-1,0-1,Zaragoza (31)
+?,(Sun) 13 Apr 2003 (14),Badajoz (31),0-2,0-1,Compostela (31)
+?,(Sun) 13 Apr 2003 (14),SD Eibar (31),0-0,0-0,Getafe CF (31)
+?,(Sun) 13 Apr 2003 (14),Leganes (31),0-3,0-1,Cordoba (31)
+?,(Sun) 13 Apr 2003 (14),Numancia (31),4-2,1-0,Ferrol (31)
+?,(Sun) 13 Apr 2003 (14),Sporting Gijón (31),3-2,1-0,Levante UD (31)
+?,(Sun) 13 Apr 2003 (14),Xerez (31),2-0,0-0,Murcia (31)
+?,(Sat) 19 Apr 2003 (15),Almeria (32),1-0,1-0,UD Las Palmas (32)
+?,(Sun) 20 Apr 2003 (15),Compostela (32),1-0,0-0,Numancia (32)
+?,(Sun) 20 Apr 2003 (15),Cordoba (32),0-2,0-0,Albacete (32)
+?,(Sun) 20 Apr 2003 (15),Ferrol (32),1-0,1-0,Elche (32)
+?,(Sun) 20 Apr 2003 (15),Getafe CF (32),2-1,0-0,Terrassa (32)
+?,(Sun) 20 Apr 2003 (15),Levante UD (32),4-0,0-0,Leganes (32)
+?,(Sun) 20 Apr 2003 (15),Murcia (32),0-0,0-0,Sporting Gijón (32)
+?,(Sun) 20 Apr 2003 (15),Oviedo (32),2-1,0-0,Badajoz (32)
+?,(Sun) 20 Apr 2003 (15),Salamanca (32),2-0,2-0,Poli Ejido (32)
+?,(Sun) 20 Apr 2003 (15),Tenerife (32),1-3,1-2,Xerez (32)
+?,(Sun) 20 Apr 2003 (15),Zaragoza (32),2-0,0-0,SD Eibar (32)
+?,(Sat) 26 Apr 2003 (16),UD Las Palmas (33),2-1,1-1,Salamanca (33)
+?,(Sat) 26 Apr 2003 (16),Poli Ejido (33),2-1,1-1,Cordoba (33)
+?,(Sat) 26 Apr 2003 (16),Sporting Gijón (33),2-1,1-0,Tenerife (33)
+?,(Sat) 26 Apr 2003 (16),Terrassa (33),0-2,0-1,Zaragoza (33)
+?,(Sun) 27 Apr 2003 (16),Albacete (33),2-2,0-1,Levante UD (33)
+?,(Sun) 27 Apr 2003 (16),Badajoz (33),1-2,1-0,Getafe CF (33)
+?,(Sun) 27 Apr 2003 (16),SD Eibar (33),2-0,0-0,Almeria (33)
+?,(Sun) 27 Apr 2003 (16),Elche (33),3-1,1-1,Compostela (33)
+?,(Sun) 27 Apr 2003 (16),Leganes (33),0-1,0-0,Murcia (33)
+?,(Sun) 27 Apr 2003 (16),Numancia (33),4-2,1-0,Oviedo (33)
+?,(Sun) 27 Apr 2003 (16),Xerez (33),1-1,0-0,Ferrol (33)
+?,(Sat) 3 May 2003 (17),Compostela (34),0-1,0-1,Xerez (34)
+?,(Sat) 3 May 2003 (17),SD Eibar (34),0-0,0-0,UD Las Palmas (34)
+?,(Sun) 4 May 2003 (17),Almeria (34),3-0,1-0,Terrassa (34)
+?,(Sun) 4 May 2003 (17),Cordoba (34),0-2,0-1,Salamanca (34)
+?,(Sun) 4 May 2003 (17),Ferrol (34),2-1,1-1,Sporting Gijón (34)
+?,(Sun) 4 May 2003 (17),Getafe CF (34),1-1,0-0,Numancia (34)
+?,(Sun) 4 May 2003 (17),Levante UD (34),2-2,1-0,Poli Ejido (34)
+?,(Sun) 4 May 2003 (17),Murcia (34),0-0,0-0,Albacete (34)
+?,(Sun) 4 May 2003 (17),Oviedo (34),2-1,1-1,Elche (34)
+?,(Sun) 4 May 2003 (17),Tenerife (34),1-1,1-1,Leganes (34)
+?,(Sun) 4 May 2003 (17),Zaragoza (34),2-0,1-0,Badajoz (34)
+?,(Sat) 10 May 2003 (18),Albacete (35),1-0,0-0,Tenerife (35)
+?,(Sat) 10 May 2003 (18),UD Las Palmas (35),0-1,0-1,Cordoba (35)
+?,(Sat) 10 May 2003 (18),Sporting Gijón (35),1-3,1-1,Compostela (35)
+?,(Sat) 10 May 2003 (18),Xerez (35),4-1,1-0,Oviedo (35)
+?,(Sun) 11 May 2003 (18),Badajoz (35),4-3,0-1,Almeria (35)
+?,(Sun) 11 May 2003 (18),Elche (35),1-1,1-0,Getafe CF (35)
+?,(Sun) 11 May 2003 (18),Leganes (35),1-0,1-0,Ferrol (35)
+?,(Sun) 11 May 2003 (18),Numancia (35),2-2,1-2,Zaragoza (35)
+?,(Sun) 11 May 2003 (18),Poli Ejido (35),0-1,0-1,Murcia (35)
+?,(Sun) 11 May 2003 (18),Salamanca (35),1-1,0-1,Levante UD (35)
+?,(Sun) 11 May 2003 (18),Terrassa (35),1-0,1-0,SD Eibar (35)
+?,(Sat) 17 May 2003 (19),Ferrol (36),2-1,1-0,Albacete (36)
+?,(Sat) 17 May 2003 (19),Levante UD (36),1-2,1-1,Cordoba (36)
+?,(Sun) 18 May 2003 (19),Almeria (36),1-2,0-1,Numancia (36)
+?,(Sun) 18 May 2003 (19),Compostela (36),2-0,1-0,Leganes (36)
+?,(Sun) 18 May 2003 (19),SD Eibar (36),1-2,1-1,Badajoz (36)
+?,(Sun) 18 May 2003 (19),Getafe CF (36),2-1,1-0,Xerez (36)
+?,(Sun) 18 May 2003 (19),Murcia (36),1-1,1-0,Salamanca (36)
+?,(Sun) 18 May 2003 (19),Oviedo (36),2-1,1-1,Sporting Gijón (36)
+?,(Sun) 18 May 2003 (19),Tenerife (36),4-0,2-0,Poli Ejido (36)
+?,(Sun) 18 May 2003 (19),Terrassa (36),0-1,0-0,UD Las Palmas (36)
+?,(Sun) 18 May 2003 (19),Zaragoza (36),5-2,1-1,Elche (36)
+?,(Sat) 24 May 2003 (20),Albacete (37),1-1,0-0,Compostela (37)
+?,(Sat) 24 May 2003 (20),Cordoba (37),0-2,0-1,Murcia (37)
+?,(Sat) 24 May 2003 (20),Elche (37),0-2,0-1,Almeria (37)
+?,(Sat) 24 May 2003 (20),UD Las Palmas (37),1-1,1-0,Levante UD (37)
+?,(Sat) 24 May 2003 (20),Poli Ejido (37),1-1,0-1,Ferrol (37)
+?,(Sun) 25 May 2003 (20),Badajoz (37),1-1,0-0,Terrassa (37)
+?,(Sun) 25 May 2003 (20),Leganes (37),0-1,0-0,Oviedo (37)
+?,(Sun) 25 May 2003 (20),Numancia (37),1-0,1-0,SD Eibar (37)
+?,(Sun) 25 May 2003 (20),Salamanca (37),2-1,0-1,Tenerife (37)
+?,(Sun) 25 May 2003 (20),Sporting Gijón (37),0-0,0-0,Getafe CF (37)
+?,(Sun) 25 May 2003 (20),Xerez (37),1-3,0-1,Zaragoza (37)
+?,(Sat) 31 May 2003 (21),Almeria (38),6-0,3-0,Xerez (38)
+?,(Sat) 31 May 2003 (21),Badajoz (38),0-1,0-0,UD Las Palmas (38)
+?,(Sat) 31 May 2003 (21),Getafe CF (38),0-3,0-0,Leganes (38)
+?,(Sat) 31 May 2003 (21),Oviedo (38),0-0,0-0,Albacete (38)
+?,(Sat) 31 May 2003 (21),Zaragoza (38),1-1,1-0,Sporting Gijón (38)
+?,(Sun) 1 Jun 2003 (21),Compostela (38),2-2,2-1,Poli Ejido (38)
+?,(Sun) 1 Jun 2003 (21),SD Eibar (38),0-1,0-1,Elche (38)
+?,(Sun) 1 Jun 2003 (21),Ferrol (38),1-1,1-0,Salamanca (38)
+?,(Sun) 1 Jun 2003 (21),Murcia (38),1-0,0-0,Levante UD (38)
+?,(Sun) 1 Jun 2003 (21),Tenerife (38),2-0,1-0,Cordoba (38)
+?,(Sun) 1 Jun 2003 (21),Terrassa (38),1-1,0-1,Numancia (38)
+?,(Sat) 7 Jun 2003 (22),Elche (39),2-2,0-1,Terrassa (39)
+?,(Sat) 7 Jun 2003 (22),UD Las Palmas (39),1-4,0-2,Murcia (39)
+?,(Sat) 7 Jun 2003 (22),Leganes (39),2-0,1-0,Zaragoza (39)
+?,(Sat) 7 Jun 2003 (22),Sporting Gijón (39),2-2,1-1,Almeria (39)
+?,(Sun) 8 Jun 2003 (22),Albacete (39),3-1,1-1,Getafe CF (39)
+?,(Sun) 8 Jun 2003 (22),Cordoba (39),1-2,0-1,Ferrol (39)
+?,(Sun) 8 Jun 2003 (22),Levante UD (39),2-1,1-1,Tenerife (39)
+?,(Sun) 8 Jun 2003 (22),Numancia (39),4-0,2-0,Badajoz (39)
+?,(Sun) 8 Jun 2003 (22),Poli Ejido (39),1-0,1-0,Oviedo (39)
+?,(Sun) 8 Jun 2003 (22),Salamanca (39),4-2,1-2,Compostela (39)
+?,(Sun) 8 Jun 2003 (22),Xerez (39),1-1,1-1,SD Eibar (39)
+?,(Sat) 14 Jun 2003 (23),Almeria (40),0-2,0-2,Leganes (40)
+?,(Sat) 14 Jun 2003 (23),SD Eibar (40),1-1,0-0,Sporting Gijón (40)
+?,(Sat) 14 Jun 2003 (23),Ferrol (40),1-0,0-0,Levante UD (40)
+?,(Sat) 14 Jun 2003 (23),Getafe CF (40),2-0,1-0,Poli Ejido (40)
+?,(Sat) 14 Jun 2003 (23),Numancia (40),0-1,0-1,UD Las Palmas (40)
+?,(Sat) 14 Jun 2003 (23),Tenerife (40),2-1,1-0,Murcia (40)
+?,(Sun) 15 Jun 2003 (23),Badajoz (40),2-3,1-1,Elche (40)
+?,(Sun) 15 Jun 2003 (23),Compostela (40),1-2,1-0,Cordoba (40)
+?,(Sun) 15 Jun 2003 (23),Oviedo (40),0-3,0-1,Salamanca (40)
+?,(Sun) 15 Jun 2003 (23),Terrassa (40),2-0,1-0,Xerez (40)
+?,(Sun) 15 Jun 2003 (23),Zaragoza (40),1-1,0-0,Albacete (40)
+?,(Sat) 21 Jun 2003 (24),Albacete (41),0-1,0-1,Almeria (41)
+?,(Sat) 21 Jun 2003 (24),Cordoba (41),1-0,0-0,Oviedo (41)
+?,(Sat) 21 Jun 2003 (24),Elche (41),1-1,0-0,Numancia (41)
+?,(Sat) 21 Jun 2003 (24),Leganes (41),0-1,0-1,SD Eibar (41)
+?,(Sat) 21 Jun 2003 (24),Levante UD (41),3-4,2-0,Compostela (41)
+?,(Sat) 21 Jun 2003 (24),Murcia (41),5-0,3-0,Ferrol (41)
+?,(Sat) 21 Jun 2003 (24),Poli Ejido (41),0-0,0-0,Zaragoza (41)
+?,(Sat) 21 Jun 2003 (24),Salamanca (41),3-1,1-0,Getafe CF (41)
+?,(Sat) 21 Jun 2003 (24),Sporting Gijón (41),0-0,0-0,Terrassa (41)
+?,(Sat) 21 Jun 2003 (24),Tenerife (41),0-0,0-0,UD Las Palmas (41)
+?,(Sat) 21 Jun 2003 (24),Xerez (41),5-3,3-1,Badajoz (41)
+?,(Sat) 28 Jun 2003 (25),Badajoz (42),0-3,0-1,Sporting Gijón (42)
+?,(Sat) 28 Jun 2003 (25),Numancia (42),1-4,1-3,Xerez (42)
+?,(Sat) 28 Jun 2003 (25),Oviedo (42),1-2,0-1,Levante UD (42)
+?,(Sat) 28 Jun 2003 (25),Zaragoza (42),1-3,1-1,Salamanca (42)
+?,(Sun) 29 Jun 2003 (25),Almeria (42),1-1,0-0,Poli Ejido (42)
+?,(Sun) 29 Jun 2003 (25),Compostela (42),1-0,0-0,Murcia (42)
+?,(Sun) 29 Jun 2003 (25),SD Eibar (42),2-0,0-0,Albacete (42)
+?,(Sun) 29 Jun 2003 (25),Ferrol (42),0-1,0-0,Tenerife (42)
+?,(Sun) 29 Jun 2003 (25),Getafe CF (42),1-1,0-1,Cordoba (42)
+?,(Sun) 29 Jun 2003 (25),UD Las Palmas (42),4-1,2-0,Elche (42)
+?,(Sun) 29 Jun 2003 (25),Terrassa (42),2-0,1-0,Leganes (42)

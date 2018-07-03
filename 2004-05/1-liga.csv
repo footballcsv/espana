@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT,HT
-2004-08-28,Ath Madrid,Malaga,2-0,1-0
-2004-08-28,Espanol,La Coruna,1-1,1-0
-2004-08-28,Numancia,Betis,1-1,1-1
-2004-08-29,Mallorca,Real Madrid,0-1,0-0
-2004-08-29,Osasuna,Ath Bilbao,1-1,1-1
-2004-08-29,Santander,Barcelona,0-2,0-0
-2004-08-29,Sevilla,Albacete,1-0,0-0
-2004-08-29,Sociedad,Levante,1-1,0-1
-2004-08-29,Zaragoza,Getafe,3-1,1-1
-2004-08-30,Valencia,Villarreal,2-1,2-0
-2004-09-11,Ath Bilbao,Valencia,2-2,2-0
-2004-09-11,Barcelona,Sevilla,2-0,1-0
-2004-09-11,Real Madrid,Numancia,1-0,1-0
-2004-09-12,Albacete,Ath Madrid,0-2,0-0
-2004-09-12,Betis,Espanol,1-4,0-2
-2004-09-12,Getafe,Mallorca,1-2,0-1
-2004-09-12,La Coruna,Osasuna,1-3,1-0
-2004-09-12,Levante,Santander,3-1,0-1
-2004-09-12,Malaga,Zaragoza,0-0,0-0
-2004-09-12,Villarreal,Sociedad,0-0,0-0
-2004-09-18,Espanol,Real Madrid,1-0,1-0
-2004-09-18,Osasuna,Betis,3-2,0-1
-2004-09-18,Valencia,Sociedad,3-1,1-0
-2004-09-19,Ath Bilbao,La Coruna,1-2,0-0
-2004-09-19,Ath Madrid,Barcelona,1-1,0-1
-2004-09-19,Mallorca,Malaga,1-2,0-1
-2004-09-19,Numancia,Getafe,1-0,1-0
-2004-09-19,Santander,Villarreal,1-1,0-0
-2004-09-19,Sevilla,Levante,3-0,1-0
-2004-09-19,Zaragoza,Albacete,4-3,1-2
-2004-09-21,Real Madrid,Osasuna,1-0,0-0
-2004-09-22,Albacete,Mallorca,0-0,0-0
-2004-09-22,Betis,Ath Bilbao,2-1,1-1
-2004-09-22,Getafe,Espanol,1-0,1-0
-2004-09-22,La Coruna,Valencia,1-5,0-4
-2004-09-22,Levante,Ath Madrid,1-0,1-0
-2004-09-22,Malaga,Numancia,4-1,3-0
-2004-09-22,Sociedad,Santander,0-1,0-1
-2004-09-22,Villarreal,Sevilla,0-0,0-0
-2004-09-23,Barcelona,Zaragoza,4-1,1-1
-2004-09-25,Ath Bilbao,Real Madrid,2-1,2-0
-2004-09-25,Ath Madrid,Villarreal,1-0,1-0
-2004-09-25,La Coruna,Betis,1-1,0-0
-2004-09-26,Espanol,Malaga,1-0,0-0
-2004-09-26,Mallorca,Barcelona,1-3,0-3
-2004-09-26,Numancia,Albacete,0-0,0-0
-2004-09-26,Osasuna,Getafe,2-1,2-1
-2004-09-26,Sevilla,Sociedad,2-1,1-1
-2004-09-26,Valencia,Santander,2-0,2-0
-2004-09-26,Zaragoza,Levante,4-3,1-2
-2004-10-02,Betis,Valencia,1-1,1-1
-2004-10-02,Sociedad,Ath Madrid,1-0,1-0
-2004-10-03,Albacete,Espanol,1-0,0-0
-2004-10-03,Barcelona,Numancia,1-0,0-0
-2004-10-03,Getafe,Ath Bilbao,3-1,1-0
-2004-10-03,Levante,Mallorca,2-0,2-0
-2004-10-03,Malaga,Osasuna,2-0,1-0
-2004-10-03,Real Madrid,La Coruna,0-1,0-1
-2004-10-03,Santander,Sevilla,0-0,0-0
-2004-10-03,Villarreal,Zaragoza,2-0,1-0
-2004-10-16,Betis,Real Madrid,1-1,1-0
-2004-10-16,Espanol,Barcelona,0-1,0-1
-2004-10-16,La Coruna,Getafe,2-1,1-0
-2004-10-17,Ath Bilbao,Malaga,1-0,1-0
-2004-10-17,Ath Madrid,Santander,1-0,1-0
-2004-10-17,Mallorca,Villarreal,1-1,1-1
-2004-10-17,Numancia,Levante,1-3,0-1
-2004-10-17,Osasuna,Albacete,3-2,2-1
-2004-10-17,Valencia,Sevilla,1-2,0-0
-2004-10-17,Zaragoza,Sociedad,2-1,1-1
-2004-10-23,Malaga,La Coruna,1-1,1-0
-2004-10-23,Real Madrid,Valencia,1-0,1-0
-2004-10-24,Albacete,Ath Bilbao,1-0,1-0
-2004-10-24,Barcelona,Osasuna,3-0,2-0
-2004-10-24,Getafe,Betis,0-2,0-0
-2004-10-24,Levante,Espanol,0-2,0-0
-2004-10-24,Santander,Zaragoza,1-0,1-0
-2004-10-24,Sevilla,Ath Madrid,2-1,1-0
-2004-10-24,Sociedad,Mallorca,2-1,1-0
-2004-10-24,Villarreal,Numancia,4-0,1-0
-2004-10-30,Ath Bilbao,Barcelona,1-1,1-1
-2004-10-30,Valencia,Ath Madrid,1-1,0-0
-2004-10-31,Betis,Malaga,1-1,1-1
-2004-10-31,Espanol,Villarreal,0-0,0-0
-2004-10-31,La Coruna,Albacete,0-0,0-0
-2004-10-31,Mallorca,Santander,1-2,0-1
-2004-10-31,Numancia,Sociedad,0-2,0-0
-2004-10-31,Osasuna,Levante,0-1,0-1
-2004-10-31,Real Madrid,Getafe,2-0,1-0
-2004-10-31,Zaragoza,Sevilla,3-0,2-0
-2004-11-06,Albacete,Betis,0-0,0-0
-2004-11-06,Barcelona,La Coruna,2-1,2-1
-2004-11-07,Ath Madrid,Zaragoza,1-1,0-1
-2004-11-07,Getafe,Valencia,1-0,1-0
-2004-11-07,Levante,Ath Bilbao,1-0,0-0
-2004-11-07,Malaga,Real Madrid,0-2,0-1
-2004-11-07,Santander,Numancia,2-0,0-0
-2004-11-07,Sevilla,Mallorca,1-1,0-0
-2004-11-07,Sociedad,Espanol,0-2,0-0
-2004-11-07,Villarreal,Osasuna,3-0,2-0
-2004-11-13,Ath Bilbao,Villarreal,2-1,0-0
-2004-11-13,Espanol,Santander,2-1,1-0
-2004-11-13,Getafe,Malaga,1-0,0-0
-2004-11-13,La Coruna,Levante,1-0,0-0
-2004-11-13,Numancia,Sevilla,2-1,0-0
-2004-11-13,Osasuna,Sociedad,1-0,0-0
-2004-11-13,Valencia,Zaragoza,0-0,0-0
-2004-11-14,Betis,Barcelona,2-1,0-0
-2004-11-14,Mallorca,Ath Madrid,1-1,1-0
-2004-11-14,Real Madrid,Albacete,6-1,3-1
-2004-11-20,Barcelona,Real Madrid,3-0,2-0
-2004-11-20,Malaga,Valencia,0-2,0-1
-2004-11-20,Villarreal,La Coruna,0-2,0-1
-2004-11-21,Albacete,Getafe,1-1,0-0
-2004-11-21,Ath Madrid,Numancia,2-0,0-0
-2004-11-21,Levante,Betis,1-2,1-1
-2004-11-21,Santander,Osasuna,1-1,0-1
-2004-11-21,Sevilla,Espanol,1-0,1-0
-2004-11-21,Sociedad,Ath Bilbao,3-2,0-2
-2004-11-21,Zaragoza,Mallorca,0-1,0-1
-2004-11-27,Ath Bilbao,Santander,3-0,2-0
-2004-11-27,Espanol,Ath Madrid,2-1,0-0
-2004-11-27,Getafe,Barcelona,1-2,0-2
-2004-11-28,Betis,Villarreal,2-1,2-0
-2004-11-28,La Coruna,Sociedad,2-2,2-1
-2004-11-28,Malaga,Albacete,0-2,0-1
-2004-11-28,Numancia,Zaragoza,2-1,2-1
-2004-11-28,Osasuna,Sevilla,4-1,1-1
-2004-11-28,Real Madrid,Levante,5-0,1-0
-2004-11-28,Valencia,Mallorca,2-0,1-0
-2004-12-04,Albacete,Valencia,0-1,0-0
-2004-12-04,Barcelona,Malaga,4-0,2-0
-2004-12-04,Sociedad,Betis,1-0,1-0
-2004-12-05,Ath Madrid,Osasuna,3-2,2-1
-2004-12-05,Levante,Getafe,0-0,0-0
-2004-12-05,Mallorca,Numancia,3-2,0-1
-2004-12-05,Santander,La Coruna,2-2,1-0
-2004-12-05,Sevilla,Ath Bilbao,2-0,0-0
-2004-12-05,Villarreal,Real Madrid,0-0,0-0
-2004-12-05,Zaragoza,Espanol,0-1,0-1
-2004-12-11,Albacete,Barcelona,1-2,0-1
-2004-12-11,Ath Bilbao,Ath Madrid,1-0,1-0
-2004-12-12,Betis,Santander,2-1,1-0
-2004-12-12,Espanol,Mallorca,2-1,2-0
-2004-12-12,Getafe,Villarreal,1-2,0-1
-2004-12-12,La Coruna,Sevilla,2-2,0-1
-2004-12-12,Malaga,Levante,1-0,0-0
-2004-12-12,Osasuna,Zaragoza,2-2,1-1
-2004-12-12,Valencia,Numancia,1-0,1-0
-2004-12-18,Barcelona,Valencia,1-1,0-0
-2004-12-18,Levante,Albacete,1-1,1-1
-2004-12-18,Santander,Real Madrid,2-3,1-1
-2004-12-19,Ath Madrid,La Coruna,1-0,1-0
-2004-12-19,Mallorca,Osasuna,1-2,0-2
-2004-12-19,Numancia,Espanol,0-0,0-0
-2004-12-19,Sevilla,Betis,2-1,1-1
-2004-12-19,Sociedad,Getafe,1-1,0-0
-2004-12-19,Villarreal,Malaga,3-0,1-0
-2004-12-19,Zaragoza,Ath Bilbao,0-2,0-0
-2004-12-21,Barcelona,Levante,2-1,1-0
-2004-12-21,Betis,Ath Madrid,1-0,1-0
-2004-12-22,Albacete,Villarreal,2-2,1-2
-2004-12-22,Ath Bilbao,Mallorca,4-0,2-0
-2004-12-22,Getafe,Santander,2-0,2-0
-2004-12-22,La Coruna,Zaragoza,2-3,0-1
-2004-12-22,Malaga,Sociedad,1-5,1-1
-2004-12-22,Osasuna,Numancia,2-0,0-0
-2004-12-22,Real Madrid,Sevilla,0-1,0-1
-2004-12-22,Valencia,Espanol,3-0,1-0
-2005-01-05,Real Madrid,Sociedad,2-1,1-0
-2005-01-08,Numancia,Ath Bilbao,1-1,0-1
-2005-01-08,Sevilla,Getafe,0-0,0-0
-2005-01-08,Valencia,Levante,2-1,0-0
-2005-01-09,Ath Madrid,Real Madrid,0-3,0-1
-2005-01-09,Espanol,Osasuna,4-1,3-1
-2005-01-09,Mallorca,La Coruna,2-2,0-0
-2005-01-09,Santander,Malaga,2-1,2-0
-2005-01-09,Sociedad,Albacete,0-2,0-1
-2005-01-09,Villarreal,Barcelona,3-0,1-0
-2005-01-09,Zaragoza,Betis,1-0,1-0
-2005-01-15,Getafe,Ath Madrid,1-1,0-1
-2005-01-15,Malaga,Sevilla,1-0,0-0
-2005-01-16,Albacete,Santander,0-0,0-0
-2005-01-16,Ath Bilbao,Espanol,1-1,1-1
-2005-01-16,Barcelona,Sociedad,1-0,0-0
-2005-01-16,Betis,Mallorca,2-0,1-0
-2005-01-16,La Coruna,Numancia,1-1,0-0
-2005-01-16,Levante,Villarreal,2-4,0-2
-2005-01-16,Osasuna,Valencia,0-0,0-0
-2005-01-16,Real Madrid,Zaragoza,3-1,1-1
-2005-01-22,Ath Bilbao,Osasuna,4-3,0-1
-2005-01-22,Barcelona,Santander,3-0,1-0
-2005-01-23,Albacete,Sevilla,0-2,0-2
-2005-01-23,Betis,Numancia,4-0,3-0
-2005-01-23,Getafe,Zaragoza,3-0,3-0
-2005-01-23,La Coruna,Espanol,4-1,2-1
-2005-01-23,Levante,Sociedad,2-1,1-0
-2005-01-23,Malaga,Ath Madrid,1-0,0-0
-2005-01-23,Real Madrid,Mallorca,3-1,1-1
-2005-01-23,Villarreal,Valencia,3-1,2-0
-2005-01-29,Ath Madrid,Albacete,3-1,3-1
-2005-01-29,Sevilla,Barcelona,0-4,0-0
-2005-01-30,Espanol,Betis,2-2,1-0
-2005-01-30,Mallorca,Getafe,3-1,2-1
-2005-01-30,Numancia,Real Madrid,1-2,0-0
-2005-01-30,Osasuna,La Coruna,1-1,0-0
-2005-01-30,Santander,Levante,2-2,1-0
-2005-01-30,Sociedad,Villarreal,0-4,0-0
-2005-01-30,Valencia,Ath Bilbao,2-2,0-1
-2005-01-30,Zaragoza,Malaga,1-0,1-0
-2005-02-05,Real Madrid,Espanol,4-0,2-0
-2005-02-05,Sociedad,Valencia,3-3,1-1
-2005-02-06,Albacete,Zaragoza,2-1,0-1
-2005-02-06,Barcelona,Ath Madrid,0-2,0-1
-2005-02-06,Betis,Osasuna,3-1,2-1
-2005-02-06,Getafe,Numancia,1-0,1-0
-2005-02-06,La Coruna,Ath Bilbao,1-1,0-0
-2005-02-06,Levante,Sevilla,0-3,0-1
-2005-02-06,Malaga,Mallorca,0-0,0-0
-2005-02-06,Villarreal,Santander,2-1,0-1
-2005-02-12,Valencia,La Coruna,1-2,0-1
-2005-02-12,Zaragoza,Barcelona,1-4,0-3
-2005-02-13,Ath Bilbao,Betis,4-4,2-3
-2005-02-13,Ath Madrid,Levante,0-0,0-0
-2005-02-13,Espanol,Getafe,2-0,0-0
-2005-02-13,Mallorca,Albacete,2-1,0-1
-2005-02-13,Numancia,Malaga,0-1,0-1
-2005-02-13,Osasuna,Real Madrid,1-2,1-0
-2005-02-13,Santander,Sociedad,1-3,0-3
-2005-02-13,Sevilla,Villarreal,2-1,1-0
-2005-02-19,Barcelona,Mallorca,2-0,1-0
-2005-02-19,Real Madrid,Ath Bilbao,0-2,0-0
-2005-02-19,Sociedad,Sevilla,1-0,0-0
-2005-02-20,Albacete,Numancia,1-2,1-0
-2005-02-20,Betis,La Coruna,2-0,1-0
-2005-02-20,Getafe,Osasuna,0-0,0-0
-2005-02-20,Levante,Zaragoza,0-0,0-0
-2005-02-20,Malaga,Espanol,3-2,2-0
-2005-02-20,Santander,Valencia,1-0,0-0
-2005-02-20,Villarreal,Ath Madrid,3-2,0-2
-2005-02-26,Espanol,Albacete,2-1,2-0
-2005-02-26,La Coruna,Real Madrid,2-0,2-0
-2005-02-26,Mallorca,Levante,1-2,0-0
-2005-02-26,Numancia,Barcelona,1-1,1-0
-2005-02-27,Ath Madrid,Sociedad,1-0,1-0
-2005-02-27,Osasuna,Malaga,1-6,0-3
-2005-02-27,Sevilla,Santander,2-2,1-1
-2005-02-27,Valencia,Betis,2-1,1-1
-2005-02-27,Zaragoza,Villarreal,1-0,1-0
-2005-03-01,Barcelona,Espanol,0-0,0-0
-2005-03-02,Albacete,Osasuna,1-1,0-0
-2005-03-02,Getafe,La Coruna,1-1,0-1
-2005-03-02,Levante,Numancia,1-1,1-1
-2005-03-02,Malaga,Ath Bilbao,1-0,1-0
-2005-03-02,Real Madrid,Betis,3-1,2-0
-2005-03-02,Santander,Ath Madrid,2-1,1-1
-2005-03-02,Sevilla,Valencia,2-2,1-1
-2005-03-02,Sociedad,Zaragoza,2-1,1-1
-2005-03-02,Villarreal,Mallorca,2-1,0-1
-2005-03-05,Ath Madrid,Sevilla,3-0,3-0
-2005-03-05,Osasuna,Barcelona,0-1,0-1
-2005-03-05,Valencia,Real Madrid,1-1,1-1
-2005-03-06,Ath Bilbao,Albacete,3-1,1-1
-2005-03-06,Betis,Getafe,2-2,1-1
-2005-03-06,Espanol,Levante,2-1,1-1
-2005-03-06,La Coruna,Malaga,1-0,1-0
-2005-03-06,Mallorca,Sociedad,3-2,2-2
-2005-03-06,Numancia,Villarreal,1-1,0-1
-2005-03-06,Zaragoza,Santander,1-0,0-0
-2005-03-12,Barcelona,Ath Bilbao,2-0,2-0
-2005-03-12,Malaga,Betis,1-2,1-2
-2005-03-13,Albacete,La Coruna,0-1,0-1
-2005-03-13,Ath Madrid,Valencia,1-0,1-0
-2005-03-13,Getafe,Real Madrid,2-1,1-0
-2005-03-13,Levante,Osasuna,4-0,3-0
-2005-03-13,Santander,Mallorca,3-0,2-0
-2005-03-13,Sevilla,Zaragoza,0-1,0-1
-2005-03-13,Sociedad,Numancia,2-1,1-0
-2005-03-13,Villarreal,Espanol,4-1,1-1
-2005-03-16,Ath Bilbao,Getafe,1-2,1-0
-2005-03-19,Betis,Albacete,2-1,1-0
-2005-03-19,Espanol,Sociedad,2-2,1-1
-2005-03-19,La Coruna,Barcelona,0-1,0-1
-2005-03-20,Ath Bilbao,Levante,3-1,1-0
-2005-03-20,Mallorca,Sevilla,0-1,0-1
-2005-03-20,Numancia,Santander,2-3,2-2
-2005-03-20,Real Madrid,Malaga,1-0,0-0
-2005-03-20,Valencia,Getafe,3-1,2-0
-2005-03-20,Zaragoza,Ath Madrid,0-0,0-0
-2005-04-02,Sociedad,Osasuna,2-0,2-0
-2005-04-02,Villarreal,Ath Bilbao,3-1,2-1
-2005-04-02,Zaragoza,Valencia,2-2,1-0
-2005-04-03,Albacete,Real Madrid,1-2,1-2
-2005-04-03,Ath Madrid,Mallorca,4-0,1-0
-2005-04-03,Barcelona,Betis,3-3,1-2
-2005-04-03,Levante,La Coruna,0-1,0-1
-2005-04-03,Malaga,Getafe,1-1,1-1
-2005-04-03,Santander,Espanol,1-3,1-2
-2005-04-03,Sevilla,Numancia,1-0,0-0
-2005-04-09,Ath Bilbao,Sociedad,3-0,1-0
-2005-04-09,Numancia,Ath Madrid,1-0,0-0
-2005-04-10,Betis,Levante,2-2,2-1
-2005-04-10,Espanol,Sevilla,1-3,0-2
-2005-04-10,Getafe,Albacete,1-0,0-0
-2005-04-10,La Coruna,Villarreal,1-1,0-0
-2005-04-10,Mallorca,Zaragoza,0-2,0-0
-2005-04-10,Osasuna,Santander,1-0,0-0
-2005-04-10,Real Madrid,Barcelona,4-2,3-1
-2005-04-10,Valencia,Malaga,2-2,2-1
-2005-04-16,Ath Madrid,Espanol,0-0,0-0
-2005-04-16,Sevilla,Osasuna,0-1,0-1
-2005-04-16,Sociedad,La Coruna,1-0,1-0
-2005-04-17,Albacete,Malaga,1-2,0-0
-2005-04-17,Barcelona,Getafe,2-0,1-0
-2005-04-17,Levante,Real Madrid,0-2,0-1
-2005-04-17,Mallorca,Valencia,0-0,0-0
-2005-04-17,Santander,Ath Bilbao,0-2,0-0
-2005-04-17,Villarreal,Betis,0-0,0-0
-2005-04-17,Zaragoza,Numancia,4-1,0-0
-2005-04-23,Osasuna,Ath Madrid,1-0,1-0
-2005-04-23,Real Madrid,Villarreal,2-1,0-1
-2005-04-24,Ath Bilbao,Sevilla,1-3,0-2
-2005-04-24,Betis,Sociedad,2-3,0-1
-2005-04-24,Espanol,Zaragoza,3-1,2-0
-2005-04-24,Getafe,Levante,1-0,1-0
-2005-04-24,La Coruna,Santander,1-4,1-0
-2005-04-24,Malaga,Barcelona,0-4,0-2
-2005-04-24,Numancia,Mallorca,1-2,0-0
-2005-04-24,Valencia,Albacete,2-0,0-0
-2005-04-28,Osasuna,Villarreal,3-2,1-1
-2005-04-30,Ath Madrid,Ath Bilbao,1-1,0-0
-2005-04-30,Numancia,Valencia,1-1,0-0
-2005-04-30,Sociedad,Real Madrid,0-2,0-0
-2005-05-01,Barcelona,Albacete,2-0,0-0
-2005-05-01,Levante,Malaga,0-1,0-1
-2005-05-01,Mallorca,Espanol,3-2,0-1
-2005-05-01,Santander,Betis,1-1,0-0
-2005-05-01,Sevilla,La Coruna,2-0,2-0
-2005-05-01,Villarreal,Getafe,4-0,2-0
-2005-05-01,Zaragoza,Osasuna,5-1,2-0
-2005-05-07,Ath Bilbao,Zaragoza,2-0,0-0
-2005-05-07,Betis,Sevilla,1-0,1-0
-2005-05-07,Osasuna,Mallorca,1-1,0-1
-2005-05-07,Real Madrid,Santander,5-0,2-0
-2005-05-08,Albacete,Levante,3-1,1-0
-2005-05-08,Espanol,Numancia,3-0,0-0
-2005-05-08,Getafe,Sociedad,2-0,2-0
-2005-05-08,La Coruna,Ath Madrid,2-0,0-0
-2005-05-08,Malaga,Villarreal,0-2,0-0
-2005-05-08,Valencia,Barcelona,0-2,0-2
-2005-05-14,Levante,Barcelona,1-1,1-0
-2005-05-14,Sevilla,Real Madrid,2-2,1-1
-2005-05-15,Ath Madrid,Betis,1-2,0-2
-2005-05-15,Espanol,Valencia,2-2,1-1
-2005-05-15,Mallorca,Ath Bilbao,4-3,1-2
-2005-05-15,Numancia,Osasuna,2-2,1-2
-2005-05-15,Santander,Getafe,2-1,2-0
-2005-05-15,Sociedad,Malaga,1-3,0-1
-2005-05-15,Villarreal,Albacete,1-0,0-0
-2005-05-15,Zaragoza,La Coruna,2-2,0-2
-2005-05-21,Betis,Zaragoza,3-2,0-1
-2005-05-21,Real Madrid,Ath Madrid,0-0,0-0
-2005-05-22,Albacete,Sociedad,2-2,2-0
-2005-05-22,Ath Bilbao,Numancia,0-2,0-1
-2005-05-22,Barcelona,Villarreal,3-3,2-2
-2005-05-22,Getafe,Sevilla,0-0,0-0
-2005-05-22,La Coruna,Mallorca,0-3,0-2
-2005-05-22,Levante,Valencia,0-0,0-0
-2005-05-22,Malaga,Santander,2-0,1-0
-2005-05-22,Osasuna,Espanol,1-1,1-1
-2005-05-29,Ath Madrid,Getafe,2-2,0-1
-2005-05-29,Espanol,Ath Bilbao,2-0,1-0
-2005-05-29,Mallorca,Betis,1-1,0-0
-2005-05-29,Numancia,La Coruna,1-1,0-0
-2005-05-29,Santander,Albacete,1-0,1-0
-2005-05-29,Sevilla,Malaga,0-2,0-0
-2005-05-29,Sociedad,Barcelona,0-0,0-0
-2005-05-29,Valencia,Osasuna,1-0,0-0
-2005-05-29,Villarreal,Levante,4-1,2-1
-2005-05-29,Zaragoza,Real Madrid,1-3,1-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 28 Aug 2004 (34),Atlético Madrid (1),2-0,1-0,Málaga CF (1)
+?,(Sat) 28 Aug 2004 (34),RCD Español (1),1-1,1-0,RCD La Coruña (1)
+?,(Sat) 28 Aug 2004 (34),Numancia (1),1-1,1-1,Real Betis (1)
+?,(Sun) 29 Aug 2004 (34),Mallorca (1),0-1,0-0,Real Madrid CF (1)
+?,(Sun) 29 Aug 2004 (34),Osasuna (1),1-1,1-1,Athletic Club Bilbao (1)
+?,(Sun) 29 Aug 2004 (34),Santander (1),0-2,0-0,FC Barcelona (1)
+?,(Sun) 29 Aug 2004 (34),Sevilla FC (1),1-0,0-0,Albacete (1)
+?,(Sun) 29 Aug 2004 (34),Real Sociedad (1),1-1,0-1,Levante UD (1)
+?,(Sun) 29 Aug 2004 (34),Zaragoza (1),3-1,1-1,Getafe CF (1)
+?,(Mon) 30 Aug 2004 (35),Valencia CF (1),2-1,2-0,Villarreal CF (1)
+?,(Sat) 11 Sep 2004 (36),Athletic Club Bilbao (2),2-2,2-0,Valencia CF (2)
+?,(Sat) 11 Sep 2004 (36),FC Barcelona (2),2-0,1-0,Sevilla FC (2)
+?,(Sat) 11 Sep 2004 (36),Real Madrid CF (2),1-0,1-0,Numancia (2)
+?,(Sun) 12 Sep 2004 (36),Albacete (2),0-2,0-0,Atlético Madrid (2)
+?,(Sun) 12 Sep 2004 (36),Real Betis (2),1-4,0-2,RCD Español (2)
+?,(Sun) 12 Sep 2004 (36),Getafe CF (2),1-2,0-1,Mallorca (2)
+?,(Sun) 12 Sep 2004 (36),RCD La Coruña (2),1-3,1-0,Osasuna (2)
+?,(Sun) 12 Sep 2004 (36),Levante UD (2),3-1,0-1,Santander (2)
+?,(Sun) 12 Sep 2004 (36),Málaga CF (2),0-0,0-0,Zaragoza (2)
+?,(Sun) 12 Sep 2004 (36),Villarreal CF (2),0-0,0-0,Real Sociedad (2)
+?,(Sat) 18 Sep 2004 (37),RCD Español (3),1-0,1-0,Real Madrid CF (3)
+?,(Sat) 18 Sep 2004 (37),Osasuna (3),3-2,0-1,Real Betis (3)
+?,(Sat) 18 Sep 2004 (37),Valencia CF (3),3-1,1-0,Real Sociedad (3)
+?,(Sun) 19 Sep 2004 (37),Athletic Club Bilbao (3),1-2,0-0,RCD La Coruña (3)
+?,(Sun) 19 Sep 2004 (37),Atlético Madrid (3),1-1,0-1,FC Barcelona (3)
+?,(Sun) 19 Sep 2004 (37),Mallorca (3),1-2,0-1,Málaga CF (3)
+?,(Sun) 19 Sep 2004 (37),Numancia (3),1-0,1-0,Getafe CF (3)
+?,(Sun) 19 Sep 2004 (37),Santander (3),1-1,0-0,Villarreal CF (3)
+?,(Sun) 19 Sep 2004 (37),Sevilla FC (3),3-0,1-0,Levante UD (3)
+?,(Sun) 19 Sep 2004 (37),Zaragoza (3),4-3,1-2,Albacete (3)
+?,(Tue) 21 Sep 2004 (38),Real Madrid CF (4),1-0,0-0,Osasuna (4)
+?,(Wed) 22 Sep 2004 (38),Albacete (4),0-0,0-0,Mallorca (4)
+?,(Wed) 22 Sep 2004 (38),Real Betis (4),2-1,1-1,Athletic Club Bilbao (4)
+?,(Wed) 22 Sep 2004 (38),Getafe CF (4),1-0,1-0,RCD Español (4)
+?,(Wed) 22 Sep 2004 (38),RCD La Coruña (4),1-5,0-4,Valencia CF (4)
+?,(Wed) 22 Sep 2004 (38),Levante UD (4),1-0,1-0,Atlético Madrid (4)
+?,(Wed) 22 Sep 2004 (38),Málaga CF (4),4-1,3-0,Numancia (4)
+?,(Wed) 22 Sep 2004 (38),Real Sociedad (4),0-1,0-1,Santander (4)
+?,(Wed) 22 Sep 2004 (38),Villarreal CF (4),0-0,0-0,Sevilla FC (4)
+?,(Thu) 23 Sep 2004 (38),FC Barcelona (4),4-1,1-1,Zaragoza (4)
+?,(Sat) 25 Sep 2004 (38),Athletic Club Bilbao (5),2-1,2-0,Real Madrid CF (5)
+?,(Sat) 25 Sep 2004 (38),Atlético Madrid (5),1-0,1-0,Villarreal CF (5)
+?,(Sat) 25 Sep 2004 (38),RCD La Coruña (5),1-1,0-0,Real Betis (5)
+?,(Sun) 26 Sep 2004 (38),RCD Español (5),1-0,0-0,Málaga CF (5)
+?,(Sun) 26 Sep 2004 (38),Mallorca (5),1-3,0-3,FC Barcelona (5)
+?,(Sun) 26 Sep 2004 (38),Numancia (5),0-0,0-0,Albacete (5)
+?,(Sun) 26 Sep 2004 (38),Osasuna (5),2-1,2-1,Getafe CF (5)
+?,(Sun) 26 Sep 2004 (38),Sevilla FC (5),2-1,1-1,Real Sociedad (5)
+?,(Sun) 26 Sep 2004 (38),Valencia CF (5),2-0,2-0,Santander (5)
+?,(Sun) 26 Sep 2004 (38),Zaragoza (5),4-3,1-2,Levante UD (5)
+?,(Sat) 2 Oct 2004 (39),Real Betis (6),1-1,1-1,Valencia CF (6)
+?,(Sat) 2 Oct 2004 (39),Real Sociedad (6),1-0,1-0,Atlético Madrid (6)
+?,(Sun) 3 Oct 2004 (39),Albacete (6),1-0,0-0,RCD Español (6)
+?,(Sun) 3 Oct 2004 (39),FC Barcelona (6),1-0,0-0,Numancia (6)
+?,(Sun) 3 Oct 2004 (39),Getafe CF (6),3-1,1-0,Athletic Club Bilbao (6)
+?,(Sun) 3 Oct 2004 (39),Levante UD (6),2-0,2-0,Mallorca (6)
+?,(Sun) 3 Oct 2004 (39),Málaga CF (6),2-0,1-0,Osasuna (6)
+?,(Sun) 3 Oct 2004 (39),Real Madrid CF (6),0-1,0-1,RCD La Coruña (6)
+?,(Sun) 3 Oct 2004 (39),Santander (6),0-0,0-0,Sevilla FC (6)
+?,(Sun) 3 Oct 2004 (39),Villarreal CF (6),2-0,1-0,Zaragoza (6)
+?,(Sat) 16 Oct 2004 (41),Real Betis (7),1-1,1-0,Real Madrid CF (7)
+?,(Sat) 16 Oct 2004 (41),RCD Español (7),0-1,0-1,FC Barcelona (7)
+?,(Sat) 16 Oct 2004 (41),RCD La Coruña (7),2-1,1-0,Getafe CF (7)
+?,(Sun) 17 Oct 2004 (41),Athletic Club Bilbao (7),1-0,1-0,Málaga CF (7)
+?,(Sun) 17 Oct 2004 (41),Atlético Madrid (7),1-0,1-0,Santander (7)
+?,(Sun) 17 Oct 2004 (41),Mallorca (7),1-1,1-1,Villarreal CF (7)
+?,(Sun) 17 Oct 2004 (41),Numancia (7),1-3,0-1,Levante UD (7)
+?,(Sun) 17 Oct 2004 (41),Osasuna (7),3-2,2-1,Albacete (7)
+?,(Sun) 17 Oct 2004 (41),Valencia CF (7),1-2,0-0,Sevilla FC (7)
+?,(Sun) 17 Oct 2004 (41),Zaragoza (7),2-1,1-1,Real Sociedad (7)
+?,(Sat) 23 Oct 2004 (42),Málaga CF (8),1-1,1-0,RCD La Coruña (8)
+?,(Sat) 23 Oct 2004 (42),Real Madrid CF (8),1-0,1-0,Valencia CF (8)
+?,(Sun) 24 Oct 2004 (42),Albacete (8),1-0,1-0,Athletic Club Bilbao (8)
+?,(Sun) 24 Oct 2004 (42),FC Barcelona (8),3-0,2-0,Osasuna (8)
+?,(Sun) 24 Oct 2004 (42),Getafe CF (8),0-2,0-0,Real Betis (8)
+?,(Sun) 24 Oct 2004 (42),Levante UD (8),0-2,0-0,RCD Español (8)
+?,(Sun) 24 Oct 2004 (42),Santander (8),1-0,1-0,Zaragoza (8)
+?,(Sun) 24 Oct 2004 (42),Sevilla FC (8),2-1,1-0,Atlético Madrid (8)
+?,(Sun) 24 Oct 2004 (42),Real Sociedad (8),2-1,1-0,Mallorca (8)
+?,(Sun) 24 Oct 2004 (42),Villarreal CF (8),4-0,1-0,Numancia (8)
+?,(Sat) 30 Oct 2004 (43),Athletic Club Bilbao (9),1-1,1-1,FC Barcelona (9)
+?,(Sat) 30 Oct 2004 (43),Valencia CF (9),1-1,0-0,Atlético Madrid (9)
+?,(Sun) 31 Oct 2004 (43),Real Betis (9),1-1,1-1,Málaga CF (9)
+?,(Sun) 31 Oct 2004 (43),RCD Español (9),0-0,0-0,Villarreal CF (9)
+?,(Sun) 31 Oct 2004 (43),RCD La Coruña (9),0-0,0-0,Albacete (9)
+?,(Sun) 31 Oct 2004 (43),Mallorca (9),1-2,0-1,Santander (9)
+?,(Sun) 31 Oct 2004 (43),Numancia (9),0-2,0-0,Real Sociedad (9)
+?,(Sun) 31 Oct 2004 (43),Osasuna (9),0-1,0-1,Levante UD (9)
+?,(Sun) 31 Oct 2004 (43),Real Madrid CF (9),2-0,1-0,Getafe CF (9)
+?,(Sun) 31 Oct 2004 (43),Zaragoza (9),3-0,2-0,Sevilla FC (9)
+?,(Sat) 6 Nov 2004 (44),Albacete (10),0-0,0-0,Real Betis (10)
+?,(Sat) 6 Nov 2004 (44),FC Barcelona (10),2-1,2-1,RCD La Coruña (10)
+?,(Sun) 7 Nov 2004 (44),Atlético Madrid (10),1-1,0-1,Zaragoza (10)
+?,(Sun) 7 Nov 2004 (44),Getafe CF (10),1-0,1-0,Valencia CF (10)
+?,(Sun) 7 Nov 2004 (44),Levante UD (10),1-0,0-0,Athletic Club Bilbao (10)
+?,(Sun) 7 Nov 2004 (44),Málaga CF (10),0-2,0-1,Real Madrid CF (10)
+?,(Sun) 7 Nov 2004 (44),Santander (10),2-0,0-0,Numancia (10)
+?,(Sun) 7 Nov 2004 (44),Sevilla FC (10),1-1,0-0,Mallorca (10)
+?,(Sun) 7 Nov 2004 (44),Real Sociedad (10),0-2,0-0,RCD Español (10)
+?,(Sun) 7 Nov 2004 (44),Villarreal CF (10),3-0,2-0,Osasuna (10)
+?,(Sat) 13 Nov 2004 (45),Athletic Club Bilbao (11),2-1,0-0,Villarreal CF (11)
+?,(Sat) 13 Nov 2004 (45),RCD Español (11),2-1,1-0,Santander (11)
+?,(Sat) 13 Nov 2004 (45),Getafe CF (11),1-0,0-0,Málaga CF (11)
+?,(Sat) 13 Nov 2004 (45),RCD La Coruña (11),1-0,0-0,Levante UD (11)
+?,(Sat) 13 Nov 2004 (45),Numancia (11),2-1,0-0,Sevilla FC (11)
+?,(Sat) 13 Nov 2004 (45),Osasuna (11),1-0,0-0,Real Sociedad (11)
+?,(Sat) 13 Nov 2004 (45),Valencia CF (11),0-0,0-0,Zaragoza (11)
+?,(Sun) 14 Nov 2004 (45),Real Betis (11),2-1,0-0,FC Barcelona (11)
+?,(Sun) 14 Nov 2004 (45),Mallorca (11),1-1,1-0,Atlético Madrid (11)
+?,(Sun) 14 Nov 2004 (45),Real Madrid CF (11),6-1,3-1,Albacete (11)
+?,(Sat) 20 Nov 2004 (46),FC Barcelona (12),3-0,2-0,Real Madrid CF (12)
+?,(Sat) 20 Nov 2004 (46),Málaga CF (12),0-2,0-1,Valencia CF (12)
+?,(Sat) 20 Nov 2004 (46),Villarreal CF (12),0-2,0-1,RCD La Coruña (12)
+?,(Sun) 21 Nov 2004 (46),Albacete (12),1-1,0-0,Getafe CF (12)
+?,(Sun) 21 Nov 2004 (46),Atlético Madrid (12),2-0,0-0,Numancia (12)
+?,(Sun) 21 Nov 2004 (46),Levante UD (12),1-2,1-1,Real Betis (12)
+?,(Sun) 21 Nov 2004 (46),Santander (12),1-1,0-1,Osasuna (12)
+?,(Sun) 21 Nov 2004 (46),Sevilla FC (12),1-0,1-0,RCD Español (12)
+?,(Sun) 21 Nov 2004 (46),Real Sociedad (12),3-2,0-2,Athletic Club Bilbao (12)
+?,(Sun) 21 Nov 2004 (46),Zaragoza (12),0-1,0-1,Mallorca (12)
+?,(Sat) 27 Nov 2004 (47),Athletic Club Bilbao (13),3-0,2-0,Santander (13)
+?,(Sat) 27 Nov 2004 (47),RCD Español (13),2-1,0-0,Atlético Madrid (13)
+?,(Sat) 27 Nov 2004 (47),Getafe CF (13),1-2,0-2,FC Barcelona (13)
+?,(Sun) 28 Nov 2004 (47),Real Betis (13),2-1,2-0,Villarreal CF (13)
+?,(Sun) 28 Nov 2004 (47),RCD La Coruña (13),2-2,2-1,Real Sociedad (13)
+?,(Sun) 28 Nov 2004 (47),Málaga CF (13),0-2,0-1,Albacete (13)
+?,(Sun) 28 Nov 2004 (47),Numancia (13),2-1,2-1,Zaragoza (13)
+?,(Sun) 28 Nov 2004 (47),Osasuna (13),4-1,1-1,Sevilla FC (13)
+?,(Sun) 28 Nov 2004 (47),Real Madrid CF (13),5-0,1-0,Levante UD (13)
+?,(Sun) 28 Nov 2004 (47),Valencia CF (13),2-0,1-0,Mallorca (13)
+?,(Sat) 4 Dec 2004 (48),Albacete (14),0-1,0-0,Valencia CF (14)
+?,(Sat) 4 Dec 2004 (48),FC Barcelona (14),4-0,2-0,Málaga CF (14)
+?,(Sat) 4 Dec 2004 (48),Real Sociedad (14),1-0,1-0,Real Betis (14)
+?,(Sun) 5 Dec 2004 (48),Atlético Madrid (14),3-2,2-1,Osasuna (14)
+?,(Sun) 5 Dec 2004 (48),Levante UD (14),0-0,0-0,Getafe CF (14)
+?,(Sun) 5 Dec 2004 (48),Mallorca (14),3-2,0-1,Numancia (14)
+?,(Sun) 5 Dec 2004 (48),Santander (14),2-2,1-0,RCD La Coruña (14)
+?,(Sun) 5 Dec 2004 (48),Sevilla FC (14),2-0,0-0,Athletic Club Bilbao (14)
+?,(Sun) 5 Dec 2004 (48),Villarreal CF (14),0-0,0-0,Real Madrid CF (14)
+?,(Sun) 5 Dec 2004 (48),Zaragoza (14),0-1,0-1,RCD Español (14)
+?,(Sat) 11 Dec 2004 (49),Albacete (15),1-2,0-1,FC Barcelona (15)
+?,(Sat) 11 Dec 2004 (49),Athletic Club Bilbao (15),1-0,1-0,Atlético Madrid (15)
+?,(Sun) 12 Dec 2004 (49),Real Betis (15),2-1,1-0,Santander (15)
+?,(Sun) 12 Dec 2004 (49),RCD Español (15),2-1,2-0,Mallorca (15)
+?,(Sun) 12 Dec 2004 (49),Getafe CF (15),1-2,0-1,Villarreal CF (15)
+?,(Sun) 12 Dec 2004 (49),RCD La Coruña (15),2-2,0-1,Sevilla FC (15)
+?,(Sun) 12 Dec 2004 (49),Málaga CF (15),1-0,0-0,Levante UD (15)
+?,(Sun) 12 Dec 2004 (49),Osasuna (15),2-2,1-1,Zaragoza (15)
+?,(Sun) 12 Dec 2004 (49),Valencia CF (15),1-0,1-0,Numancia (15)
+?,(Sat) 18 Dec 2004 (50),FC Barcelona (16),1-1,0-0,Valencia CF (16)
+?,(Sat) 18 Dec 2004 (50),Levante UD (16),1-1,1-1,Albacete (16)
+?,(Sat) 18 Dec 2004 (50),Santander (16),2-3,1-1,Real Madrid CF (15)
+?,(Sun) 19 Dec 2004 (50),Atlético Madrid (16),1-0,1-0,RCD La Coruña (16)
+?,(Sun) 19 Dec 2004 (50),Mallorca (16),1-2,0-2,Osasuna (16)
+?,(Sun) 19 Dec 2004 (50),Numancia (16),0-0,0-0,RCD Español (16)
+?,(Sun) 19 Dec 2004 (50),Sevilla FC (16),2-1,1-1,Real Betis (16)
+?,(Sun) 19 Dec 2004 (50),Real Sociedad (15),1-1,0-0,Getafe CF (16)
+?,(Sun) 19 Dec 2004 (50),Villarreal CF (16),3-0,1-0,Málaga CF (16)
+?,(Sun) 19 Dec 2004 (50),Zaragoza (16),0-2,0-0,Athletic Club Bilbao (16)
+?,(Tue) 21 Dec 2004 (51),FC Barcelona (17),2-1,1-0,Levante UD (17)
+?,(Tue) 21 Dec 2004 (51),Real Betis (17),1-0,1-0,Atlético Madrid (17)
+?,(Wed) 22 Dec 2004 (51),Albacete (17),2-2,1-2,Villarreal CF (17)
+?,(Wed) 22 Dec 2004 (51),Athletic Club Bilbao (17),4-0,2-0,Mallorca (17)
+?,(Wed) 22 Dec 2004 (51),Getafe CF (17),2-0,2-0,Santander (17)
+?,(Wed) 22 Dec 2004 (51),RCD La Coruña (17),2-3,0-1,Zaragoza (17)
+?,(Wed) 22 Dec 2004 (51),Málaga CF (17),1-5,1-1,Real Sociedad (16)
+?,(Wed) 22 Dec 2004 (51),Osasuna (17),2-0,0-0,Numancia (17)
+?,(Wed) 22 Dec 2004 (51),Real Madrid CF (16),0-1,0-1,Sevilla FC (17)
+?,(Wed) 22 Dec 2004 (51),Valencia CF (17),3-0,1-0,RCD Español (17)
+?,(Wed) 5 Jan 2005 (1),Real Madrid CF (17),2-1,1-0,Real Sociedad (17)
+?,(Sat) 8 Jan 2005 (1),Numancia (18),1-1,0-1,Athletic Club Bilbao (18)
+?,(Sat) 8 Jan 2005 (1),Sevilla FC (18),0-0,0-0,Getafe CF (18)
+?,(Sat) 8 Jan 2005 (1),Valencia CF (18),2-1,0-0,Levante UD (18)
+?,(Sun) 9 Jan 2005 (1),Atlético Madrid (18),0-3,0-1,Real Madrid CF (18)
+?,(Sun) 9 Jan 2005 (1),RCD Español (18),4-1,3-1,Osasuna (18)
+?,(Sun) 9 Jan 2005 (1),Mallorca (18),2-2,0-0,RCD La Coruña (18)
+?,(Sun) 9 Jan 2005 (1),Santander (18),2-1,2-0,Málaga CF (18)
+?,(Sun) 9 Jan 2005 (1),Real Sociedad (18),0-2,0-1,Albacete (18)
+?,(Sun) 9 Jan 2005 (1),Villarreal CF (18),3-0,1-0,FC Barcelona (18)
+?,(Sun) 9 Jan 2005 (1),Zaragoza (18),1-0,1-0,Real Betis (18)
+?,(Sat) 15 Jan 2005 (2),Getafe CF (19),1-1,0-1,Atlético Madrid (19)
+?,(Sat) 15 Jan 2005 (2),Málaga CF (19),1-0,0-0,Sevilla FC (19)
+?,(Sun) 16 Jan 2005 (2),Albacete (19),0-0,0-0,Santander (19)
+?,(Sun) 16 Jan 2005 (2),Athletic Club Bilbao (19),1-1,1-1,RCD Español (19)
+?,(Sun) 16 Jan 2005 (2),FC Barcelona (19),1-0,0-0,Real Sociedad (19)
+?,(Sun) 16 Jan 2005 (2),Real Betis (19),2-0,1-0,Mallorca (19)
+?,(Sun) 16 Jan 2005 (2),RCD La Coruña (19),1-1,0-0,Numancia (19)
+?,(Sun) 16 Jan 2005 (2),Levante UD (19),2-4,0-2,Villarreal CF (19)
+?,(Sun) 16 Jan 2005 (2),Osasuna (19),0-0,0-0,Valencia CF (19)
+?,(Sun) 16 Jan 2005 (2),Real Madrid CF (19),3-1,1-1,Zaragoza (19)
+?,(Sat) 22 Jan 2005 (3),Athletic Club Bilbao (20),4-3,0-1,Osasuna (20)
+?,(Sat) 22 Jan 2005 (3),FC Barcelona (20),3-0,1-0,Santander (20)
+?,(Sun) 23 Jan 2005 (3),Albacete (20),0-2,0-2,Sevilla FC (20)
+?,(Sun) 23 Jan 2005 (3),Real Betis (20),4-0,3-0,Numancia (20)
+?,(Sun) 23 Jan 2005 (3),Getafe CF (20),3-0,3-0,Zaragoza (20)
+?,(Sun) 23 Jan 2005 (3),RCD La Coruña (20),4-1,2-1,RCD Español (20)
+?,(Sun) 23 Jan 2005 (3),Levante UD (20),2-1,1-0,Real Sociedad (20)
+?,(Sun) 23 Jan 2005 (3),Málaga CF (20),1-0,0-0,Atlético Madrid (20)
+?,(Sun) 23 Jan 2005 (3),Real Madrid CF (20),3-1,1-1,Mallorca (20)
+?,(Sun) 23 Jan 2005 (3),Villarreal CF (20),3-1,2-0,Valencia CF (20)
+?,(Sat) 29 Jan 2005 (4),Atlético Madrid (21),3-1,3-1,Albacete (21)
+?,(Sat) 29 Jan 2005 (4),Sevilla FC (21),0-4,0-0,FC Barcelona (21)
+?,(Sun) 30 Jan 2005 (4),RCD Español (21),2-2,1-0,Real Betis (21)
+?,(Sun) 30 Jan 2005 (4),Mallorca (21),3-1,2-1,Getafe CF (21)
+?,(Sun) 30 Jan 2005 (4),Numancia (21),1-2,0-0,Real Madrid CF (21)
+?,(Sun) 30 Jan 2005 (4),Osasuna (21),1-1,0-0,RCD La Coruña (21)
+?,(Sun) 30 Jan 2005 (4),Santander (21),2-2,1-0,Levante UD (21)
+?,(Sun) 30 Jan 2005 (4),Real Sociedad (21),0-4,0-0,Villarreal CF (21)
+?,(Sun) 30 Jan 2005 (4),Valencia CF (21),2-2,0-1,Athletic Club Bilbao (21)
+?,(Sun) 30 Jan 2005 (4),Zaragoza (21),1-0,1-0,Málaga CF (21)
+?,(Sat) 5 Feb 2005 (5),Real Madrid CF (22),4-0,2-0,RCD Español (22)
+?,(Sat) 5 Feb 2005 (5),Real Sociedad (22),3-3,1-1,Valencia CF (22)
+?,(Sun) 6 Feb 2005 (5),Albacete (22),2-1,0-1,Zaragoza (22)
+?,(Sun) 6 Feb 2005 (5),FC Barcelona (22),0-2,0-1,Atlético Madrid (22)
+?,(Sun) 6 Feb 2005 (5),Real Betis (22),3-1,2-1,Osasuna (22)
+?,(Sun) 6 Feb 2005 (5),Getafe CF (22),1-0,1-0,Numancia (22)
+?,(Sun) 6 Feb 2005 (5),RCD La Coruña (22),1-1,0-0,Athletic Club Bilbao (22)
+?,(Sun) 6 Feb 2005 (5),Levante UD (22),0-3,0-1,Sevilla FC (22)
+?,(Sun) 6 Feb 2005 (5),Málaga CF (22),0-0,0-0,Mallorca (22)
+?,(Sun) 6 Feb 2005 (5),Villarreal CF (22),2-1,0-1,Santander (22)
+?,(Sat) 12 Feb 2005 (6),Valencia CF (23),1-2,0-1,RCD La Coruña (23)
+?,(Sat) 12 Feb 2005 (6),Zaragoza (23),1-4,0-3,FC Barcelona (23)
+?,(Sun) 13 Feb 2005 (6),Athletic Club Bilbao (23),4-4,2-3,Real Betis (23)
+?,(Sun) 13 Feb 2005 (6),Atlético Madrid (23),0-0,0-0,Levante UD (23)
+?,(Sun) 13 Feb 2005 (6),RCD Español (23),2-0,0-0,Getafe CF (23)
+?,(Sun) 13 Feb 2005 (6),Mallorca (23),2-1,0-1,Albacete (23)
+?,(Sun) 13 Feb 2005 (6),Numancia (23),0-1,0-1,Málaga CF (23)
+?,(Sun) 13 Feb 2005 (6),Osasuna (23),1-2,1-0,Real Madrid CF (23)
+?,(Sun) 13 Feb 2005 (6),Santander (23),1-3,0-3,Real Sociedad (23)
+?,(Sun) 13 Feb 2005 (6),Sevilla FC (23),2-1,1-0,Villarreal CF (23)
+?,(Sat) 19 Feb 2005 (7),FC Barcelona (24),2-0,1-0,Mallorca (24)
+?,(Sat) 19 Feb 2005 (7),Real Madrid CF (24),0-2,0-0,Athletic Club Bilbao (24)
+?,(Sat) 19 Feb 2005 (7),Real Sociedad (24),1-0,0-0,Sevilla FC (24)
+?,(Sun) 20 Feb 2005 (7),Albacete (24),1-2,1-0,Numancia (24)
+?,(Sun) 20 Feb 2005 (7),Real Betis (24),2-0,1-0,RCD La Coruña (24)
+?,(Sun) 20 Feb 2005 (7),Getafe CF (24),0-0,0-0,Osasuna (24)
+?,(Sun) 20 Feb 2005 (7),Levante UD (24),0-0,0-0,Zaragoza (24)
+?,(Sun) 20 Feb 2005 (7),Málaga CF (24),3-2,2-0,RCD Español (24)
+?,(Sun) 20 Feb 2005 (7),Santander (24),1-0,0-0,Valencia CF (24)
+?,(Sun) 20 Feb 2005 (7),Villarreal CF (24),3-2,0-2,Atlético Madrid (24)
+?,(Sat) 26 Feb 2005 (8),RCD Español (25),2-1,2-0,Albacete (25)
+?,(Sat) 26 Feb 2005 (8),RCD La Coruña (25),2-0,2-0,Real Madrid CF (25)
+?,(Sat) 26 Feb 2005 (8),Mallorca (25),1-2,0-0,Levante UD (25)
+?,(Sat) 26 Feb 2005 (8),Numancia (25),1-1,1-0,FC Barcelona (25)
+?,(Sun) 27 Feb 2005 (8),Atlético Madrid (25),1-0,1-0,Real Sociedad (25)
+?,(Sun) 27 Feb 2005 (8),Osasuna (25),1-6,0-3,Málaga CF (25)
+?,(Sun) 27 Feb 2005 (8),Sevilla FC (25),2-2,1-1,Santander (25)
+?,(Sun) 27 Feb 2005 (8),Valencia CF (25),2-1,1-1,Real Betis (25)
+?,(Sun) 27 Feb 2005 (8),Zaragoza (25),1-0,1-0,Villarreal CF (25)
+?,(Tue) 1 Mar 2005 (9),FC Barcelona (26),0-0,0-0,RCD Español (26)
+?,(Wed) 2 Mar 2005 (9),Albacete (26),1-1,0-0,Osasuna (26)
+?,(Wed) 2 Mar 2005 (9),Getafe CF (25),1-1,0-1,RCD La Coruña (26)
+?,(Wed) 2 Mar 2005 (9),Levante UD (26),1-1,1-1,Numancia (26)
+?,(Wed) 2 Mar 2005 (9),Málaga CF (26),1-0,1-0,Athletic Club Bilbao (25)
+?,(Wed) 2 Mar 2005 (9),Real Madrid CF (26),3-1,2-0,Real Betis (26)
+?,(Wed) 2 Mar 2005 (9),Santander (26),2-1,1-1,Atlético Madrid (26)
+?,(Wed) 2 Mar 2005 (9),Sevilla FC (26),2-2,1-1,Valencia CF (26)
+?,(Wed) 2 Mar 2005 (9),Real Sociedad (26),2-1,1-1,Zaragoza (26)
+?,(Wed) 2 Mar 2005 (9),Villarreal CF (26),2-1,0-1,Mallorca (26)
+?,(Sat) 5 Mar 2005 (9),Atlético Madrid (27),3-0,3-0,Sevilla FC (27)
+?,(Sat) 5 Mar 2005 (9),Osasuna (27),0-1,0-1,FC Barcelona (27)
+?,(Sat) 5 Mar 2005 (9),Valencia CF (27),1-1,1-1,Real Madrid CF (27)
+?,(Sun) 6 Mar 2005 (9),Athletic Club Bilbao (26),3-1,1-1,Albacete (27)
+?,(Sun) 6 Mar 2005 (9),Real Betis (27),2-2,1-1,Getafe CF (26)
+?,(Sun) 6 Mar 2005 (9),RCD Español (27),2-1,1-1,Levante UD (27)
+?,(Sun) 6 Mar 2005 (9),RCD La Coruña (27),1-0,1-0,Málaga CF (27)
+?,(Sun) 6 Mar 2005 (9),Mallorca (27),3-2,2-2,Real Sociedad (27)
+?,(Sun) 6 Mar 2005 (9),Numancia (27),1-1,0-1,Villarreal CF (27)
+?,(Sun) 6 Mar 2005 (9),Zaragoza (27),1-0,0-0,Santander (27)
+?,(Sat) 12 Mar 2005 (10),FC Barcelona (28),2-0,2-0,Athletic Club Bilbao (27)
+?,(Sat) 12 Mar 2005 (10),Málaga CF (28),1-2,1-2,Real Betis (28)
+?,(Sun) 13 Mar 2005 (10),Albacete (28),0-1,0-1,RCD La Coruña (28)
+?,(Sun) 13 Mar 2005 (10),Atlético Madrid (28),1-0,1-0,Valencia CF (28)
+?,(Sun) 13 Mar 2005 (10),Getafe CF (27),2-1,1-0,Real Madrid CF (28)
+?,(Sun) 13 Mar 2005 (10),Levante UD (28),4-0,3-0,Osasuna (28)
+?,(Sun) 13 Mar 2005 (10),Santander (28),3-0,2-0,Mallorca (28)
+?,(Sun) 13 Mar 2005 (10),Sevilla FC (28),0-1,0-1,Zaragoza (28)
+?,(Sun) 13 Mar 2005 (10),Real Sociedad (28),2-1,1-0,Numancia (28)
+?,(Sun) 13 Mar 2005 (10),Villarreal CF (28),4-1,1-1,RCD Español (28)
+?,(Wed) 16 Mar 2005 (11),Athletic Club Bilbao (28),1-2,1-0,Getafe CF (28)
+?,(Sat) 19 Mar 2005 (11),Real Betis (29),2-1,1-0,Albacete (29)
+?,(Sat) 19 Mar 2005 (11),RCD Español (29),2-2,1-1,Real Sociedad (29)
+?,(Sat) 19 Mar 2005 (11),RCD La Coruña (29),0-1,0-1,FC Barcelona (29)
+?,(Sun) 20 Mar 2005 (11),Athletic Club Bilbao (29),3-1,1-0,Levante UD (29)
+?,(Sun) 20 Mar 2005 (11),Mallorca (29),0-1,0-1,Sevilla FC (29)
+?,(Sun) 20 Mar 2005 (11),Numancia (29),2-3,2-2,Santander (29)
+?,(Sun) 20 Mar 2005 (11),Real Madrid CF (29),1-0,0-0,Málaga CF (29)
+?,(Sun) 20 Mar 2005 (11),Valencia CF (29),3-1,2-0,Getafe CF (29)
+?,(Sun) 20 Mar 2005 (11),Zaragoza (29),0-0,0-0,Atlético Madrid (29)
+?,(Sat) 2 Apr 2005 (13),Real Sociedad (30),2-0,2-0,Osasuna (29)
+?,(Sat) 2 Apr 2005 (13),Villarreal CF (29),3-1,2-1,Athletic Club Bilbao (30)
+?,(Sat) 2 Apr 2005 (13),Zaragoza (30),2-2,1-0,Valencia CF (30)
+?,(Sun) 3 Apr 2005 (13),Albacete (30),1-2,1-2,Real Madrid CF (30)
+?,(Sun) 3 Apr 2005 (13),Atlético Madrid (30),4-0,1-0,Mallorca (30)
+?,(Sun) 3 Apr 2005 (13),FC Barcelona (30),3-3,1-2,Real Betis (30)
+?,(Sun) 3 Apr 2005 (13),Levante UD (30),0-1,0-1,RCD La Coruña (30)
+?,(Sun) 3 Apr 2005 (13),Málaga CF (30),1-1,1-1,Getafe CF (30)
+?,(Sun) 3 Apr 2005 (13),Santander (30),1-3,1-2,RCD Español (30)
+?,(Sun) 3 Apr 2005 (13),Sevilla FC (30),1-0,0-0,Numancia (30)
+?,(Sat) 9 Apr 2005 (14),Athletic Club Bilbao (31),3-0,1-0,Real Sociedad (31)
+?,(Sat) 9 Apr 2005 (14),Numancia (31),1-0,0-0,Atlético Madrid (31)
+?,(Sun) 10 Apr 2005 (14),Real Betis (31),2-2,2-1,Levante UD (31)
+?,(Sun) 10 Apr 2005 (14),RCD Español (31),1-3,0-2,Sevilla FC (31)
+?,(Sun) 10 Apr 2005 (14),Getafe CF (31),1-0,0-0,Albacete (31)
+?,(Sun) 10 Apr 2005 (14),RCD La Coruña (31),1-1,0-0,Villarreal CF (30)
+?,(Sun) 10 Apr 2005 (14),Mallorca (31),0-2,0-0,Zaragoza (31)
+?,(Sun) 10 Apr 2005 (14),Osasuna (30),1-0,0-0,Santander (31)
+?,(Sun) 10 Apr 2005 (14),Real Madrid CF (31),4-2,3-1,FC Barcelona (31)
+?,(Sun) 10 Apr 2005 (14),Valencia CF (31),2-2,2-1,Málaga CF (31)
+?,(Sat) 16 Apr 2005 (15),Atlético Madrid (32),0-0,0-0,RCD Español (32)
+?,(Sat) 16 Apr 2005 (15),Sevilla FC (32),0-1,0-1,Osasuna (31)
+?,(Sat) 16 Apr 2005 (15),Real Sociedad (32),1-0,1-0,RCD La Coruña (32)
+?,(Sun) 17 Apr 2005 (15),Albacete (32),1-2,0-0,Málaga CF (32)
+?,(Sun) 17 Apr 2005 (15),FC Barcelona (32),2-0,1-0,Getafe CF (32)
+?,(Sun) 17 Apr 2005 (15),Levante UD (32),0-2,0-1,Real Madrid CF (32)
+?,(Sun) 17 Apr 2005 (15),Mallorca (32),0-0,0-0,Valencia CF (32)
+?,(Sun) 17 Apr 2005 (15),Santander (32),0-2,0-0,Athletic Club Bilbao (32)
+?,(Sun) 17 Apr 2005 (15),Villarreal CF (31),0-0,0-0,Real Betis (32)
+?,(Sun) 17 Apr 2005 (15),Zaragoza (32),4-1,0-0,Numancia (32)
+?,(Sat) 23 Apr 2005 (16),Osasuna (32),1-0,1-0,Atlético Madrid (33)
+?,(Sat) 23 Apr 2005 (16),Real Madrid CF (33),2-1,0-1,Villarreal CF (32)
+?,(Sun) 24 Apr 2005 (16),Athletic Club Bilbao (33),1-3,0-2,Sevilla FC (33)
+?,(Sun) 24 Apr 2005 (16),Real Betis (33),2-3,0-1,Real Sociedad (33)
+?,(Sun) 24 Apr 2005 (16),RCD Español (33),3-1,2-0,Zaragoza (33)
+?,(Sun) 24 Apr 2005 (16),Getafe CF (33),1-0,1-0,Levante UD (33)
+?,(Sun) 24 Apr 2005 (16),RCD La Coruña (33),1-4,1-0,Santander (33)
+?,(Sun) 24 Apr 2005 (16),Málaga CF (33),0-4,0-2,FC Barcelona (33)
+?,(Sun) 24 Apr 2005 (16),Numancia (33),1-2,0-0,Mallorca (33)
+?,(Sun) 24 Apr 2005 (16),Valencia CF (33),2-0,0-0,Albacete (33)
+?,(Thu) 28 Apr 2005 (17),Osasuna (33),3-2,1-1,Villarreal CF (33)
+?,(Sat) 30 Apr 2005 (17),Atlético Madrid (34),1-1,0-0,Athletic Club Bilbao (34)
+?,(Sat) 30 Apr 2005 (17),Numancia (34),1-1,0-0,Valencia CF (34)
+?,(Sat) 30 Apr 2005 (17),Real Sociedad (34),0-2,0-0,Real Madrid CF (34)
+?,(Sun) 1 May 2005 (17),FC Barcelona (34),2-0,0-0,Albacete (34)
+?,(Sun) 1 May 2005 (17),Levante UD (34),0-1,0-1,Málaga CF (34)
+?,(Sun) 1 May 2005 (17),Mallorca (34),3-2,0-1,RCD Español (34)
+?,(Sun) 1 May 2005 (17),Santander (34),1-1,0-0,Real Betis (34)
+?,(Sun) 1 May 2005 (17),Sevilla FC (34),2-0,2-0,RCD La Coruña (34)
+?,(Sun) 1 May 2005 (17),Villarreal CF (34),4-0,2-0,Getafe CF (34)
+?,(Sun) 1 May 2005 (17),Zaragoza (34),5-1,2-0,Osasuna (34)
+?,(Sat) 7 May 2005 (18),Athletic Club Bilbao (35),2-0,0-0,Zaragoza (35)
+?,(Sat) 7 May 2005 (18),Real Betis (35),1-0,1-0,Sevilla FC (35)
+?,(Sat) 7 May 2005 (18),Osasuna (35),1-1,0-1,Mallorca (35)
+?,(Sat) 7 May 2005 (18),Real Madrid CF (35),5-0,2-0,Santander (35)
+?,(Sun) 8 May 2005 (18),Albacete (35),3-1,1-0,Levante UD (35)
+?,(Sun) 8 May 2005 (18),RCD Español (35),3-0,0-0,Numancia (35)
+?,(Sun) 8 May 2005 (18),Getafe CF (35),2-0,2-0,Real Sociedad (35)
+?,(Sun) 8 May 2005 (18),RCD La Coruña (35),2-0,0-0,Atlético Madrid (35)
+?,(Sun) 8 May 2005 (18),Málaga CF (35),0-2,0-0,Villarreal CF (35)
+?,(Sun) 8 May 2005 (18),Valencia CF (35),0-2,0-2,FC Barcelona (35)
+?,(Sat) 14 May 2005 (19),Levante UD (36),1-1,1-0,FC Barcelona (36)
+?,(Sat) 14 May 2005 (19),Sevilla FC (36),2-2,1-1,Real Madrid CF (36)
+?,(Sun) 15 May 2005 (19),Atlético Madrid (36),1-2,0-2,Real Betis (36)
+?,(Sun) 15 May 2005 (19),RCD Español (36),2-2,1-1,Valencia CF (36)
+?,(Sun) 15 May 2005 (19),Mallorca (36),4-3,1-2,Athletic Club Bilbao (36)
+?,(Sun) 15 May 2005 (19),Numancia (36),2-2,1-2,Osasuna (36)
+?,(Sun) 15 May 2005 (19),Santander (36),2-1,2-0,Getafe CF (36)
+?,(Sun) 15 May 2005 (19),Real Sociedad (36),1-3,0-1,Málaga CF (36)
+?,(Sun) 15 May 2005 (19),Villarreal CF (36),1-0,0-0,Albacete (36)
+?,(Sun) 15 May 2005 (19),Zaragoza (36),2-2,0-2,RCD La Coruña (36)
+?,(Sat) 21 May 2005 (20),Real Betis (37),3-2,0-1,Zaragoza (37)
+?,(Sat) 21 May 2005 (20),Real Madrid CF (37),0-0,0-0,Atlético Madrid (37)
+?,(Sun) 22 May 2005 (20),Albacete (37),2-2,2-0,Real Sociedad (37)
+?,(Sun) 22 May 2005 (20),Athletic Club Bilbao (37),0-2,0-1,Numancia (37)
+?,(Sun) 22 May 2005 (20),FC Barcelona (37),3-3,2-2,Villarreal CF (37)
+?,(Sun) 22 May 2005 (20),Getafe CF (37),0-0,0-0,Sevilla FC (37)
+?,(Sun) 22 May 2005 (20),RCD La Coruña (37),0-3,0-2,Mallorca (37)
+?,(Sun) 22 May 2005 (20),Levante UD (37),0-0,0-0,Valencia CF (37)
+?,(Sun) 22 May 2005 (20),Málaga CF (37),2-0,1-0,Santander (37)
+?,(Sun) 22 May 2005 (20),Osasuna (37),1-1,1-1,RCD Español (37)
+?,(Sun) 29 May 2005 (21),Atlético Madrid (38),2-2,0-1,Getafe CF (38)
+?,(Sun) 29 May 2005 (21),RCD Español (38),2-0,1-0,Athletic Club Bilbao (38)
+?,(Sun) 29 May 2005 (21),Mallorca (38),1-1,0-0,Real Betis (38)
+?,(Sun) 29 May 2005 (21),Numancia (38),1-1,0-0,RCD La Coruña (38)
+?,(Sun) 29 May 2005 (21),Santander (38),1-0,1-0,Albacete (38)
+?,(Sun) 29 May 2005 (21),Sevilla FC (38),0-2,0-0,Málaga CF (38)
+?,(Sun) 29 May 2005 (21),Real Sociedad (38),0-0,0-0,FC Barcelona (38)
+?,(Sun) 29 May 2005 (21),Valencia CF (38),1-0,0-0,Osasuna (38)
+?,(Sun) 29 May 2005 (21),Villarreal CF (38),4-1,2-1,Levante UD (38)
+?,(Sun) 29 May 2005 (21),Zaragoza (38),1-3,1-1,Real Madrid CF (38)
