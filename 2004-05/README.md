@@ -3,57 +3,64 @@
 ### Standings
 
 
-~~~
- 1. Barcelona                     38  25   9   4  73:29   84
- 2. Real Madrid                   38  25   5   8  71:32   80
- 3. Villarreal                    38  18  11   9  69:37   65
- 4. Betis                         38  16  14   8  62:50   62
- 5. Espanol                       38  17  10  11  54:46   61
- 6. Sevilla                       38  17   9  12  44:41   60
- 7. Valencia                      38  14  16   8  54:39   58
- 8. Ath Bilbao                    38  14   9  15  59:54   51
- 9. La Coruna                     38  12  15  11  46:50   51
-10. Malaga                        38  15   6  17  40:48   51
-11. Ath Madrid                    38  13  11  14  40:34   50
-12. Zaragoza                      38  14   8  16  52:57   50
-13. Getafe                        38  12  11  15  38:46   47
-14. Sociedad                      38  13   8  17  47:56   47
-15. Osasuna                       38  12  10  16  46:65   46
-16. Santander                     38  12   8  18  41:58   44
-17. Mallorca                      38  10   9  19  42:63   39
-18. Levante                       38   9  10  19  39:58   37
-19. Numancia                      38   6  11  21  30:61   29
-20. Albacete                      38   6  10  22  33:56   28
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. FC Barcelona                  38  14  4  1  40:12   11  5  3  33:17    73:29  +44   84
+ 2. Real Madrid CF                38  15  1  3  43:12   10  4  5  28:20    71:32  +39   80
+ 3. Villarreal CF                 38  14  4  1  41:10    4  7  8  28:27    69:37  +32   65
+ 4. Real Betis                    38  12  5  2  36:22    4  9  6  26:28    62:50  +12   62
+ 5. RCD Español                   38  12  5  2  34:18    5  5  9  20:28    54:46   +8   61
+ 6. Sevilla FC                    38  10  5  4  25:19    7  4  8  19:22    44:41   +3   60
+ 7. Valencia CF                   38  11  5  3  31:17    3 11  5  23:22    54:39  +15   58
+ 8. Athletic Club Bilbao          38  11  4  4  39:24    3  5 11  20:30    59:54   +5   51
+ 9. RCD La Coruña                 38   6  7  6  25:29    6  8  5  21:21    46:50   -4   51
+10. Málaga CF                     38   8  4  7  19:24    7  2 10  21:24    40:48   -8   51
+11. Atlético Madrid               38  11  6  2  28:13    2  5 12  12:21    40:34   +6   50
+12. Real Zaragoza                 38  11  3  5  35:25    3  5 11  17:32    52:57   -5   50
+13. Getafe CF                     38  11  4  4  23:12    1  7 11  15:34    38:46   -8   47
+14. Real Sociedad                 38   9  4  6  21:24    4  4 11  26:32    47:56   -9   47
+15. CA Osasuna                    38   9  6  4  28:24    3  4 12  18:41    46:65  -19   46
+16. Real Racing Santander         38   8  6  5  25:23    4  2 13  16:35    41:58  -17   44
+17. RCD Mallorca                  38   6  5  8  28:31    4  4 11  14:32    42:63  -21   39
+18. Levante UD                    38   6  6  7  19:20    3  4 12  20:38    39:58  -19   37
+19. CD Numancia                   38   4  9  6  19:23    2  2 15  11:38    30:61  -31   29
+20. Albacete Balompié             38   4  7  8  17:22    2  3 14  16:34    33:56  -23   28
+```
 
-(Source: `1-liga.csv`)
+(Source: [`1-liga.csv`](1-liga.csv))
 
 
-~~~
- 1. Celta                         42  23  10   9  58:36   79
- 2. Cadiz                         42  21  13   8  68:30   76
- 3. Alaves                        42  23   7  12  62:47   76
- 4. Eibar                         42  20  13   9  53:39   73
- 5. Recreativo                    42  19  14   9  48:32   71
- 6. Valladolid                    42  18   9  15  56:56   63
- 7. Gimnastic                     42  16  12  14  49:45   60
- 8. Sp Gijon                      42  15  12  15  41:39   57
- 9. Elche                         42  16   9  17  51:52   57
-10. Tenerife                      42  13  18  11  42:45   57
-11. Xerez                         42  13  17  12  37:39   56
-12. Murcia                        42  15   9  18  40:52   54
-13. Poli Ejido                    42  12  16  14  41:45   52
-14. Almeria                       42  13  12  17  36:44   51
-15. Lleida                        42  13  11  18  46:54   50
-16. Ferrol                        42  12  13  17  55:54   49
-17. Malaga B                      42  12  12  18  33:51   48
-18. Ciudad de Murcia              42  10  17  15  49:57   47
-19. Cordoba                       42  12  10  20  43:52   46
-20. Pontevedra                    42  10  14  18  52:60   44
-21. Salamanca                     42  12   8  22  50:63   44
-22. Terrassa                      42  12   8  22  45:63   44
-~~~
+```
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Real Murcia CF                84  12 15 15  42:51   13 11 18  47:58    89:109 -20  101
+ 2. RC Celta Vigo                 42  10  7  4  23:15   13  3  5  35:21    58:36  +22   79
+ 3. Cádiz CF                      42  12  4  5  40:14    9  9  3  28:16    68:30  +38   76
+ 4. Deportivo Alavés              42  11  3  7  32:28   12  4  5  30:19    62:47  +15   76
+ 5. SD Eibar                      42  11  6  4  26:17    9  7  5  27:22    53:39  +14   73
+ 6. Recreativo Huelva             42  10  8  3  25:14    9  6  6  23:18    48:32  +16   71
+ 7. Real Valladolid CF            42   9  5  7  27:23    9  4  8  29:33    56:56        63
+ 8. Gimnàstic Tarragona           42  10  6  5  27:22    6  6  9  22:23    49:45   +4   60
+ 9. Sporting Gijón                42  10  7  4  28:19    5  5 11  13:20    41:39   +2   57
+10. Elche CF                      42  11  4  6  31:21    5  5 11  20:31    51:52   -1   57
+11. CD Tenerife                   42  10  7  4  23:19    3 11  7  19:26    42:45   -3   57
+12. Xerez CD                      42   5 10  6  16:22    8  7  6  21:17    37:39   -2   56
+13. Polideportivo Ejido           42   8  9  4  22:17    4  7 10  19:28    41:45   -4   52
+14. UD Almería                    42   6  7  8  17:22    7  5  9  19:22    36:44   -8   51
+15. UE Lleida                     42   8  4  9  30:26    5  7  9  16:28    46:54   -8   50
+16. Racing Ferrol                 42   7  4 10  27:26    5  9  7  28:28    55:54   +1   49
+17. Málaga CF B                   42   6  7  8  17:23    6  5 10  16:28    33:51  -18   48
+18. Córdoba CF                    42   6  5 10  23:24    6  5 10  20:28    43:52   -9   46
+19. Pontevedra CF                 42   6  9  6  36:28    4  5 12  16:32    52:60   -8   44
+20. UD Salamanca                  42   7  3 11  29:34    5  5 11  21:29    50:63  -13   44
+21. Terrassa FC                   42  11  2  8  27:22    1  6 14  18:41    45:63  -18   44
+```
 
-(Source: `2-liga2.csv`)
+(Source: [`2-liga2.csv`](2-liga2.csv))
 
+
+
+---
+Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
 
