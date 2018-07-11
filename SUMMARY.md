@@ -1,5 +1,56 @@
 # Summary
 
+2 levels: 1 2
+
+level 1
+- 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
+- 47 teams: Albacete Balompié (5) Athletic Club Bilbao (25) Atlético Madrid (23) CA Osasuna (16) CD Leganés (2) CD Logroñés (3) CD Numancia (4) CD Tenerife (8) CF Extremadura (2) CP Mérida (2) Cádiz CF (1) Córdoba CF (1) Deportivo Alavés (8) Elche CF (2) FC Barcelona (25) Getafe CF (13) Gimnàstic Tarragona (1) Girona FC (1) Granada CF (6) Hércules CF (2) Levante UD (10) Málaga CF (17) RC Celta Vigo (19) RCD Español (24) RCD La Coruña (23) RCD Mallorca (16) Rayo Vallecano (12) Real Betis (20) Real Madrid CF (25) Real Murcia CF (2) Real Oviedo (8) Real Racing Santander (18) Real Sociedad (22) Real Valladolid CF (16) Real Zaragoza (18) Recreativo Huelva (4) SD Compostela (4) SD Eibar (4) Sevilla FC (22) Sporting Gijón (11) UD Almería (6) UD Las Palmas (5) UD Salamanca (3) UE Lleida (1) Valencia CF (25) Villarreal CF (18) Xerez CD (1) 
+  - 25 seasons: Athletic Club Bilbao, FC Barcelona, Real Madrid CF, Valencia CF
+  - 24 seasons: RCD Español
+  - 23 seasons: Atlético Madrid, RCD La Coruña
+  - 22 seasons: Real Sociedad, Sevilla FC
+  - 20 seasons: Real Betis
+  - 19 seasons: RC Celta Vigo
+  - 18 seasons: Real Racing Santander, Real Zaragoza, Villarreal CF
+  - 17 seasons: Málaga CF
+  - 16 seasons: CA Osasuna, RCD Mallorca, Real Valladolid CF
+  - 13 seasons: Getafe CF
+  - 12 seasons: Rayo Vallecano
+  - 11 seasons: Sporting Gijón
+  - 10 seasons: Levante UD
+  - 8 seasons: CD Tenerife, Deportivo Alavés, Real Oviedo
+  - 6 seasons: Granada CF, UD Almería
+  - 5 seasons: Albacete Balompié, UD Las Palmas
+  - 4 seasons: CD Numancia, Recreativo Huelva, SD Compostela, SD Eibar
+  - 3 seasons: CD Logroñés, UD Salamanca
+  - 2 seasons: CD Leganés, CF Extremadura, CP Mérida, Elche CF, Hércules CF, Real Murcia CF
+  - 1 seasons: Cádiz CF, Córdoba CF, Gimnàstic Tarragona, Girona FC, UE Lleida, Xerez CD
+
+
+level 2
+- 22 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 
+- 82 teams: AD Alcorcón (8) Albacete Balompié (16) Algeciras CF (1) Alicante CF (1) Athletic Club Bilbao B (1) Atlético Madrid (2) Atlético Madrid B (4) Burgos CF (1) CA Osasuna (7) CD Alcoyano (1) CD Badajoz (7) CD Castellón (5) CD Guadalajara (2) CD Leganés (10) CD Logroñés (3) CD Lugo (6) CD Mirandés (5) CD Numancia (17) CD Ourense (3) CD Tenerife (15) CD Toledo (4) CE Sabadell (4) CF Ciudad de Murcia (4) CF Extremadura (4) CF Reus (2) CP Mérida (3) Cultural Leonesa (1) Cádiz CF (7) Córdoba CF (16) Deportivo Alavés (10) Elche CF (17) FC Barcelona B (8) FC Cartagena (3) Getafe CF (5) Gimnàstic Tarragona (11) Girona FC (9) Granada 74 (1) Granada CF (2) Hércules CF (10) Levante UD (11) Lorca FC (3) Málaga CF (3) Málaga CF B (3) Polideportivo Ejido (7) Pontevedra CF (1) RC Celta Vigo (6) RCD La Coruña (2) RCD Mallorca (5) RCD Mallorca B (1) Racing Ferrol (6) Rayo Vallecano (8) Real Betis (4) Real Jaén CF (4) Real Madrid CF B (5) Real Murcia CF (11) Real Oviedo (5) Real Racing Santander (3) Real Sociedad (3) Real Unión (1) Real Valladolid CF (9) Real Zaragoza (7) Recreativo Huelva (13) SD Compostela (4) SD Eibar (13) SD Huesca (8) SD Ponferradina (6) Sevilla FC (3) Sevilla FC B (4) Sporting Gijón (14) Terrassa FC (3) UCAM Murcia (1) UD Almería (11) UD Las Palmas (15) UD Salamanca (12) UD Vecindario (1) UE Llagostera (2) UE Lleida (7) Universidad Las Palmas (1) Villarreal CF (4) Villarreal CF B (3) Xerez CD (12) Écija Balompié (1) 
+  - 17 seasons: CD Numancia, Elche CF
+  - 16 seasons: Albacete Balompié, Córdoba CF
+  - 15 seasons: CD Tenerife, UD Las Palmas
+  - 14 seasons: Sporting Gijón
+  - 13 seasons: Recreativo Huelva, SD Eibar
+  - 12 seasons: UD Salamanca, Xerez CD
+  - 11 seasons: Gimnàstic Tarragona, Levante UD, Real Murcia CF, UD Almería
+  - 10 seasons: CD Leganés, Deportivo Alavés, Hércules CF
+  - 9 seasons: Girona FC, Real Valladolid CF
+  - 8 seasons: AD Alcorcón, FC Barcelona B, Rayo Vallecano, SD Huesca
+  - 7 seasons: CA Osasuna, CD Badajoz, Cádiz CF, Polideportivo Ejido, Real Zaragoza, UE Lleida
+  - 6 seasons: CD Lugo, RC Celta Vigo, Racing Ferrol, SD Ponferradina
+  - 5 seasons: CD Castellón, CD Mirandés, Getafe CF, RCD Mallorca, Real Madrid CF B, Real Oviedo
+  - 4 seasons: Atlético Madrid B, CD Toledo, CE Sabadell, CF Ciudad de Murcia, CF Extremadura, Real Betis, Real Jaén CF, SD Compostela, Sevilla FC B, Villarreal CF
+  - 3 seasons: CD Logroñés, CD Ourense, CP Mérida, FC Cartagena, Lorca FC, Málaga CF, Málaga CF B, Real Racing Santander, Real Sociedad, Sevilla FC, Terrassa FC, Villarreal CF B
+  - 2 seasons: Atlético Madrid, CD Guadalajara, CF Reus, Granada CF, RCD La Coruña, UE Llagostera
+  - 1 seasons: Algeciras CF, Alicante CF, Athletic Club Bilbao B, Burgos CF, CD Alcoyano, Cultural Leonesa, Granada 74, Pontevedra CF, RCD Mallorca B, Real Unión, UCAM Murcia, UD Vecindario, Universidad Las Palmas, Écija Balompié
+
+
+
+
 ## Datafiles
 
 - [`2017-18/1-liga.csv`](2017-18/1-liga.csv) => 20 teams / 380 matches / 1024 goals / start: Fri 18 Aug 2017, end: Sun 20 May 2018
