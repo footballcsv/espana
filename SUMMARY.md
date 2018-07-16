@@ -1,6 +1,6 @@
 # Summary
 
-2 levels: 1 2
+25 seasons, 2 levels (1 2), 87 teams in 47 datafiles
 
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
@@ -49,278 +49,299 @@ level 2
   - 1 seasons: Algeciras CF, Alicante CF, Athletic Club Bilbao B, Burgos CF, CD Alcoyano, Cultural Leonesa, Granada 74, Pontevedra CF, RCD Mallorca B, Real Unión, UCAM Murcia, UD Vecindario, Universidad Las Palmas, Écija Balompié
 
 
+level 1 - 25 seasons:
+- [`2017-18/1-liga.csv`](2017-18/1-liga.csv) =>  20 teams,  380 matches,  1024 goals,  38 rounds,  Fri 18 Aug 2017 - Sun 20 May 2018
+- [`2016-17/1-liga.csv`](2016-17/1-liga.csv) =>  20 teams,  380 matches,  1118 goals,  38 rounds,  Fri 19 Aug 2016 - Sun 21 May 2017
+- [`2015-16/1-liga.csv`](2015-16/1-liga.csv) =>  20 teams,  380 matches,  1043 goals,  38 rounds,  Fri 21 Aug 2015 - Sun 15 May 2016
+- [`2014-15/1-liga.csv`](2014-15/1-liga.csv) =>  20 teams,  380 matches,  1009 goals,  38 rounds,  Sat 23 Aug 2014 - Sat 23 May 2015
+- [`2013-14/1-liga.csv`](2013-14/1-liga.csv) =>  20 teams,  380 matches,  1045 goals,  38 rounds,  Sat 17 Aug 2013 - Sun 18 May 2014
+- [`2012-13/1-liga.csv`](2012-13/1-liga.csv) =>  20 teams,  380 matches,  1091 goals,  38 rounds,  Sat 18 Aug 2012 - Sat 01 Jun 2013
+- [`2011-12/1-liga.csv`](2011-12/1-liga.csv) =>  20 teams,  380 matches,  1050 goals,  38 rounds,  Sat 27 Aug 2011 - Sun 13 May 2012
+- [`2010-11/1-liga.csv`](2010-11/1-liga.csv) =>  20 teams,  380 matches,  1042 goals,  38 rounds,  Sat 28 Aug 2010 - Sat 21 May 2011
+- [`2009-10/1-liga.csv`](2009-10/1-liga.csv) =>  20 teams,  380 matches,  1031 goals,  38 rounds,  Sat 29 Aug 2009 - Sun 16 May 2010
+- [`2008-09/1-liga.csv`](2008-09/1-liga.csv) =>  20 teams,  380 matches,  1101 goals,  38 rounds,  Sat 30 Aug 2008 - Sun 31 May 2009
+- [`2007-08/1-liga.csv`](2007-08/1-liga.csv) =>  20 teams,  380 matches,  1021 goals,  38 rounds,  Sat 25 Aug 2007 - Sun 18 May 2008
+- [`2006-07/1-liga.csv`](2006-07/1-liga.csv) =>  20 teams,  380 matches,  942 goals,  38 rounds,  Sat 26 Aug 2006 - Sun 17 Jun 2007
+- [`2005-06/1-liga.csv`](2005-06/1-liga.csv) =>  20 teams,  380 matches,  936 goals,  38 rounds,  Sat 27 Aug 2005 - Sat 20 May 2006
+- [`2004-05/1-liga.csv`](2004-05/1-liga.csv) =>  20 teams,  380 matches,  980 goals,  38 rounds,  Sat 28 Aug 2004 - Sun 29 May 2005
+- [`2003-04/1-liga.csv`](2003-04/1-liga.csv) =>  20 teams,  380 matches,  1015 goals,  38 rounds,  Sat 30 Aug 2003 - Sun 23 May 2004
+- [`2002-03/1-liga.csv`](2002-03/1-liga.csv) =>  20 teams,  380 matches,  1016 goals,  38 rounds,  Sat 31 Aug 2002 - Sun 22 Jun 2003
+- [`2001-02/1-liga.csv`](2001-02/1-liga.csv) =>  20 teams,  380 matches,  961 goals,  38 rounds,  Sat 25 Aug 2001 - Sat 11 May 2002
+- [`2000-01/1-liga.csv`](2000-01/1-liga.csv) =>  20 teams,  380 matches,  1095 goals,  38 rounds,  Sat 09 Sep 2000 - Sun 17 Jun 2001
+- [`1999-00/1-liga.csv`](1999-00/1-liga.csv) =>  20 teams,  380 matches,  999 goals,  38 rounds,  Sat 21 Aug 1999 - Sat 20 May 2000
+- [`1998-99/1-liga.csv`](1998-99/1-liga.csv) =>  20 teams,  380 matches,  1003 goals,  38 rounds,  Sat 29 Aug 1998 - Sun 20 Jun 1999
+- [`1997-98/1-liga.csv`](1997-98/1-liga.csv) =>  20 teams,  380 matches,  1009 goals,  38 rounds,  Sat 30 Aug 1997 - Sat 16 May 1998
+- [`1996-97/1-liga.csv`](1996-97/1-liga.csv) =>  22 teams,  462 matches,  1271 goals,  42 rounds,  Sat 31 Aug 1996 - Mon 23 Jun 1997
+- [`1995-96/1-liga.csv`](1995-96/1-liga.csv) =>  22 teams,  462 matches,  1246 goals,  42 rounds,  Sat 02 Sep 1995 - Sun 26 May 1996
+- [`1994-95/1-liga.csv`](1994-95/1-liga.csv) =>  20 teams,  380 matches,  966 goals,  38 rounds,  Sat 03 Sep 1994 - Sun 18 Jun 1995
+- [`1993-94/1-liga.csv`](1993-94/1-liga.csv) =>  20 teams,  380 matches,  988 goals,  38 rounds,  Sun 05 Sep 1993 - Sun 15 May 1994
 
 
-## Datafiles
-
-- [`2017-18/1-liga.csv`](2017-18/1-liga.csv) => 20 teams / 380 matches / 1024 goals / start: Fri 18 Aug 2017, end: Sun 20 May 2018
-- [`2016-17/1-liga.csv`](2016-17/1-liga.csv) => 20 teams / 380 matches / 1118 goals / start: Fri 19 Aug 2016, end: Sun 21 May 2017
-- [`2015-16/1-liga.csv`](2015-16/1-liga.csv) => 20 teams / 380 matches / 1043 goals / start: Fri 21 Aug 2015, end: Sun 15 May 2016
-- [`2014-15/1-liga.csv`](2014-15/1-liga.csv) => 20 teams / 380 matches / 1009 goals / start: Sat 23 Aug 2014, end: Sat 23 May 2015
-- [`2013-14/1-liga.csv`](2013-14/1-liga.csv) => 20 teams / 380 matches / 1045 goals / start: Sat 17 Aug 2013, end: Sun 18 May 2014
-- [`2012-13/1-liga.csv`](2012-13/1-liga.csv) => 20 teams / 380 matches / 1091 goals / start: Sat 18 Aug 2012, end: Sat 01 Jun 2013
-- [`2011-12/1-liga.csv`](2011-12/1-liga.csv) => 20 teams / 380 matches / 1050 goals / start: Sat 27 Aug 2011, end: Sun 13 May 2012
-- [`2010-11/1-liga.csv`](2010-11/1-liga.csv) => 20 teams / 380 matches / 1042 goals / start: Sat 28 Aug 2010, end: Sat 21 May 2011
-- [`2009-10/1-liga.csv`](2009-10/1-liga.csv) => 20 teams / 380 matches / 1031 goals / start: Sat 29 Aug 2009, end: Sun 16 May 2010
-- [`2008-09/1-liga.csv`](2008-09/1-liga.csv) => 20 teams / 380 matches / 1101 goals / start: Sat 30 Aug 2008, end: Sun 31 May 2009
-- [`2007-08/1-liga.csv`](2007-08/1-liga.csv) => 20 teams / 380 matches / 1021 goals / start: Sat 25 Aug 2007, end: Sun 18 May 2008
-- [`2006-07/1-liga.csv`](2006-07/1-liga.csv) => 20 teams / 380 matches / 942 goals / start: Sat 26 Aug 2006, end: Sun 17 Jun 2007
-- [`2005-06/1-liga.csv`](2005-06/1-liga.csv) => 20 teams / 380 matches / 936 goals / start: Sat 27 Aug 2005, end: Sat 20 May 2006
-- [`2004-05/1-liga.csv`](2004-05/1-liga.csv) => 20 teams / 380 matches / 980 goals / start: Sat 28 Aug 2004, end: Sun 29 May 2005
-- [`2003-04/1-liga.csv`](2003-04/1-liga.csv) => 20 teams / 380 matches / 1015 goals / start: Sat 30 Aug 2003, end: Sun 23 May 2004
-- [`2002-03/1-liga.csv`](2002-03/1-liga.csv) => 20 teams / 380 matches / 1016 goals / start: Sat 31 Aug 2002, end: Sun 22 Jun 2003
-- [`2001-02/1-liga.csv`](2001-02/1-liga.csv) => 20 teams / 380 matches / 961 goals / start: Sat 25 Aug 2001, end: Sat 11 May 2002
-- [`2000-01/1-liga.csv`](2000-01/1-liga.csv) => 20 teams / 380 matches / 1095 goals / start: Sat 09 Sep 2000, end: Sun 17 Jun 2001
-- [`1999-00/1-liga.csv`](1999-00/1-liga.csv) => 20 teams / 380 matches / 999 goals / start: Sat 21 Aug 1999, end: Sat 20 May 2000
-- [`1998-99/1-liga.csv`](1998-99/1-liga.csv) => 20 teams / 380 matches / 1003 goals / start: Sat 29 Aug 1998, end: Sun 20 Jun 1999
-- [`1997-98/1-liga.csv`](1997-98/1-liga.csv) => 20 teams / 380 matches / 1009 goals / start: Sat 30 Aug 1997, end: Sat 16 May 1998
-- [`1996-97/1-liga.csv`](1996-97/1-liga.csv) => 22 teams / 462 matches / 1271 goals / start: Sat 31 Aug 1996, end: Mon 23 Jun 1997
-- [`1995-96/1-liga.csv`](1995-96/1-liga.csv) => 22 teams / 462 matches / 1246 goals / start: Sat 02 Sep 1995, end: Sun 26 May 1996
-- [`1994-95/1-liga.csv`](1994-95/1-liga.csv) => 20 teams / 380 matches / 966 goals / start: Sat 03 Sep 1994, end: Sun 18 Jun 1995
-- [`1993-94/1-liga.csv`](1993-94/1-liga.csv) => 20 teams / 380 matches / 988 goals / start: Sun 05 Sep 1993, end: Sun 15 May 1994
-
-<!-- break -->
-- [`2017-18/2-liga2.csv`](2017-18/2-liga2.csv) => 22 teams / 462 matches / 1066 goals / start: Fri 18 Aug 2017, end: Sat 02 Jun 2018
-- [`2016-17/2-liga2.csv`](2016-17/2-liga2.csv) => 22 teams / 462 matches / 1041 goals / start: Fri 19 Aug 2016, end: Sun 11 Jun 2017
-- [`2015-16/2-liga2.csv`](2015-16/2-liga2.csv) => 22 teams / 462 matches / 1043 goals / start: Sat 22 Aug 2015, end: Sat 04 Jun 2016
-- [`2014-15/2-liga2.csv`](2014-15/2-liga2.csv) => 22 teams / 462 matches / 1136 goals / start: Sat 23 Aug 2014, end: Sun 07 Jun 2015
-- [`2013-14/2-liga2.csv`](2013-14/2-liga2.csv) => 22 teams / 462 matches / 1078 goals / start: Fri 16 Aug 2013, end: Sun 08 Jun 2014
-- [`2012-13/2-liga2.csv`](2012-13/2-liga2.csv) => 22 teams / 462 matches / 1203 goals / start: Fri 17 Aug 2012, end: Sun 09 Jun 2013
-- [`2011-12/2-liga2.csv`](2011-12/2-liga2.csv) => 22 teams / 462 matches / 1218 goals / start: Fri 26 Aug 2011, end: Sun 03 Jun 2012
-- [`2010-11/2-liga2.csv`](2010-11/2-liga2.csv) => 22 teams / 462 matches / 1220 goals / start: Fri 27 Aug 2010, end: Sat 04 Jun 2011
-- [`2009-10/2-liga2.csv`](2009-10/2-liga2.csv) => 22 teams / 462 matches / 1114 goals / start: Sat 29 Aug 2009, end: Sat 19 Jun 2010
-- [`2008-09/2-liga2.csv`](2008-09/2-liga2.csv) => 22 teams / 462 matches / 1160 goals / start: Sat 30 Aug 2008, end: Sun 21 Jun 2009
-- [`2007-08/2-liga2.csv`](2007-08/2-liga2.csv) => 22 teams / 462 matches / 1072 goals / start: Sat 25 Aug 2007, end: Sun 15 Jun 2008
-- [`2006-07/2-liga2.csv`](2006-07/2-liga2.csv) => 22 teams / 462 matches / 1133 goals / start: Sat 26 Aug 2006, end: Sun 17 Jun 2007
-- [`2005-06/2-liga2.csv`](2005-06/2-liga2.csv) => 22 teams / 462 matches / 1061 goals / start: Sat 27 Aug 2005, end: Sun 18 Jun 2006
-- [`2004-05/2-liga2.csv`](2004-05/2-liga2.csv) => 22 teams / 462 matches / 1055 goals / start: Sat 28 Aug 2004, end: Sat 18 Jun 2005
-- [`2003-04/2-liga2.csv`](2003-04/2-liga2.csv) => 22 teams / 462 matches / 1024 goals / start: Sat 30 Aug 2003, end: Sat 19 Jun 2004
-- [`2002-03/2-liga2.csv`](2002-03/2-liga2.csv) => 22 teams / 462 matches / 1030 goals / start: Sat 31 Aug 2002, end: Sun 29 Jun 2003
-- [`2001-02/2-liga2.csv`](2001-02/2-liga2.csv) => 22 teams / 462 matches / 996 goals / start: Sat 25 Aug 2001, end: Sat 25 May 2002
-- [`2000-01/2-liga2.csv`](2000-01/2-liga2.csv) => 22 teams / 462 matches / 1016 goals / start: Sat 02 Sep 2000, end: Sun 17 Jun 2001
-- [`1999-00/2-liga2.csv`](1999-00/2-liga2.csv) => 22 teams / 462 matches / 1068 goals / start: Sun 22 Aug 1999, end: Sun 04 Jun 2000
-- [`1998-99/2-liga2.csv`](1998-99/2-liga2.csv) => 22 teams / 462 matches / 1120 goals / start: Sat 29 Aug 1998, end: Sun 20 Jun 1999
-- [`1997-98/2-liga2.csv`](1997-98/2-liga2.csv) => 22 teams / 462 matches / 999 goals / start: Sat 30 Aug 1997, end: Sat 16 May 1998
-- [`1996-97/2-liga2.csv`](1996-97/2-liga2.csv) => 20 teams / 380 matches / 908 goals / start: Sat 31 Aug 1996, end: Sun 15 Jun 1997
+level 2 - 22 seasons:
+- [`2017-18/2-liga2.csv`](2017-18/2-liga2.csv) =>  22 teams,  462 matches,  1066 goals,  42 rounds,  Fri 18 Aug 2017 - Sat 02 Jun 2018
+- [`2016-17/2-liga2.csv`](2016-17/2-liga2.csv) =>  22 teams,  462 matches,  1041 goals,  42 rounds,  Fri 19 Aug 2016 - Sun 11 Jun 2017
+- [`2015-16/2-liga2.csv`](2015-16/2-liga2.csv) =>  22 teams,  462 matches,  1043 goals,  42 rounds,  Sat 22 Aug 2015 - Sat 04 Jun 2016
+- [`2014-15/2-liga2.csv`](2014-15/2-liga2.csv) =>  22 teams,  462 matches,  1136 goals,  42 rounds,  Sat 23 Aug 2014 - Sun 07 Jun 2015
+- [`2013-14/2-liga2.csv`](2013-14/2-liga2.csv) =>  22 teams,  462 matches,  1078 goals,  42 rounds,  Fri 16 Aug 2013 - Sun 08 Jun 2014
+- [`2012-13/2-liga2.csv`](2012-13/2-liga2.csv) =>  22 teams,  462 matches,  1203 goals,  42 rounds,  Fri 17 Aug 2012 - Sun 09 Jun 2013
+- [`2011-12/2-liga2.csv`](2011-12/2-liga2.csv) =>  22 teams,  462 matches,  1218 goals,  42 rounds,  Fri 26 Aug 2011 - Sun 03 Jun 2012
+- [`2010-11/2-liga2.csv`](2010-11/2-liga2.csv) =>  22 teams,  462 matches,  1220 goals,  42 rounds,  Fri 27 Aug 2010 - Sat 04 Jun 2011
+- [`2009-10/2-liga2.csv`](2009-10/2-liga2.csv) =>  22 teams,  462 matches,  1114 goals,  42 rounds,  Sat 29 Aug 2009 - Sat 19 Jun 2010
+- [`2008-09/2-liga2.csv`](2008-09/2-liga2.csv) =>  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 30 Aug 2008 - Sun 21 Jun 2009
+- [`2007-08/2-liga2.csv`](2007-08/2-liga2.csv) =>  22 teams,  462 matches,  1072 goals,  42 rounds,  Sat 25 Aug 2007 - Sun 15 Jun 2008
+- [`2006-07/2-liga2.csv`](2006-07/2-liga2.csv) =>  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 26 Aug 2006 - Sun 17 Jun 2007
+- [`2005-06/2-liga2.csv`](2005-06/2-liga2.csv) =>  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 27 Aug 2005 - Sun 18 Jun 2006
+- [`2004-05/2-liga2.csv`](2004-05/2-liga2.csv) =>  22 teams,  462 matches,  1055 goals,  42 rounds,  Sat 28 Aug 2004 - Sat 18 Jun 2005
+- [`2003-04/2-liga2.csv`](2003-04/2-liga2.csv) =>  22 teams,  462 matches,  1024 goals,  42 rounds,  Sat 30 Aug 2003 - Sat 19 Jun 2004
+- [`2002-03/2-liga2.csv`](2002-03/2-liga2.csv) =>  22 teams,  462 matches,  1030 goals,  42 rounds,  Sat 31 Aug 2002 - Sun 29 Jun 2003
+- [`2001-02/2-liga2.csv`](2001-02/2-liga2.csv) =>  22 teams,  462 matches,  996 goals,  42 rounds,  Sat 25 Aug 2001 - Sat 25 May 2002
+- [`2000-01/2-liga2.csv`](2000-01/2-liga2.csv) =>  22 teams,  462 matches,  1016 goals,  42 rounds,  Sat 02 Sep 2000 - Sun 17 Jun 2001
+- [`1999-00/2-liga2.csv`](1999-00/2-liga2.csv) =>  22 teams,  462 matches,  1068 goals,  42 rounds,  Sun 22 Aug 1999 - Sun 04 Jun 2000
+- [`1998-99/2-liga2.csv`](1998-99/2-liga2.csv) =>  22 teams,  462 matches,  1120 goals,  42 rounds,  Sat 29 Aug 1998 - Sun 20 Jun 1999
+- [`1997-98/2-liga2.csv`](1997-98/2-liga2.csv) =>  22 teams,  462 matches,  999 goals,  42 rounds,  Sat 30 Aug 1997 - Sat 16 May 1998
+- [`1996-97/2-liga2.csv`](1996-97/2-liga2.csv) =>  20 teams,  380 matches,  908 goals,  38 rounds,  Sat 31 Aug 1996 - Sun 15 Jun 1997
 
 
-### Seasons
+2017-18 - 2 levels (1 2)
+  - 1: [`2017-18/1-liga.csv`](2017-18/1-liga.csv) -  20 teams,  380 matches,  1024 goals,  38 rounds,  Fri 18 Aug 2017 - Sun 20 May 2018
+    - Athletic Club Bilbao, Atlético Madrid, CD Leganés, Deportivo Alavés, FC Barcelona, Getafe CF, Girona FC, Levante UD, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, Real Betis, Real Madrid CF, Real Sociedad, SD Eibar, Sevilla FC, UD Las Palmas, Valencia CF, Villarreal CF
+      - (++) new in season 2017-18: (3) Getafe CF, Girona FC, Levante UD
+      - (--) out down: (3) CA Osasuna, Granada CF, Sporting Gijón
 
-Season [`2017-18`](2017-18):
+  - 2: [`2017-18/2-liga2.csv`](2017-18/2-liga2.csv) -  22 teams,  462 matches,  1066 goals,  42 rounds,  Fri 18 Aug 2017 - Sat 2 Jun 2018
+    - AD Alcorcón, Albacete Balompié, CA Osasuna, CD Lugo, CD Numancia, CD Tenerife, CF Reus, Cultural Leonesa, Cádiz CF, Córdoba CF, FC Barcelona B, Gimnàstic Tarragona, Granada CF, Lorca FC, Rayo Vallecano, Real Oviedo, Real Valladolid CF, Real Zaragoza, SD Huesca, Sevilla FC B, Sporting Gijón, UD Almería
+      - (++) new in season 2017-18: (7) Albacete Balompié, CA Osasuna, Cultural Leonesa, FC Barcelona B, Granada CF, Lorca FC, Sporting Gijón
+      - (--) out up/down: (7) CD Mirandés, Elche CF, Getafe CF, Girona FC, Levante UD, RCD Mallorca, UCAM Murcia
 
-- [`2017-18/1-liga.csv`](2017-18/1-liga.csv) (1/2):
-  - 380 matches, 1024 goals - start: Fri 18 Aug 2017, end: Sun 20 May 2018
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CD Leganés (38) Deportivo Alavés (38) FC Barcelona (38) Getafe CF (38) Girona FC (38) Levante UD (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) SD Eibar (38) Sevilla FC (38) UD Las Palmas (38) Valencia CF (38) Villarreal CF (38) 
-- [`2017-18/2-liga2.csv`](2017-18/2-liga2.csv) (2/2):
-  - 462 matches, 1066 goals - start: Fri 18 Aug 2017, end: Sat 02 Jun 2018
-  - 22 teams: AD Alcorcón (42) Albacete Balompié (42) CA Osasuna (42) CD Lugo (42) CD Numancia (42) CD Tenerife (42) CF Reus (42) Cultural Leonesa (42) Cádiz CF (42) Córdoba CF (42) FC Barcelona B (42) Gimnàstic Tarragona (42) Granada CF (42) Lorca FC (42) Rayo Vallecano (42) Real Oviedo (42) Real Valladolid CF (42) Real Zaragoza (42) SD Huesca (42) Sevilla FC B (42) Sporting Gijón (42) UD Almería (42) 
+2016-17 - 2 levels (1 2)
+  - 1: [`2016-17/1-liga.csv`](2016-17/1-liga.csv) -  20 teams,  380 matches,  1118 goals,  38 rounds,  Fri 19 Aug 2016 - Sun 21 May 2017
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, CD Leganés, Deportivo Alavés, FC Barcelona, Granada CF, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, Real Betis, Real Madrid CF, Real Sociedad, SD Eibar, Sevilla FC, Sporting Gijón, UD Las Palmas, Valencia CF, Villarreal CF
+      - (++) new in season 2016-17: (3) CA Osasuna, CD Leganés, Deportivo Alavés
+      - (--) out down: (3) Getafe CF, Levante UD, Rayo Vallecano
 
-Season [`2016-17`](2016-17):
+  - 2: [`2016-17/2-liga2.csv`](2016-17/2-liga2.csv) -  22 teams,  462 matches,  1041 goals,  42 rounds,  Fri 19 Aug 2016 - Sun 11 Jun 2017
+    - AD Alcorcón, CD Lugo, CD Mirandés, CD Numancia, CD Tenerife, CF Reus, Cádiz CF, Córdoba CF, Elche CF, Getafe CF, Gimnàstic Tarragona, Girona FC, Levante UD, RCD Mallorca, Rayo Vallecano, Real Oviedo, Real Valladolid CF, Real Zaragoza, SD Huesca, Sevilla FC B, UCAM Murcia, UD Almería
+      - (++) new in season 2016-17: (7) CF Reus, Cádiz CF, Getafe CF, Levante UD, Rayo Vallecano, Sevilla FC B, UCAM Murcia
+      - (--) out up/down: (7) Albacete Balompié, Athletic Club Bilbao B, CA Osasuna, CD Leganés, Deportivo Alavés, SD Ponferradina, UE Llagostera
 
-- [`2016-17/1-liga.csv`](2016-17/1-liga.csv) (1/2):
-  - 380 matches, 1118 goals - start: Fri 19 Aug 2016, end: Sun 21 May 2017
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) CD Leganés (38) Deportivo Alavés (38) FC Barcelona (38) Granada CF (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) SD Eibar (38) Sevilla FC (38) Sporting Gijón (38) UD Las Palmas (38) Valencia CF (38) Villarreal CF (38) 
-- [`2016-17/2-liga2.csv`](2016-17/2-liga2.csv) (2/2):
-  - 462 matches, 1041 goals - start: Fri 19 Aug 2016, end: Sun 11 Jun 2017
-  - 22 teams: AD Alcorcón (42) CD Lugo (42) CD Mirandés (42) CD Numancia (42) CD Tenerife (42) CF Reus (42) Cádiz CF (42) Córdoba CF (42) Elche CF (42) Getafe CF (42) Gimnàstic Tarragona (42) Girona FC (42) Levante UD (42) RCD Mallorca (42) Rayo Vallecano (42) Real Oviedo (42) Real Valladolid CF (42) Real Zaragoza (42) SD Huesca (42) Sevilla FC B (42) UCAM Murcia (42) UD Almería (42) 
+2015-16 - 2 levels (1 2)
+  - 1: [`2015-16/1-liga.csv`](2015-16/1-liga.csv) -  20 teams,  380 matches,  1043 goals,  38 rounds,  Fri 21 Aug 2015 - Sun 15 May 2016
+    - Athletic Club Bilbao, Atlético Madrid, FC Barcelona, Getafe CF, Granada CF, Levante UD, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, Rayo Vallecano, Real Betis, Real Madrid CF, Real Sociedad, SD Eibar, Sevilla FC, Sporting Gijón, UD Las Palmas, Valencia CF, Villarreal CF
+      - (++) new in season 2015-16: (3) Real Betis, Sporting Gijón, UD Las Palmas
+      - (--) out down: (3) Córdoba CF, Elche CF, UD Almería
 
-Season [`2015-16`](2015-16):
+  - 2: [`2015-16/2-liga2.csv`](2015-16/2-liga2.csv) -  22 teams,  462 matches,  1043 goals,  42 rounds,  Sat 22 Aug 2015 - Sat 4 Jun 2016
+    - AD Alcorcón, Albacete Balompié, Athletic Club Bilbao B, CA Osasuna, CD Leganés, CD Lugo, CD Mirandés, CD Numancia, CD Tenerife, Córdoba CF, Deportivo Alavés, Elche CF, Gimnàstic Tarragona, Girona FC, RCD Mallorca, Real Oviedo, Real Valladolid CF, Real Zaragoza, SD Huesca, SD Ponferradina, UD Almería, UE Llagostera
+      - (++) new in season 2015-16: (7) Athletic Club Bilbao B, Córdoba CF, Elche CF, Gimnàstic Tarragona, Real Oviedo, SD Huesca, UD Almería
+      - (--) out up/down: (7) CE Sabadell, FC Barcelona B, Real Betis, Real Racing Santander, Recreativo Huelva, Sporting Gijón, UD Las Palmas
 
-- [`2015-16/1-liga.csv`](2015-16/1-liga.csv) (1/2):
-  - 380 matches, 1043 goals - start: Fri 21 Aug 2015, end: Sun 15 May 2016
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) FC Barcelona (38) Getafe CF (38) Granada CF (38) Levante UD (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) SD Eibar (38) Sevilla FC (38) Sporting Gijón (38) UD Las Palmas (38) Valencia CF (38) Villarreal CF (38) 
-- [`2015-16/2-liga2.csv`](2015-16/2-liga2.csv) (2/2):
-  - 462 matches, 1043 goals - start: Sat 22 Aug 2015, end: Sat 04 Jun 2016
-  - 22 teams: AD Alcorcón (42) Albacete Balompié (42) Athletic Club Bilbao B (42) CA Osasuna (42) CD Leganés (42) CD Lugo (42) CD Mirandés (42) CD Numancia (42) CD Tenerife (42) Córdoba CF (42) Deportivo Alavés (42) Elche CF (42) Gimnàstic Tarragona (42) Girona FC (42) RCD Mallorca (42) Real Oviedo (42) Real Valladolid CF (42) Real Zaragoza (42) SD Huesca (42) SD Ponferradina (42) UD Almería (42) UE Llagostera (42) 
+2014-15 - 2 levels (1 2)
+  - 1: [`2014-15/1-liga.csv`](2014-15/1-liga.csv) -  20 teams,  380 matches,  1009 goals,  38 rounds,  Sat 23 Aug 2014 - Sat 23 May 2015
+    - Athletic Club Bilbao, Atlético Madrid, Córdoba CF, Elche CF, FC Barcelona, Getafe CF, Granada CF, Levante UD, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, Rayo Vallecano, Real Madrid CF, Real Sociedad, SD Eibar, Sevilla FC, UD Almería, Valencia CF, Villarreal CF
+      - (++) new in season 2014-15: (3) Córdoba CF, RCD La Coruña, SD Eibar
+      - (--) out down: (3) CA Osasuna, Real Betis, Real Valladolid CF
 
-Season [`2014-15`](2014-15):
+  - 2: [`2014-15/2-liga2.csv`](2014-15/2-liga2.csv) -  22 teams,  462 matches,  1136 goals,  42 rounds,  Sat 23 Aug 2014 - Sun 7 Jun 2015
+    - AD Alcorcón, Albacete Balompié, CA Osasuna, CD Leganés, CD Lugo, CD Mirandés, CD Numancia, CD Tenerife, CE Sabadell, Deportivo Alavés, FC Barcelona B, Girona FC, RCD Mallorca, Real Betis, Real Racing Santander, Real Valladolid CF, Real Zaragoza, Recreativo Huelva, SD Ponferradina, Sporting Gijón, UD Las Palmas, UE Llagostera
+      - (++) new in season 2014-15: (7) Albacete Balompié, CA Osasuna, CD Leganés, Real Betis, Real Racing Santander, Real Valladolid CF, UE Llagostera
+      - (--) out up/down: (7) Córdoba CF, Hércules CF, RCD La Coruña, Real Jaén CF, Real Madrid CF B, Real Murcia CF, SD Eibar
 
-- [`2014-15/1-liga.csv`](2014-15/1-liga.csv) (1/2):
-  - 380 matches, 1009 goals - start: Sat 23 Aug 2014, end: Sat 23 May 2015
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) Córdoba CF (38) Elche CF (38) FC Barcelona (38) Getafe CF (38) Granada CF (38) Levante UD (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) Rayo Vallecano (38) Real Madrid CF (38) Real Sociedad (38) SD Eibar (38) Sevilla FC (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) 
-- [`2014-15/2-liga2.csv`](2014-15/2-liga2.csv) (2/2):
-  - 462 matches, 1136 goals - start: Sat 23 Aug 2014, end: Sun 07 Jun 2015
-  - 22 teams: AD Alcorcón (42) Albacete Balompié (42) CA Osasuna (42) CD Leganés (42) CD Lugo (42) CD Mirandés (42) CD Numancia (42) CD Tenerife (42) CE Sabadell (42) Deportivo Alavés (42) FC Barcelona B (42) Girona FC (42) RCD Mallorca (42) Real Betis (42) Real Racing Santander (42) Real Valladolid CF (42) Real Zaragoza (42) Recreativo Huelva (42) SD Ponferradina (42) Sporting Gijón (42) UD Las Palmas (42) UE Llagostera (42) 
+2013-14 - 2 levels (1 2)
+  - 1: [`2013-14/1-liga.csv`](2013-14/1-liga.csv) -  20 teams,  380 matches,  1045 goals,  38 rounds,  Sat 17 Aug 2013 - Sun 18 May 2014
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, Elche CF, FC Barcelona, Getafe CF, Granada CF, Levante UD, Málaga CF, RC Celta Vigo, RCD Español, Rayo Vallecano, Real Betis, Real Madrid CF, Real Sociedad, Real Valladolid CF, Sevilla FC, UD Almería, Valencia CF, Villarreal CF
+      - (++) new in season 2013-14: (3) Elche CF, UD Almería, Villarreal CF
+      - (--) out down: (3) RCD La Coruña, RCD Mallorca, Real Zaragoza
 
-Season [`2013-14`](2013-14):
+  - 2: [`2013-14/2-liga2.csv`](2013-14/2-liga2.csv) -  22 teams,  462 matches,  1078 goals,  42 rounds,  Fri 16 Aug 2013 - Sun 8 Jun 2014
+    - AD Alcorcón, CD Lugo, CD Mirandés, CD Numancia, CD Tenerife, CE Sabadell, Córdoba CF, Deportivo Alavés, FC Barcelona B, Girona FC, Hércules CF, RCD La Coruña, RCD Mallorca, Real Jaén CF, Real Madrid CF B, Real Murcia CF, Real Zaragoza, Recreativo Huelva, SD Eibar, SD Ponferradina, Sporting Gijón, UD Las Palmas
+      - (++) new in season 2013-14: (7) CD Tenerife, Deportivo Alavés, RCD La Coruña, RCD Mallorca, Real Jaén CF, Real Zaragoza, SD Eibar
+      - (--) out up/down: (7) CD Guadalajara, Elche CF, Real Racing Santander, SD Huesca, UD Almería, Villarreal CF, Xerez CD
 
-- [`2013-14/1-liga.csv`](2013-14/1-liga.csv) (1/2):
-  - 380 matches, 1045 goals - start: Sat 17 Aug 2013, end: Sun 18 May 2014
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) Elche CF (38) FC Barcelona (38) Getafe CF (38) Granada CF (38) Levante UD (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) Real Valladolid CF (38) Sevilla FC (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) 
-- [`2013-14/2-liga2.csv`](2013-14/2-liga2.csv) (2/2):
-  - 462 matches, 1078 goals - start: Fri 16 Aug 2013, end: Sun 08 Jun 2014
-  - 22 teams: AD Alcorcón (42) CD Lugo (42) CD Mirandés (42) CD Numancia (42) CD Tenerife (42) CE Sabadell (42) Córdoba CF (42) Deportivo Alavés (42) FC Barcelona B (42) Girona FC (42) Hércules CF (42) RCD La Coruña (42) RCD Mallorca (42) Real Jaén CF (42) Real Madrid CF B (42) Real Murcia CF (42) Real Zaragoza (42) Recreativo Huelva (42) SD Eibar (42) SD Ponferradina (42) Sporting Gijón (42) UD Las Palmas (42) 
+2012-13 - 2 levels (1 2)
+  - 1: [`2012-13/1-liga.csv`](2012-13/1-liga.csv) -  20 teams,  380 matches,  1091 goals,  38 rounds,  Sat 18 Aug 2012 - Sat 1 Jun 2013
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Getafe CF, Granada CF, Levante UD, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Rayo Vallecano, Real Betis, Real Madrid CF, Real Sociedad, Real Valladolid CF, Real Zaragoza, Sevilla FC, Valencia CF
+      - (++) new in season 2012-13: (3) RC Celta Vigo, RCD La Coruña, Real Valladolid CF
+      - (--) out down: (3) Real Racing Santander, Sporting Gijón, Villarreal CF
 
-Season [`2012-13`](2012-13):
+  - 2: [`2012-13/2-liga2.csv`](2012-13/2-liga2.csv) -  22 teams,  462 matches,  1203 goals,  42 rounds,  Fri 17 Aug 2012 - Sun 9 Jun 2013
+    - AD Alcorcón, CD Guadalajara, CD Lugo, CD Mirandés, CD Numancia, CE Sabadell, Córdoba CF, Elche CF, FC Barcelona B, Girona FC, Hércules CF, Real Madrid CF B, Real Murcia CF, Real Racing Santander, Recreativo Huelva, SD Huesca, SD Ponferradina, Sporting Gijón, UD Almería, UD Las Palmas, Villarreal CF, Xerez CD
+      - (++) new in season 2012-13: (7) CD Lugo, CD Mirandés, Real Madrid CF B, Real Racing Santander, SD Ponferradina, Sporting Gijón, Villarreal CF
+      - (--) out up/down: (7) CD Alcoyano, FC Cartagena, Gimnàstic Tarragona, RC Celta Vigo, RCD La Coruña, Real Valladolid CF, Villarreal CF B
 
-- [`2012-13/1-liga.csv`](2012-13/1-liga.csv) (1/2):
-  - 380 matches, 1091 goals - start: Sat 18 Aug 2012, end: Sat 01 Jun 2013
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Getafe CF (38) Granada CF (38) Levante UD (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) Valencia CF (38) 
-- [`2012-13/2-liga2.csv`](2012-13/2-liga2.csv) (2/2):
-  - 462 matches, 1203 goals - start: Fri 17 Aug 2012, end: Sun 09 Jun 2013
-  - 22 teams: AD Alcorcón (42) CD Guadalajara (42) CD Lugo (42) CD Mirandés (42) CD Numancia (42) CE Sabadell (42) Córdoba CF (42) Elche CF (42) FC Barcelona B (42) Girona FC (42) Hércules CF (42) Real Madrid CF B (42) Real Murcia CF (42) Real Racing Santander (42) Recreativo Huelva (42) SD Huesca (42) SD Ponferradina (42) Sporting Gijón (42) UD Almería (42) UD Las Palmas (42) Villarreal CF (42) Xerez CD (42) 
+2011-12 - 2 levels (1 2)
+  - 1: [`2011-12/1-liga.csv`](2011-12/1-liga.csv) -  20 teams,  380 matches,  1050 goals,  38 rounds,  Sat 27 Aug 2011 - Sun 13 May 2012
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Getafe CF, Granada CF, Levante UD, Málaga CF, RCD Español, RCD Mallorca, Rayo Vallecano, Real Betis, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Zaragoza, Sevilla FC, Sporting Gijón, Valencia CF, Villarreal CF
+      - (++) new in season 2011-12: (3) Granada CF, Rayo Vallecano, Real Betis
+      - (--) out down: (3) Hércules CF, RCD La Coruña, UD Almería
 
-Season [`2011-12`](2011-12):
+  - 2: [`2011-12/2-liga2.csv`](2011-12/2-liga2.csv) -  22 teams,  462 matches,  1218 goals,  42 rounds,  Fri 26 Aug 2011 - Sun 3 Jun 2012
+    - AD Alcorcón, CD Alcoyano, CD Guadalajara, CD Numancia, CE Sabadell, Córdoba CF, Elche CF, FC Barcelona B, FC Cartagena, Gimnàstic Tarragona, Girona FC, Hércules CF, RC Celta Vigo, RCD La Coruña, Real Murcia CF, Real Valladolid CF, Recreativo Huelva, SD Huesca, UD Almería, UD Las Palmas, Villarreal CF B, Xerez CD
+      - (++) new in season 2011-12: (7) CD Alcoyano, CD Guadalajara, CE Sabadell, Hércules CF, RCD La Coruña, Real Murcia CF, UD Almería
+      - (--) out up/down: (7) Albacete Balompié, CD Tenerife, Granada CF, Rayo Vallecano, Real Betis, SD Ponferradina, UD Salamanca
 
-- [`2011-12/1-liga.csv`](2011-12/1-liga.csv) (1/2):
-  - 380 matches, 1050 goals - start: Sat 27 Aug 2011, end: Sun 13 May 2012
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Getafe CF (38) Granada CF (38) Levante UD (38) Málaga CF (38) RCD Español (38) RCD Mallorca (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Zaragoza (38) Sevilla FC (38) Sporting Gijón (38) Valencia CF (38) Villarreal CF (38) 
-- [`2011-12/2-liga2.csv`](2011-12/2-liga2.csv) (2/2):
-  - 462 matches, 1218 goals - start: Fri 26 Aug 2011, end: Sun 03 Jun 2012
-  - 22 teams: AD Alcorcón (42) CD Alcoyano (42) CD Guadalajara (42) CD Numancia (42) CE Sabadell (42) Córdoba CF (42) Elche CF (42) FC Barcelona B (42) FC Cartagena (42) Gimnàstic Tarragona (42) Girona FC (42) Hércules CF (42) RC Celta Vigo (42) RCD La Coruña (42) Real Murcia CF (42) Real Valladolid CF (42) Recreativo Huelva (42) SD Huesca (42) UD Almería (42) UD Las Palmas (42) Villarreal CF B (42) Xerez CD (42) 
+2010-11 - 2 levels (1 2)
+  - 1: [`2010-11/1-liga.csv`](2010-11/1-liga.csv) -  20 teams,  380 matches,  1042 goals,  38 rounds,  Sat 28 Aug 2010 - Sat 21 May 2011
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Getafe CF, Hércules CF, Levante UD, Málaga CF, RCD Español, RCD La Coruña, RCD Mallorca, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Zaragoza, Sevilla FC, Sporting Gijón, UD Almería, Valencia CF, Villarreal CF
+      - (++) new in season 2010-11: (3) Hércules CF, Levante UD, Real Sociedad
+      - (--) out down: (3) CD Tenerife, Real Valladolid CF, Xerez CD
 
-Season [`2010-11`](2010-11):
+  - 2: [`2010-11/2-liga2.csv`](2010-11/2-liga2.csv) -  22 teams,  462 matches,  1220 goals,  42 rounds,  Fri 27 Aug 2010 - Sat 4 Jun 2011
+    - AD Alcorcón, Albacete Balompié, CD Numancia, CD Tenerife, Córdoba CF, Elche CF, FC Barcelona B, FC Cartagena, Gimnàstic Tarragona, Girona FC, Granada CF, RC Celta Vigo, Rayo Vallecano, Real Betis, Real Valladolid CF, Recreativo Huelva, SD Huesca, SD Ponferradina, UD Las Palmas, UD Salamanca, Villarreal CF B, Xerez CD
+      - (++) new in season 2010-11: (7) AD Alcorcón, CD Tenerife, FC Barcelona B, Granada CF, Real Valladolid CF, SD Ponferradina, Xerez CD
+      - (--) out up/down: (7) CD Castellón, Cádiz CF, Hércules CF, Levante UD, Real Murcia CF, Real Sociedad, Real Unión
 
-- [`2010-11/1-liga.csv`](2010-11/1-liga.csv) (1/2):
-  - 380 matches, 1042 goals - start: Sat 28 Aug 2010, end: Sat 21 May 2011
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Getafe CF (38) Hércules CF (38) Levante UD (38) Málaga CF (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Zaragoza (38) Sevilla FC (38) Sporting Gijón (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) 
-- [`2010-11/2-liga2.csv`](2010-11/2-liga2.csv) (2/2):
-  - 462 matches, 1220 goals - start: Fri 27 Aug 2010, end: Sat 04 Jun 2011
-  - 22 teams: AD Alcorcón (42) Albacete Balompié (42) CD Numancia (42) CD Tenerife (42) Córdoba CF (42) Elche CF (42) FC Barcelona B (42) FC Cartagena (42) Gimnàstic Tarragona (42) Girona FC (42) Granada CF (42) RC Celta Vigo (42) Rayo Vallecano (42) Real Betis (42) Real Valladolid CF (42) Recreativo Huelva (42) SD Huesca (42) SD Ponferradina (42) UD Las Palmas (42) UD Salamanca (42) Villarreal CF B (42) Xerez CD (42) 
+2009-10 - 2 levels (1 2)
+  - 1: [`2009-10/1-liga.csv`](2009-10/1-liga.csv) -  20 teams,  380 matches,  1031 goals,  38 rounds,  Sat 29 Aug 2009 - Sun 16 May 2010
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, CD Tenerife, FC Barcelona, Getafe CF, Málaga CF, RCD Español, RCD La Coruña, RCD Mallorca, Real Madrid CF, Real Racing Santander, Real Valladolid CF, Real Zaragoza, Sevilla FC, Sporting Gijón, UD Almería, Valencia CF, Villarreal CF, Xerez CD
+      - (++) new in season 2009-10: (3) CD Tenerife, Real Zaragoza, Xerez CD
+      - (--) out down: (3) CD Numancia, Real Betis, Recreativo Huelva
 
-Season [`2009-10`](2009-10):
+  - 2: [`2009-10/2-liga2.csv`](2009-10/2-liga2.csv) -  22 teams,  462 matches,  1114 goals,  42 rounds,  Sat 29 Aug 2009 - Sat 19 Jun 2010
+    - Albacete Balompié, CD Castellón, CD Numancia, Cádiz CF, Córdoba CF, Elche CF, FC Cartagena, Gimnàstic Tarragona, Girona FC, Hércules CF, Levante UD, RC Celta Vigo, Rayo Vallecano, Real Betis, Real Murcia CF, Real Sociedad, Real Unión, Recreativo Huelva, SD Huesca, UD Las Palmas, UD Salamanca, Villarreal CF B
+      - (++) new in season 2009-10: (7) CD Numancia, Cádiz CF, FC Cartagena, Real Betis, Real Unión, Recreativo Huelva, Villarreal CF B
+      - (--) out up/down: (7) Alicante CF, CD Tenerife, Deportivo Alavés, Real Zaragoza, SD Eibar, Sevilla FC B, Xerez CD
 
-- [`2009-10/1-liga.csv`](2009-10/1-liga.csv) (1/2):
-  - 380 matches, 1031 goals - start: Sat 29 Aug 2009, end: Sun 16 May 2010
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) CD Tenerife (38) FC Barcelona (38) Getafe CF (38) Málaga CF (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Madrid CF (38) Real Racing Santander (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) Sporting Gijón (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) Xerez CD (38) 
-- [`2009-10/2-liga2.csv`](2009-10/2-liga2.csv) (2/2):
-  - 462 matches, 1114 goals - start: Sat 29 Aug 2009, end: Sat 19 Jun 2010
-  - 22 teams: Albacete Balompié (42) CD Castellón (42) CD Numancia (42) Cádiz CF (42) Córdoba CF (42) Elche CF (42) FC Cartagena (42) Gimnàstic Tarragona (42) Girona FC (42) Hércules CF (42) Levante UD (42) RC Celta Vigo (42) Rayo Vallecano (42) Real Betis (42) Real Murcia CF (42) Real Sociedad (42) Real Unión (42) Recreativo Huelva (42) SD Huesca (42) UD Las Palmas (42) UD Salamanca (42) Villarreal CF B (42) 
+2008-09 - 2 levels (1 2)
+  - 1: [`2008-09/1-liga.csv`](2008-09/1-liga.csv) -  20 teams,  380 matches,  1101 goals,  38 rounds,  Sat 30 Aug 2008 - Sun 31 May 2009
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, CD Numancia, FC Barcelona, Getafe CF, Málaga CF, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Racing Santander, Real Valladolid CF, Recreativo Huelva, Sevilla FC, Sporting Gijón, UD Almería, Valencia CF, Villarreal CF
+      - (++) new in season 2008-09: (3) CD Numancia, Málaga CF, Sporting Gijón
+      - (--) out down: (3) Levante UD, Real Murcia CF, Real Zaragoza
 
-Season [`2008-09`](2008-09):
+  - 2: [`2008-09/2-liga2.csv`](2008-09/2-liga2.csv) -  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 30 Aug 2008 - Sun 21 Jun 2009
+    - Albacete Balompié, Alicante CF, CD Castellón, CD Tenerife, Córdoba CF, Deportivo Alavés, Elche CF, Gimnàstic Tarragona, Girona FC, Hércules CF, Levante UD, RC Celta Vigo, Rayo Vallecano, Real Murcia CF, Real Sociedad, Real Zaragoza, SD Eibar, SD Huesca, Sevilla FC B, UD Las Palmas, UD Salamanca, Xerez CD
+      - (++) new in season 2008-09: (7) Alicante CF, Girona FC, Levante UD, Rayo Vallecano, Real Murcia CF, Real Zaragoza, SD Huesca
+      - (--) out up/down: (7) CD Numancia, Cádiz CF, Granada 74, Málaga CF, Polideportivo Ejido, Racing Ferrol, Sporting Gijón
 
-- [`2008-09/1-liga.csv`](2008-09/1-liga.csv) (1/2):
-  - 380 matches, 1101 goals - start: Sat 30 Aug 2008, end: Sun 31 May 2009
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) CD Numancia (38) FC Barcelona (38) Getafe CF (38) Málaga CF (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Valladolid CF (38) Recreativo Huelva (38) Sevilla FC (38) Sporting Gijón (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) 
-- [`2008-09/2-liga2.csv`](2008-09/2-liga2.csv) (2/2):
-  - 462 matches, 1160 goals - start: Sat 30 Aug 2008, end: Sun 21 Jun 2009
-  - 22 teams: Albacete Balompié (42) Alicante CF (42) CD Castellón (42) CD Tenerife (42) Córdoba CF (42) Deportivo Alavés (42) Elche CF (42) Gimnàstic Tarragona (42) Girona FC (42) Hércules CF (42) Levante UD (42) RC Celta Vigo (42) Rayo Vallecano (42) Real Murcia CF (42) Real Sociedad (42) Real Zaragoza (42) SD Eibar (42) SD Huesca (42) Sevilla FC B (42) UD Las Palmas (42) UD Salamanca (42) Xerez CD (42) 
+2007-08 - 2 levels (1 2)
+  - 1: [`2007-08/1-liga.csv`](2007-08/1-liga.csv) -  20 teams,  380 matches,  1021 goals,  38 rounds,  Sat 25 Aug 2007 - Sun 18 May 2008
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Getafe CF, Levante UD, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Murcia CF, Real Racing Santander, Real Valladolid CF, Real Zaragoza, Recreativo Huelva, Sevilla FC, UD Almería, Valencia CF, Villarreal CF
+      - (++) new in season 2007-08: (3) Real Murcia CF, Real Valladolid CF, UD Almería
+      - (--) out down: (3) Gimnàstic Tarragona, RC Celta Vigo, Real Sociedad
 
-Season [`2007-08`](2007-08):
+  - 2: [`2007-08/2-liga2.csv`](2007-08/2-liga2.csv) -  22 teams,  462 matches,  1072 goals,  42 rounds,  Sat 25 Aug 2007 - Sun 15 Jun 2008
+    - Albacete Balompié, CD Castellón, CD Numancia, CD Tenerife, Cádiz CF, Córdoba CF, Deportivo Alavés, Elche CF, Gimnàstic Tarragona, Granada 74, Hércules CF, Málaga CF, Polideportivo Ejido, RC Celta Vigo, Racing Ferrol, Real Sociedad, SD Eibar, Sevilla FC B, Sporting Gijón, UD Las Palmas, UD Salamanca, Xerez CD
+      - (++) new in season 2007-08: (8) Córdoba CF, Gimnàstic Tarragona, Granada 74, RC Celta Vigo, Racing Ferrol, Real Sociedad, SD Eibar, Sevilla FC B
+      - (--) out up/down: (8) CF Ciudad de Murcia, Lorca FC, Real Madrid CF B, Real Murcia CF, Real Valladolid CF, SD Ponferradina, UD Almería, UD Vecindario
 
-- [`2007-08/1-liga.csv`](2007-08/1-liga.csv) (1/2):
-  - 380 matches, 1021 goals - start: Sat 25 Aug 2007, end: Sun 18 May 2008
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Getafe CF (38) Levante UD (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Murcia CF (38) Real Racing Santander (38) Real Valladolid CF (38) Real Zaragoza (38) Recreativo Huelva (38) Sevilla FC (38) UD Almería (38) Valencia CF (38) Villarreal CF (38) 
-- [`2007-08/2-liga2.csv`](2007-08/2-liga2.csv) (2/2):
-  - 462 matches, 1072 goals - start: Sat 25 Aug 2007, end: Sun 15 Jun 2008
-  - 22 teams: Albacete Balompié (42) CD Castellón (42) CD Numancia (42) CD Tenerife (42) Cádiz CF (42) Córdoba CF (42) Deportivo Alavés (42) Elche CF (42) Gimnàstic Tarragona (42) Granada 74 (42) Hércules CF (42) Málaga CF (42) Polideportivo Ejido (42) RC Celta Vigo (42) Racing Ferrol (42) Real Sociedad (42) SD Eibar (42) Sevilla FC B (42) Sporting Gijón (42) UD Las Palmas (42) UD Salamanca (42) Xerez CD (42) 
+2006-07 - 2 levels (1 2)
+  - 1: [`2006-07/1-liga.csv`](2006-07/1-liga.csv) -  20 teams,  380 matches,  942 goals,  38 rounds,  Sat 26 Aug 2006 - Sun 17 Jun 2007
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Getafe CF, Gimnàstic Tarragona, Levante UD, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Zaragoza, Recreativo Huelva, Sevilla FC, Valencia CF, Villarreal CF
+      - (++) new in season 2006-07: (3) Gimnàstic Tarragona, Levante UD, Recreativo Huelva
+      - (--) out down: (3) Cádiz CF, Deportivo Alavés, Málaga CF
 
-Season [`2006-07`](2006-07):
+  - 2: [`2006-07/2-liga2.csv`](2006-07/2-liga2.csv) -  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 26 Aug 2006 - Sun 17 Jun 2007
+    - Albacete Balompié, CD Castellón, CD Numancia, CD Tenerife, CF Ciudad de Murcia, Cádiz CF, Deportivo Alavés, Elche CF, Hércules CF, Lorca FC, Málaga CF, Polideportivo Ejido, Real Madrid CF B, Real Murcia CF, Real Valladolid CF, SD Ponferradina, Sporting Gijón, UD Almería, UD Las Palmas, UD Salamanca, UD Vecindario, Xerez CD
+      - (++) new in season 2006-07: (7) Cádiz CF, Deportivo Alavés, Málaga CF, SD Ponferradina, UD Las Palmas, UD Salamanca, UD Vecindario
+      - (--) out up/down: (7) Gimnàstic Tarragona, Levante UD, Málaga CF B, Racing Ferrol, Recreativo Huelva, SD Eibar, UE Lleida
 
-- [`2006-07/1-liga.csv`](2006-07/1-liga.csv) (1/2):
-  - 380 matches, 942 goals - start: Sat 26 Aug 2006, end: Sun 17 Jun 2007
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Getafe CF (38) Gimnàstic Tarragona (38) Levante UD (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Zaragoza (38) Recreativo Huelva (38) Sevilla FC (38) Valencia CF (38) Villarreal CF (38) 
-- [`2006-07/2-liga2.csv`](2006-07/2-liga2.csv) (2/2):
-  - 462 matches, 1133 goals - start: Sat 26 Aug 2006, end: Sun 17 Jun 2007
-  - 22 teams: Albacete Balompié (42) CD Castellón (42) CD Numancia (42) CD Tenerife (42) CF Ciudad de Murcia (42) Cádiz CF (42) Deportivo Alavés (42) Elche CF (42) Hércules CF (42) Lorca FC (42) Málaga CF (42) Polideportivo Ejido (42) Real Madrid CF B (42) Real Murcia CF (42) Real Valladolid CF (42) SD Ponferradina (42) Sporting Gijón (42) UD Almería (42) UD Las Palmas (42) UD Salamanca (42) UD Vecindario (42) Xerez CD (42) 
+2005-06 - 2 levels (1 2)
+  - 1: [`2005-06/1-liga.csv`](2005-06/1-liga.csv) -  20 teams,  380 matches,  936 goals,  38 rounds,  Sat 27 Aug 2005 - Sat 20 May 2006
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, Cádiz CF, Deportivo Alavés, FC Barcelona, Getafe CF, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Zaragoza, Sevilla FC, Valencia CF, Villarreal CF
+      - (++) new in season 2005-06: (3) Cádiz CF, Deportivo Alavés, RC Celta Vigo
+      - (--) out down: (3) Albacete Balompié, CD Numancia, Levante UD
 
-Season [`2005-06`](2005-06):
+  - 2: [`2005-06/2-liga2.csv`](2005-06/2-liga2.csv) -  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 27 Aug 2005 - Sun 18 Jun 2006
+    - Albacete Balompié, CD Castellón, CD Numancia, CD Tenerife, CF Ciudad de Murcia, Elche CF, Gimnàstic Tarragona, Hércules CF, Levante UD, Lorca FC, Málaga CF B, Polideportivo Ejido, Racing Ferrol, Real Madrid CF B, Real Murcia CF, Real Valladolid CF, Recreativo Huelva, SD Eibar, Sporting Gijón, UD Almería, UE Lleida, Xerez CD
+      - (++) new in season 2005-06: (7) Albacete Balompié, CD Castellón, CD Numancia, Hércules CF, Levante UD, Lorca FC, Real Madrid CF B
+      - (--) out up/down: (7) Cádiz CF, Córdoba CF, Deportivo Alavés, Pontevedra CF, RC Celta Vigo, Terrassa FC, UD Salamanca
 
-- [`2005-06/1-liga.csv`](2005-06/1-liga.csv) (1/2):
-  - 380 matches, 936 goals - start: Sat 27 Aug 2005, end: Sat 20 May 2006
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) Cádiz CF (38) Deportivo Alavés (38) FC Barcelona (38) Getafe CF (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Zaragoza (38) Sevilla FC (38) Valencia CF (38) Villarreal CF (38) 
-- [`2005-06/2-liga2.csv`](2005-06/2-liga2.csv) (2/2):
-  - 462 matches, 1061 goals - start: Sat 27 Aug 2005, end: Sun 18 Jun 2006
-  - 22 teams: Albacete Balompié (42) CD Castellón (42) CD Numancia (42) CD Tenerife (42) CF Ciudad de Murcia (42) Elche CF (42) Gimnàstic Tarragona (42) Hércules CF (42) Levante UD (42) Lorca FC (42) Málaga CF B (42) Polideportivo Ejido (42) Racing Ferrol (42) Real Madrid CF B (42) Real Murcia CF (42) Real Valladolid CF (42) Recreativo Huelva (42) SD Eibar (42) Sporting Gijón (42) UD Almería (42) UE Lleida (42) Xerez CD (42) 
+2004-05 - 2 levels (1 2)
+  - 1: [`2004-05/1-liga.csv`](2004-05/1-liga.csv) -  20 teams,  380 matches,  980 goals,  38 rounds,  Sat 28 Aug 2004 - Sun 29 May 2005
+    - Albacete Balompié, Athletic Club Bilbao, Atlético Madrid, CA Osasuna, CD Numancia, FC Barcelona, Getafe CF, Levante UD, Málaga CF, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Zaragoza, Sevilla FC, Valencia CF, Villarreal CF
+      - (++) new in season 2004-05: (3) CD Numancia, Getafe CF, Levante UD
+      - (--) out down: (3) RC Celta Vigo, Real Murcia CF, Real Valladolid CF
 
-Season [`2004-05`](2004-05):
+  - 2: [`2004-05/2-liga2.csv`](2004-05/2-liga2.csv) -  22 teams,  462 matches,  1055 goals,  42 rounds,  Sat 28 Aug 2004 - Sat 18 Jun 2005
+    - CD Tenerife, CF Ciudad de Murcia, Cádiz CF, Córdoba CF, Deportivo Alavés, Elche CF, Gimnàstic Tarragona, Málaga CF B, Polideportivo Ejido, Pontevedra CF, RC Celta Vigo, Racing Ferrol, Real Murcia CF, Real Valladolid CF, Recreativo Huelva, SD Eibar, Sporting Gijón, Terrassa FC, UD Almería, UD Salamanca, UE Lleida, Xerez CD
+      - (++) new in season 2004-05: (7) Gimnàstic Tarragona, Pontevedra CF, RC Celta Vigo, Racing Ferrol, Real Murcia CF, Real Valladolid CF, UE Lleida
+      - (--) out up/down: (7) Algeciras CF, CD Leganés, CD Numancia, Getafe CF, Levante UD, Rayo Vallecano, UD Las Palmas
 
-- [`2004-05/1-liga.csv`](2004-05/1-liga.csv) (1/2):
-  - 380 matches, 980 goals - start: Sat 28 Aug 2004, end: Sun 29 May 2005
-  - 20 teams: Albacete Balompié (38) Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) CD Numancia (38) FC Barcelona (38) Getafe CF (38) Levante UD (38) Málaga CF (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Zaragoza (38) Sevilla FC (38) Valencia CF (38) Villarreal CF (38) 
-- [`2004-05/2-liga2.csv`](2004-05/2-liga2.csv) (2/2):
-  - 462 matches, 1055 goals - start: Sat 28 Aug 2004, end: Sat 18 Jun 2005
-  - 22 teams: CD Tenerife (42) CF Ciudad de Murcia (42) Cádiz CF (42) Córdoba CF (42) Deportivo Alavés (42) Elche CF (42) Gimnàstic Tarragona (42) Málaga CF B (42) Polideportivo Ejido (42) Pontevedra CF (42) RC Celta Vigo (42) Racing Ferrol (42) Real Murcia CF (42) Real Valladolid CF (42) Recreativo Huelva (42) SD Eibar (42) Sporting Gijón (42) Terrassa FC (42) UD Almería (42) UD Salamanca (42) UE Lleida (42) Xerez CD (42) 
+2003-04 - 2 levels (1 2)
+  - 1: [`2003-04/1-liga.csv`](2003-04/1-liga.csv) -  20 teams,  380 matches,  1015 goals,  38 rounds,  Sat 30 Aug 2003 - Sun 23 May 2004
+    - Albacete Balompié, Athletic Club Bilbao, Atlético Madrid, CA Osasuna, FC Barcelona, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Murcia CF, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, Sevilla FC, Valencia CF, Villarreal CF
+      - (++) new in season 2003-04: (3) Albacete Balompié, Real Murcia CF, Real Zaragoza
+      - (--) out down: (3) Deportivo Alavés, Rayo Vallecano, Recreativo Huelva
 
-Season [`2003-04`](2003-04):
+  - 2: [`2003-04/2-liga2.csv`](2003-04/2-liga2.csv) -  22 teams,  462 matches,  1024 goals,  42 rounds,  Sat 30 Aug 2003 - Sat 19 Jun 2004
+    - Algeciras CF, CD Leganés, CD Numancia, CD Tenerife, CF Ciudad de Murcia, Cádiz CF, Córdoba CF, Deportivo Alavés, Elche CF, Getafe CF, Levante UD, Málaga CF B, Polideportivo Ejido, Rayo Vallecano, Recreativo Huelva, SD Eibar, Sporting Gijón, Terrassa FC, UD Almería, UD Las Palmas, UD Salamanca, Xerez CD
+      - (++) new in season 2003-04: (7) Algeciras CF, CF Ciudad de Murcia, Cádiz CF, Deportivo Alavés, Málaga CF B, Rayo Vallecano, Recreativo Huelva
+      - (--) out up/down: (7) Albacete Balompié, CD Badajoz, Racing Ferrol, Real Murcia CF, Real Oviedo, Real Zaragoza, SD Compostela
 
-- [`2003-04/1-liga.csv`](2003-04/1-liga.csv) (1/2):
-  - 380 matches, 1015 goals - start: Sat 30 Aug 2003, end: Sun 23 May 2004
-  - 20 teams: Albacete Balompié (38) Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) FC Barcelona (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Murcia CF (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) Valencia CF (38) Villarreal CF (38) 
-- [`2003-04/2-liga2.csv`](2003-04/2-liga2.csv) (2/2):
-  - 462 matches, 1024 goals - start: Sat 30 Aug 2003, end: Sat 19 Jun 2004
-  - 22 teams: Algeciras CF (42) CD Leganés (42) CD Numancia (42) CD Tenerife (42) CF Ciudad de Murcia (42) Cádiz CF (42) Córdoba CF (42) Deportivo Alavés (42) Elche CF (42) Getafe CF (42) Levante UD (42) Málaga CF B (42) Polideportivo Ejido (42) Rayo Vallecano (42) Recreativo Huelva (42) SD Eibar (42) Sporting Gijón (42) Terrassa FC (42) UD Almería (42) UD Las Palmas (42) UD Salamanca (42) Xerez CD (42) 
+2002-03 - 2 levels (1 2)
+  - 1: [`2002-03/1-liga.csv`](2002-03/1-liga.csv) -  20 teams,  380 matches,  1016 goals,  38 rounds,  Sat 31 Aug 2002 - Sun 22 Jun 2003
+    - Athletic Club Bilbao, Atlético Madrid, CA Osasuna, Deportivo Alavés, FC Barcelona, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Rayo Vallecano, Real Betis, Real Madrid CF, Real Racing Santander, Real Sociedad, Real Valladolid CF, Recreativo Huelva, Sevilla FC, Valencia CF, Villarreal CF
+      - (++) new in season 2002-03: (3) Atlético Madrid, Real Racing Santander, Recreativo Huelva
+      - (--) out down: (3) CD Tenerife, Real Zaragoza, UD Las Palmas
 
-Season [`2002-03`](2002-03):
+  - 2: [`2002-03/2-liga2.csv`](2002-03/2-liga2.csv) -  22 teams,  462 matches,  1030 goals,  42 rounds,  Sat 31 Aug 2002 - Sun 29 Jun 2003
+    - Albacete Balompié, CD Badajoz, CD Leganés, CD Numancia, CD Tenerife, Córdoba CF, Elche CF, Getafe CF, Levante UD, Polideportivo Ejido, Racing Ferrol, Real Murcia CF, Real Oviedo, Real Zaragoza, SD Compostela, SD Eibar, Sporting Gijón, Terrassa FC, UD Almería, UD Las Palmas, UD Salamanca, Xerez CD
+      - (++) new in season 2002-03: (7) CD Tenerife, Getafe CF, Real Zaragoza, SD Compostela, Terrassa FC, UD Almería, UD Las Palmas
+      - (--) out up/down: (7) Atlético Madrid, Burgos CF, CF Extremadura, Gimnàstic Tarragona, Real Jaén CF, Real Racing Santander, Recreativo Huelva
 
-- [`2002-03/1-liga.csv`](2002-03/1-liga.csv) (1/2):
-  - 380 matches, 1016 goals - start: Sat 31 Aug 2002, end: Sun 22 Jun 2003
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) Deportivo Alavés (38) FC Barcelona (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Recreativo Huelva (38) Sevilla FC (38) Valencia CF (38) Villarreal CF (38) 
-- [`2002-03/2-liga2.csv`](2002-03/2-liga2.csv) (2/2):
-  - 462 matches, 1030 goals - start: Sat 31 Aug 2002, end: Sun 29 Jun 2003
-  - 22 teams: Albacete Balompié (42) CD Badajoz (42) CD Leganés (42) CD Numancia (42) CD Tenerife (42) Córdoba CF (42) Elche CF (42) Getafe CF (42) Levante UD (42) Polideportivo Ejido (42) Racing Ferrol (42) Real Murcia CF (42) Real Oviedo (42) Real Zaragoza (42) SD Compostela (42) SD Eibar (42) Sporting Gijón (42) Terrassa FC (42) UD Almería (42) UD Las Palmas (42) UD Salamanca (42) Xerez CD (42) 
+2001-02 - 2 levels (1 2)
+  - 1: [`2001-02/1-liga.csv`](2001-02/1-liga.csv) -  20 teams,  380 matches,  961 goals,  38 rounds,  Sat 25 Aug 2001 - Sat 11 May 2002
+    - Athletic Club Bilbao, CA Osasuna, CD Tenerife, Deportivo Alavés, FC Barcelona, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Rayo Vallecano, Real Betis, Real Madrid CF, Real Sociedad, Real Valladolid CF, Real Zaragoza, Sevilla FC, UD Las Palmas, Valencia CF, Villarreal CF
+      - (++) new in season 2001-02: (3) CD Tenerife, Real Betis, Sevilla FC
+      - (--) out down: (3) CD Numancia, Real Oviedo, Real Racing Santander
 
-Season [`2001-02`](2001-02):
+  - 2: [`2001-02/2-liga2.csv`](2001-02/2-liga2.csv) -  22 teams,  462 matches,  996 goals,  42 rounds,  Sat 25 Aug 2001 - Sat 25 May 2002
+    - Albacete Balompié, Atlético Madrid, Burgos CF, CD Badajoz, CD Leganés, CD Numancia, CF Extremadura, Córdoba CF, Elche CF, Gimnàstic Tarragona, Levante UD, Polideportivo Ejido, Racing Ferrol, Real Jaén CF, Real Murcia CF, Real Oviedo, Real Racing Santander, Recreativo Huelva, SD Eibar, Sporting Gijón, UD Salamanca, Xerez CD
+      - (++) new in season 2001-02: (7) Burgos CF, CD Numancia, Gimnàstic Tarragona, Polideportivo Ejido, Real Oviedo, Real Racing Santander, Xerez CD
+      - (--) out up/down: (7) CD Tenerife, Getafe CF, Real Betis, SD Compostela, Sevilla FC, UE Lleida, Universidad Las Palmas
 
-- [`2001-02/1-liga.csv`](2001-02/1-liga.csv) (1/2):
-  - 380 matches, 961 goals - start: Sat 25 Aug 2001, end: Sat 11 May 2002
-  - 20 teams: Athletic Club Bilbao (38) CA Osasuna (38) CD Tenerife (38) Deportivo Alavés (38) FC Barcelona (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) UD Las Palmas (38) Valencia CF (38) Villarreal CF (38) 
-- [`2001-02/2-liga2.csv`](2001-02/2-liga2.csv) (2/2):
-  - 462 matches, 996 goals - start: Sat 25 Aug 2001, end: Sat 25 May 2002
-  - 22 teams: Albacete Balompié (42) Atlético Madrid (42) Burgos CF (42) CD Badajoz (42) CD Leganés (42) CD Numancia (42) CF Extremadura (42) Córdoba CF (42) Elche CF (42) Gimnàstic Tarragona (42) Levante UD (42) Polideportivo Ejido (42) Racing Ferrol (42) Real Jaén CF (42) Real Murcia CF (42) Real Oviedo (42) Real Racing Santander (42) Recreativo Huelva (42) SD Eibar (42) Sporting Gijón (42) UD Salamanca (42) Xerez CD (42) 
+2000-01 - 2 levels (1 2)
+  - 1: [`2000-01/1-liga.csv`](2000-01/1-liga.csv) -  20 teams,  380 matches,  1095 goals,  38 rounds,  Sat 9 Sep 2000 - Sun 17 Jun 2001
+    - Athletic Club Bilbao, CA Osasuna, CD Numancia, Deportivo Alavés, FC Barcelona, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Rayo Vallecano, Real Madrid CF, Real Oviedo, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, UD Las Palmas, Valencia CF, Villarreal CF
+      - (++) new in season 2000-01: (3) CA Osasuna, UD Las Palmas, Villarreal CF
+      - (--) out down: (3) Atlético Madrid, Real Betis, Sevilla FC
 
-Season [`2000-01`](2000-01):
+  - 2: [`2000-01/2-liga2.csv`](2000-01/2-liga2.csv) -  22 teams,  462 matches,  1016 goals,  42 rounds,  Sat 2 Sep 2000 - Sun 17 Jun 2001
+    - Albacete Balompié, Atlético Madrid, CD Badajoz, CD Leganés, CD Tenerife, CF Extremadura, Córdoba CF, Elche CF, Getafe CF, Levante UD, Racing Ferrol, Real Betis, Real Jaén CF, Real Murcia CF, Recreativo Huelva, SD Compostela, SD Eibar, Sevilla FC, Sporting Gijón, UD Salamanca, UE Lleida, Universidad Las Palmas
+      - (++) new in season 2000-01: (7) Atlético Madrid, Racing Ferrol, Real Betis, Real Jaén CF, Real Murcia CF, Sevilla FC, Universidad Las Palmas
+      - (--) out up/down: (7) Atlético Madrid B, CA Osasuna, CD Logroñés, CD Toledo, CP Mérida, UD Las Palmas, Villarreal CF
 
-- [`2000-01/1-liga.csv`](2000-01/1-liga.csv) (1/2):
-  - 380 matches, 1095 goals - start: Sat 09 Sep 2000, end: Sun 17 Jun 2001
-  - 20 teams: Athletic Club Bilbao (38) CA Osasuna (38) CD Numancia (38) Deportivo Alavés (38) FC Barcelona (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Rayo Vallecano (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) UD Las Palmas (38) Valencia CF (38) Villarreal CF (38) 
-- [`2000-01/2-liga2.csv`](2000-01/2-liga2.csv) (2/2):
-  - 462 matches, 1016 goals - start: Sat 02 Sep 2000, end: Sun 17 Jun 2001
-  - 22 teams: Albacete Balompié (42) Atlético Madrid (42) CD Badajoz (42) CD Leganés (42) CD Tenerife (42) CF Extremadura (42) Córdoba CF (42) Elche CF (42) Getafe CF (42) Levante UD (42) Racing Ferrol (42) Real Betis (42) Real Jaén CF (42) Real Murcia CF (42) Recreativo Huelva (42) SD Compostela (42) SD Eibar (42) Sevilla FC (42) Sporting Gijón (42) UD Salamanca (42) UE Lleida (42) Universidad Las Palmas (42) 
+1999-00 - 2 levels (1 2)
+  - 1: [`1999-00/1-liga.csv`](1999-00/1-liga.csv) -  20 teams,  380 matches,  999 goals,  38 rounds,  Sat 21 Aug 1999 - Sat 20 May 2000
+    - Athletic Club Bilbao, Atlético Madrid, CD Numancia, Deportivo Alavés, FC Barcelona, Málaga CF, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Rayo Vallecano, Real Betis, Real Madrid CF, Real Oviedo, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, Sevilla FC, Valencia CF
+      - (++) new in season 1999-00: (4) CD Numancia, Málaga CF, Rayo Vallecano, Sevilla FC
+      - (--) out down: (4) CD Tenerife, CF Extremadura, UD Salamanca, Villarreal CF
 
-Season [`1999-00`](1999-00):
+  - 2: [`1999-00/2-liga2.csv`](1999-00/2-liga2.csv) -  22 teams,  462 matches,  1068 goals,  42 rounds,  Sun 22 Aug 1999 - Sun 4 Jun 2000
+    - Albacete Balompié, Atlético Madrid B, CA Osasuna, CD Badajoz, CD Leganés, CD Logroñés, CD Tenerife, CD Toledo, CF Extremadura, CP Mérida, Córdoba CF, Elche CF, Getafe CF, Levante UD, Recreativo Huelva, SD Compostela, SD Eibar, Sporting Gijón, UD Las Palmas, UD Salamanca, UE Lleida, Villarreal CF
+      - (++) new in season 1999-00: (8) CD Tenerife, CF Extremadura, Córdoba CF, Elche CF, Getafe CF, Levante UD, UD Salamanca, Villarreal CF
+      - (--) out up/down: (8) CD Numancia, CD Ourense, FC Barcelona B, Hércules CF, Málaga CF, RCD Mallorca B, Rayo Vallecano, Sevilla FC
 
-- [`1999-00/1-liga.csv`](1999-00/1-liga.csv) (1/2):
-  - 380 matches, 999 goals - start: Sat 21 Aug 1999, end: Sat 20 May 2000
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CD Numancia (38) Deportivo Alavés (38) FC Barcelona (38) Málaga CF (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Rayo Vallecano (38) Real Betis (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) Valencia CF (38) 
-- [`1999-00/2-liga2.csv`](1999-00/2-liga2.csv) (2/2):
-  - 462 matches, 1068 goals - start: Sun 22 Aug 1999, end: Sun 04 Jun 2000
-  - 22 teams: Albacete Balompié (42) Atlético Madrid B (42) CA Osasuna (42) CD Badajoz (42) CD Leganés (42) CD Logroñés (42) CD Tenerife (42) CD Toledo (42) CF Extremadura (42) CP Mérida (42) Córdoba CF (42) Elche CF (42) Getafe CF (42) Levante UD (42) Recreativo Huelva (42) SD Compostela (42) SD Eibar (42) Sporting Gijón (42) UD Las Palmas (42) UD Salamanca (42) UE Lleida (42) Villarreal CF (42) 
+1998-99 - 2 levels (1 2)
+  - 1: [`1998-99/1-liga.csv`](1998-99/1-liga.csv) -  20 teams,  380 matches,  1003 goals,  38 rounds,  Sat 29 Aug 1998 - Sun 20 Jun 1999
+    - Athletic Club Bilbao, Atlético Madrid, CD Tenerife, CF Extremadura, Deportivo Alavés, FC Barcelona, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Oviedo, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, UD Salamanca, Valencia CF, Villarreal CF
+      - (++) new in season 1998-99: (3) CF Extremadura, Deportivo Alavés, Villarreal CF
+      - (--) out down: (3) CP Mérida, SD Compostela, Sporting Gijón
 
-Season [`1998-99`](1998-99):
+  - 2: [`1998-99/2-liga2.csv`](1998-99/2-liga2.csv) -  22 teams,  462 matches,  1120 goals,  42 rounds,  Sat 29 Aug 1998 - Sun 20 Jun 1999
+    - Albacete Balompié, Atlético Madrid B, CA Osasuna, CD Badajoz, CD Leganés, CD Logroñés, CD Numancia, CD Ourense, CD Toledo, CP Mérida, FC Barcelona B, Hércules CF, Málaga CF, RCD Mallorca B, Rayo Vallecano, Recreativo Huelva, SD Compostela, SD Eibar, Sevilla FC, Sporting Gijón, UD Las Palmas, UE Lleida
+      - (++) new in season 1998-99: (7) CP Mérida, FC Barcelona B, Málaga CF, RCD Mallorca B, Recreativo Huelva, SD Compostela, Sporting Gijón
+      - (--) out up/down: (7) CF Extremadura, Deportivo Alavés, Elche CF, Levante UD, Real Jaén CF, Villarreal CF, Xerez CD
 
-- [`1998-99/1-liga.csv`](1998-99/1-liga.csv) (1/2):
-  - 380 matches, 1003 goals - start: Sat 29 Aug 1998, end: Sun 20 Jun 1999
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CD Tenerife (38) CF Extremadura (38) Deportivo Alavés (38) FC Barcelona (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) UD Salamanca (38) Valencia CF (38) Villarreal CF (38) 
-- [`1998-99/2-liga2.csv`](1998-99/2-liga2.csv) (2/2):
-  - 462 matches, 1120 goals - start: Sat 29 Aug 1998, end: Sun 20 Jun 1999
-  - 22 teams: Albacete Balompié (42) Atlético Madrid B (42) CA Osasuna (42) CD Badajoz (42) CD Leganés (42) CD Logroñés (42) CD Numancia (42) CD Ourense (42) CD Toledo (42) CP Mérida (42) FC Barcelona B (42) Hércules CF (42) Málaga CF (42) RCD Mallorca B (42) Rayo Vallecano (42) Recreativo Huelva (42) SD Compostela (42) SD Eibar (42) Sevilla FC (42) Sporting Gijón (42) UD Las Palmas (42) UE Lleida (42) 
+1997-98 - 2 levels (1 2)
+  - 1: [`1997-98/1-liga.csv`](1997-98/1-liga.csv) -  20 teams,  380 matches,  1009 goals,  38 rounds,  Sat 30 Aug 1997 - Sat 16 May 1998
+    - Athletic Club Bilbao, Atlético Madrid, CD Tenerife, CP Mérida, FC Barcelona, RC Celta Vigo, RCD Español, RCD La Coruña, RCD Mallorca, Real Betis, Real Madrid CF, Real Oviedo, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, SD Compostela, Sporting Gijón, UD Salamanca, Valencia CF
+      - (++) new in season 1997-98: (3) CP Mérida, RCD Mallorca, UD Salamanca
+      - (--) out down: (5) CD Logroñés, CF Extremadura, Hércules CF, Rayo Vallecano, Sevilla FC
 
-Season [`1997-98`](1997-98):
+  - 2: [`1997-98/2-liga2.csv`](1997-98/2-liga2.csv) -  22 teams,  462 matches,  999 goals,  42 rounds,  Sat 30 Aug 1997 - Sat 16 May 1998
+    - Albacete Balompié, Atlético Madrid B, CA Osasuna, CD Badajoz, CD Leganés, CD Logroñés, CD Numancia, CD Ourense, CD Toledo, CF Extremadura, Deportivo Alavés, Elche CF, Hércules CF, Levante UD, Rayo Vallecano, Real Jaén CF, SD Eibar, Sevilla FC, UD Las Palmas, UE Lleida, Villarreal CF, Xerez CD
+      - (++) new in season 1997-98: (9) CD Logroñés, CD Numancia, CF Extremadura, Elche CF, Hércules CF, Rayo Vallecano, Real Jaén CF, Sevilla FC, Xerez CD
+      - (--) out up/down: (7) CP Mérida, FC Barcelona B, RCD Mallorca, Real Madrid CF B, UD Almería, UD Salamanca, Écija Balompié
 
-- [`1997-98/1-liga.csv`](1997-98/1-liga.csv) (1/2):
-  - 380 matches, 1009 goals - start: Sat 30 Aug 1997, end: Sat 16 May 1998
-  - 20 teams: Athletic Club Bilbao (38) Atlético Madrid (38) CD Tenerife (38) CP Mérida (38) FC Barcelona (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) RCD Mallorca (38) Real Betis (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) SD Compostela (38) Sporting Gijón (38) UD Salamanca (38) Valencia CF (38) 
-- [`1997-98/2-liga2.csv`](1997-98/2-liga2.csv) (2/2):
-  - 462 matches, 999 goals - start: Sat 30 Aug 1997, end: Sat 16 May 1998
-  - 22 teams: Albacete Balompié (42) Atlético Madrid B (42) CA Osasuna (42) CD Badajoz (42) CD Leganés (42) CD Logroñés (42) CD Numancia (42) CD Ourense (42) CD Toledo (42) CF Extremadura (42) Deportivo Alavés (42) Elche CF (42) Hércules CF (42) Levante UD (42) Rayo Vallecano (42) Real Jaén CF (42) SD Eibar (42) Sevilla FC (42) UD Las Palmas (42) UE Lleida (42) Villarreal CF (42) Xerez CD (42) 
+1996-97 - 2 levels (1 2)
+  - 1: [`1996-97/1-liga.csv`](1996-97/1-liga.csv) -  22 teams,  462 matches,  1271 goals,  42 rounds,  Sat 31 Aug 1996 - Mon 23 Jun 1997
+    - Athletic Club Bilbao, Atlético Madrid, CD Logroñés, CD Tenerife, CF Extremadura, FC Barcelona, Hércules CF, RC Celta Vigo, RCD Español, RCD La Coruña, Rayo Vallecano, Real Betis, Real Madrid CF, Real Oviedo, Real Racing Santander, Real Sociedad, Real Valladolid CF, Real Zaragoza, SD Compostela, Sevilla FC, Sporting Gijón, Valencia CF
+      - (++) new in season 1996-97: (3) CD Logroñés, CF Extremadura, Hércules CF
+      - (--) out down: (3) Albacete Balompié, CP Mérida, UD Salamanca
 
-Season [`1996-97`](1996-97):
+  - 2: [`1996-97/2-liga2.csv`](1996-97/2-liga2.csv) -  20 teams,  380 matches,  908 goals,  38 rounds,  Sat 31 Aug 1996 - Sun 15 Jun 1997
+    - Albacete Balompié, Atlético Madrid B, CA Osasuna, CD Badajoz, CD Leganés, CD Ourense, CD Toledo, CP Mérida, Deportivo Alavés, FC Barcelona B, Levante UD, RCD Mallorca, Real Madrid CF B, SD Eibar, UD Almería, UD Las Palmas, UD Salamanca, UE Lleida, Villarreal CF, Écija Balompié
 
-- [`1996-97/1-liga.csv`](1996-97/1-liga.csv) (1/2):
-  - 462 matches, 1271 goals - start: Sat 31 Aug 1996, end: Mon 23 Jun 1997
-  - 22 teams: Athletic Club Bilbao (42) Atlético Madrid (42) CD Logroñés (42) CD Tenerife (42) CF Extremadura (42) FC Barcelona (42) Hércules CF (42) RC Celta Vigo (42) RCD Español (42) RCD La Coruña (42) Rayo Vallecano (42) Real Betis (42) Real Madrid CF (42) Real Oviedo (42) Real Racing Santander (42) Real Sociedad (42) Real Valladolid CF (42) Real Zaragoza (42) SD Compostela (42) Sevilla FC (42) Sporting Gijón (42) Valencia CF (42) 
-- [`1996-97/2-liga2.csv`](1996-97/2-liga2.csv) (2/2):
-  - 380 matches, 908 goals - start: Sat 31 Aug 1996, end: Sun 15 Jun 1997
-  - 20 teams: Albacete Balompié (38) Atlético Madrid B (38) CA Osasuna (38) CD Badajoz (38) CD Leganés (38) CD Ourense (38) CD Toledo (38) CP Mérida (38) Deportivo Alavés (38) FC Barcelona B (38) Levante UD (38) RCD Mallorca (38) Real Madrid CF B (38) SD Eibar (38) UD Almería (38) UD Las Palmas (38) UD Salamanca (38) UE Lleida (38) Villarreal CF (38) Écija Balompié (38) 
-
-Season [`1995-96`](1995-96):
-
-- [`1995-96/1-liga.csv`](1995-96/1-liga.csv) (1/1):
-  - 462 matches, 1246 goals - start: Sat 02 Sep 1995, end: Sun 26 May 1996
-  - 22 teams: Albacete Balompié (42) Athletic Club Bilbao (42) Atlético Madrid (42) CD Tenerife (42) CP Mérida (42) FC Barcelona (42) RC Celta Vigo (42) RCD Español (42) RCD La Coruña (42) Rayo Vallecano (42) Real Betis (42) Real Madrid CF (42) Real Oviedo (42) Real Racing Santander (42) Real Sociedad (42) Real Valladolid CF (42) Real Zaragoza (42) SD Compostela (42) Sevilla FC (42) Sporting Gijón (42) UD Salamanca (42) Valencia CF (42) 
-
-Season [`1994-95`](1994-95):
-
-- [`1994-95/1-liga.csv`](1994-95/1-liga.csv) (1/1):
-  - 380 matches, 966 goals - start: Sat 03 Sep 1994, end: Sun 18 Jun 1995
-  - 20 teams: Albacete Balompié (38) Athletic Club Bilbao (38) Atlético Madrid (38) CD Logroñés (38) CD Tenerife (38) FC Barcelona (38) RC Celta Vigo (38) RCD Español (38) RCD La Coruña (38) Real Betis (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) SD Compostela (38) Sevilla FC (38) Sporting Gijón (38) Valencia CF (38) 
-
-Season [`1993-94`](1993-94):
-
-- [`1993-94/1-liga.csv`](1993-94/1-liga.csv) (1/1):
-  - 380 matches, 988 goals - start: Sun 05 Sep 1993, end: Sun 15 May 1994
-  - 20 teams: Albacete Balompié (38) Athletic Club Bilbao (38) Atlético Madrid (38) CA Osasuna (38) CD Logroñés (38) CD Tenerife (38) FC Barcelona (38) RC Celta Vigo (38) RCD La Coruña (38) Rayo Vallecano (38) Real Madrid CF (38) Real Oviedo (38) Real Racing Santander (38) Real Sociedad (38) Real Valladolid CF (38) Real Zaragoza (38) Sevilla FC (38) Sporting Gijón (38) UE Lleida (38) Valencia CF (38) 
 
 
 
@@ -836,4 +857,6 @@ Xerez CD                    => Xerez
   - 2 (12): 2012-13...2010-11 (3) 2008-09........2001-02 (8) 1997-98
 - **Écija Balompié** - 1 season in 1 level
   - 2 (1): 1996-97
+
+
 
