@@ -5,48 +5,48 @@
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 47 teams: Albacete Balompié (5) Athletic Club Bilbao (25) Atlético Madrid (23) CA Osasuna (16) CD Leganés (2) CD Logroñés (3) CD Numancia (4) CD Tenerife (8) CF Extremadura (2) CP Mérida (2) Cádiz CF (1) Córdoba CF (1) Deportivo Alavés (8) Elche CF (2) FC Barcelona (25) Getafe CF (13) Gimnàstic Tarragona (1) Girona FC (1) Granada CF (6) Hércules CF (2) Levante UD (10) Málaga CF (17) RC Celta Vigo (19) RCD Español (24) RCD La Coruña (23) RCD Mallorca (16) Rayo Vallecano (12) Real Betis (20) Real Madrid CF (25) Real Murcia CF (2) Real Oviedo (8) Real Racing Santander (18) Real Sociedad (22) Real Valladolid CF (16) Real Zaragoza (18) Recreativo Huelva (4) SD Compostela (4) SD Eibar (4) Sevilla FC (22) Sporting Gijón (11) UD Almería (6) UD Las Palmas (5) UD Salamanca (3) UE Lleida (1) Valencia CF (25) Villarreal CF (18) Xerez CD (1) 
-  - 25 seasons: Athletic Club Bilbao, FC Barcelona, Real Madrid CF, Valencia CF
-  - 24 seasons: RCD Español
-  - 23 seasons: Atlético Madrid, RCD La Coruña
-  - 22 seasons: Real Sociedad, Sevilla FC
-  - 20 seasons: Real Betis
-  - 19 seasons: RC Celta Vigo
-  - 18 seasons: Real Racing Santander, Real Zaragoza, Villarreal CF
-  - 17 seasons: Málaga CF
-  - 16 seasons: CA Osasuna, RCD Mallorca, Real Valladolid CF
-  - 13 seasons: Getafe CF
-  - 12 seasons: Rayo Vallecano
-  - 11 seasons: Sporting Gijón
-  - 10 seasons: Levante UD
-  - 8 seasons: CD Tenerife, Deportivo Alavés, Real Oviedo
-  - 6 seasons: Granada CF, UD Almería
-  - 5 seasons: Albacete Balompié, UD Las Palmas
-  - 4 seasons: CD Numancia, Recreativo Huelva, SD Compostela, SD Eibar
-  - 3 seasons: CD Logroñés, UD Salamanca
-  - 2 seasons: CD Leganés, CF Extremadura, CP Mérida, Elche CF, Hércules CF, Real Murcia CF
-  - 1 seasons: Cádiz CF, Córdoba CF, Gimnàstic Tarragona, Girona FC, UE Lleida, Xerez CD
+  - 25 seasons: **Athletic Club Bilbao**, **FC Barcelona**, **Real Madrid CF**, **Valencia CF**
+  - 24 seasons: **RCD Español**
+  - 23 seasons: **Atlético Madrid**, **RCD La Coruña**
+  - 22 seasons: **Real Sociedad**, **Sevilla FC**
+  - 20 seasons: **Real Betis**
+  - 19 seasons: **RC Celta Vigo**
+  - 18 seasons: **Real Racing Santander**, **Real Zaragoza**, **Villarreal CF**
+  - 17 seasons: **Málaga CF**
+  - 16 seasons: **CA Osasuna**, **RCD Mallorca**, **Real Valladolid CF**
+  - 13 seasons: **Getafe CF**
+  - 12 seasons: **Rayo Vallecano**
+  - 11 seasons: **Sporting Gijón**
+  - 10 seasons: **Levante UD**
+  - 8 seasons: **CD Tenerife**, **Deportivo Alavés**, **Real Oviedo**
+  - 6 seasons: **Granada CF**, **UD Almería**
+  - 5 seasons: **Albacete Balompié**, **UD Las Palmas**
+  - 4 seasons: **CD Numancia**, **Recreativo Huelva**, **SD Compostela**, **SD Eibar**
+  - 3 seasons: **CD Logroñés**, **UD Salamanca**
+  - 2 seasons: **CD Leganés**, **CF Extremadura**, **CP Mérida**, **Elche CF**, **Hércules CF**, **Real Murcia CF**
+  - 1 seasons: **Cádiz CF**, **Córdoba CF**, **Gimnàstic Tarragona**, **Girona FC**, **UE Lleida**, **Xerez CD**
 
 
 level 2
 - 22 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 
 - 82 teams: AD Alcorcón (8) Albacete Balompié (16) Algeciras CF (1) Alicante CF (1) Athletic Club Bilbao B (1) Atlético Madrid (2) Atlético Madrid B (4) Burgos CF (1) CA Osasuna (7) CD Alcoyano (1) CD Badajoz (7) CD Castellón (5) CD Guadalajara (2) CD Leganés (10) CD Logroñés (3) CD Lugo (6) CD Mirandés (5) CD Numancia (17) CD Ourense (3) CD Tenerife (15) CD Toledo (4) CE Sabadell (4) CF Ciudad de Murcia (4) CF Extremadura (4) CF Reus (2) CP Mérida (3) Cultural Leonesa (1) Cádiz CF (7) Córdoba CF (16) Deportivo Alavés (10) Elche CF (17) FC Barcelona B (8) FC Cartagena (3) Getafe CF (5) Gimnàstic Tarragona (11) Girona FC (9) Granada 74 (1) Granada CF (2) Hércules CF (10) Levante UD (11) Lorca FC (3) Málaga CF (3) Málaga CF B (3) Polideportivo Ejido (7) Pontevedra CF (1) RC Celta Vigo (6) RCD La Coruña (2) RCD Mallorca (5) RCD Mallorca B (1) Racing Ferrol (6) Rayo Vallecano (8) Real Betis (4) Real Jaén CF (4) Real Madrid CF B (5) Real Murcia CF (11) Real Oviedo (5) Real Racing Santander (3) Real Sociedad (3) Real Unión (1) Real Valladolid CF (9) Real Zaragoza (7) Recreativo Huelva (13) SD Compostela (4) SD Eibar (13) SD Huesca (8) SD Ponferradina (6) Sevilla FC (3) Sevilla FC B (4) Sporting Gijón (14) Terrassa FC (3) UCAM Murcia (1) UD Almería (11) UD Las Palmas (15) UD Salamanca (12) UD Vecindario (1) UE Llagostera (2) UE Lleida (7) Universidad Las Palmas (1) Villarreal CF (4) Villarreal CF B (3) Xerez CD (12) Écija Balompié (1) 
-  - 17 seasons: CD Numancia, Elche CF
-  - 16 seasons: Albacete Balompié, Córdoba CF
-  - 15 seasons: CD Tenerife, UD Las Palmas
-  - 14 seasons: Sporting Gijón
-  - 13 seasons: Recreativo Huelva, SD Eibar
-  - 12 seasons: UD Salamanca, Xerez CD
-  - 11 seasons: Gimnàstic Tarragona, Levante UD, Real Murcia CF, UD Almería
-  - 10 seasons: CD Leganés, Deportivo Alavés, Hércules CF
-  - 9 seasons: Girona FC, Real Valladolid CF
-  - 8 seasons: AD Alcorcón, FC Barcelona B, Rayo Vallecano, SD Huesca
-  - 7 seasons: CA Osasuna, CD Badajoz, Cádiz CF, Polideportivo Ejido, Real Zaragoza, UE Lleida
-  - 6 seasons: CD Lugo, RC Celta Vigo, Racing Ferrol, SD Ponferradina
-  - 5 seasons: CD Castellón, CD Mirandés, Getafe CF, RCD Mallorca, Real Madrid CF B, Real Oviedo
-  - 4 seasons: Atlético Madrid B, CD Toledo, CE Sabadell, CF Ciudad de Murcia, CF Extremadura, Real Betis, Real Jaén CF, SD Compostela, Sevilla FC B, Villarreal CF
-  - 3 seasons: CD Logroñés, CD Ourense, CP Mérida, FC Cartagena, Lorca FC, Málaga CF, Málaga CF B, Real Racing Santander, Real Sociedad, Sevilla FC, Terrassa FC, Villarreal CF B
-  - 2 seasons: Atlético Madrid, CD Guadalajara, CF Reus, Granada CF, RCD La Coruña, UE Llagostera
-  - 1 seasons: Algeciras CF, Alicante CF, Athletic Club Bilbao B, Burgos CF, CD Alcoyano, Cultural Leonesa, Granada 74, Pontevedra CF, RCD Mallorca B, Real Unión, UCAM Murcia, UD Vecindario, Universidad Las Palmas, Écija Balompié
+  - 17 seasons: **CD Numancia**, **Elche CF**
+  - 16 seasons: **Albacete Balompié**, **Córdoba CF**
+  - 15 seasons: **CD Tenerife**, **UD Las Palmas**
+  - 14 seasons: **Sporting Gijón**
+  - 13 seasons: **Recreativo Huelva**, **SD Eibar**
+  - 12 seasons: **UD Salamanca**, **Xerez CD**
+  - 11 seasons: **Gimnàstic Tarragona**, **Levante UD**, **Real Murcia CF**, **UD Almería**
+  - 10 seasons: **CD Leganés**, **Deportivo Alavés**, **Hércules CF**
+  - 9 seasons: **Girona FC**, **Real Valladolid CF**
+  - 8 seasons: **AD Alcorcón**, **FC Barcelona B**, **Rayo Vallecano**, **SD Huesca**
+  - 7 seasons: **CA Osasuna**, **CD Badajoz**, **Cádiz CF**, **Polideportivo Ejido**, **Real Zaragoza**, **UE Lleida**
+  - 6 seasons: **CD Lugo**, **RC Celta Vigo**, **Racing Ferrol**, **SD Ponferradina**
+  - 5 seasons: **CD Castellón**, **CD Mirandés**, **Getafe CF**, **RCD Mallorca**, **Real Madrid CF B**, **Real Oviedo**
+  - 4 seasons: **Atlético Madrid B**, **CD Toledo**, **CE Sabadell**, **CF Ciudad de Murcia**, **CF Extremadura**, **Real Betis**, **Real Jaén CF**, **SD Compostela**, **Sevilla FC B**, **Villarreal CF**
+  - 3 seasons: **CD Logroñés**, **CD Ourense**, **CP Mérida**, **FC Cartagena**, **Lorca FC**, **Málaga CF**, **Málaga CF B**, **Real Racing Santander**, **Real Sociedad**, **Sevilla FC**, **Terrassa FC**, **Villarreal CF B**
+  - 2 seasons: **Atlético Madrid**, **CD Guadalajara**, **CF Reus**, **Granada CF**, **RCD La Coruña**, **UE Llagostera**
+  - 1 seasons: **Algeciras CF**, **Alicante CF**, **Athletic Club Bilbao B**, **Burgos CF**, **CD Alcoyano**, **Cultural Leonesa**, **Granada 74**, **Pontevedra CF**, **RCD Mallorca B**, **Real Unión**, **UCAM Murcia**, **UD Vecindario**, **Universidad Las Palmas**, **Écija Balompié**
 
 
 level 1 - 25 seasons:
@@ -537,104 +537,106 @@ Xerez CD                    => Xerez
 
 ### Teams by City
 
-- ? (60): 
-  - AD Alcorcón  (1) Alcorcon
-  - Albacete Balompié  (1) Albacete
-  - Algeciras CF  (1) Algeciras
-  - Alicante CF  (1) Alicante
-  - Burgos CF  (1) Burgos
+- ? (27): 
   - CA Osasuna  (1) Osasuna
-  - CD Alcoyano  (1) Alcoyano
-  - CD Badajoz  (1) Badajoz
-  - CD Castellón  (1) Castellon
-  - CD Guadalajara  (1) Guadalajara
   - CD Leganés  (1) Leganes
   - CD Logroñés  (1) Logrones
   - CD Lugo  (1) Lugo
-  - CD Mirandés  (1) Mirandes
   - CD Numancia  (1) Numancia
   - CD Ourense  (2) Ourense • Orense
   - CD Tenerife  (1) Tenerife
   - CD Toledo  (1) Toledo
   - CE Sabadell  (1) Sabadell
-  - CF Extremadura  (1) Extremadura
   - CF Reus  (1) Reus Deportiu
-  - CP Mérida  (1) Merida
   - Cultural Leonesa  (1) Leonesa
-  - Cádiz CF  (1) Cadiz
-  - Córdoba CF  (1) Cordoba
-  - Deportivo Alavés  (1) Alaves
-  - Elche CF  (1) Elche
-  - FC Cartagena  (1) Cartagena
-  - Getafe CF  (1) Getafe
-  - Gimnàstic Tarragona  (1) Gimnastic
-  - Girona FC  (1) Girona
-  - Hércules CF  (1) Hercules
-  - Levante UD  (1) Levante
   - Lorca FC  (1) Lorca
   - Polideportivo Ejido  (1) Poli Ejido
   - Pontevedra CF  (1) Pontevedra
-  - RC Celta Vigo  (1) Celta
-  - Racing Ferrol  (1) Ferrol
-  - Rayo Vallecano  (1) Vallecano
-  - Real Betis  (1) Betis
-  - Real Jaén CF  (1) Jaen
   - Real Oviedo  (1) Oviedo
   - Real Racing Santander  (1) Santander
-  - Real Sociedad  (1) Sociedad
   - Real Unión  (1) Real Union
   - Real Valladolid CF  (1) Valladolid
   - Real Zaragoza  (1) Zaragoza
   - Recreativo Huelva  (1) Recreativo
-  - SD Compostela  (1) Compostela
-  - SD Eibar  (1) Eibar
-  - SD Huesca  (1) Huesca
   - SD Ponferradina  (1) Ponferradina
   - Terrassa FC  (1) Terrassa
-  - UD Almería  (1) Almeria
   - UD Salamanca  (1) Salamanca
   - UD Vecindario  (1) Vecindario
   - UE Llagostera  (1) Llagostera
   - UE Lleida  (2) Lerida • Lleida
   - Xerez CD  (1) Xerez
-  - Écija Balompié  (1) Ecija
-- **Madrid** (4): 
+- **Madrid › Comunidad de Madrid** (6): 
   - Atlético Madrid  (1) Ath Madrid
   - Atlético Madrid B  (1) Ath Madrid B
+  - Getafe CF  (1) Getafe
+  - Rayo Vallecano  (1) Vallecano
   - Real Madrid CF  (1) Real Madrid
   - Real Madrid CF B  (1) Real Madrid B
-- **Barcelona** (3): 
+- **Barcelona › Cataluña** (3): 
   - FC Barcelona  (1) Barcelona
   - FC Barcelona B  (1) Barcelona B
   - RCD Español  (1) Espanol
-- **Murcia** (3): 
+- **Murcia › Región de Murcia** (3): 
   - CF Ciudad de Murcia  (1) Ciudad de Murcia
   - Real Murcia CF  (1) Murcia
   - UCAM Murcia 
-- **Bilbao** (2): 
-  - Athletic Club Bilbao  (1) Ath Bilbao
-  - Athletic Club Bilbao B  (1) Ath Bilbao B
-- **Granada** (2): 
-  - Granada 74 
-  - Granada CF  (1) Granada
-- **Las Palmas** (2): 
-  - UD Las Palmas  (1) Las Palmas
-  - Universidad Las Palmas  (1) U.Las Palmas
-- **Mallorca** (2): 
-  - RCD Mallorca  (1) Mallorca
-  - RCD Mallorca B  (1) Mallorca B
-- **Málaga** (2): 
-  - Málaga CF  (1) Malaga
-  - Málaga CF B  (1) Malaga B
-- **Sevilla** (2): 
+- **Sevilla › Andalucía** (3): 
+  - Real Betis  (1) Betis
   - Sevilla FC  (1) Sevilla
   - Sevilla FC B  (1) Sevilla B
-- **Villarreal** (2): 
+- **Alicante › Comunidad Valenciana** (2): 
+  - Alicante CF  (1) Alicante
+  - Hércules CF  (1) Hercules
+- **Bilbao › País Vasco** (2): 
+  - Athletic Club Bilbao  (1) Ath Bilbao
+  - Athletic Club Bilbao B  (1) Ath Bilbao B
+- **Granada › Andalucía** (2): 
+  - Granada 74 
+  - Granada CF  (1) Granada
+- **Las Palmas › Islas Canarias** (2): 
+  - UD Las Palmas  (1) Las Palmas
+  - Universidad Las Palmas  (1) U.Las Palmas
+- **Málaga › Andalucía** (2): 
+  - Málaga CF  (1) Malaga
+  - Málaga CF B  (1) Malaga B
+- **Palma de Mallorca › Islas Baleares** (2): 
+  - RCD Mallorca  (1) Mallorca
+  - RCD Mallorca B  (1) Mallorca B
+- **Valencia › Comunidad Valenciana** (2): 
+  - Levante UD  (1) Levante
+  - Valencia CF  (1) Valencia
+- **Villarreal › Comunidad Valenciana** (2): 
   - Villarreal CF  (2) Villarreal • Villareal
   - Villarreal CF B  (1) Villarreal B
-- **Gijón** (1): Sporting Gijón  (1) Sp Gijon
-- **La Coruña** (1): RCD La Coruña  (1) La Coruna
-- **Valencia** (1): Valencia CF  (1) Valencia
+- **Albacete › Castilla-La Mancha** (1): Albacete Balompié  (1) Albacete
+- **Alcorcón › Comunidad de Madrid** (1): AD Alcorcón  (1) Alcorcon
+- **Alcoy › Comunidad Valenciana** (1): CD Alcoyano  (1) Alcoyano
+- **Algeciras › Andalucía** (1): Algeciras CF  (1) Algeciras
+- **Almendralejo › Extremadura** (1): CF Extremadura  (1) Extremadura
+- **Almería › Andalucía** (1): UD Almería  (1) Almeria
+- **Badajoz › Extremadura** (1): CD Badajoz  (1) Badajoz
+- **Burgos › Castilla y León** (1): Burgos CF  (1) Burgos
+- **Cartagena › Región de Murcia** (1): FC Cartagena  (1) Cartagena
+- **Castellón de la Plana › Comunidad Valenciana** (1): CD Castellón  (1) Castellon
+- **Cádiz › Andalucía** (1): Cádiz CF  (1) Cadiz
+- **Córdoba › Andalucía** (1): Córdoba CF  (1) Cordoba
+- **Eibar › País Vasco** (1): SD Eibar  (1) Eibar
+- **Elche › Comunidad Valenciana** (1): Elche CF  (1) Elche
+- **Ferrol › Galicia** (1): Racing Ferrol  (1) Ferrol
+- **Gerona › Cataluña** (1): Girona FC  (1) Girona
+- **Gijón › Asturias** (1): Sporting Gijón  (1) Sp Gijon
+- **Guadalajara › Castilla-La Mancha** (1): CD Guadalajara  (1) Guadalajara
+- **Huesca › Aragón** (1): SD Huesca  (1) Huesca
+- **Jaén › Andalucía** (1): Real Jaén CF  (1) Jaen
+- **La Coruña › Galicia** (1): RCD La Coruña  (1) La Coruna
+- **Miranda de Ebro › Castilla y León** (1): CD Mirandés  (1) Mirandes
+- **Mérida › Extremadura** (1): CP Mérida  (1) Merida
+- **San Sebastián › País Vasco** (1): Real Sociedad  (1) Sociedad
+- **Santiago de Compostela › Galicia** (1): SD Compostela  (1) Compostela
+- **Tarragona › Cataluña** (1): Gimnàstic Tarragona  (1) Gimnastic
+- **Vigo › Galicia** (1): RC Celta Vigo  (1) Celta
+- **Vitoria › País Vasco** (1): Deportivo Alavés  (1) Alaves
+- **Écija › Andalucía** (1): Écija Balompié  (1) Ecija
 
 
 
@@ -642,219 +644,261 @@ Xerez CD                    => Xerez
 ### Season
 
 - **AD Alcorcón** - 8 seasons in 1 level
-  - 2 (8): 2017-18........2010-11 (8)
+  - 2 (8): 2018........2010 (8)
 - **Albacete Balompié** - 21 seasons in 2 levels
-  - 1 (5): 2004-05..2003-04 (2) 1995-96...1993-94 (3)
-  - 2 (16): 2017-18 2015-16..2014-15 (2) 2010-11......2005-06 (6) 2002-03.......1996-97 (7)
+  - 1 (5): 2005..2003 (2) 1996...1993 (3)
+  - 2 (16): 2017-18 2016..2014 (2) 2011......2005 (6) 2003.......1996 (7)
+  - ⇑ (1) / ⇓ (2): 2  **?? 2016-17 ??** 2 2  **?? 2013-14 ??** 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 
 - **Algeciras CF** - 1 season in 1 level
   - 2 (1): 2003-04
 - **Alicante CF** - 1 season in 1 level
   - 2 (1): 2008-09
 - **Athletic Club Bilbao** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Athletic Club Bilbao B** - 1 season in 1 level
   - 2 (1): 2015-16
 - **Atlético Madrid** - 25 seasons in 2 levels
-  - 1 (23): 2017-18................2002-03 (16) 1999-00.......1993-94 (7)
-  - 2 (2): 2001-02..2000-01 (2)
+  - 1 (23): 2018................2002 (16) 2000.......1993 (7)
+  - 2 (2): 2002..2000 (2)
+  - ⇑ (1) / ⇓ (1): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 
 - **Atlético Madrid B** - 4 seasons in 1 level
-  - 2 (4): 1999-00....1996-97 (4)
+  - 2 (4): 2000....1996 (4)
 - **Burgos CF** - 1 season in 1 level
   - 2 (1): 2001-02
 - **CA Osasuna** - 23 seasons in 2 levels
-  - 1 (16): 2016-17 2013-14..............2000-01 (14) 1993-94
-  - 2 (7): 2017-18 2015-16..2014-15 (2) 1999-00....1996-97 (4)
+  - 1 (16): 2016-17 2014..............2000 (14) 1993-94
+  - 2 (7): 2017-18 2016..2014 (2) 2000....1996 (4)
+  - ⇑ (2) / ⇓ (3): 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2  **?? 1995-96 ??** ⇓1 
 - **CD Alcoyano** - 1 season in 1 level
   - 2 (1): 2011-12
 - **CD Badajoz** - 7 seasons in 1 level
-  - 2 (7): 2002-03.......1996-97 (7)
+  - 2 (7): 2003.......1996 (7)
 - **CD Castellón** - 5 seasons in 1 level
-  - 2 (5): 2009-10.....2005-06 (5)
+  - 2 (5): 2010.....2005 (5)
 - **CD Guadalajara** - 2 seasons in 1 level
-  - 2 (2): 2012-13..2011-12 (2)
+  - 2 (2): 2013..2011 (2)
 - **CD Leganés** - 12 seasons in 2 levels
-  - 1 (2): 2017-18..2016-17 (2)
-  - 2 (10): 2015-16..2014-15 (2) 2003-04........1996-97 (8)
+  - 1 (2): 2018..2016 (2)
+  - 2 (10): 2016..2014 (2) 2004........1996 (8)
+  - ⇑ (1): 1 1 ⇑2 2  **?? 2013-14 ??** 2 2 2 2 2 2 2 2 
 - **CD Logroñés** - 6 seasons in 2 levels
-  - 1 (3): 1996-97 1994-95..1993-94 (2)
-  - 2 (3): 1999-00...1997-98 (3)
+  - 1 (3): 1996-97 1995..1993 (2)
+  - 2 (3): 2000...1997 (3)
+  - ⇓ (1): 2 2 2 ⇓1  **?? 1995-96 ??** 1 1 
 - **CD Lugo** - 6 seasons in 1 level
-  - 2 (6): 2017-18......2012-13 (6)
+  - 2 (6): 2018......2012 (6)
 - **CD Mirandés** - 5 seasons in 1 level
-  - 2 (5): 2016-17.....2012-13 (5)
+  - 2 (5): 2017.....2012 (5)
 - **CD Numancia** - 21 seasons in 2 levels
-  - 1 (4): 2008-09 2004-05 2000-01..1999-00 (2)
-  - 2 (17): 2017-18.........2009-10 (9) 2007-08...2005-06 (3) 2003-04...2001-02 (3) 1998-99..1997-98 (2)
+  - 1 (4): 2008-09 2004-05 2001..1999 (2)
+  - 2 (17): 2018.........2009 (9) 2008...2005 (3) 2004...2001 (3) 1999..1997 (2)
+  - ⇑ (3) / ⇓ (3): 2 2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 ⇓1 ⇑2 2 2 ⇓1 1 ⇑2 2 
 - **CD Ourense** - 3 seasons in 1 level
-  - 2 (3): 1998-99...1996-97 (3)
+  - 2 (3): 1999...1996 (3)
 - **CD Tenerife** - 23 seasons in 2 levels
-  - 1 (8): 2009-10 2001-02 1998-99......1993-94 (6)
-  - 2 (15): 2017-18.....2013-14 (5) 2010-11 2008-09.......2002-03 (7) 2000-01..1999-00 (2)
+  - 1 (8): 2009-10 2001-02 1999......1993 (6)
+  - 2 (15): 2018.....2013 (5) 2010-11 2009.......2002 (7) 2001..1999 (2)
+  - ⇑ (2) / ⇓ (3): 2 2 2 2 2  **?? 2012-13 ??** 2 ⇓1 ⇑2 2 2 2 2 2 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 
 - **CD Toledo** - 4 seasons in 1 level
-  - 2 (4): 1999-00....1996-97 (4)
+  - 2 (4): 2000....1996 (4)
 - **CE Sabadell** - 4 seasons in 1 level
-  - 2 (4): 2014-15....2011-12 (4)
+  - 2 (4): 2015....2011 (4)
 - **CF Ciudad de Murcia** - 4 seasons in 1 level
-  - 2 (4): 2006-07....2003-04 (4)
+  - 2 (4): 2007....2003 (4)
 - **CF Extremadura** - 6 seasons in 2 levels
   - 1 (2): 1998-99 1996-97
-  - 2 (4): 2001-02...1999-00 (3) 1997-98
+  - 2 (4): 2002...1999 (3) 1997-98
+  - ⇑ (1) / ⇓ (2): 2 2 2 ⇓1 ⇑2 ⇓1 
 - **CF Reus** - 2 seasons in 1 level
-  - 2 (2): 2017-18..2016-17 (2)
+  - 2 (2): 2018..2016 (2)
 - **CP Mérida** - 5 seasons in 2 levels
   - 1 (2): 1997-98 1995-96
-  - 2 (3): 1999-00..1998-99 (2) 1996-97
+  - 2 (3): 2000..1998 (2) 1996-97
+  - ⇑ (1) / ⇓ (2): 2 2 ⇓1 ⇑2 ⇓1 
 - **Cultural Leonesa** - 1 season in 1 level
   - 2 (1): 2017-18
 - **Cádiz CF** - 8 seasons in 2 levels
   - 1 (1): 2005-06
-  - 2 (7): 2017-18..2016-17 (2) 2009-10 2007-08..2006-07 (2) 2004-05..2003-04 (2)
+  - 2 (7): 2018..2016 (2) 2009-10 2008..2006 (2) 2005..2003 (2)
+  - ⇑ (1) / ⇓ (1): 2 2  **?? 2015-16 ??** 2  **?? 2008-09 ??** 2 2 ⇓1 ⇑2 2 
 - **Córdoba CF** - 17 seasons in 2 levels
   - 1 (1): 2014-15
-  - 2 (16): 2017-18...2015-16 (3) 2013-14.......2007-08 (7) 2004-05......1999-00 (6)
+  - 2 (16): 2018...2015 (3) 2014.......2007 (7) 2005......1999 (6)
+  - ⇑ (1) / ⇓ (1): 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2  **?? 2006-07 ??** 2 2 2 2 2 2 
 - **Deportivo Alavés** - 18 seasons in 2 levels
-  - 1 (8): 2017-18..2016-17 (2) 2005-06 2002-03.....1998-99 (5)
-  - 2 (10): 2015-16...2013-14 (3) 2008-09...2006-07 (3) 2004-05..2003-04 (2) 1997-98..1996-97 (2)
+  - 1 (8): 2018..2016 (2) 2005-06 2003.....1998 (5)
+  - 2 (10): 2016...2013 (3) 2009...2006 (3) 2005..2003 (2) 1998..1996 (2)
+  - ⇑ (3) / ⇓ (2): 1 1 ⇑2 2 2  **?? 2012-13 ??** 2 2 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 ⇑2 2 
 - **Elche CF** - 19 seasons in 2 levels
-  - 1 (2): 2014-15..2013-14 (2)
-  - 2 (17): 2016-17..2015-16 (2) 2012-13..............1999-00 (14) 1997-98
+  - 1 (2): 2015..2013 (2)
+  - 2 (17): 2017..2015 (2) 2013..............1999 (14) 1997-98
+  - ⇑ (1) / ⇓ (1): 2 2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2  **?? 1998-99 ??** 2 
 - **FC Barcelona** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **FC Barcelona B** - 8 seasons in 1 level
-  - 2 (8): 2017-18 2014-15.....2010-11 (5) 1998-99 1996-97
+  - 2 (8): 2017-18 2015.....2010 (5) 1998-99 1996-97
 - **FC Cartagena** - 3 seasons in 1 level
-  - 2 (3): 2011-12...2009-10 (3)
+  - 2 (3): 2012...2009 (3)
 - **Getafe CF** - 18 seasons in 2 levels
-  - 1 (13): 2017-18 2015-16............2004-05 (12)
-  - 2 (5): 2016-17 2003-04..2002-03 (2) 2000-01..1999-00 (2)
+  - 1 (13): 2017-18 2016............2004 (12)
+  - 2 (5): 2016-17 2004..2002 (2) 2001..1999 (2)
+  - ⇑ (2) / ⇓ (1): 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2  **?? 2001-02 ??** 2 2 
 - **Gimnàstic Tarragona** - 12 seasons in 2 levels
   - 1 (1): 2006-07
-  - 2 (11): 2017-18...2015-16 (3) 2011-12.....2007-08 (5) 2005-06..2004-05 (2) 2001-02
+  - 2 (11): 2018...2015 (3) 2012.....2007 (5) 2006..2004 (2) 2001-02
+  - ⇑ (1) / ⇓ (1): 2 2 2  **?? 2014-15 ??** 2 2 2 2 2 ⇓1 ⇑2 2  **?? 2003-04 ??** 2 
 - **Girona FC** - 10 seasons in 2 levels
   - 1 (1): 2017-18
-  - 2 (9): 2016-17.........2008-09 (9)
+  - 2 (9): 2017.........2008 (9)
+  - ⇑ (1): 1 ⇑2 2 2 2 2 2 2 2 2 
 - **Granada 74** - 1 season in 1 level
   - 2 (1): 2007-08
 - **Granada CF** - 8 seasons in 2 levels
-  - 1 (6): 2016-17......2011-12 (6)
+  - 1 (6): 2017......2011 (6)
   - 2 (2): 2017-18 2010-11
+  - ⇑ (1) / ⇓ (1): 2 ⇓1 1 1 1 1 1 ⇑2 
 - **Hércules CF** - 12 seasons in 2 levels
   - 1 (2): 2010-11 1996-97
-  - 2 (10): 2013-14...2011-12 (3) 2009-10.....2005-06 (5) 1998-99..1997-98 (2)
+  - 2 (10): 2014...2011 (3) 2010.....2005 (5) 1999..1997 (2)
+  - ⇑ (1) / ⇓ (2): 2 2 2 ⇓1 ⇑2 2 2 2 2  **?? 2004-05 ??** 2 2 ⇓1 
 - **Levante UD** - 21 seasons in 2 levels
-  - 1 (10): 2017-18 2015-16......2010-11 (6) 2007-08..2006-07 (2) 2004-05
-  - 2 (11): 2016-17 2009-10..2008-09 (2) 2005-06 2003-04.....1999-00 (5) 1997-98..1996-97 (2)
+  - 1 (10): 2017-18 2016......2010 (6) 2008..2006 (2) 2004-05
+  - 2 (11): 2016-17 2010..2008 (2) 2005-06 2004.....1999 (5) 1998..1996 (2)
+  - ⇑ (4) / ⇓ (3): 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 ⇑2 ⇓1 ⇑2 2 2 2 2  **?? 1998-99 ??** 2 2 
 - **Lorca FC** - 3 seasons in 1 level
-  - 2 (3): 2017-18 2006-07..2005-06 (2)
+  - 2 (3): 2017-18 2007..2005 (2)
 - **Málaga CF** - 20 seasons in 2 levels
-  - 1 (17): 2017-18..........2008-09 (10) 2005-06.......1999-00 (7)
-  - 2 (3): 2007-08..2006-07 (2) 1998-99
+  - 1 (17): 2018..........2008 (10) 2006.......1999 (7)
+  - 2 (3): 2008..2006 (2) 1998-99
+  - ⇑ (2) / ⇓ (1): 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 ⇑2 
 - **Málaga CF B** - 3 seasons in 1 level
-  - 2 (3): 2005-06...2003-04 (3)
+  - 2 (3): 2006...2003 (3)
 - **Polideportivo Ejido** - 7 seasons in 1 level
-  - 2 (7): 2007-08.......2001-02 (7)
+  - 2 (7): 2008.......2001 (7)
 - **Pontevedra CF** - 1 season in 1 level
   - 2 (1): 2004-05
 - **RC Celta Vigo** - 25 seasons in 2 levels
-  - 1 (19): 2017-18......2012-13 (6) 2006-07..2005-06 (2) 2003-04...........1993-94 (11)
-  - 2 (6): 2011-12.....2007-08 (5) 2004-05
+  - 1 (19): 2018......2012 (6) 2007..2005 (2) 2004...........1993 (11)
+  - 2 (6): 2012.....2007 (5) 2004-05
+  - ⇑ (2) / ⇓ (2): 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 
 - **RCD Español** - 24 seasons in 1 level
-  - 1 (24): 2017-18........................1994-95 (24)
+  - 1 (24): 2018........................1994 (24)
 - **RCD La Coruña** - 25 seasons in 2 levels
-  - 1 (23): 2017-18....2014-15 (4) 2012-13 2010-11..................1993-94 (18)
+  - 1 (23): 2018....2014 (4) 2012-13 2011..................1993 (18)
   - 2 (2): 2013-14 2011-12
+  - ⇑ (2) / ⇓ (2): 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 - **RCD Mallorca** - 21 seasons in 2 levels
-  - 1 (16): 2012-13................1997-98 (16)
-  - 2 (5): 2016-17....2013-14 (4) 1996-97
+  - 1 (16): 2013................1997 (16)
+  - 2 (5): 2017....2013 (4) 1996-97
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 
 - **RCD Mallorca B** - 1 season in 1 level
   - 2 (1): 1998-99
 - **Racing Ferrol** - 6 seasons in 1 level
-  - 2 (6): 2007-08 2005-06..2004-05 (2) 2002-03...2000-01 (3)
+  - 2 (6): 2007-08 2006..2004 (2) 2003...2000 (3)
 - **Rayo Vallecano** - 20 seasons in 2 levels
-  - 1 (12): 2015-16.....2011-12 (5) 2002-03....1999-00 (4) 1996-97..1995-96 (2) 1993-94
-  - 2 (8): 2017-18..2016-17 (2) 2010-11...2008-09 (3) 2003-04 1998-99..1997-98 (2)
+  - 1 (12): 2016.....2011 (5) 2003....1999 (4) 1997..1995 (2) 1993-94
+  - 2 (8): 2018..2016 (2) 2011...2008 (3) 2003-04 1999..1997 (2)
+  - ⇑ (2) / ⇓ (3): 2 2 ⇓1 1 1 1 1 ⇑2 2 2  **?? 2007-08 ??** 2 ⇓1 1 1 1 ⇑2 2 ⇓1 1  **?? 1994-95 ??** 1 
 - **Real Betis** - 24 seasons in 2 levels
-  - 1 (20): 2017-18...2015-16 (3) 2013-14...2011-12 (3) 2008-09........2001-02 (8) 1999-00......1994-95 (6)
-  - 2 (4): 2014-15 2010-11..2009-10 (2) 2000-01
+  - 1 (20): 2018...2015 (3) 2014...2011 (3) 2009........2001 (8) 2000......1994 (6)
+  - 2 (4): 2014-15 2011..2009 (2) 2000-01
+  - ⇑ (3) / ⇓ (3): 1 1 1 ⇑2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 
 - **Real Jaén CF** - 4 seasons in 1 level
-  - 2 (4): 2013-14 2001-02..2000-01 (2) 1997-98
+  - 2 (4): 2013-14 2002..2000 (2) 1997-98
 - **Real Madrid CF** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Real Madrid CF B** - 5 seasons in 1 level
-  - 2 (5): 2013-14..2012-13 (2) 2006-07..2005-06 (2) 1996-97
+  - 2 (5): 2014..2012 (2) 2007..2005 (2) 1996-97
 - **Real Murcia CF** - 13 seasons in 2 levels
   - 1 (2): 2007-08 2003-04
-  - 2 (11): 2013-14...2011-12 (3) 2009-10..2008-09 (2) 2006-07...2004-05 (3) 2002-03...2000-01 (3)
+  - 2 (11): 2014...2011 (3) 2010..2008 (2) 2007...2004 (3) 2003...2000 (3)
+  - ⇑ (2) / ⇓ (2): 2 2 2  **?? 2010-11 ??** 2 2 ⇓1 ⇑2 2 2 ⇓1 ⇑2 2 2 
 - **Real Oviedo** - 13 seasons in 2 levels
-  - 1 (8): 2000-01........1993-94 (8)
-  - 2 (5): 2017-18...2015-16 (3) 2002-03..2001-02 (2)
+  - 1 (8): 2001........1993 (8)
+  - 2 (5): 2018...2015 (3) 2003..2001 (2)
+  - ⇓ (1): 2 2 2  **?? 2014-15 ??** 2 2 ⇓1 1 1 1 1 1 1 1 
 - **Real Racing Santander** - 21 seasons in 2 levels
-  - 1 (18): 2011-12..........2002-03 (10) 2000-01........1993-94 (8)
+  - 1 (18): 2012..........2002 (10) 2001........1993 (8)
   - 2 (3): 2014-15 2012-13 2001-02
+  - ⇑ (1) / ⇓ (2): 2  **?? 2013-14 ??** 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 
 - **Real Sociedad** - 25 seasons in 2 levels
-  - 1 (22): 2017-18........2010-11 (8) 2006-07..............1993-94 (14)
-  - 2 (3): 2009-10...2007-08 (3)
+  - 1 (22): 2018........2010 (8) 2007..............1993 (14)
+  - 2 (3): 2010...2007 (3)
+  - ⇑ (1) / ⇓ (1): 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 - **Real Unión** - 1 season in 1 level
   - 2 (1): 2009-10
 - **Real Valladolid CF** - 25 seasons in 2 levels
-  - 1 (16): 2013-14..2012-13 (2) 2009-10...2007-08 (3) 2003-04...........1993-94 (11)
-  - 2 (9): 2017-18....2014-15 (4) 2011-12..2010-11 (2) 2006-07...2004-05 (3)
+  - 1 (16): 2014..2012 (2) 2010...2007 (3) 2004...........1993 (11)
+  - 2 (9): 2018....2014 (4) 2012..2010 (2) 2007...2004 (3)
+  - ⇑ (2) / ⇓ (3): 2 2 2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 
 - **Real Zaragoza** - 25 seasons in 2 levels
-  - 1 (18): 2012-13....2009-10 (4) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
-  - 2 (7): 2017-18.....2013-14 (5) 2008-09 2002-03
+  - 1 (18): 2013....2009 (4) 2008.....2003 (5) 2002.........1993 (9)
+  - 2 (7): 2018.....2013 (5) 2008-09 2002-03
+  - ⇑ (2) / ⇓ (3): 2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 
 - **Recreativo Huelva** - 17 seasons in 2 levels
-  - 1 (4): 2008-09...2006-07 (3) 2002-03
-  - 2 (13): 2014-15......2009-10 (6) 2005-06...2003-04 (3) 2001-02....1998-99 (4)
+  - 1 (4): 2009...2006 (3) 2002-03
+  - 2 (13): 2015......2009 (6) 2006...2003 (3) 2002....1998 (4)
+  - ⇑ (2) / ⇓ (2): 2 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 ⇓1 ⇑2 2 2 2 
 - **SD Compostela** - 8 seasons in 2 levels
-  - 1 (4): 1997-98....1994-95 (4)
-  - 2 (4): 2002-03 2000-01...1998-99 (3)
+  - 1 (4): 1998....1994 (4)
+  - 2 (4): 2002-03 2001...1998 (3)
+  - ⇓ (1): 2  **?? 2001-02 ??** 2 2 2 ⇓1 1 1 1 
 - **SD Eibar** - 17 seasons in 2 levels
-  - 1 (4): 2017-18....2014-15 (4)
-  - 2 (13): 2013-14 2008-09..2007-08 (2) 2005-06..........1996-97 (10)
+  - 1 (4): 2018....2014 (4)
+  - 2 (13): 2013-14 2009..2007 (2) 2006..........1996 (10)
+  - ⇑ (1): 1 1 1 1 ⇑2  **?? 2012-13 ??** 2 2  **?? 2006-07 ??** 2 2 2 2 2 2 2 2 2 2 
 - **SD Huesca** - 8 seasons in 1 level
-  - 2 (8): 2017-18...2015-16 (3) 2012-13.....2008-09 (5)
+  - 2 (8): 2018...2015 (3) 2013.....2008 (5)
 - **SD Ponferradina** - 6 seasons in 1 level
-  - 2 (6): 2015-16....2012-13 (4) 2010-11 2006-07
+  - 2 (6): 2016....2012 (4) 2010-11 2006-07
 - **Sevilla FC** - 25 seasons in 2 levels
-  - 1 (22): 2017-18.................2001-02 (17) 1999-00 1996-97....1993-94 (4)
-  - 2 (3): 2000-01 1998-99..1997-98 (2)
+  - 1 (22): 2018.................2001 (17) 1999-00 1997....1993 (4)
+  - 2 (3): 2000-01 1999..1997 (2)
+  - ⇑ (2) / ⇓ (2): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 1 
 - **Sevilla FC B** - 4 seasons in 1 level
-  - 2 (4): 2017-18..2016-17 (2) 2008-09..2007-08 (2)
+  - 2 (4): 2018..2016 (2) 2009..2007 (2)
 - **Sporting Gijón** - 25 seasons in 2 levels
-  - 1 (11): 2016-17..2015-16 (2) 2011-12....2008-09 (4) 1997-98.....1993-94 (5)
-  - 2 (14): 2017-18 2014-15...2012-13 (3) 2007-08..........1998-99 (10)
+  - 1 (11): 2017..2015 (2) 2012....2008 (4) 1998.....1993 (5)
+  - 2 (14): 2017-18 2015...2012 (3) 2008..........1998 (10)
+  - ⇑ (2) / ⇓ (3): 2 ⇓1 1 ⇑2 2 2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 
 - **Terrassa FC** - 3 seasons in 1 level
-  - 2 (3): 2004-05...2002-03 (3)
+  - 2 (3): 2005...2002 (3)
 - **UCAM Murcia** - 1 season in 1 level
   - 2 (1): 2016-17
 - **UD Almería** - 17 seasons in 2 levels
-  - 1 (6): 2014-15..2013-14 (2) 2010-11....2007-08 (4)
-  - 2 (11): 2017-18...2015-16 (3) 2012-13..2011-12 (2) 2006-07.....2002-03 (5) 1996-97
+  - 1 (6): 2015..2013 (2) 2011....2007 (4)
+  - 2 (11): 2018...2015 (3) 2013..2011 (2) 2007.....2002 (5) 1996-97
+  - ⇑ (2) / ⇓ (2): 2 2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 ⇑2 2 2 2 2  **?? 2001-02 ??** 2 
 - **UD Las Palmas** - 20 seasons in 2 levels
-  - 1 (5): 2017-18...2015-16 (3) 2001-02..2000-01 (2)
-  - 2 (15): 2014-15.........2006-07 (9) 2003-04..2002-03 (2) 1999-00....1996-97 (4)
+  - 1 (5): 2018...2015 (3) 2002..2000 (2)
+  - 2 (15): 2015.........2006 (9) 2004..2002 (2) 2000....1996 (4)
+  - ⇑ (2) / ⇓ (1): 1 1 1 ⇑2 2 2 2 2 2 2 2 2  **?? 2005-06 ??** 2 2 ⇓1 1 ⇑2 2 2 2 
 - **UD Salamanca** - 15 seasons in 2 levels
-  - 1 (3): 1998-99..1997-98 (2) 1995-96
-  - 2 (12): 2010-11.....2006-07 (5) 2004-05......1999-00 (6) 1996-97
+  - 1 (3): 1999..1997 (2) 1995-96
+  - 2 (12): 2011.....2006 (5) 2005......1999 (6) 1996-97
+  - ⇑ (1) / ⇓ (2): 2 2 2 2 2  **?? 2005-06 ??** 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 
 - **UD Vecindario** - 1 season in 1 level
   - 2 (1): 2006-07
 - **UE Llagostera** - 2 seasons in 1 level
-  - 2 (2): 2015-16..2014-15 (2)
+  - 2 (2): 2016..2014 (2)
 - **UE Lleida** - 8 seasons in 2 levels
   - 1 (1): 1993-94
-  - 2 (7): 2005-06..2004-05 (2) 2000-01.....1996-97 (5)
+  - 2 (7): 2006..2004 (2) 2001.....1996 (5)
+  - ⇓ (1): 2 2  **?? 2003-04 ??** 2 2 2 2 2  **?? 1995-96 ??** ⇓1 
 - **Universidad Las Palmas** - 1 season in 1 level
   - 2 (1): 2000-01
 - **Valencia CF** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Villarreal CF** - 22 seasons in 2 levels
-  - 1 (18): 2017-18.....2013-14 (5) 2011-12............2000-01 (12) 1998-99
-  - 2 (4): 2012-13 1999-00 1997-98..1996-97 (2)
+  - 1 (18): 2018.....2013 (5) 2012............2000 (12) 1998-99
+  - 2 (4): 2012-13 1999-00 1998..1996 (2)
+  - ⇑ (3) / ⇓ (2): 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 
 - **Villarreal CF B** - 3 seasons in 1 level
-  - 2 (3): 2011-12...2009-10 (3)
+  - 2 (3): 2012...2009 (3)
 - **Xerez CD** - 13 seasons in 2 levels
   - 1 (1): 2009-10
-  - 2 (12): 2012-13...2010-11 (3) 2008-09........2001-02 (8) 1997-98
+  - 2 (12): 2013...2010 (3) 2009........2001 (8) 1997-98
+  - ⇑ (1) / ⇓ (1): 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2  **?? 2000-01 ??** 2 
 - **Écija Balompié** - 1 season in 1 level
   - 2 (1): 1996-97
 
