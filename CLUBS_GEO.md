@@ -1,0 +1,111 @@
+# Clubs by Geo(graphy)
+
+9 missing teams:
+Arenas Club, Atético Tetuán, CD Condal, CE Europa, R. Jaén, R. Racing C., RCD Español, Real Burgos CF, Real Unión Club
+
+- ? (23): 
+  - CA Osasuna  (3) Osasuna · At. Osasuna · Club Atlético Osasuna
+  - CD Leganés  (2) Leganés · Club Deportivo Leganés
+  - CD Lugo  (2) Lugo · Club Deportivo Lugo
+  - CD Numancia  (3) Numancia · Club Deportivo Numancia de Soria · Numancia CD
+  - CD Ourense  (2) Ourense · Orense
+  - CD Toledo  (1) Toledo
+  - CE Sabadell  (3) Sabadell · CE Sabadell FC · Centre d'Esports Sabadell Futbol Club
+  - Cultural Leonesa  (1) Leonesa
+  - Lorca FC  (1) Lorca
+  - Polideportivo Ejido  (1) Poli Ejido
+  - Pontevedra CF  (1) Pontevedra
+  - Real Oviedo  (1) Oviedo
+  - Real Racing Santander  (2) Santander · Racing Santander
+  - Real Unión 
+  - Real Valladolid CF  (4) Valladolid · Real Valladolid · R. Valladolid C.F. · Real Valladolid Club de Fútbol
+  - Recreativo Huelva  (3) Recreativo · RC Recreativo de Huelva · Real Club Recreativo de Huelva
+  - SD Ponferradina  (3) Ponferradina · Sociedad Deportiva Ponferradina · Ponferradina SD
+  - Terrassa FC  (1) Terrassa
+  - UD Salamanca  (1) Salamanca
+  - UD Vecindario  (1) Vecindario
+  - UE Llagostera  (1) Llagostera
+  - UE Lleida  (2) Lleida · Lerida
+  - Xerez CD  (1) Xerez
+- **Madrid** (6): 
+  - Atlético Madrid  (5) Atlético · Atl. Madrid · Atlético de Madrid · Club Atlético de Madrid · Ath Madrid [en]
+  - Atlético Madrid B  (1) Ath Madrid B [en]
+  - Getafe CF  (3) Getafe · FC Getafe · Getafe Club de Fútbol
+  - Rayo Vallecano  (3) Rayo · Vallecano · Rayo Vallecano de Madrid
+  - Real Madrid  (3) R. Madrid · Real Madrid CF · Real Madrid Club de Fútbol
+  - Real Madrid B  (1) Real Madrid CF B
+- **Barcelona** (3): 
+  - FC Barcelona  (2) Barcelona · Fútbol Club Barcelona
+  - FC Barcelona B  (2) Barcelona B · Fútbol Club Barcelona B
+  - RCD Espanyol  (9) Espanyol · Esp. Barcelona · Espan. Barcelona · Espanyol Barc. · Espanyol Barcelona · Real CD Espanyol · Real Club Deportivo Espanyol · Español · Real Club Deportivo Español
+- **Murcia** (3): 
+  - CF Ciudad de Murcia  (1) Ciudad de Murcia
+  - Real Murcia CF  (2) Murcia · Real Murcia Club de Fútbol
+  - UCAM Murcia 
+- **Sevilla** (3): 
+  - Real Betis  (4) Betis · Betis Sevilla · Real Betis Sevilla · Real Betis Balompié
+  - Sevilla FC  (3) Sevilla · Sevilla Fútbol Club · FC Sevilla
+  - Sevilla FC B  (1) Sevilla B
+- **Alicante** (2): 
+  - Alicante CF  (1) Alicante
+  - Hércules CF  (2) Hércules · Hércules de Alicante Club de Fútbol
+- **Almendralejo** (2): 
+  - CF Extremadura (-2010)  (1) Extremadura
+  - Extremadura UD  (2) Extremadura Unión Deportiva · UD Extremadura
+- **Bilbao** (2): 
+  - Athletic Club Bilbao  (4) Athletic · Athletic Club · Ath Bilbao · Athletic Bilbao
+  - Athletic Club Bilbao B  (1) Ath Bilbao B
+- **Granada** (2): 
+  - Granada 74 
+  - Granada CF  (3) Granada · Granada Club de Fútbol · FC Granada
+- **Las Palmas** (2): 
+  - UD Las Palmas  (3) Las Palmas · Unión Deportiva Las Palmas · Las Palmas UD
+  - Universidad Las Palmas  (1) U.Las Palmas
+- **Málaga** (2): 
+  - Málaga CF  (3) Málaga · CF Málaga · FC Málaga
+  - Málaga CF B  (1) Málaga B
+- **Palma de Mallorca** (2): 
+  - RCD Mallorca  (3) Mallorca · Real CD Mallorca · Real Club Deportivo Mallorca
+  - RCD Mallorca B  (1) Mallorca B
+- **Valencia** (2): 
+  - Levante UD  (3) Levante · UD Levante · Levante Unión Deportiva
+  - Valencia CF  (4) Valencia · Valencia Club de Fútbol · FC Valencia · CF Valencia
+- **Villarreal** (2): 
+  - Villarreal CF  (3) Villarreal · FC Villarreal · Villareal
+  - Villarreal CF B  (1) Villarreal B
+- **Albacete** (1): Albacete Balompié  (1) Albacete
+- **Alcorcón** (1): AD Alcorcón  (3) Alcorcón · Agrupación Deportiva Alcorcón · Alcorcón AD
+- **Alcoy** (1): CD Alcoyano  (1) Alcoyano
+- **Algeciras** (1): Algeciras CF  (1) Algeciras
+- **Almería** (1): UD Almería  (2) Almería · Unión Deportiva Almería
+- **Badajoz** (1): CD Badajoz  (1) Badajoz
+- **Burgos** (1): Burgos CF  (1) Burgos
+- **Cartagena** (1): FC Cartagena  (1) Cartagena
+- **Castellón de la Plana** (1): CD Castellón  (1) Castellón
+- **Cádiz** (1): Cádiz CF  (2) Cádiz · FC Cádiz [de]
+- **Córdoba** (1): Córdoba CF  (2) Córdoba · Córdoba Club de Fútbol
+- **Eibar** (1): SD Eibar  (2) Eibar · Sociedad Deportiva Eibar
+- **Elche** (1): Elche CF  (2) Elche · FC Elche [de]
+- **Ferrol** (1): Racing Ferrol  (1) Ferrol
+- **Fuenlabrada** (1): CF Fuenlabrada  (2) Fuenlabrada · Club de Fútbol Fuenlabrada
+- **Gerona** (1): Girona FC  (3) Girona · Girona Futbol Club · FC Girona
+- **Gijón** (1): Sporting Gijón  (5) Sporting · Sp Gijón · Real Sporting · Real Sporting de Gijón · Sporting de Gijón
+- **Guadalajara** (1): CD Guadalajara  (1) Guadalajara
+- **Huesca** (1): SD Huesca  (1) Huesca
+- **Jaén** (1): Real Jaén CF  (2) Jaén · Real Jaén Club de Fútbol
+- **La Coruña** (1): RCD La Coruña  (8) La Coruña · RC Deportivo de La Coruña · Real Club Deportivo La Coruña · Deportivo · Deportivo La Coruña · Deportivo de La Coruña · Deportivo da Coruña · Dep. La Coruña
+- **Logroño** (1): CD Logroñés  (1) Logroñés
+- **Majadahonda** (1): CF Rayo Majadahonda  (2) Rayo Majadahonda · Club de Fútbol Rayo Majadahonda
+- **Miranda de Ebro** (1): CD Mirandés  (2) Mirandés · Club Deportivo Mirandés
+- **Mérida** (1): CP Mérida  (1) Mérida
+- **Reus** (1): CF Reus  (3) Reus Deportiu · CF Reus Deportiu · Club de Futbol Reus Deportiu
+- **San Sebastián** (1): Real Sociedad  (5) Sociedad · R. Sociedad · R. S. San Sebastián · Real Sociedad San Sebastián · Real Sociedad de Fútbol
+- **Santa Cruz de Tenerife** (1): CD Tenerife  (4) Tenerife · Club Deportivo Tenerife · Teneriffa CD [de] · CD Teneriffa [de]
+- **Santiago de Compostela** (1): SD Compostela  (1) Compostela
+- **Tarragona** (1): Gimnàstic Tarragona  (1) Gimnàstic
+- **Vigo** (1): RC Celta Vigo  (7) Celta · Celta Vigo · R.C. Celta · Real Club Celta Vigo · Real Club Celta de Vigo · Celta de Vigo · RC Celta de Vigo
+- **Vitoria** (1): Deportivo Alavés  (2) Alavés · CD Alavés
+- **Zaragoza** (1): Real Zaragoza  (2) Zaragoza · Real Saragossa [de]
+- **Écija** (1): Écija Balompié  (1) Écija
+
+
