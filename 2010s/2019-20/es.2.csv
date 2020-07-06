@@ -1,0 +1,463 @@
+Round,Date,Team 1,FT,Team 2
+37,Mon Jul 1 2019,UD Almería,,Sporting Gijón
+37,Mon Jul 1 2019,Real Oviedo,,CD Mirandés
+37,Mon Jul 1 2019,CD Lugo,,CD Numancia
+37,Mon Jul 1 2019,SD Ponferradina,,CF Fuenlabrada
+37,Mon Jul 1 2019,Extremadura UD,,Real Racing Santander
+37,Tue Jul 2 2019,Albacete Balompié,,AD Alcorcón
+37,Tue Jul 2 2019,Rayo Vallecano,,Málaga CF
+37,Tue Jul 2 2019,SD Huesca,,UD Las Palmas
+37,Wed Jul 3 2019,Girona FC,,Real Zaragoza
+38,Thu Jul 4 2019,Cádiz CF,,Real Oviedo
+38,Thu Jul 4 2019,CD Numancia,,Extremadura UD
+38,Thu Jul 4 2019,UD Almería,,CD Tenerife
+38,Thu Jul 4 2019,CF Fuenlabrada,,CD Mirandés
+38,Thu Jul 4 2019,Real Racing Santander,,Elche CF
+38,Fri Jul 5 2019,RCD La Coruña,,SD Huesca
+38,Fri Jul 5 2019,UD Las Palmas,,SD Ponferradina
+38,Fri Jul 5 2019,Málaga CF,,Albacete Balompié
+38,Fri Jul 5 2019,AD Alcorcón,,CD Lugo
+38,Sat Jul 6 2019,Sporting Gijón,,Girona FC
+38,Sat Jul 6 2019,Real Zaragoza,,Rayo Vallecano
+39,Mon Jul 8 2019,CF Fuenlabrada,,Real Racing Santander
+39,Mon Jul 8 2019,CD Mirandés,,Elche CF
+39,Mon Jul 8 2019,SD Ponferradina,,CD Lugo
+39,Mon Jul 8 2019,Albacete Balompié,,Sporting Gijón
+39,Mon Jul 8 2019,Málaga CF,,RCD La Coruña
+39,Mon Jul 8 2019,Extremadura UD,,Cádiz CF
+39,Mon Jul 8 2019,SD Huesca,,AD Alcorcón
+39,Mon Jul 8 2019,Girona FC,,UD Almería
+39,Mon Jul 8 2019,Real Oviedo,,UD Las Palmas
+39,Mon Jul 8 2019,Rayo Vallecano,,CD Numancia
+39,Mon Jul 8 2019,CD Tenerife,,Real Zaragoza
+40,Fri Jul 12 2019,Cádiz CF,,CF Fuenlabrada
+40,Fri Jul 12 2019,AD Alcorcón,,CD Tenerife
+40,Fri Jul 12 2019,Sporting Gijón,,Málaga CF
+40,Fri Jul 12 2019,UD Almería,,Rayo Vallecano
+40,Fri Jul 12 2019,Elche CF,,Albacete Balompié
+40,Fri Jul 12 2019,UD Las Palmas,,CD Mirandés
+40,Fri Jul 12 2019,CD Numancia,,SD Ponferradina
+40,Fri Jul 12 2019,RCD La Coruña,,Extremadura UD
+40,Fri Jul 12 2019,CD Lugo,,Girona FC
+40,Fri Jul 12 2019,Real Zaragoza,,Real Oviedo
+40,Fri Jul 12 2019,Real Racing Santander,,SD Huesca
+41,Mon Jul 15 2019,Extremadura UD,,Sporting Gijón
+41,Mon Jul 15 2019,Girona FC,,Cádiz CF
+41,Mon Jul 15 2019,Rayo Vallecano,,UD Las Palmas
+41,Mon Jul 15 2019,CD Mirandés,,RCD La Coruña
+41,Mon Jul 15 2019,CD Tenerife,,CD Lugo
+41,Mon Jul 15 2019,SD Ponferradina,,UD Almería
+41,Mon Jul 15 2019,Real Oviedo,,Real Racing Santander
+41,Mon Jul 15 2019,Málaga CF,,AD Alcorcón
+41,Mon Jul 15 2019,SD Huesca,,CD Numancia
+41,Mon Jul 15 2019,CF Fuenlabrada,,Elche CF
+41,Mon Jul 15 2019,Albacete Balompié,,Real Zaragoza
+42,Fri Jul 19 2019,Cádiz CF,,Albacete Balompié
+42,Fri Jul 19 2019,UD Almería,,Málaga CF
+42,Fri Jul 19 2019,RCD La Coruña,,CF Fuenlabrada
+42,Fri Jul 19 2019,Real Zaragoza,,SD Ponferradina
+42,Fri Jul 19 2019,Sporting Gijón,,SD Huesca
+42,Fri Jul 19 2019,Elche CF,,Real Oviedo
+42,Fri Jul 19 2019,Real Racing Santander,,Rayo Vallecano
+42,Fri Jul 19 2019,CD Numancia,,CD Tenerife
+42,Fri Jul 19 2019,UD Las Palmas,,Extremadura UD
+42,Fri Jul 19 2019,AD Alcorcón,,Girona FC
+42,Fri Jul 19 2019,CD Lugo,,CD Mirandés
+1,Sat Aug 17 2019,Rayo Vallecano,2-2,CD Mirandés
+1,Sat Aug 17 2019,Elche CF,0-2,CF Fuenlabrada
+1,Sat Aug 17 2019,UD Almería,3-0,Albacete Balompié
+1,Sat Aug 17 2019,CD Lugo,0-0,Extremadura UD
+1,Sat Aug 17 2019,Real Zaragoza,2-0,CD Tenerife
+1,Sat Aug 17 2019,Real Racing Santander,0-1,Málaga CF
+1,Sun Aug 18 2019,CD Numancia,0-1,AD Alcorcón
+1,Sun Aug 18 2019,RCD La Coruña,3-2,Real Oviedo
+1,Sun Aug 18 2019,Girona FC,1-1,Sporting Gijón
+1,Sun Aug 18 2019,UD Las Palmas,0-1,SD Huesca
+1,Sun Aug 18 2019,Cádiz CF,3-1,SD Ponferradina
+2,Fri Aug 23 2019,Albacete Balompié,1-0,Girona FC
+2,Sat Aug 24 2019,Real Oviedo,1-1,CD Lugo
+2,Sat Aug 24 2019,Real Racing Santander,1-1,UD Almería
+2,Sat Aug 24 2019,Málaga CF,1-1,UD Las Palmas
+2,Sat Aug 24 2019,AD Alcorcón,1-2,Elche CF
+2,Sat Aug 24 2019,CD Mirandés,1-2,Cádiz CF
+2,Sun Aug 25 2019,SD Ponferradina,1-1,Real Zaragoza
+2,Sun Aug 25 2019,Sporting Gijón,1-1,Rayo Vallecano
+2,Sun Aug 25 2019,SD Huesca,3-1,RCD La Coruña
+2,Sun Aug 25 2019,CD Tenerife,3-2,CD Numancia
+2,Sun Aug 25 2019,Extremadura UD,1-2,CF Fuenlabrada
+3,Fri Aug 30 2019,Real Zaragoza,1-0,Elche CF
+3,Sat Aug 31 2019,CD Numancia,2-0,CD Mirandés
+3,Sat Aug 31 2019,CF Fuenlabrada,2-1,Real Oviedo
+3,Sat Aug 31 2019,UD Almería,1-0,SD Huesca
+3,Sat Aug 31 2019,UD Las Palmas,2-2,Real Racing Santander
+3,Sun Sep 1 2019,CD Lugo,2-4,AD Alcorcón
+3,Sun Sep 1 2019,Rayo Vallecano,3-1,RCD La Coruña
+3,Sun Sep 1 2019,Sporting Gijón,2-0,Albacete Balompié
+3,Sun Sep 1 2019,Cádiz CF,2-1,Extremadura UD
+3,Sun Sep 1 2019,SD Ponferradina,4-0,CD Tenerife
+3,Sun Sep 1 2019,Girona FC,1-0,Málaga CF
+4,Fri Sep 6 2019,Real Racing Santander,1-2,Cádiz CF
+4,Sat Sep 7 2019,Málaga CF,0-1,UD Almería
+4,Sat Sep 7 2019,RCD La Coruña,0-1,Albacete Balompié
+4,Sat Sep 7 2019,Extremadura UD,0-0,CD Numancia
+4,Sat Sep 7 2019,CF Fuenlabrada,1-1,SD Ponferradina
+4,Sat Sep 7 2019,CD Tenerife,0-0,UD Las Palmas
+4,Sun Sep 8 2019,SD Huesca,1-0,Sporting Gijón
+4,Sun Sep 8 2019,Girona FC,3-1,Rayo Vallecano
+4,Sun Sep 8 2019,CD Mirandés,2-1,Real Oviedo
+4,Sun Sep 8 2019,AD Alcorcón,0-3,Real Zaragoza
+4,Sun Sep 8 2019,Elche CF,1-1,CD Lugo
+5,Fri Sep 13 2019,Rayo Vallecano,2-0,Real Racing Santander
+5,Sat Sep 14 2019,SD Ponferradina,1-1,AD Alcorcón
+5,Sat Sep 14 2019,CD Numancia,1-0,SD Huesca
+5,Sat Sep 14 2019,CD Mirandés,1-1,Málaga CF
+5,Sat Sep 14 2019,Cádiz CF,2-0,Girona FC
+5,Sat Sep 14 2019,UD Las Palmas,0-3,UD Almería
+5,Sun Sep 15 2019,CD Lugo,2-0,CF Fuenlabrada
+5,Sun Sep 15 2019,Albacete Balompié,0-4,CD Tenerife
+5,Sun Sep 15 2019,Real Oviedo,0-2,Elche CF
+5,Sun Sep 15 2019,Real Zaragoza,3-1,Extremadura UD
+5,Sun Sep 15 2019,Sporting Gijón,1-1,RCD La Coruña
+6,Tue Sep 17 2019,AD Alcorcón,3-0,Cádiz CF
+6,Tue Sep 17 2019,Málaga CF,1-1,Rayo Vallecano
+6,Tue Sep 17 2019,Real Racing Santander,4-0,CD Mirandés
+6,Tue Sep 17 2019,UD Almería,3-1,Girona FC
+6,Wed Sep 18 2019,RCD La Coruña,3-3,CD Numancia
+6,Wed Sep 18 2019,CD Lugo,2-2,SD Ponferradina
+6,Wed Sep 18 2019,SD Huesca,0-1,Albacete Balompié
+6,Thu Sep 19 2019,Elche CF,1-1,CD Tenerife
+6,Thu Sep 19 2019,Real Oviedo,1-1,Extremadura UD
+6,Thu Sep 19 2019,UD Las Palmas,1-0,Sporting Gijón
+7,Fri Sep 20 2019,CD Mirandés,2-2,AD Alcorcón
+7,Sat Sep 21 2019,Rayo Vallecano,1-1,UD Almería
+7,Sat Sep 21 2019,Albacete Balompié,1-0,Málaga CF
+7,Sat Sep 21 2019,Cádiz CF,0-0,RCD La Coruña
+7,Sat Sep 21 2019,Real Zaragoza,0-0,CD Lugo
+7,Sun Sep 22 2019,CD Tenerife,0-1,CF Fuenlabrada
+7,Sun Sep 22 2019,Extremadura UD,0-1,SD Huesca
+7,Sun Sep 22 2019,Sporting Gijón,1-1,Real Racing Santander
+7,Sun Sep 22 2019,Girona FC,1-0,UD Las Palmas
+7,Sun Sep 22 2019,CD Numancia,1-1,Elche CF
+7,Sun Sep 22 2019,SD Ponferradina,2-1,Real Oviedo
+8,Fri Sep 27 2019,UD Las Palmas,3-2,Albacete Balompié
+8,Sat Sep 28 2019,SD Huesca,1-0,Girona FC
+8,Sat Sep 28 2019,Elche CF,1-0,SD Ponferradina
+8,Sat Sep 28 2019,Real Racing Santander,0-0,CD Numancia
+8,Sat Sep 28 2019,CF Fuenlabrada,2-2,Rayo Vallecano
+8,Sat Sep 28 2019,AD Alcorcón,0-2,Extremadura UD
+8,Sun Sep 29 2019,CD Lugo,1-4,CD Tenerife
+8,Sun Sep 29 2019,Real Oviedo,2-2,Real Zaragoza
+8,Sun Sep 29 2019,RCD La Coruña,1-1,CD Mirandés
+8,Sun Sep 29 2019,UD Almería,1-2,Cádiz CF
+8,Sun Sep 29 2019,Málaga CF,0-0,Sporting Gijón
+9,Tue Oct 1 2019,CD Numancia,1-0,CF Fuenlabrada
+9,Tue Oct 1 2019,Rayo Vallecano,1-1,AD Alcorcón
+9,Tue Oct 1 2019,Extremadura UD,2-0,Elche CF
+9,Tue Oct 1 2019,Albacete Balompié,0-0,Real Racing Santander
+9,Wed Oct 2 2019,CD Tenerife,0-1,Real Oviedo
+9,Wed Oct 2 2019,CD Mirandés,1-1,CD Lugo
+9,Wed Oct 2 2019,SD Ponferradina,0-2,UD Las Palmas
+9,Wed Oct 2 2019,Cádiz CF,1-0,SD Huesca
+9,Thu Oct 3 2019,Real Zaragoza,2-2,Málaga CF
+9,Thu Oct 3 2019,Sporting Gijón,4-2,UD Almería
+9,Thu Oct 3 2019,Girona FC,3-1,RCD La Coruña
+10,Fri Oct 4 2019,AD Alcorcón,0-1,Albacete Balompié
+10,Sat Oct 5 2019,Elche CF,1-1,Rayo Vallecano
+10,Sat Oct 5 2019,SD Ponferradina,2-0,CD Mirandés
+10,Sat Oct 5 2019,CD Tenerife,1-2,Extremadura UD
+10,Sat Oct 5 2019,CD Lugo,0-2,UD Las Palmas
+10,Sun Oct 6 2019,RCD La Coruña,0-0,UD Almería
+10,Sun Oct 6 2019,Real Racing Santander,0-3,Girona FC
+10,Sun Oct 6 2019,SD Huesca,2-0,Málaga CF
+10,Sun Oct 6 2019,CF Fuenlabrada,2-0,Sporting Gijón
+10,Sun Oct 6 2019,Real Oviedo,1-1,CD Numancia
+10,Sun Oct 6 2019,Real Zaragoza,0-2,Cádiz CF
+11,Fri Oct 11 2019,Rayo Vallecano,2-1,CD Tenerife
+11,Sat Oct 12 2019,Girona FC,0-2,Elche CF
+11,Sat Oct 12 2019,Málaga CF,1-2,Cádiz CF
+11,Sat Oct 12 2019,Extremadura UD,1-1,SD Ponferradina
+11,Sat Oct 12 2019,Sporting Gijón,1-3,AD Alcorcón
+11,Sat Oct 12 2019,UD Almería,0-0,CD Lugo
+11,Sun Oct 13 2019,CD Mirandés,2-1,CF Fuenlabrada
+11,Sun Oct 13 2019,SD Huesca,1-1,Real Racing Santander
+11,Sun Oct 13 2019,CD Numancia,0-1,Real Zaragoza
+11,Sun Oct 13 2019,UD Las Palmas,3-0,RCD La Coruña
+11,Sun Oct 13 2019,Albacete Balompié,1-2,Real Oviedo
+6,Wed Oct 16 2019,CF Fuenlabrada,2-1,Real Zaragoza
+12,Fri Oct 18 2019,Cádiz CF,2-0,UD Las Palmas
+12,Sat Oct 19 2019,Extremadura UD,0-3,Rayo Vallecano
+12,Sat Oct 19 2019,AD Alcorcón,2-2,UD Almería
+12,Sat Oct 19 2019,CD Lugo,3-2,SD Huesca
+12,Sat Oct 19 2019,Elche CF,0-1,Sporting Gijón
+12,Sat Oct 19 2019,SD Ponferradina,1-1,CD Numancia
+12,Sun Oct 20 2019,CD Tenerife,3-3,Real Racing Santander
+12,Sun Oct 20 2019,Real Oviedo,4-2,Girona FC
+12,Sun Oct 20 2019,Real Zaragoza,1-2,CD Mirandés
+12,Sun Oct 20 2019,RCD La Coruña,0-2,Málaga CF
+12,Sun Oct 20 2019,CF Fuenlabrada,0-1,Albacete Balompié
+13,Fri Oct 25 2019,Albacete Balompié,1-0,Cádiz CF
+13,Sat Oct 26 2019,Real Racing Santander,1-1,RCD La Coruña
+13,Sat Oct 26 2019,Málaga CF,2-1,Real Oviedo
+13,Sat Oct 26 2019,CD Numancia,3-1,CD Lugo
+13,Sat Oct 26 2019,Rayo Vallecano,1-3,SD Ponferradina
+13,Sat Oct 26 2019,CD Mirandés,0-0,CD Tenerife
+13,Sun Oct 27 2019,Sporting Gijón,4-0,Real Zaragoza
+13,Sun Oct 27 2019,SD Huesca,2-0,Elche CF
+13,Sun Oct 27 2019,UD Almería,3-2,Extremadura UD
+13,Sun Oct 27 2019,Girona FC,0-0,AD Alcorcón
+13,Sun Oct 27 2019,UD Las Palmas,1-3,CF Fuenlabrada
+14,Fri Nov 1 2019,SD Ponferradina,1-0,Málaga CF
+14,Fri Nov 1 2019,CD Numancia,1-0,Albacete Balompié
+14,Fri Nov 1 2019,Cádiz CF,3-1,Sporting Gijón
+14,Fri Nov 1 2019,Real Oviedo,0-0,UD Almería
+14,Sat Nov 2 2019,AD Alcorcón,1-0,Real Racing Santander
+14,Sat Nov 2 2019,CF Fuenlabrada,1-1,RCD La Coruña
+14,Sat Nov 2 2019,CD Tenerife,0-0,SD Huesca
+14,Sun Nov 3 2019,Elche CF,4-2,CD Mirandés
+14,Sun Nov 3 2019,Extremadura UD,1-3,Girona FC
+14,Sun Nov 3 2019,CD Lugo,1-0,Rayo Vallecano
+14,Sun Nov 3 2019,Real Zaragoza,3-0,UD Las Palmas
+15,Fri Nov 8 2019,Girona FC,1-0,CD Tenerife
+15,Sat Nov 9 2019,UD Las Palmas,1-1,AD Alcorcón
+15,Sat Nov 9 2019,SD Huesca,3-1,Real Oviedo
+15,Sat Nov 9 2019,CD Mirandés,2-0,Extremadura UD
+15,Sat Nov 9 2019,Sporting Gijón,0-1,CD Numancia
+15,Sat Nov 9 2019,Albacete Balompié,0-1,CD Lugo
+15,Sun Nov 10 2019,Rayo Vallecano,1-1,Cádiz CF
+15,Sun Nov 10 2019,RCD La Coruña,1-3,Elche CF
+15,Sun Nov 10 2019,UD Almería,1-1,Real Zaragoza
+15,Sun Nov 10 2019,Real Racing Santander,2-2,SD Ponferradina
+15,Sun Nov 10 2019,Málaga CF,0-0,CF Fuenlabrada
+16,Sat Nov 16 2019,Extremadura UD,2-0,RCD La Coruña
+16,Sat Nov 16 2019,CF Fuenlabrada,3-2,SD Huesca
+16,Sat Nov 16 2019,Real Zaragoza,0-1,Albacete Balompié
+16,Sat Nov 16 2019,Elche CF,1-1,UD Almería
+16,Sat Nov 16 2019,CD Numancia,2-2,Rayo Vallecano
+16,Sun Nov 17 2019,SD Ponferradina,1-1,Girona FC
+16,Sun Nov 17 2019,CD Tenerife,1-1,Cádiz CF
+16,Sun Nov 17 2019,AD Alcorcón,1-0,Málaga CF
+16,Sun Nov 17 2019,Real Oviedo,0-0,Sporting Gijón
+16,Sun Nov 17 2019,CD Mirandés,2-1,UD Las Palmas
+16,Sun Nov 17 2019,CD Lugo,1-1,Real Racing Santander
+17,Fri Nov 22 2019,Sporting Gijón,0-2,CD Tenerife
+17,Sat Nov 23 2019,SD Huesca,2-0,SD Ponferradina
+17,Sat Nov 23 2019,Rayo Vallecano,0-1,Real Zaragoza
+17,Sat Nov 23 2019,Real Racing Santander,3-0,Extremadura UD
+17,Sat Nov 23 2019,RCD La Coruña,0-0,AD Alcorcón
+17,Sun Nov 24 2019,Albacete Balompié,1-2,CD Mirandés
+17,Sun Nov 24 2019,UD Almería,2-0,CD Numancia
+17,Sun Nov 24 2019,Málaga CF,3-3,Elche CF
+17,Sun Nov 24 2019,UD Las Palmas,3-1,Real Oviedo
+17,Sun Nov 24 2019,Cádiz CF,2-1,CD Lugo
+17,Sun Nov 24 2019,Girona FC,2-0,CF Fuenlabrada
+18,Fri Nov 29 2019,CD Numancia,0-0,Málaga CF
+18,Sat Nov 30 2019,Real Zaragoza,3-3,Girona FC
+18,Sat Nov 30 2019,CD Tenerife,1-3,UD Almería
+18,Sat Nov 30 2019,AD Alcorcón,0-2,SD Huesca
+18,Sat Nov 30 2019,SD Ponferradina,1-1,Albacete Balompié
+18,Sat Nov 30 2019,CD Mirandés,0-0,Sporting Gijón
+18,Sun Dec 1 2019,CF Fuenlabrada,1-0,Cádiz CF
+18,Sun Dec 1 2019,Real Oviedo,2-1,Rayo Vallecano
+18,Sun Dec 1 2019,CD Lugo,0-0,RCD La Coruña
+18,Sun Dec 1 2019,Elche CF,2-0,Real Racing Santander
+18,Sun Dec 1 2019,Extremadura UD,0-1,UD Las Palmas
+19,Fri Dec 6 2019,Albacete Balompié,1-1,Extremadura UD
+19,Fri Dec 6 2019,Real Racing Santander,2-2,CF Fuenlabrada
+19,Fri Dec 6 2019,Málaga CF,2-0,CD Tenerife
+19,Fri Dec 6 2019,AD Alcorcón,1-3,Real Oviedo
+19,Sat Dec 7 2019,SD Huesca,0-2,Rayo Vallecano
+19,Sat Dec 7 2019,Sporting Gijón,1-0,SD Ponferradina
+19,Sat Dec 7 2019,UD Almería,3-1,CD Mirandés
+19,Sun Dec 8 2019,Girona FC,3-1,CD Lugo
+19,Sun Dec 8 2019,Cádiz CF,0-0,Elche CF
+19,Sun Dec 8 2019,RCD La Coruña,1-3,Real Zaragoza
+19,Sun Dec 8 2019,UD Las Palmas,3-1,CD Numancia
+20,Fri Dec 13 2019,CD Numancia,2-0,Girona FC
+20,Sat Dec 14 2019,CD Mirandés,2-0,SD Huesca
+20,Sat Dec 14 2019,Real Zaragoza,2-0,Real Racing Santander
+20,Sat Dec 14 2019,CD Tenerife,0-0,AD Alcorcón
+20,Sat Dec 14 2019,SD Ponferradina,2-0,RCD La Coruña
+20,Sun Dec 15 2019,Real Oviedo,0-2,Cádiz CF
+20,Sun Dec 15 2019,CD Lugo,1-2,Sporting Gijón
+20,Sun Dec 15 2019,Elche CF,2-3,UD Las Palmas
+20,Sun Dec 15 2019,Extremadura UD,0-0,Málaga CF
+20,Sun Dec 15 2019,CF Fuenlabrada,2-2,UD Almería
+21,Fri Dec 20 2019,RCD La Coruña,2-1,CD Tenerife
+21,Sat Dec 21 2019,Sporting Gijón,0-1,Extremadura UD
+21,Sat Dec 21 2019,Málaga CF,1-1,CD Lugo
+21,Sat Dec 21 2019,UD Las Palmas,1-1,Rayo Vallecano
+21,Sat Dec 21 2019,Real Racing Santander,1-1,Real Oviedo
+21,Sat Dec 21 2019,Cádiz CF,2-4,CD Numancia
+21,Sat Dec 21 2019,Albacete Balompié,0-1,Elche CF
+21,Sun Dec 22 2019,SD Huesca,2-1,Real Zaragoza
+21,Sun Dec 22 2019,Girona FC,0-3,CD Mirandés
+21,Sun Dec 22 2019,UD Almería,2-3,SD Ponferradina
+21,Sun Dec 22 2019,AD Alcorcón,1-1,CF Fuenlabrada
+22,Fri Jan 3 2020,Extremadura UD,0-0,AD Alcorcón
+22,Sat Jan 4 2020,SD Ponferradina,0-0,Cádiz CF
+22,Sat Jan 4 2020,CD Lugo,0-4,UD Almería
+22,Sat Jan 4 2020,CD Mirandés,0-0,Real Racing Santander
+22,Sat Jan 4 2020,Elche CF,1-1,SD Huesca
+22,Sat Jan 4 2020,CD Tenerife,4-2,Albacete Balompié
+22,Sat Jan 4 2020,CF Fuenlabrada,0-0,UD Las Palmas
+22,Sun Jan 5 2020,Rayo Vallecano,1-0,Girona FC
+22,Sun Jan 5 2020,CD Numancia,0-1,RCD La Coruña
+22,Sun Jan 5 2020,Real Oviedo,1-1,Málaga CF
+22,Tue Jan 7 2020,Real Zaragoza,2-0,Sporting Gijón
+23,Tue Jan 14 2020,Sporting Gijón,1-0,Elche CF
+23,Tue Jan 14 2020,UD Las Palmas,0-1,Real Zaragoza
+23,Tue Jan 14 2020,Albacete Balompié,1-1,CF Fuenlabrada
+23,Tue Jan 14 2020,Málaga CF,1-0,SD Ponferradina
+23,Wed Jan 15 2020,AD Alcorcón,2-2,CD Numancia
+23,Wed Jan 15 2020,Rayo Vallecano,1-0,CD Lugo
+23,Wed Jan 15 2020,Cádiz CF,3-3,CD Mirandés
+23,Wed Jan 15 2020,SD Huesca,2-1,CD Tenerife
+23,Thu Jan 16 2020,RCD La Coruña,2-1,Real Racing Santander
+23,Thu Jan 16 2020,UD Almería,2-0,Real Oviedo
+23,Thu Jan 16 2020,Girona FC,3-1,Extremadura UD
+24,Fri Jan 17 2020,CF Fuenlabrada,0-0,Málaga CF
+24,Sat Jan 18 2020,CD Lugo,1-0,Albacete Balompié
+24,Sat Jan 18 2020,SD Ponferradina,1-1,Rayo Vallecano
+24,Sat Jan 18 2020,CD Numancia,2-0,Sporting Gijón
+24,Sun Jan 19 2020,Real Oviedo,1-1,SD Huesca
+24,Sun Jan 19 2020,Real Racing Santander,1-1,UD Las Palmas
+24,Sun Jan 19 2020,RCD La Coruña,1-0,Cádiz CF
+24,Sun Jan 19 2020,Extremadura UD,1-2,UD Almería
+24,Sun Jan 19 2020,Elche CF,1-1,AD Alcorcón
+24,Sun Jan 19 2020,CD Tenerife,1-0,Girona FC
+25,Fri Jan 24 2020,Cádiz CF,1-0,Real Racing Santander
+25,Sat Jan 25 2020,Real Zaragoza,1-0,CD Numancia
+25,Sat Jan 25 2020,Sporting Gijón,1-0,CF Fuenlabrada
+25,Sat Jan 25 2020,UD Las Palmas,0-0,CD Tenerife
+25,Sat Jan 25 2020,SD Huesca,2-1,CD Lugo
+25,Sun Jan 26 2020,UD Almería,0-2,Elche CF
+25,Sun Jan 26 2020,Girona FC,1-1,Real Oviedo
+25,Sun Jan 26 2020,Rayo Vallecano,1-1,Extremadura UD
+25,Sun Jan 26 2020,AD Alcorcón,3-1,SD Ponferradina
+25,Sun Jan 26 2020,Albacete Balompié,0-1,RCD La Coruña
+25,Sun Jan 26 2020,Málaga CF,2-2,CD Mirandés
+26,Fri Jan 31 2020,CD Tenerife,2-1,Sporting Gijón
+26,Sat Feb 1 2020,SD Ponferradina,3-1,SD Huesca
+26,Sat Feb 1 2020,Elche CF,2-0,Málaga CF
+26,Sat Feb 1 2020,RCD La Coruña,2-1,UD Las Palmas
+26,Sat Feb 1 2020,Extremadura UD,1-0,CD Lugo
+26,Sun Feb 2 2020,CD Mirandés,0-0,Rayo Vallecano
+26,Sun Feb 2 2020,Cádiz CF,1-1,Real Zaragoza
+26,Sun Feb 2 2020,CD Numancia,1-1,UD Almería
+26,Sun Feb 2 2020,Real Racing Santander,1-1,AD Alcorcón
+26,Sun Feb 2 2020,Real Oviedo,3-1,Albacete Balompié
+26,Sun Feb 2 2020,CF Fuenlabrada,0-1,Girona FC
+27,Fri Feb 7 2020,UD Almería,0-1,Real Racing Santander
+27,Sat Feb 8 2020,UD Las Palmas,1-2,Cádiz CF
+27,Sat Feb 8 2020,Extremadura UD,2-4,CD Tenerife
+27,Sat Feb 8 2020,Girona FC,1-0,SD Huesca
+27,Sat Feb 8 2020,Real Zaragoza,0-0,CF Fuenlabrada
+27,Sun Feb 9 2020,AD Alcorcón,0-1,RCD La Coruña
+27,Sun Feb 9 2020,Sporting Gijón,2-2,CD Mirandés
+27,Sun Feb 9 2020,Rayo Vallecano,1-1,Real Oviedo
+27,Sun Feb 9 2020,Albacete Balompié,1-1,SD Ponferradina
+27,Sun Feb 9 2020,Málaga CF,2-1,CD Numancia
+27,Sun Feb 9 2020,CD Lugo,2-2,Elche CF
+28,Fri Feb 14 2020,RCD La Coruña,2-2,Girona FC
+28,Sat Feb 15 2020,Real Oviedo,1-2,AD Alcorcón
+28,Sat Feb 15 2020,CD Numancia,1-1,UD Las Palmas
+28,Sat Feb 15 2020,SD Huesca,3-2,UD Almería
+28,Sat Feb 15 2020,Elche CF,1-2,Real Zaragoza
+28,Sun Feb 16 2020,CD Mirandés,1-1,Albacete Balompié
+28,Sun Feb 16 2020,Cádiz CF,0-1,Málaga CF
+28,Sun Feb 16 2020,Real Racing Santander,0-2,Sporting Gijón
+28,Sun Feb 16 2020,SD Ponferradina,0-0,Extremadura UD
+28,Sun Feb 16 2020,CD Tenerife,0-0,Rayo Vallecano
+28,Sun Feb 16 2020,CF Fuenlabrada,0-1,CD Lugo
+24,Wed Feb 19 2020,CD Mirandés,1-1,Real Zaragoza
+29,Fri Feb 21 2020,Sporting Gijón,1-0,Cádiz CF
+29,Sat Feb 22 2020,UD Almería,0-0,CF Fuenlabrada
+29,Sat Feb 22 2020,Girona FC,2-0,SD Ponferradina
+29,Sat Feb 22 2020,AD Alcorcón,1-1,UD Las Palmas
+29,Sat Feb 22 2020,CD Tenerife,1-0,Elche CF
+29,Sat Feb 22 2020,Albacete Balompié,2-1,CD Numancia
+29,Sun Feb 23 2020,Real Zaragoza,3-1,RCD La Coruña
+29,Sun Feb 23 2020,CD Lugo,1-0,Real Oviedo
+29,Sun Feb 23 2020,Rayo Vallecano,2-0,SD Huesca
+29,Sun Feb 23 2020,Extremadura UD,3-2,CD Mirandés
+29,Sun Feb 23 2020,Málaga CF,2-0,Real Racing Santander
+30,Fri Feb 28 2020,UD Las Palmas,1-1,Málaga CF
+30,Sat Feb 29 2020,Albacete Balompié,1-1,Rayo Vallecano
+30,Sat Feb 29 2020,SD Huesca,2-2,Extremadura UD
+30,Sat Feb 29 2020,SD Ponferradina,1-0,Sporting Gijón
+30,Sat Feb 29 2020,Cádiz CF,2-1,UD Almería
+30,Sat Feb 29 2020,Real Racing Santander,2-2,Real Zaragoza
+30,Sun Mar 1 2020,Real Oviedo,1-0,CD Tenerife
+30,Sun Mar 1 2020,CD Mirandés,1-1,Girona FC
+30,Sun Mar 1 2020,RCD La Coruña,0-0,CD Lugo
+30,Sun Mar 1 2020,Elche CF,2-0,CD Numancia
+30,Sun Mar 1 2020,CF Fuenlabrada,3-4,AD Alcorcón
+31,Fri Mar 6 2020,CD Lugo,1-1,Cádiz CF
+31,Sat Mar 7 2020,Girona FC,1-1,Albacete Balompié
+31,Sat Mar 7 2020,UD Almería,4-0,RCD La Coruña
+31,Sat Mar 7 2020,Extremadura UD,1-2,Real Oviedo
+31,Sat Mar 7 2020,SD Huesca,2-0,CF Fuenlabrada
+31,Sat Mar 7 2020,CD Numancia,1-2,Real Racing Santander
+31,Sun Mar 8 2020,CD Tenerife,1-0,SD Ponferradina
+31,Sun Mar 8 2020,Rayo Vallecano,2-3,Elche CF
+31,Sun Mar 8 2020,Málaga CF,0-1,Real Zaragoza
+31,Sun Mar 8 2020,Sporting Gijón,4-0,UD Las Palmas
+31,Sun Mar 8 2020,AD Alcorcón,1-2,CD Mirandés
+20,Wed Jun 10 2020,Rayo Vallecano,1-0,Albacete Balompié
+32,Fri Jun 12 2020,Elche CF,1-1,Extremadura UD
+32,Fri Jun 12 2020,Málaga CF,1-3,SD Huesca
+32,Fri Jun 12 2020,CF Fuenlabrada,1-0,CD Tenerife
+32,Fri Jun 12 2020,Real Oviedo,0-0,SD Ponferradina
+32,Sat Jun 13 2020,Real Racing Santander,1-2,CD Lugo
+32,Sat Jun 13 2020,Real Zaragoza,1-3,AD Alcorcón
+32,Sat Jun 13 2020,UD Las Palmas,0-0,Girona FC
+32,Sun Jun 14 2020,RCD La Coruña,0-0,Sporting Gijón
+32,Sun Jun 14 2020,CD Mirandés,2-1,CD Numancia
+32,Sun Jun 14 2020,Albacete Balompié,0-1,UD Almería
+32,Sun Jun 14 2020,Cádiz CF,1-1,Rayo Vallecano
+33,Mon Jun 15 2020,SD Ponferradina,2-1,Elche CF
+33,Mon Jun 15 2020,CD Tenerife,0-0,Málaga CF
+33,Tue Jun 16 2020,CD Lugo,1-3,Real Zaragoza
+33,Tue Jun 16 2020,Girona FC,0-0,Real Racing Santander
+33,Wed Jun 17 2020,Extremadura UD,0-1,Albacete Balompié
+33,Wed Jun 17 2020,Rayo Vallecano,1-0,CF Fuenlabrada
+33,Wed Jun 17 2020,Real Oviedo,2-2,RCD La Coruña
+33,Wed Jun 17 2020,UD Almería,0-1,UD Las Palmas
+33,Thu Jun 18 2020,SD Huesca,1-2,CD Mirandés
+33,Thu Jun 18 2020,CD Numancia,1-2,Cádiz CF
+33,Thu Jun 18 2020,AD Alcorcón,0-2,Sporting Gijón
+34,Fri Jun 19 2020,Elche CF,1-0,Girona FC
+34,Sat Jun 20 2020,RCD La Coruña,3-3,Rayo Vallecano
+34,Sat Jun 20 2020,UD Las Palmas,1-0,CD Lugo
+34,Sat Jun 20 2020,Real Zaragoza,0-2,UD Almería
+34,Sat Jun 20 2020,Málaga CF,1-1,Extremadura UD
+34,Sun Jun 21 2020,CD Mirandés,1-2,SD Ponferradina
+34,Sun Jun 21 2020,Real Racing Santander,1-2,CD Tenerife
+34,Sun Jun 21 2020,Albacete Balompié,2-2,SD Huesca
+34,Sun Jun 21 2020,CF Fuenlabrada,2-0,CD Numancia
+34,Sun Jun 21 2020,Cádiz CF,1-1,AD Alcorcón
+34,Mon Jun 22 2020,Sporting Gijón,0-1,Real Oviedo
+35,Tue Jun 23 2020,Extremadura UD,1-2,Real Zaragoza
+35,Tue Jun 23 2020,Elche CF,0-1,RCD La Coruña
+35,Tue Jun 23 2020,CD Lugo,0-0,Málaga CF
+35,Wed Jun 24 2020,CD Tenerife,4-1,CD Mirandés
+35,Wed Jun 24 2020,SD Huesca,1-1,Cádiz CF
+35,Wed Jun 24 2020,SD Ponferradina,1-1,Real Racing Santander
+35,Wed Jun 24 2020,Albacete Balompié,0-0,UD Las Palmas
+35,Wed Jun 24 2020,Girona FC,2-0,CD Numancia
+35,Thu Jun 25 2020,Real Oviedo,0-0,CF Fuenlabrada
+35,Thu Jun 25 2020,Rayo Vallecano,1-1,Sporting Gijón
+35,Thu Jun 25 2020,UD Almería,0-1,AD Alcorcón
+36,Sat Jun 27 2020,UD Las Palmas,,Elche CF
+36,Sat Jun 27 2020,Cádiz CF,,CD Tenerife
+36,Sat Jun 27 2020,Real Racing Santander,,Albacete Balompié
+36,Sat Jun 27 2020,RCD La Coruña,,SD Ponferradina
+36,Sun Jun 28 2020,Sporting Gijón,,CD Lugo
+36,Sun Jun 28 2020,CD Numancia,,Real Oviedo
+36,Sun Jun 28 2020,CF Fuenlabrada,,Extremadura UD
+36,Sun Jun 28 2020,CD Mirandés,,UD Almería
+36,Sun Jun 28 2020,Málaga CF,,Girona FC
+36,Mon Jun 29 2020,Real Zaragoza,,SD Huesca
+36,Mon Jun 29 2020,AD Alcorcón,,Rayo Vallecano
+37,Tue Jun 30 2020,CD Tenerife,,RCD La Coruña
+37,Tue Jun 30 2020,Elche CF,,Cádiz CF

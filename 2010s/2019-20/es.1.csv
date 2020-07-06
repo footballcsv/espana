@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+33,Mon Jul 1 2019,Valencia CF,,Athletic Club Bilbao
+33,Mon Jul 1 2019,Deportivo Alavés,,Granada CF
+33,Mon Jul 1 2019,Real Betis,,Villarreal CF
+33,Mon Jul 1 2019,Real Valladolid CF,,Levante UD
+33,Tue Jul 2 2019,Real Sociedad,,RCD Espanyol
+33,Tue Jul 2 2019,SD Eibar,,CA Osasuna
+33,Tue Jul 2 2019,Real Madrid,,Getafe CF
+34,Wed Jul 3 2019,Atlético Madrid,,RCD Mallorca
+34,Thu Jul 4 2019,RC Celta Vigo,,Real Betis
+34,Thu Jul 4 2019,Real Valladolid CF,,Deportivo Alavés
+34,Thu Jul 4 2019,Granada CF,,Valencia CF
+34,Fri Jul 5 2019,Athletic Club Bilbao,,Real Madrid
+34,Fri Jul 5 2019,RCD Espanyol,,CD Leganés
+34,Fri Jul 5 2019,CA Osasuna,,Getafe CF
+34,Fri Jul 5 2019,Villarreal CF,,FC Barcelona
+34,Sat Jul 6 2019,Levante UD,,Real Sociedad
+34,Sat Jul 6 2019,Sevilla FC,,SD Eibar
+35,Mon Jul 8 2019,Real Madrid,,Deportivo Alavés
+35,Mon Jul 8 2019,FC Barcelona,,RCD Espanyol
+35,Mon Jul 8 2019,Valencia CF,,Real Valladolid CF
+35,Mon Jul 8 2019,RCD Mallorca,,Levante UD
+35,Mon Jul 8 2019,Athletic Club Bilbao,,Sevilla FC
+35,Mon Jul 8 2019,Getafe CF,,Villarreal CF
+35,Mon Jul 8 2019,Real Sociedad,,Granada CF
+35,Mon Jul 8 2019,Real Betis,,CA Osasuna
+35,Mon Jul 8 2019,RC Celta Vigo,,Atlético Madrid
+35,Mon Jul 8 2019,SD Eibar,,CD Leganés
+36,Fri Jul 12 2019,Real Valladolid CF,,FC Barcelona
+36,Fri Jul 12 2019,Villarreal CF,,Real Sociedad
+36,Fri Jul 12 2019,Deportivo Alavés,,Getafe CF
+36,Fri Jul 12 2019,CD Leganés,,Valencia CF
+36,Fri Jul 12 2019,Atlético Madrid,,Real Betis
+36,Fri Jul 12 2019,Levante UD,,Athletic Club Bilbao
+36,Fri Jul 12 2019,CA Osasuna,,RC Celta Vigo
+36,Fri Jul 12 2019,Sevilla FC,,RCD Mallorca
+36,Fri Jul 12 2019,RCD Espanyol,,SD Eibar
+36,Fri Jul 12 2019,Granada CF,,Real Madrid
+37,Mon Jul 15 2019,Real Madrid,,Villarreal CF
+37,Mon Jul 15 2019,FC Barcelona,,CA Osasuna
+37,Mon Jul 15 2019,Valencia CF,,RCD Espanyol
+37,Mon Jul 15 2019,RCD Mallorca,,Granada CF
+37,Mon Jul 15 2019,Athletic Club Bilbao,,CD Leganés
+37,Mon Jul 15 2019,Getafe CF,,Atlético Madrid
+37,Mon Jul 15 2019,Real Sociedad,,Sevilla FC
+37,Mon Jul 15 2019,Real Betis,,Deportivo Alavés
+37,Mon Jul 15 2019,RC Celta Vigo,,Levante UD
+37,Mon Jul 15 2019,SD Eibar,,Real Valladolid CF
+38,Fri Jul 19 2019,Atlético Madrid,,Real Sociedad
+38,Fri Jul 19 2019,Levante UD,,Getafe CF
+38,Fri Jul 19 2019,CA Osasuna,,RCD Mallorca
+38,Fri Jul 19 2019,Sevilla FC,,Valencia CF
+38,Fri Jul 19 2019,RCD Espanyol,,RC Celta Vigo
+38,Fri Jul 19 2019,Granada CF,,Athletic Club Bilbao
+38,Fri Jul 19 2019,Real Valladolid CF,,Real Betis
+38,Fri Jul 19 2019,Villarreal CF,,SD Eibar
+38,Fri Jul 19 2019,Deportivo Alavés,,FC Barcelona
+38,Fri Jul 19 2019,CD Leganés,,Real Madrid
+1,Fri Aug 16 2019,Athletic Club Bilbao,1-0,FC Barcelona
+1,Sat Aug 17 2019,RC Celta Vigo,1-3,Real Madrid
+1,Sat Aug 17 2019,Valencia CF,1-1,Real Sociedad
+1,Sat Aug 17 2019,RCD Mallorca,2-1,SD Eibar
+1,Sat Aug 17 2019,Villarreal CF,4-4,Granada CF
+1,Sat Aug 17 2019,CD Leganés,0-1,CA Osasuna
+1,Sun Aug 18 2019,Deportivo Alavés,1-0,Levante UD
+1,Sun Aug 18 2019,RCD Espanyol,0-2,Sevilla FC
+1,Sun Aug 18 2019,Atlético Madrid,1-0,Getafe CF
+1,Sun Aug 18 2019,Real Betis,1-2,Real Valladolid CF
+2,Fri Aug 23 2019,Granada CF,0-1,Sevilla FC
+2,Fri Aug 23 2019,Levante UD,2-1,Villarreal CF
+2,Sat Aug 24 2019,CA Osasuna,0-0,SD Eibar
+2,Sat Aug 24 2019,Real Madrid,1-1,Real Valladolid CF
+2,Sat Aug 24 2019,Getafe CF,1-1,Athletic Club Bilbao
+2,Sat Aug 24 2019,RC Celta Vigo,1-0,Valencia CF
+2,Sun Aug 25 2019,RCD Mallorca,0-1,Real Sociedad
+2,Sun Aug 25 2019,Deportivo Alavés,0-0,RCD Espanyol
+2,Sun Aug 25 2019,FC Barcelona,5-2,Real Betis
+2,Sun Aug 25 2019,CD Leganés,0-1,Atlético Madrid
+3,Fri Aug 30 2019,Athletic Club Bilbao,2-0,Real Sociedad
+3,Fri Aug 30 2019,Sevilla FC,1-1,RC Celta Vigo
+3,Sat Aug 31 2019,Real Betis,2-1,CD Leganés
+3,Sat Aug 31 2019,Levante UD,2-0,Real Valladolid CF
+3,Sat Aug 31 2019,Getafe CF,1-1,Deportivo Alavés
+3,Sat Aug 31 2019,CA Osasuna,2-2,FC Barcelona
+3,Sun Sep 1 2019,Valencia CF,2-0,RCD Mallorca
+3,Sun Sep 1 2019,Atlético Madrid,3-2,SD Eibar
+3,Sun Sep 1 2019,Villarreal CF,2-2,Real Madrid
+3,Sun Sep 1 2019,RCD Espanyol,0-3,Granada CF
+4,Fri Sep 13 2019,RCD Mallorca,0-0,Athletic Club Bilbao
+4,Sat Sep 14 2019,Real Madrid,3-2,Levante UD
+4,Sat Sep 14 2019,FC Barcelona,5-2,Valencia CF
+4,Sat Sep 14 2019,CD Leganés,0-3,Villarreal CF
+4,Sat Sep 14 2019,Real Sociedad,2-0,Atlético Madrid
+4,Sun Sep 15 2019,Real Valladolid CF,1-1,CA Osasuna
+4,Sun Sep 15 2019,SD Eibar,1-2,RCD Espanyol
+4,Sun Sep 15 2019,Deportivo Alavés,0-1,Sevilla FC
+4,Sun Sep 15 2019,RC Celta Vigo,0-2,Granada CF
+4,Sun Sep 15 2019,Real Betis,1-1,Getafe CF
+5,Fri Sep 20 2019,CA Osasuna,0-0,Real Betis
+5,Sat Sep 21 2019,Atlético Madrid,0-0,RC Celta Vigo
+5,Sat Sep 21 2019,Villarreal CF,2-0,Real Valladolid CF
+5,Sat Sep 21 2019,Levante UD,0-0,SD Eibar
+5,Sat Sep 21 2019,Granada CF,2-0,FC Barcelona
+5,Sun Sep 22 2019,Sevilla FC,0-1,Real Madrid
+5,Sun Sep 22 2019,Getafe CF,4-2,RCD Mallorca
+5,Sun Sep 22 2019,Valencia CF,1-1,CD Leganés
+5,Sun Sep 22 2019,Athletic Club Bilbao,2-0,Deportivo Alavés
+5,Sun Sep 22 2019,RCD Espanyol,1-3,Real Sociedad
+6,Tue Sep 24 2019,Real Betis,3-1,Levante UD
+6,Tue Sep 24 2019,FC Barcelona,2-1,Villarreal CF
+6,Tue Sep 24 2019,Real Valladolid CF,1-1,Granada CF
+6,Wed Sep 25 2019,Real Madrid,2-0,CA Osasuna
+6,Wed Sep 25 2019,Valencia CF,3-3,Getafe CF
+6,Wed Sep 25 2019,RCD Mallorca,0-2,Atlético Madrid
+6,Wed Sep 25 2019,CD Leganés,1-1,Athletic Club Bilbao
+6,Thu Sep 26 2019,Real Sociedad,3-0,Deportivo Alavés
+6,Thu Sep 26 2019,SD Eibar,3-2,Sevilla FC
+6,Thu Sep 26 2019,RC Celta Vigo,1-1,RCD Espanyol
+7,Fri Sep 27 2019,Villarreal CF,5-1,Real Betis
+7,Sat Sep 28 2019,Granada CF,1-0,CD Leganés
+7,Sat Sep 28 2019,Atlético Madrid,0-0,Real Madrid
+7,Sat Sep 28 2019,Athletic Club Bilbao,0-1,Valencia CF
+7,Sat Sep 28 2019,Getafe CF,0-2,FC Barcelona
+7,Sun Sep 29 2019,RCD Espanyol,0-2,Real Valladolid CF
+7,Sun Sep 29 2019,Sevilla FC,3-2,Real Sociedad
+7,Sun Sep 29 2019,Levante UD,1-1,CA Osasuna
+7,Sun Sep 29 2019,SD Eibar,2-0,RC Celta Vigo
+7,Sun Sep 29 2019,Deportivo Alavés,2-0,RCD Mallorca
+8,Fri Oct 4 2019,Real Betis,1-1,SD Eibar
+8,Sat Oct 5 2019,CA Osasuna,2-1,Villarreal CF
+8,Sat Oct 5 2019,Valencia CF,2-1,Deportivo Alavés
+8,Sat Oct 5 2019,CD Leganés,1-2,Levante UD
+8,Sat Oct 5 2019,Real Madrid,4-2,Granada CF
+8,Sun Oct 6 2019,Real Sociedad,1-2,Getafe CF
+8,Sun Oct 6 2019,RCD Mallorca,2-0,RCD Espanyol
+8,Sun Oct 6 2019,FC Barcelona,4-0,Sevilla FC
+8,Sun Oct 6 2019,Real Valladolid CF,0-0,Atlético Madrid
+8,Sun Oct 6 2019,RC Celta Vigo,1-0,Athletic Club Bilbao
+9,Fri Oct 18 2019,Granada CF,1-0,CA Osasuna
+9,Sat Oct 19 2019,Getafe CF,2-0,CD Leganés
+9,Sat Oct 19 2019,RCD Mallorca,1-0,Real Madrid
+9,Sat Oct 19 2019,SD Eibar,0-3,FC Barcelona
+9,Sat Oct 19 2019,Atlético Madrid,1-1,Valencia CF
+9,Sun Oct 20 2019,RCD Espanyol,0-1,Villarreal CF
+9,Sun Oct 20 2019,Athletic Club Bilbao,1-1,Real Valladolid CF
+9,Sun Oct 20 2019,Deportivo Alavés,2-0,RC Celta Vigo
+9,Sun Oct 20 2019,Real Sociedad,3-1,Real Betis
+9,Sun Oct 20 2019,Sevilla FC,1-0,Levante UD
+10,Fri Oct 25 2019,Villarreal CF,4-1,Deportivo Alavés
+10,Sat Oct 26 2019,Atlético Madrid,2-0,Athletic Club Bilbao
+10,Sat Oct 26 2019,Real Valladolid CF,2-0,SD Eibar
+10,Sat Oct 26 2019,CD Leganés,1-0,RCD Mallorca
+10,Sun Oct 27 2019,CA Osasuna,3-1,Valencia CF
+10,Sun Oct 27 2019,Granada CF,1-0,Real Betis
+10,Sun Oct 27 2019,Levante UD,0-1,RCD Espanyol
+10,Sun Oct 27 2019,RC Celta Vigo,0-1,Real Sociedad
+10,Sun Oct 27 2019,Sevilla FC,2-0,Getafe CF
+11,Tue Oct 29 2019,Deportivo Alavés,1-1,Atlético Madrid
+11,Tue Oct 29 2019,FC Barcelona,5-1,Real Valladolid CF
+11,Wed Oct 30 2019,Real Madrid,5-0,CD Leganés
+11,Wed Oct 30 2019,Real Betis,2-1,RC Celta Vigo
+11,Wed Oct 30 2019,Athletic Club Bilbao,3-0,RCD Espanyol
+11,Wed Oct 30 2019,Valencia CF,1-1,Sevilla FC
+11,Wed Oct 30 2019,Real Sociedad,1-2,Levante UD
+11,Thu Oct 31 2019,Getafe CF,3-1,Granada CF
+11,Thu Oct 31 2019,RCD Mallorca,2-2,CA Osasuna
+11,Thu Oct 31 2019,SD Eibar,2-1,Villarreal CF
+12,Sat Nov 2 2019,Sevilla FC,1-1,Atlético Madrid
+12,Sat Nov 2 2019,Real Madrid,0-0,Real Betis
+12,Sat Nov 2 2019,RCD Espanyol,1-2,Valencia CF
+12,Sat Nov 2 2019,Levante UD,3-1,FC Barcelona
+12,Sun Nov 3 2019,RC Celta Vigo,0-1,Getafe CF
+12,Sun Nov 3 2019,Granada CF,1-2,Real Sociedad
+12,Sun Nov 3 2019,Real Valladolid CF,3-0,RCD Mallorca
+12,Sun Nov 3 2019,Villarreal CF,0-0,Athletic Club Bilbao
+12,Sun Nov 3 2019,CA Osasuna,4-2,Deportivo Alavés
+12,Sun Nov 3 2019,CD Leganés,1-2,SD Eibar
+13,Fri Nov 8 2019,Real Sociedad,1-1,CD Leganés
+13,Sat Nov 9 2019,Deportivo Alavés,3-0,Real Valladolid CF
+13,Sat Nov 9 2019,FC Barcelona,4-1,RC Celta Vigo
+13,Sat Nov 9 2019,Valencia CF,2-0,Granada CF
+13,Sat Nov 9 2019,SD Eibar,0-4,Real Madrid
+13,Sun Nov 10 2019,Athletic Club Bilbao,2-1,Levante UD
+13,Sun Nov 10 2019,RCD Mallorca,3-1,Villarreal CF
+13,Sun Nov 10 2019,Real Betis,1-2,Sevilla FC
+13,Sun Nov 10 2019,Getafe CF,0-0,CA Osasuna
+13,Sun Nov 10 2019,Atlético Madrid,3-1,RCD Espanyol
+14,Fri Nov 22 2019,Levante UD,2-1,RCD Mallorca
+14,Sat Nov 23 2019,Real Madrid,3-1,Real Sociedad
+14,Sat Nov 23 2019,CD Leganés,1-2,FC Barcelona
+14,Sat Nov 23 2019,Real Betis,2-1,Valencia CF
+14,Sat Nov 23 2019,Granada CF,1-1,Atlético Madrid
+14,Sun Nov 24 2019,Villarreal CF,1-3,RC Celta Vigo
+14,Sun Nov 24 2019,RCD Espanyol,1-1,Getafe CF
+14,Sun Nov 24 2019,CA Osasuna,1-2,Athletic Club Bilbao
+14,Sun Nov 24 2019,SD Eibar,0-2,Deportivo Alavés
+14,Sun Nov 24 2019,Real Valladolid CF,0-1,Sevilla FC
+15,Fri Nov 29 2019,RC Celta Vigo,0-0,Real Valladolid CF
+15,Sat Nov 30 2019,Deportivo Alavés,1-2,Real Madrid
+15,Sat Nov 30 2019,Valencia CF,2-1,Villarreal CF
+15,Sat Nov 30 2019,RCD Mallorca,1-2,Real Betis
+15,Sat Nov 30 2019,Real Sociedad,4-1,SD Eibar
+15,Sun Dec 1 2019,Atlético Madrid,0-1,FC Barcelona
+15,Sun Dec 1 2019,Sevilla FC,1-0,CD Leganés
+15,Sun Dec 1 2019,Athletic Club Bilbao,2-0,Granada CF
+15,Sun Dec 1 2019,RCD Espanyol,2-4,CA Osasuna
+15,Sun Dec 1 2019,Getafe CF,4-0,Levante UD
+16,Fri Dec 6 2019,Villarreal CF,0-0,Atlético Madrid
+16,Sat Dec 7 2019,Granada CF,3-0,Deportivo Alavés
+16,Sat Dec 7 2019,Levante UD,2-4,Valencia CF
+16,Sat Dec 7 2019,FC Barcelona,5-2,RCD Mallorca
+16,Sat Dec 7 2019,Real Madrid,2-0,RCD Espanyol
+16,Sun Dec 8 2019,Real Betis,3-2,Athletic Club Bilbao
+16,Sun Dec 8 2019,Real Valladolid CF,0-0,Real Sociedad
+16,Sun Dec 8 2019,CD Leganés,3-2,RC Celta Vigo
+16,Sun Dec 8 2019,CA Osasuna,1-1,Sevilla FC
+16,Sun Dec 8 2019,SD Eibar,0-1,Getafe CF
+17,Fri Dec 13 2019,Deportivo Alavés,1-1,CD Leganés
+17,Sat Dec 14 2019,Granada CF,1-2,Levante UD
+17,Sat Dec 14 2019,Real Sociedad,2-2,FC Barcelona
+17,Sat Dec 14 2019,Athletic Club Bilbao,0-0,SD Eibar
+17,Sat Dec 14 2019,Atlético Madrid,2-0,CA Osasuna
+17,Sun Dec 15 2019,Getafe CF,2-0,Real Valladolid CF
+17,Sun Dec 15 2019,RC Celta Vigo,2-2,RCD Mallorca
+17,Sun Dec 15 2019,Valencia CF,1-1,Real Madrid
+17,Sun Dec 15 2019,Sevilla FC,1-2,Villarreal CF
+17,Sun Dec 15 2019,RCD Espanyol,2-2,Real Betis
+10,Wed Dec 18 2019,FC Barcelona,0-0,Real Madrid
+18,Fri Dec 20 2019,SD Eibar,3-0,Granada CF
+18,Sat Dec 21 2019,RCD Mallorca,0-2,Sevilla FC
+18,Sat Dec 21 2019,FC Barcelona,4-1,Deportivo Alavés
+18,Sat Dec 21 2019,Villarreal CF,1-0,Getafe CF
+18,Sat Dec 21 2019,Real Valladolid CF,1-1,Valencia CF
+18,Sun Dec 22 2019,CD Leganés,2-0,RCD Espanyol
+18,Sun Dec 22 2019,Real Betis,1-2,Atlético Madrid
+18,Sun Dec 22 2019,Levante UD,3-1,RC Celta Vigo
+18,Sun Dec 22 2019,Real Madrid,0-0,Athletic Club Bilbao
+18,Sun Dec 22 2019,CA Osasuna,3-4,Real Sociedad
+19,Fri Jan 3 2020,Real Valladolid CF,2-2,CD Leganés
+19,Fri Jan 3 2020,Sevilla FC,1-1,Athletic Club Bilbao
+19,Sat Jan 4 2020,RCD Espanyol,2-2,FC Barcelona
+19,Sat Jan 4 2020,Valencia CF,1-0,SD Eibar
+19,Sat Jan 4 2020,Atlético Madrid,2-1,Levante UD
+19,Sat Jan 4 2020,Getafe CF,0-3,Real Madrid
+19,Sun Jan 5 2020,Granada CF,1-0,RCD Mallorca
+19,Sun Jan 5 2020,Deportivo Alavés,1-1,Real Betis
+19,Sun Jan 5 2020,RC Celta Vigo,1-1,CA Osasuna
+19,Sun Jan 5 2020,Real Sociedad,1-2,Villarreal CF
+20,Fri Jan 17 2020,CD Leganés,0-3,Getafe CF
+20,Sat Jan 18 2020,Levante UD,0-1,Deportivo Alavés
+20,Sat Jan 18 2020,SD Eibar,2-0,Atlético Madrid
+20,Sat Jan 18 2020,Real Madrid,2-1,Sevilla FC
+20,Sat Jan 18 2020,CA Osasuna,0-0,Real Valladolid CF
+20,Sun Jan 19 2020,RCD Mallorca,4-1,Valencia CF
+20,Sun Jan 19 2020,Real Betis,3-0,Real Sociedad
+20,Sun Jan 19 2020,FC Barcelona,1-0,Granada CF
+20,Sun Jan 19 2020,Athletic Club Bilbao,1-1,RC Celta Vigo
+20,Sun Jan 19 2020,Villarreal CF,1-2,RCD Espanyol
+21,Fri Jan 24 2020,CA Osasuna,2-0,Levante UD
+21,Sat Jan 25 2020,Sevilla FC,2-0,Granada CF
+21,Sat Jan 25 2020,Deportivo Alavés,1-2,Villarreal CF
+21,Sat Jan 25 2020,Valencia CF,2-0,FC Barcelona
+21,Sat Jan 25 2020,RCD Espanyol,1-1,Athletic Club Bilbao
+21,Sun Jan 26 2020,Real Sociedad,3-0,RCD Mallorca
+21,Sun Jan 26 2020,Atlético Madrid,0-0,CD Leganés
+21,Sun Jan 26 2020,RC Celta Vigo,0-0,SD Eibar
+21,Sun Jan 26 2020,Getafe CF,1-0,Real Betis
+21,Sun Jan 26 2020,Real Valladolid CF,0-1,Real Madrid
+22,Sat Feb 1 2020,Valencia CF,1-0,RC Celta Vigo
+22,Sat Feb 1 2020,Granada CF,2-1,RCD Espanyol
+22,Sat Feb 1 2020,Real Madrid,1-0,Atlético Madrid
+22,Sat Feb 1 2020,RCD Mallorca,0-1,Real Valladolid CF
+22,Sun Feb 2 2020,FC Barcelona,2-1,Levante UD
+22,Sun Feb 2 2020,CD Leganés,2-1,Real Sociedad
+22,Sun Feb 2 2020,SD Eibar,1-1,Real Betis
+22,Sun Feb 2 2020,Athletic Club Bilbao,0-2,Getafe CF
+22,Sun Feb 2 2020,Sevilla FC,1-1,Deportivo Alavés
+22,Sun Feb 2 2020,Villarreal CF,3-1,CA Osasuna
+23,Fri Feb 7 2020,Deportivo Alavés,2-1,SD Eibar
+23,Sat Feb 8 2020,Getafe CF,3-0,Valencia CF
+23,Sat Feb 8 2020,Levante UD,2-0,CD Leganés
+23,Sat Feb 8 2020,Real Valladolid CF,1-1,Villarreal CF
+23,Sat Feb 8 2020,Atlético Madrid,1-0,Granada CF
+23,Sun Feb 9 2020,Real Betis,2-3,FC Barcelona
+23,Sun Feb 9 2020,RCD Espanyol,1-0,RCD Mallorca
+23,Sun Feb 9 2020,RC Celta Vigo,2-1,Sevilla FC
+23,Sun Feb 9 2020,CA Osasuna,1-4,Real Madrid
+23,Sun Feb 9 2020,Real Sociedad,2-1,Athletic Club Bilbao
+24,Fri Feb 14 2020,Valencia CF,2-2,Atlético Madrid
+24,Sat Feb 15 2020,RCD Mallorca,1-0,Deportivo Alavés
+24,Sat Feb 15 2020,Granada CF,2-1,Real Valladolid CF
+24,Sat Feb 15 2020,FC Barcelona,2-1,Getafe CF
+24,Sat Feb 15 2020,Villarreal CF,2-1,Levante UD
+24,Sun Feb 16 2020,Real Madrid,2-2,RC Celta Vigo
+24,Sun Feb 16 2020,Sevilla FC,2-2,RCD Espanyol
+24,Sun Feb 16 2020,Athletic Club Bilbao,0-1,CA Osasuna
+24,Sun Feb 16 2020,CD Leganés,0-0,Real Betis
+25,Fri Feb 21 2020,Real Betis,3-3,RCD Mallorca
+25,Sat Feb 22 2020,RC Celta Vigo,1-0,CD Leganés
+25,Sat Feb 22 2020,Levante UD,1-0,Real Madrid
+25,Sat Feb 22 2020,FC Barcelona,5-0,SD Eibar
+25,Sat Feb 22 2020,Real Sociedad,3-0,Valencia CF
+25,Sun Feb 23 2020,Getafe CF,0-3,Sevilla FC
+25,Sun Feb 23 2020,CA Osasuna,0-3,Granada CF
+25,Sun Feb 23 2020,Deportivo Alavés,2-1,Athletic Club Bilbao
+25,Sun Feb 23 2020,Real Valladolid CF,2-1,RCD Espanyol
+25,Sun Feb 23 2020,Atlético Madrid,3-1,Villarreal CF
+26,Fri Feb 28 2020,Real Sociedad,1-0,Real Valladolid CF
+26,Sat Feb 29 2020,SD Eibar,3-0,Levante UD
+26,Sat Feb 29 2020,Granada CF,0-0,RC Celta Vigo
+26,Sat Feb 29 2020,Valencia CF,2-1,Real Betis
+26,Sat Feb 29 2020,CD Leganés,1-1,Deportivo Alavés
+26,Sun Mar 1 2020,Athletic Club Bilbao,1-0,Villarreal CF
+26,Sun Mar 1 2020,Sevilla FC,3-2,CA Osasuna
+26,Sun Mar 1 2020,Real Madrid,2-0,FC Barcelona
+26,Sun Mar 1 2020,RCD Mallorca,0-1,Getafe CF
+26,Sun Mar 1 2020,RCD Espanyol,1-1,Atlético Madrid
+27,Fri Mar 6 2020,Deportivo Alavés,1-1,Valencia CF
+27,Sat Mar 7 2020,Getafe CF,0-0,RC Celta Vigo
+27,Sat Mar 7 2020,SD Eibar,1-2,RCD Mallorca
+27,Sat Mar 7 2020,Atlético Madrid,2-2,Sevilla FC
+27,Sat Mar 7 2020,FC Barcelona,1-0,Real Sociedad
+27,Sun Mar 8 2020,Villarreal CF,1-2,CD Leganés
+27,Sun Mar 8 2020,CA Osasuna,1-0,RCD Espanyol
+27,Sun Mar 8 2020,Real Valladolid CF,1-4,Athletic Club Bilbao
+27,Sun Mar 8 2020,Real Betis,2-1,Real Madrid
+27,Sun Mar 8 2020,Levante UD,1-1,Granada CF
+24,Tue Mar 10 2020,SD Eibar,1-2,Real Sociedad
+28,Thu Jun 11 2020,Sevilla FC,2-0,Real Betis
+28,Fri Jun 12 2020,Valencia CF,1-1,Levante UD
+28,Fri Jun 12 2020,Granada CF,2-1,Getafe CF
+28,Sat Jun 13 2020,CD Leganés,1-2,Real Valladolid CF
+28,Sat Jun 13 2020,RCD Espanyol,2-0,Deportivo Alavés
+28,Sat Jun 13 2020,RC Celta Vigo,0-1,Villarreal CF
+28,Sat Jun 13 2020,RCD Mallorca,0-4,FC Barcelona
+28,Sun Jun 14 2020,Real Sociedad,1-1,CA Osasuna
+28,Sun Jun 14 2020,Athletic Club Bilbao,1-1,Atlético Madrid
+28,Sun Jun 14 2020,Real Madrid,3-1,SD Eibar
+29,Mon Jun 15 2020,Real Betis,2-2,Granada CF
+29,Mon Jun 15 2020,Levante UD,1-1,Sevilla FC
+29,Tue Jun 16 2020,Getafe CF,0-0,RCD Espanyol
+29,Tue Jun 16 2020,Villarreal CF,1-0,RCD Mallorca
+29,Tue Jun 16 2020,FC Barcelona,2-0,CD Leganés
+29,Wed Jun 17 2020,SD Eibar,2-2,Athletic Club Bilbao
+29,Wed Jun 17 2020,CA Osasuna,0-5,Atlético Madrid
+29,Wed Jun 17 2020,Real Valladolid CF,0-0,RC Celta Vigo
+29,Thu Jun 18 2020,Deportivo Alavés,2-0,Real Sociedad
+29,Thu Jun 18 2020,Real Madrid,3-0,Valencia CF
+30,Fri Jun 19 2020,RCD Mallorca,1-1,CD Leganés
+30,Fri Jun 19 2020,Granada CF,0-1,Villarreal CF
+30,Fri Jun 19 2020,Sevilla FC,0-0,FC Barcelona
+30,Sat Jun 20 2020,RCD Espanyol,1-3,Levante UD
+30,Sat Jun 20 2020,Athletic Club Bilbao,1-0,Real Betis
+30,Sat Jun 20 2020,Getafe CF,1-1,SD Eibar
+30,Sat Jun 20 2020,Atlético Madrid,1-0,Real Valladolid CF
+30,Sun Jun 21 2020,RC Celta Vigo,6-0,Deportivo Alavés
+30,Sun Jun 21 2020,Valencia CF,2-0,CA Osasuna
+30,Sun Jun 21 2020,Real Sociedad,1-2,Real Madrid
+31,Mon Jun 22 2020,Villarreal CF,2-2,Sevilla FC
+31,Mon Jun 22 2020,CD Leganés,0-0,Granada CF
+31,Tue Jun 23 2020,Levante UD,0-1,Atlético Madrid
+31,Tue Jun 23 2020,Real Valladolid CF,1-1,Getafe CF
+31,Tue Jun 23 2020,FC Barcelona,1-0,Athletic Club Bilbao
+31,Wed Jun 24 2020,Real Sociedad,0-1,RC Celta Vigo
+31,Wed Jun 24 2020,Deportivo Alavés,0-1,CA Osasuna
+31,Wed Jun 24 2020,Real Madrid,2-0,RCD Mallorca
+31,Thu Jun 25 2020,SD Eibar,,Valencia CF
+31,Thu Jun 25 2020,Real Betis,,RCD Espanyol
+32,Fri Jun 26 2020,Sevilla FC,,Real Valladolid CF
+32,Sat Jun 27 2020,Athletic Club Bilbao,,RCD Mallorca
+32,Sat Jun 27 2020,RC Celta Vigo,,FC Barcelona
+32,Sat Jun 27 2020,CA Osasuna,,CD Leganés
+32,Sat Jun 27 2020,Atlético Madrid,,Deportivo Alavés
+32,Sun Jun 28 2020,Levante UD,,Real Betis
+32,Sun Jun 28 2020,Villarreal CF,,Valencia CF
+32,Sun Jun 28 2020,Granada CF,,SD Eibar
+32,Sun Jun 28 2020,RCD Espanyol,,Real Madrid
+32,Mon Jun 29 2020,Getafe CF,,Real Sociedad
+33,Tue Jun 30 2020,RCD Mallorca,,RC Celta Vigo
+33,Tue Jun 30 2020,CD Leganés,,Sevilla FC
+33,Tue Jun 30 2020,FC Barcelona,,Atlético Madrid

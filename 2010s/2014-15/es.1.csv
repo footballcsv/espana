@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 23 2014,Málaga CF,1-0,Athletic Club Bilbao
+1,Sat Aug 23 2014,Granada CF,2-1,RCD La Coruña
+1,Sat Aug 23 2014,Sevilla FC,1-1,Valencia CF
+1,Sat Aug 23 2014,UD Almería,1-1,RCD Espanyol
+1,Sun Aug 24 2014,SD Eibar,1-0,Real Sociedad
+1,Sun Aug 24 2014,RC Celta Vigo,3-1,Getafe CF
+1,Sun Aug 24 2014,FC Barcelona,3-0,Elche CF
+1,Sun Aug 24 2014,Levante UD,0-2,Villarreal CF
+1,Mon Aug 25 2014,Real Madrid,2-0,Córdoba CF
+1,Mon Aug 25 2014,Rayo Vallecano,0-0,Atlético Madrid
+2,Fri Aug 29 2014,Getafe CF,1-0,UD Almería
+2,Fri Aug 29 2014,Valencia CF,3-0,Málaga CF
+2,Sat Aug 30 2014,Córdoba CF,1-1,RC Celta Vigo
+2,Sat Aug 30 2014,Athletic Club Bilbao,3-0,Levante UD
+2,Sat Aug 30 2014,Atlético Madrid,2-1,SD Eibar
+2,Sat Aug 30 2014,RCD Espanyol,1-2,Sevilla FC
+2,Sun Aug 31 2014,Villarreal CF,0-1,FC Barcelona
+2,Sun Aug 31 2014,RCD La Coruña,2-2,Rayo Vallecano
+2,Sun Aug 31 2014,Real Sociedad,4-2,Real Madrid
+2,Sun Aug 31 2014,Elche CF,1-1,Granada CF
+3,Fri Sep 12 2014,UD Almería,1-1,Córdoba CF
+3,Sat Sep 13 2014,FC Barcelona,2-0,Athletic Club Bilbao
+3,Sat Sep 13 2014,Málaga CF,0-0,Levante UD
+3,Sat Sep 13 2014,Real Madrid,1-2,Atlético Madrid
+3,Sat Sep 13 2014,RC Celta Vigo,2-2,Real Sociedad
+3,Sun Sep 14 2014,Rayo Vallecano,2-3,Elche CF
+3,Sun Sep 14 2014,Valencia CF,3-1,RCD Espanyol
+3,Sun Sep 14 2014,Sevilla FC,2-0,Getafe CF
+3,Sun Sep 14 2014,Granada CF,0-0,Villarreal CF
+3,Mon Sep 15 2014,SD Eibar,0-1,RCD La Coruña
+4,Fri Sep 19 2014,Elche CF,0-2,SD Eibar
+4,Sat Sep 20 2014,RCD La Coruña,2-8,Real Madrid
+4,Sat Sep 20 2014,Athletic Club Bilbao,0-1,Granada CF
+4,Sat Sep 20 2014,Atlético Madrid,2-2,RC Celta Vigo
+4,Sat Sep 20 2014,RCD Espanyol,2-2,Málaga CF
+4,Sun Sep 21 2014,Real Sociedad,1-2,UD Almería
+4,Sun Sep 21 2014,Villarreal CF,4-2,Rayo Vallecano
+4,Sun Sep 21 2014,Córdoba CF,1-3,Sevilla FC
+4,Sun Sep 21 2014,Levante UD,0-5,FC Barcelona
+4,Mon Sep 22 2014,Getafe CF,0-3,Valencia CF
+5,Tue Sep 23 2014,Real Madrid,5-1,Elche CF
+5,Tue Sep 23 2014,RC Celta Vigo,2-1,RCD La Coruña
+5,Wed Sep 24 2014,Rayo Vallecano,2-1,Athletic Club Bilbao
+5,Wed Sep 24 2014,SD Eibar,1-1,Villarreal CF
+5,Wed Sep 24 2014,UD Almería,0-1,Atlético Madrid
+5,Wed Sep 24 2014,Málaga CF,0-0,FC Barcelona
+5,Wed Sep 24 2014,Granada CF,0-1,Levante UD
+5,Wed Sep 24 2014,Sevilla FC,1-0,Real Sociedad
+5,Thu Sep 25 2014,RCD Espanyol,2-0,Getafe CF
+5,Thu Sep 25 2014,Valencia CF,3-0,Córdoba CF
+6,Fri Sep 26 2014,Elche CF,0-1,RC Celta Vigo
+6,Sat Sep 27 2014,Villarreal CF,0-2,Real Madrid
+6,Sat Sep 27 2014,FC Barcelona,6-0,Granada CF
+6,Sat Sep 27 2014,Atlético Madrid,4-0,Sevilla FC
+6,Sat Sep 27 2014,Levante UD,0-2,Rayo Vallecano
+6,Sat Sep 27 2014,Athletic Club Bilbao,0-0,SD Eibar
+6,Sun Sep 28 2014,Getafe CF,1-0,Málaga CF
+6,Sun Sep 28 2014,RCD La Coruña,0-1,UD Almería
+6,Sun Sep 28 2014,Real Sociedad,1-1,Valencia CF
+6,Sun Sep 28 2014,Córdoba CF,0-0,RCD Espanyol
+7,Fri Oct 3 2014,Getafe CF,1-1,Córdoba CF
+7,Sat Oct 4 2014,Valencia CF,3-1,Atlético Madrid
+7,Sat Oct 4 2014,Rayo Vallecano,0-2,FC Barcelona
+7,Sat Oct 4 2014,SD Eibar,3-3,Levante UD
+7,Sat Oct 4 2014,UD Almería,2-2,Elche CF
+7,Sat Oct 4 2014,Málaga CF,2-1,Granada CF
+7,Sun Oct 5 2014,Sevilla FC,4-1,RCD La Coruña
+7,Sun Oct 5 2014,RC Celta Vigo,1-3,Villarreal CF
+7,Sun Oct 5 2014,RCD Espanyol,2-0,Real Sociedad
+7,Sun Oct 5 2014,Real Madrid,5-0,Athletic Club Bilbao
+8,Fri Oct 17 2014,Granada CF,0-1,Rayo Vallecano
+8,Sat Oct 18 2014,Levante UD,0-5,Real Madrid
+8,Sat Oct 18 2014,Athletic Club Bilbao,1-1,RC Celta Vigo
+8,Sat Oct 18 2014,FC Barcelona,3-0,SD Eibar
+8,Sat Oct 18 2014,Córdoba CF,1-2,Málaga CF
+8,Sun Oct 19 2014,Atlético Madrid,2-0,RCD Espanyol
+8,Sun Oct 19 2014,RCD La Coruña,3-0,Valencia CF
+8,Sun Oct 19 2014,Elche CF,0-2,Sevilla FC
+8,Sun Oct 19 2014,Villarreal CF,2-0,UD Almería
+8,Mon Oct 20 2014,Real Sociedad,1-2,Getafe CF
+9,Fri Oct 24 2014,RC Celta Vigo,3-0,Levante UD
+9,Sat Oct 25 2014,UD Almería,0-1,Athletic Club Bilbao
+9,Sat Oct 25 2014,Real Madrid,3-1,FC Barcelona
+9,Sat Oct 25 2014,Valencia CF,3-1,Elche CF
+9,Sat Oct 25 2014,SD Eibar,1-1,Granada CF
+9,Sat Oct 25 2014,Córdoba CF,1-1,Real Sociedad
+9,Sun Oct 26 2014,Málaga CF,4-0,Rayo Vallecano
+9,Sun Oct 26 2014,RCD Espanyol,0-0,RCD La Coruña
+9,Sun Oct 26 2014,Sevilla FC,2-1,Villarreal CF
+9,Sun Oct 26 2014,Getafe CF,0-1,Atlético Madrid
+10,Fri Oct 31 2014,RCD La Coruña,1-2,Getafe CF
+10,Sat Nov 1 2014,Granada CF,0-4,Real Madrid
+10,Sat Nov 1 2014,Atlético Madrid,4-2,Córdoba CF
+10,Sat Nov 1 2014,FC Barcelona,0-1,RC Celta Vigo
+10,Sat Nov 1 2014,Real Sociedad,0-1,Málaga CF
+10,Sun Nov 2 2014,Athletic Club Bilbao,1-0,Sevilla FC
+10,Sun Nov 2 2014,Villarreal CF,1-3,Valencia CF
+10,Sun Nov 2 2014,Levante UD,2-1,UD Almería
+10,Sun Nov 2 2014,Elche CF,2-1,RCD Espanyol
+10,Mon Nov 3 2014,Rayo Vallecano,2-3,SD Eibar
+11,Fri Nov 7 2014,Córdoba CF,0-0,RCD La Coruña
+11,Sat Nov 8 2014,UD Almería,1-2,FC Barcelona
+11,Sat Nov 8 2014,Getafe CF,0-0,Elche CF
+11,Sat Nov 8 2014,Real Madrid,5-1,Rayo Vallecano
+11,Sat Nov 8 2014,Málaga CF,2-1,SD Eibar
+11,Sat Nov 8 2014,RC Celta Vigo,0-0,Granada CF
+11,Sun Nov 9 2014,Sevilla FC,1-1,Levante UD
+11,Sun Nov 9 2014,RCD Espanyol,1-1,Villarreal CF
+11,Sun Nov 9 2014,Valencia CF,0-0,Athletic Club Bilbao
+11,Sun Nov 9 2014,Real Sociedad,2-1,Atlético Madrid
+12,Fri Nov 21 2014,Athletic Club Bilbao,3-1,RCD Espanyol
+12,Sat Nov 22 2014,Atlético Madrid,3-1,Málaga CF
+12,Sat Nov 22 2014,SD Eibar,0-4,Real Madrid
+12,Sat Nov 22 2014,FC Barcelona,5-1,Sevilla FC
+12,Sat Nov 22 2014,RCD La Coruña,0-0,Real Sociedad
+12,Sun Nov 23 2014,Rayo Vallecano,1-0,RC Celta Vigo
+12,Sun Nov 23 2014,Levante UD,2-1,Valencia CF
+12,Sun Nov 23 2014,Elche CF,2-2,Córdoba CF
+12,Sun Nov 23 2014,Villarreal CF,2-1,Getafe CF
+12,Mon Nov 24 2014,Granada CF,0-0,UD Almería
+13,Fri Nov 28 2014,Real Sociedad,3-0,Elche CF
+13,Sat Nov 29 2014,Getafe CF,1-2,Athletic Club Bilbao
+13,Sat Nov 29 2014,RCD Espanyol,2-1,Levante UD
+13,Sat Nov 29 2014,Málaga CF,1-2,Real Madrid
+13,Sat Nov 29 2014,RC Celta Vigo,0-1,SD Eibar
+13,Sun Nov 30 2014,Atlético Madrid,2-0,RCD La Coruña
+13,Sun Nov 30 2014,Sevilla FC,5-1,Granada CF
+13,Sun Nov 30 2014,Córdoba CF,0-2,Villarreal CF
+13,Sun Nov 30 2014,Valencia CF,0-1,FC Barcelona
+13,Mon Dec 1 2014,UD Almería,0-1,Rayo Vallecano
+14,Sat Dec 6 2014,Elche CF,0-2,Atlético Madrid
+14,Sat Dec 6 2014,Athletic Club Bilbao,0-1,Córdoba CF
+14,Sat Dec 6 2014,Real Madrid,3-0,RC Celta Vigo
+14,Sat Dec 6 2014,RCD La Coruña,0-1,Málaga CF
+14,Sun Dec 7 2014,Rayo Vallecano,0-1,Sevilla FC
+14,Sun Dec 7 2014,FC Barcelona,5-1,RCD Espanyol
+14,Sun Dec 7 2014,Villarreal CF,4-0,Real Sociedad
+14,Sun Dec 7 2014,Granada CF,1-1,Valencia CF
+14,Mon Dec 8 2014,SD Eibar,5-2,UD Almería
+14,Mon Dec 8 2014,Levante UD,1-1,Getafe CF
+15,Fri Dec 12 2014,UD Almería,1-4,Real Madrid
+15,Sat Dec 13 2014,Getafe CF,0-0,FC Barcelona
+15,Sat Dec 13 2014,Valencia CF,3-0,Rayo Vallecano
+15,Sat Dec 13 2014,Córdoba CF,0-0,Levante UD
+15,Sat Dec 13 2014,Málaga CF,1-0,RC Celta Vigo
+15,Sun Dec 14 2014,RCD Espanyol,2-1,Granada CF
+15,Sun Dec 14 2014,Sevilla FC,0-0,SD Eibar
+15,Sun Dec 14 2014,Atlético Madrid,0-1,Villarreal CF
+15,Sun Dec 14 2014,Real Sociedad,1-1,Athletic Club Bilbao
+15,Mon Dec 15 2014,RCD La Coruña,1-0,Elche CF
+16,Fri Dec 19 2014,RC Celta Vigo,0-1,UD Almería
+16,Sat Dec 20 2014,FC Barcelona,5-0,Córdoba CF
+16,Sat Dec 20 2014,Levante UD,1-1,Real Sociedad
+16,Sat Dec 20 2014,SD Eibar,0-1,Valencia CF
+16,Sat Dec 20 2014,Rayo Vallecano,1-3,RCD Espanyol
+16,Sun Dec 21 2014,Villarreal CF,3-0,RCD La Coruña
+16,Sun Dec 21 2014,Granada CF,1-1,Getafe CF
+16,Sun Dec 21 2014,Elche CF,1-2,Málaga CF
+16,Sun Dec 21 2014,Athletic Club Bilbao,1-4,Atlético Madrid
+17,Sat Jan 3 2015,Atlético Madrid,3-1,Levante UD
+17,Sat Jan 3 2015,Sevilla FC,1-0,RC Celta Vigo
+17,Sat Jan 3 2015,Elche CF,2-2,Villarreal CF
+17,Sat Jan 3 2015,RCD La Coruña,1-0,Athletic Club Bilbao
+17,Sat Jan 3 2015,Málaga CF,1-2,UD Almería
+17,Sun Jan 4 2015,Getafe CF,1-2,Rayo Vallecano
+17,Sun Jan 4 2015,Valencia CF,2-1,Real Madrid
+17,Sun Jan 4 2015,RCD Espanyol,1-2,SD Eibar
+17,Sun Jan 4 2015,Real Sociedad,1-0,FC Barcelona
+17,Mon Jan 5 2015,Córdoba CF,2-0,Granada CF
+18,Fri Jan 9 2015,Levante UD,0-0,RCD La Coruña
+18,Sat Jan 10 2015,Real Madrid,3-0,RCD Espanyol
+18,Sat Jan 10 2015,Málaga CF,1-1,Villarreal CF
+18,Sat Jan 10 2015,RC Celta Vigo,1-1,Valencia CF
+18,Sat Jan 10 2015,SD Eibar,2-1,Getafe CF
+18,Sun Jan 11 2015,UD Almería,0-2,Sevilla FC
+18,Sun Jan 11 2015,Athletic Club Bilbao,1-2,Elche CF
+18,Sun Jan 11 2015,Granada CF,1-1,Real Sociedad
+18,Sun Jan 11 2015,FC Barcelona,3-1,Atlético Madrid
+18,Mon Jan 12 2015,Rayo Vallecano,0-1,Córdoba CF
+19,Fri Jan 16 2015,Córdoba CF,1-1,SD Eibar
+19,Sat Jan 17 2015,Real Sociedad,0-1,Rayo Vallecano
+19,Sat Jan 17 2015,Valencia CF,3-2,UD Almería
+19,Sat Jan 17 2015,Villarreal CF,2-0,Athletic Club Bilbao
+19,Sat Jan 17 2015,RCD Espanyol,1-0,RC Celta Vigo
+19,Sun Jan 18 2015,Getafe CF,0-3,Real Madrid
+19,Sun Jan 18 2015,Atlético Madrid,2-0,Granada CF
+19,Sun Jan 18 2015,RCD La Coruña,0-4,FC Barcelona
+19,Sun Jan 18 2015,Sevilla FC,2-0,Málaga CF
+19,Sun Jan 18 2015,Elche CF,1-0,Levante UD
+20,Sat Jan 24 2015,Córdoba CF,1-2,Real Madrid
+20,Sat Jan 24 2015,Elche CF,0-6,FC Barcelona
+20,Sat Jan 24 2015,Atlético Madrid,3-1,Rayo Vallecano
+20,Sat Jan 24 2015,Real Sociedad,1-0,SD Eibar
+20,Sat Jan 24 2015,Villarreal CF,1-0,Levante UD
+20,Sun Jan 25 2015,RCD La Coruña,2-2,Granada CF
+20,Sun Jan 25 2015,Athletic Club Bilbao,1-1,Málaga CF
+20,Sun Jan 25 2015,RCD Espanyol,3-0,UD Almería
+20,Sun Jan 25 2015,Valencia CF,3-1,Sevilla FC
+20,Mon Jan 26 2015,Getafe CF,2-1,RC Celta Vigo
+21,Fri Jan 30 2015,Rayo Vallecano,1-2,RCD La Coruña
+21,Sat Jan 31 2015,Real Madrid,4-1,Real Sociedad
+21,Sat Jan 31 2015,SD Eibar,1-3,Atlético Madrid
+21,Sat Jan 31 2015,Granada CF,1-0,Elche CF
+21,Sat Jan 31 2015,RC Celta Vigo,1-0,Córdoba CF
+21,Sun Feb 1 2015,Levante UD,0-2,Athletic Club Bilbao
+21,Sun Feb 1 2015,UD Almería,1-0,Getafe CF
+21,Sun Feb 1 2015,Sevilla FC,3-2,RCD Espanyol
+21,Sun Feb 1 2015,FC Barcelona,3-2,Villarreal CF
+21,Mon Feb 2 2015,Málaga CF,1-0,Valencia CF
+16,Wed Feb 4 2015,Real Madrid,2-1,Sevilla FC
+22,Fri Feb 6 2015,RCD La Coruña,2-0,SD Eibar
+22,Sat Feb 7 2015,Atlético Madrid,4-0,Real Madrid
+22,Sat Feb 7 2015,Villarreal CF,2-0,Granada CF
+22,Sat Feb 7 2015,Levante UD,4-1,Málaga CF
+22,Sat Feb 7 2015,Real Sociedad,1-1,RC Celta Vigo
+22,Sun Feb 8 2015,Córdoba CF,1-2,UD Almería
+22,Sun Feb 8 2015,Getafe CF,2-1,Sevilla FC
+22,Sun Feb 8 2015,RCD Espanyol,1-2,Valencia CF
+22,Sun Feb 8 2015,Athletic Club Bilbao,2-5,FC Barcelona
+22,Mon Feb 9 2015,Elche CF,2-0,Rayo Vallecano
+23,Fri Feb 13 2015,UD Almería,2-2,Real Sociedad
+23,Sat Feb 14 2015,Sevilla FC,3-0,Córdoba CF
+23,Sat Feb 14 2015,Real Madrid,2-0,RCD La Coruña
+23,Sat Feb 14 2015,Granada CF,0-0,Athletic Club Bilbao
+23,Sat Feb 14 2015,Málaga CF,0-2,RCD Espanyol
+23,Sun Feb 15 2015,Valencia CF,1-0,Getafe CF
+23,Sun Feb 15 2015,FC Barcelona,5-0,Levante UD
+23,Sun Feb 15 2015,Rayo Vallecano,2-0,Villarreal CF
+23,Sun Feb 15 2015,RC Celta Vigo,2-0,Atlético Madrid
+23,Mon Feb 16 2015,SD Eibar,0-1,Elche CF
+24,Fri Feb 20 2015,Getafe CF,2-1,RCD Espanyol
+24,Sat Feb 21 2015,FC Barcelona,0-1,Málaga CF
+24,Sat Feb 21 2015,Córdoba CF,1-2,Valencia CF
+24,Sat Feb 21 2015,Atlético Madrid,3-0,UD Almería
+24,Sat Feb 21 2015,RCD La Coruña,0-2,RC Celta Vigo
+24,Sun Feb 22 2015,Real Sociedad,4-3,Sevilla FC
+24,Sun Feb 22 2015,Athletic Club Bilbao,1-0,Rayo Vallecano
+24,Sun Feb 22 2015,Villarreal CF,1-0,SD Eibar
+24,Sun Feb 22 2015,Elche CF,0-2,Real Madrid
+24,Mon Feb 23 2015,Levante UD,2-1,Granada CF
+25,Fri Feb 27 2015,RCD Espanyol,1-0,Córdoba CF
+25,Sat Feb 28 2015,Granada CF,1-3,FC Barcelona
+25,Sat Feb 28 2015,Rayo Vallecano,4-2,Levante UD
+25,Sat Feb 28 2015,UD Almería,0-0,RCD La Coruña
+25,Sat Feb 28 2015,Málaga CF,3-2,Getafe CF
+25,Sun Mar 1 2015,Valencia CF,2-0,Real Sociedad
+25,Sun Mar 1 2015,SD Eibar,0-1,Athletic Club Bilbao
+25,Sun Mar 1 2015,Sevilla FC,0-0,Atlético Madrid
+25,Sun Mar 1 2015,Real Madrid,1-1,Villarreal CF
+25,Mon Mar 2 2015,RC Celta Vigo,1-1,Elche CF
+26,Fri Mar 6 2015,Levante UD,2-1,SD Eibar
+26,Sat Mar 7 2015,RCD La Coruña,3-4,Sevilla FC
+26,Sat Mar 7 2015,Athletic Club Bilbao,1-0,Real Madrid
+26,Sat Mar 7 2015,Elche CF,1-0,UD Almería
+26,Sat Mar 7 2015,Granada CF,1-0,Málaga CF
+26,Sun Mar 8 2015,FC Barcelona,6-1,Rayo Vallecano
+26,Sun Mar 8 2015,Real Sociedad,1-0,RCD Espanyol
+26,Sun Mar 8 2015,Villarreal CF,4-1,RC Celta Vigo
+26,Sun Mar 8 2015,Atlético Madrid,1-1,Valencia CF
+26,Mon Mar 9 2015,Córdoba CF,1-2,Getafe CF
+27,Fri Mar 13 2015,Valencia CF,2-0,RCD La Coruña
+27,Sat Mar 14 2015,RCD Espanyol,0-0,Atlético Madrid
+27,Sat Mar 14 2015,SD Eibar,0-2,FC Barcelona
+27,Sat Mar 14 2015,Rayo Vallecano,3-1,Granada CF
+27,Sat Mar 14 2015,RC Celta Vigo,1-2,Athletic Club Bilbao
+27,Sun Mar 15 2015,UD Almería,0-0,Villarreal CF
+27,Sun Mar 15 2015,Málaga CF,2-0,Córdoba CF
+27,Sun Mar 15 2015,Sevilla FC,3-0,Elche CF
+27,Sun Mar 15 2015,Real Madrid,2-0,Levante UD
+27,Mon Mar 16 2015,Getafe CF,0-1,Real Sociedad
+28,Fri Mar 20 2015,Elche CF,0-4,Valencia CF
+28,Sat Mar 21 2015,Atlético Madrid,2-0,Getafe CF
+28,Sat Mar 21 2015,Rayo Vallecano,1-0,Málaga CF
+28,Sat Mar 21 2015,Levante UD,0-1,RC Celta Vigo
+28,Sat Mar 21 2015,Athletic Club Bilbao,2-1,UD Almería
+28,Sat Mar 21 2015,Granada CF,0-0,SD Eibar
+28,Sun Mar 22 2015,RCD La Coruña,0-0,RCD Espanyol
+28,Sun Mar 22 2015,Villarreal CF,0-2,Sevilla FC
+28,Sun Mar 22 2015,Real Sociedad,3-1,Córdoba CF
+28,Sun Mar 22 2015,FC Barcelona,2-1,Real Madrid
+29,Fri Apr 3 2015,SD Eibar,1-2,Rayo Vallecano
+29,Sat Apr 4 2015,Sevilla FC,2-0,Athletic Club Bilbao
+29,Sat Apr 4 2015,Córdoba CF,0-2,Atlético Madrid
+29,Sat Apr 4 2015,UD Almería,1-4,Levante UD
+29,Sat Apr 4 2015,Málaga CF,1-1,Real Sociedad
+29,Sun Apr 5 2015,Real Madrid,9-1,Granada CF
+29,Sun Apr 5 2015,Valencia CF,0-0,Villarreal CF
+29,Sun Apr 5 2015,Getafe CF,2-1,RCD La Coruña
+29,Sun Apr 5 2015,RC Celta Vigo,0-1,FC Barcelona
+29,Mon Apr 6 2015,RCD Espanyol,1-1,Elche CF
+30,Tue Apr 7 2015,Atlético Madrid,2-0,Real Sociedad
+30,Tue Apr 7 2015,Levante UD,1-2,Sevilla FC
+30,Tue Apr 7 2015,SD Eibar,1-0,Málaga CF
+30,Wed Apr 8 2015,RCD La Coruña,1-1,Córdoba CF
+30,Wed Apr 8 2015,FC Barcelona,4-0,UD Almería
+30,Wed Apr 8 2015,Rayo Vallecano,0-2,Real Madrid
+30,Wed Apr 8 2015,Granada CF,1-1,RC Celta Vigo
+30,Thu Apr 9 2015,Athletic Club Bilbao,1-1,Valencia CF
+30,Thu Apr 9 2015,Elche CF,0-1,Getafe CF
+30,Thu Apr 9 2015,Villarreal CF,0-3,RCD Espanyol
+31,Sat Apr 11 2015,Real Madrid,3-0,SD Eibar
+31,Sat Apr 11 2015,Málaga CF,2-2,Atlético Madrid
+31,Sat Apr 11 2015,Sevilla FC,2-2,FC Barcelona
+31,Sat Apr 11 2015,RC Celta Vigo,6-1,Rayo Vallecano
+31,Sat Apr 11 2015,UD Almería,3-0,Granada CF
+31,Sun Apr 12 2015,Getafe CF,1-1,Villarreal CF
+31,Sun Apr 12 2015,RCD Espanyol,1-0,Athletic Club Bilbao
+31,Sun Apr 12 2015,Real Sociedad,2-2,RCD La Coruña
+31,Sun Apr 12 2015,Córdoba CF,0-2,Elche CF
+31,Mon Apr 13 2015,Valencia CF,3-0,Levante UD
+32,Fri Apr 17 2015,Levante UD,2-2,RCD Espanyol
+32,Sat Apr 18 2015,FC Barcelona,2-0,Valencia CF
+32,Sat Apr 18 2015,RCD La Coruña,1-2,Atlético Madrid
+32,Sat Apr 18 2015,Real Madrid,3-1,Málaga CF
+32,Sat Apr 18 2015,Athletic Club Bilbao,4-0,Getafe CF
+32,Sun Apr 19 2015,Rayo Vallecano,2-0,UD Almería
+32,Sun Apr 19 2015,Granada CF,1-1,Sevilla FC
+32,Sun Apr 19 2015,Villarreal CF,0-0,Córdoba CF
+32,Sun Apr 19 2015,SD Eibar,0-1,RC Celta Vigo
+32,Mon Apr 20 2015,Elche CF,1-0,Real Sociedad
+33,Fri Apr 24 2015,Córdoba CF,0-1,Athletic Club Bilbao
+33,Sat Apr 25 2015,RCD Espanyol,0-2,FC Barcelona
+33,Sat Apr 25 2015,Atlético Madrid,3-0,Elche CF
+33,Sat Apr 25 2015,Getafe CF,0-1,Levante UD
+33,Sat Apr 25 2015,Real Sociedad,0-0,Villarreal CF
+33,Sun Apr 26 2015,Málaga CF,1-1,RCD La Coruña
+33,Sun Apr 26 2015,UD Almería,2-0,SD Eibar
+33,Sun Apr 26 2015,Sevilla FC,2-0,Rayo Vallecano
+33,Sun Apr 26 2015,RC Celta Vigo,2-4,Real Madrid
+33,Mon Apr 27 2015,Valencia CF,4-0,Granada CF
+34,Tue Apr 28 2015,FC Barcelona,6-0,Getafe CF
+34,Tue Apr 28 2015,Levante UD,1-0,Córdoba CF
+34,Tue Apr 28 2015,Athletic Club Bilbao,1-1,Real Sociedad
+34,Wed Apr 29 2015,SD Eibar,1-3,Sevilla FC
+34,Wed Apr 29 2015,Real Madrid,3-0,UD Almería
+34,Wed Apr 29 2015,RC Celta Vigo,1-0,Málaga CF
+34,Wed Apr 29 2015,Elche CF,4-0,RCD La Coruña
+34,Wed Apr 29 2015,Villarreal CF,0-1,Atlético Madrid
+34,Thu Apr 30 2015,Rayo Vallecano,1-1,Valencia CF
+34,Thu Apr 30 2015,Granada CF,1-2,RCD Espanyol
+35,Fri May 1 2015,Real Sociedad,3-0,Levante UD
+35,Sat May 2 2015,Córdoba CF,0-8,FC Barcelona
+35,Sat May 2 2015,Atlético Madrid,0-0,Athletic Club Bilbao
+35,Sat May 2 2015,Sevilla FC,2-3,Real Madrid
+35,Sat May 2 2015,RCD La Coruña,1-1,Villarreal CF
+35,Sun May 3 2015,RCD Espanyol,1-1,Rayo Vallecano
+35,Sun May 3 2015,Getafe CF,1-2,Granada CF
+35,Sun May 3 2015,Valencia CF,3-1,SD Eibar
+35,Sun May 3 2015,Málaga CF,1-2,Elche CF
+35,Mon May 4 2015,UD Almería,2-2,RC Celta Vigo
+36,Fri May 8 2015,SD Eibar,0-2,RCD Espanyol
+36,Sat May 9 2015,Granada CF,2-0,Córdoba CF
+36,Sat May 9 2015,FC Barcelona,2-0,Real Sociedad
+36,Sat May 9 2015,Real Madrid,2-2,Valencia CF
+36,Sat May 9 2015,Athletic Club Bilbao,1-1,RCD La Coruña
+36,Sun May 10 2015,Levante UD,2-2,Atlético Madrid
+36,Sun May 10 2015,Villarreal CF,1-0,Elche CF
+36,Sun May 10 2015,UD Almería,1-2,Málaga CF
+36,Sun May 10 2015,RC Celta Vigo,1-1,Sevilla FC
+36,Mon May 11 2015,Rayo Vallecano,2-0,Getafe CF
+37,Sun May 17 2015,Getafe CF,1-1,SD Eibar
+37,Sun May 17 2015,Atlético Madrid,0-1,FC Barcelona
+37,Sun May 17 2015,Valencia CF,1-1,RC Celta Vigo
+37,Sun May 17 2015,Córdoba CF,1-2,Rayo Vallecano
+37,Sun May 17 2015,Real Sociedad,0-3,Granada CF
+37,Sun May 17 2015,RCD Espanyol,1-4,Real Madrid
+37,Sun May 17 2015,Sevilla FC,2-1,UD Almería
+37,Sun May 17 2015,RCD La Coruña,2-0,Levante UD
+37,Sun May 17 2015,Villarreal CF,2-1,Málaga CF
+37,Sun May 17 2015,Elche CF,2-3,Athletic Club Bilbao
+38,Sat May 23 2015,Levante UD,0-0,Elche CF
+38,Sat May 23 2015,Athletic Club Bilbao,4-0,Villarreal CF
+38,Sat May 23 2015,Málaga CF,2-3,Sevilla FC
+38,Sat May 23 2015,FC Barcelona,2-2,RCD La Coruña
+38,Sat May 23 2015,SD Eibar,3-0,Córdoba CF
+38,Sat May 23 2015,RC Celta Vigo,3-2,RCD Espanyol
+38,Sat May 23 2015,UD Almería,2-3,Valencia CF
+38,Sat May 23 2015,Granada CF,0-0,Atlético Madrid
+38,Sat May 23 2015,Rayo Vallecano,2-4,Real Sociedad
+38,Sat May 23 2015,Real Madrid,7-3,Getafe CF

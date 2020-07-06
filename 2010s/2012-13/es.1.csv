@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 18 2012,RCD Mallorca,2-1,RCD Espanyol
+1,Sat Aug 18 2012,Sevilla FC,2-1,Getafe CF
+1,Sat Aug 18 2012,RC Celta Vigo,0-1,Málaga CF
+1,Sun Aug 19 2012,Levante UD,1-1,Atlético Madrid
+1,Sun Aug 19 2012,Real Madrid,1-1,Valencia CF
+1,Sun Aug 19 2012,FC Barcelona,5-1,Real Sociedad
+1,Sun Aug 19 2012,Athletic Club Bilbao,3-5,Real Betis
+1,Mon Aug 20 2012,RCD La Coruña,2-0,CA Osasuna
+1,Mon Aug 20 2012,Rayo Vallecano,1-0,Granada CF
+1,Mon Aug 20 2012,Real Zaragoza,0-1,Real Valladolid CF
+2,Sat Aug 25 2012,Real Betis,1-2,Rayo Vallecano
+2,Sat Aug 25 2012,Real Sociedad,2-1,RC Celta Vigo
+2,Sat Aug 25 2012,Málaga CF,1-1,RCD Mallorca
+2,Sat Aug 25 2012,RCD Espanyol,1-2,Real Zaragoza
+2,Sun Aug 26 2012,Getafe CF,2-1,Real Madrid
+2,Sun Aug 26 2012,Granada CF,1-1,Sevilla FC
+2,Sun Aug 26 2012,Valencia CF,3-3,RCD La Coruña
+2,Sun Aug 26 2012,CA Osasuna,1-2,FC Barcelona
+2,Mon Aug 27 2012,Real Valladolid CF,2-0,Levante UD
+2,Mon Aug 27 2012,Atlético Madrid,4-0,Athletic Club Bilbao
+3,Sat Sep 1 2012,Real Zaragoza,0-1,Málaga CF
+3,Sat Sep 1 2012,RCD Mallorca,1-0,Real Sociedad
+3,Sat Sep 1 2012,RC Celta Vigo,2-0,CA Osasuna
+3,Sat Sep 1 2012,RCD La Coruña,1-1,Getafe CF
+3,Sun Sep 2 2012,Athletic Club Bilbao,2-0,Real Valladolid CF
+3,Sun Sep 2 2012,Levante UD,3-2,RCD Espanyol
+3,Sun Sep 2 2012,Rayo Vallecano,0-0,Sevilla FC
+3,Sun Sep 2 2012,FC Barcelona,1-0,Valencia CF
+3,Sun Sep 2 2012,Real Madrid,3-0,Granada CF
+4,Sat Sep 15 2012,Málaga CF,3-1,Levante UD
+4,Sat Sep 15 2012,Getafe CF,1-4,FC Barcelona
+4,Sat Sep 15 2012,Sevilla FC,1-0,Real Madrid
+4,Sat Sep 15 2012,Valencia CF,2-1,RC Celta Vigo
+4,Sun Sep 16 2012,Granada CF,1-1,RCD La Coruña
+4,Sun Sep 16 2012,CA Osasuna,1-1,RCD Mallorca
+4,Sun Sep 16 2012,Real Sociedad,2-0,Real Zaragoza
+4,Sun Sep 16 2012,Atlético Madrid,4-3,Rayo Vallecano
+4,Sun Sep 16 2012,RCD Espanyol,3-3,Athletic Club Bilbao
+4,Mon Sep 17 2012,Real Valladolid CF,0-1,Real Betis
+5,Sat Sep 22 2012,Real Betis,1-0,RCD Espanyol
+5,Sat Sep 22 2012,RC Celta Vigo,2-1,Getafe CF
+5,Sat Sep 22 2012,Real Zaragoza,3-1,CA Osasuna
+5,Sat Sep 22 2012,FC Barcelona,2-0,Granada CF
+5,Sun Sep 23 2012,RCD Mallorca,2-0,Valencia CF
+5,Sun Sep 23 2012,Levante UD,2-1,Real Sociedad
+5,Sun Sep 23 2012,Athletic Club Bilbao,0-0,Málaga CF
+5,Sun Sep 23 2012,Atlético Madrid,2-1,Real Valladolid CF
+5,Mon Sep 24 2012,Rayo Vallecano,0-2,Real Madrid
+5,Mon Sep 24 2012,RCD La Coruña,0-2,Sevilla FC
+3,Wed Sep 26 2012,Real Betis,2-4,Atlético Madrid
+6,Sat Sep 29 2012,Sevilla FC,2-3,FC Barcelona
+6,Sat Sep 29 2012,Málaga CF,4-0,Real Betis
+6,Sat Sep 29 2012,Valencia CF,2-0,Real Zaragoza
+6,Sat Sep 29 2012,Real Sociedad,2-0,Athletic Club Bilbao
+6,Sun Sep 30 2012,Granada CF,2-1,RC Celta Vigo
+6,Sun Sep 30 2012,Real Madrid,5-1,RCD La Coruña
+6,Sun Sep 30 2012,RCD Espanyol,0-1,Atlético Madrid
+6,Sun Sep 30 2012,Real Valladolid CF,6-1,Rayo Vallecano
+6,Sun Sep 30 2012,CA Osasuna,4-0,Levante UD
+6,Mon Oct 1 2012,Getafe CF,1-0,RCD Mallorca
+7,Fri Oct 5 2012,RC Celta Vigo,2-0,Sevilla FC
+7,Sat Oct 6 2012,Rayo Vallecano,2-1,RCD La Coruña
+7,Sat Oct 6 2012,Real Valladolid CF,1-1,RCD Espanyol
+7,Sat Oct 6 2012,Real Zaragoza,0-1,Getafe CF
+7,Sat Oct 6 2012,Real Betis,2-0,Real Sociedad
+7,Sun Oct 7 2012,Levante UD,1-0,Valencia CF
+7,Sun Oct 7 2012,Athletic Club Bilbao,1-0,CA Osasuna
+7,Sun Oct 7 2012,Atlético Madrid,2-1,Málaga CF
+7,Sun Oct 7 2012,FC Barcelona,2-2,Real Madrid
+7,Sun Oct 7 2012,RCD Mallorca,1-2,Granada CF
+8,Sat Oct 20 2012,Real Madrid,2-0,RC Celta Vigo
+8,Sat Oct 20 2012,RCD La Coruña,4-5,FC Barcelona
+8,Sat Oct 20 2012,Valencia CF,3-2,Athletic Club Bilbao
+8,Sat Oct 20 2012,Málaga CF,2-1,Real Valladolid CF
+8,Sun Oct 21 2012,RCD Espanyol,3-2,Rayo Vallecano
+8,Sun Oct 21 2012,Getafe CF,0-1,Levante UD
+8,Sun Oct 21 2012,Real Sociedad,0-1,Atlético Madrid
+8,Sun Oct 21 2012,Granada CF,1-2,Real Zaragoza
+8,Sun Oct 21 2012,CA Osasuna,0-0,Real Betis
+8,Mon Oct 22 2012,Sevilla FC,3-2,RCD Mallorca
+9,Sat Oct 27 2012,RC Celta Vigo,1-1,RCD La Coruña
+9,Sat Oct 27 2012,RCD Espanyol,0-0,Málaga CF
+9,Sat Oct 27 2012,Real Betis,1-0,Valencia CF
+9,Sat Oct 27 2012,Rayo Vallecano,0-5,FC Barcelona
+9,Sun Oct 28 2012,RCD Mallorca,0-5,Real Madrid
+9,Sun Oct 28 2012,Athletic Club Bilbao,1-2,Getafe CF
+9,Sun Oct 28 2012,Real Zaragoza,2-1,Sevilla FC
+9,Sun Oct 28 2012,Atlético Madrid,3-1,CA Osasuna
+9,Sun Oct 28 2012,Levante UD,3-1,Granada CF
+9,Mon Oct 29 2012,Real Valladolid CF,2-2,Real Sociedad
+10,Sat Nov 3 2012,Málaga CF,1-2,Rayo Vallecano
+10,Sat Nov 3 2012,Real Madrid,4-0,Real Zaragoza
+10,Sat Nov 3 2012,FC Barcelona,3-1,RC Celta Vigo
+10,Sat Nov 3 2012,Valencia CF,2-0,Atlético Madrid
+10,Sun Nov 4 2012,Granada CF,1-2,Athletic Club Bilbao
+10,Sun Nov 4 2012,RCD La Coruña,1-0,RCD Mallorca
+10,Sun Nov 4 2012,Real Sociedad,0-1,RCD Espanyol
+10,Sun Nov 4 2012,Sevilla FC,0-0,Levante UD
+10,Sun Nov 4 2012,CA Osasuna,0-1,Real Valladolid CF
+10,Mon Nov 5 2012,Getafe CF,2-4,Real Betis
+11,Fri Nov 9 2012,Real Betis,1-2,Granada CF
+11,Sat Nov 10 2012,Real Zaragoza,5-3,RCD La Coruña
+11,Sat Nov 10 2012,Rayo Vallecano,3-2,RC Celta Vigo
+11,Sat Nov 10 2012,RCD Espanyol,0-3,CA Osasuna
+11,Sat Nov 10 2012,Málaga CF,1-2,Real Sociedad
+11,Sun Nov 11 2012,Levante UD,1-2,Real Madrid
+11,Sun Nov 11 2012,Real Valladolid CF,1-1,Valencia CF
+11,Sun Nov 11 2012,Atlético Madrid,2-0,Getafe CF
+11,Sun Nov 11 2012,RCD Mallorca,2-4,FC Barcelona
+11,Sun Nov 11 2012,Athletic Club Bilbao,2-1,Sevilla FC
+12,Sat Nov 17 2012,FC Barcelona,3-1,Real Zaragoza
+12,Sat Nov 17 2012,Valencia CF,2-1,RCD Espanyol
+12,Sat Nov 17 2012,CA Osasuna,0-0,Málaga CF
+12,Sat Nov 17 2012,Real Madrid,5-1,Athletic Club Bilbao
+12,Sun Nov 18 2012,RCD La Coruña,0-2,Levante UD
+12,Sun Nov 18 2012,Sevilla FC,5-1,Real Betis
+12,Sun Nov 18 2012,Getafe CF,2-1,Real Valladolid CF
+12,Sun Nov 18 2012,RC Celta Vigo,1-1,RCD Mallorca
+12,Sun Nov 18 2012,Granada CF,0-1,Atlético Madrid
+12,Mon Nov 19 2012,Real Sociedad,4-0,Rayo Vallecano
+13,Fri Nov 23 2012,Real Sociedad,0-0,CA Osasuna
+13,Sat Nov 24 2012,Real Betis,1-0,Real Madrid
+13,Sat Nov 24 2012,Málaga CF,4-0,Valencia CF
+13,Sat Nov 24 2012,Real Valladolid CF,1-0,Granada CF
+13,Sat Nov 24 2012,Rayo Vallecano,2-0,RCD Mallorca
+13,Sun Nov 25 2012,Levante UD,0-4,FC Barcelona
+13,Sun Nov 25 2012,Atlético Madrid,4-0,Sevilla FC
+13,Sun Nov 25 2012,RCD Espanyol,0-2,Getafe CF
+13,Sun Nov 25 2012,Athletic Club Bilbao,1-1,RCD La Coruña
+13,Mon Nov 26 2012,Real Zaragoza,0-1,RC Celta Vigo
+14,Fri Nov 30 2012,CA Osasuna,1-0,Rayo Vallecano
+14,Sat Dec 1 2012,Real Madrid,2-0,Atlético Madrid
+14,Sat Dec 1 2012,Getafe CF,1-0,Málaga CF
+14,Sat Dec 1 2012,Valencia CF,2-5,Real Sociedad
+14,Sat Dec 1 2012,FC Barcelona,5-1,Athletic Club Bilbao
+14,Sun Dec 2 2012,RCD Mallorca,1-1,Real Zaragoza
+14,Sun Dec 2 2012,RC Celta Vigo,1-1,Levante UD
+14,Sun Dec 2 2012,Granada CF,0-0,RCD Espanyol
+14,Sun Dec 2 2012,RCD La Coruña,2-3,Real Betis
+14,Mon Dec 3 2012,Sevilla FC,1-2,Real Valladolid CF
+15,Fri Dec 7 2012,RCD Espanyol,2-2,Sevilla FC
+15,Sat Dec 8 2012,Real Sociedad,1-1,Getafe CF
+15,Sat Dec 8 2012,Real Valladolid CF,2-3,Real Madrid
+15,Sat Dec 8 2012,Málaga CF,4-0,Granada CF
+15,Sat Dec 8 2012,CA Osasuna,0-1,Valencia CF
+15,Sun Dec 9 2012,Real Betis,1-2,FC Barcelona
+15,Sun Dec 9 2012,Athletic Club Bilbao,1-0,RC Celta Vigo
+15,Sun Dec 9 2012,Levante UD,4-0,RCD Mallorca
+15,Sun Dec 9 2012,Atlético Madrid,6-0,RCD La Coruña
+15,Mon Dec 10 2012,Rayo Vallecano,0-2,Real Zaragoza
+16,Sat Dec 15 2012,Granada CF,0-0,Real Sociedad
+16,Sat Dec 15 2012,Sevilla FC,0-2,Málaga CF
+16,Sat Dec 15 2012,Getafe CF,1-1,CA Osasuna
+16,Sat Dec 15 2012,RCD Mallorca,0-1,Athletic Club Bilbao
+16,Sun Dec 16 2012,FC Barcelona,4-1,Atlético Madrid
+16,Sun Dec 16 2012,Real Zaragoza,0-1,Levante UD
+16,Sun Dec 16 2012,Real Madrid,2-2,RCD Espanyol
+16,Sun Dec 16 2012,Valencia CF,0-1,Rayo Vallecano
+16,Mon Dec 17 2012,RC Celta Vigo,0-1,Real Betis
+16,Mon Dec 17 2012,RCD La Coruña,0-0,Real Valladolid CF
+17,Thu Dec 20 2012,Real Sociedad,2-1,Sevilla FC
+17,Thu Dec 20 2012,RCD Espanyol,2-0,RCD La Coruña
+17,Thu Dec 20 2012,Rayo Vallecano,3-0,Levante UD
+17,Fri Dec 21 2012,Valencia CF,4-2,Getafe CF
+17,Fri Dec 21 2012,Atlético Madrid,1-0,RC Celta Vigo
+17,Sat Dec 22 2012,Athletic Club Bilbao,0-2,Real Zaragoza
+17,Sat Dec 22 2012,Real Valladolid CF,1-3,FC Barcelona
+17,Sat Dec 22 2012,CA Osasuna,1-2,Granada CF
+17,Sat Dec 22 2012,Málaga CF,3-2,Real Madrid
+17,Sat Dec 22 2012,Real Betis,1-2,RCD Mallorca
+18,Fri Jan 4 2013,Real Zaragoza,1-2,Real Betis
+18,Sat Jan 5 2013,Granada CF,1-2,Valencia CF
+18,Sat Jan 5 2013,RCD La Coruña,1-0,Málaga CF
+18,Sat Jan 5 2013,Sevilla FC,1-0,CA Osasuna
+18,Sat Jan 5 2013,Levante UD,3-1,Athletic Club Bilbao
+18,Sun Jan 6 2013,RCD Mallorca,1-1,Atlético Madrid
+18,Sun Jan 6 2013,FC Barcelona,4-0,RCD Espanyol
+18,Sun Jan 6 2013,Real Madrid,4-3,Real Sociedad
+18,Sun Jan 6 2013,RC Celta Vigo,3-1,Real Valladolid CF
+18,Mon Jan 7 2013,Rayo Vallecano,3-1,Getafe CF
+19,Fri Jan 11 2013,Athletic Club Bilbao,1-2,Rayo Vallecano
+19,Sat Jan 12 2013,RCD Espanyol,1-0,RC Celta Vigo
+19,Sat Jan 12 2013,Real Valladolid CF,3-1,RCD Mallorca
+19,Sat Jan 12 2013,Valencia CF,2-0,Sevilla FC
+19,Sat Jan 12 2013,CA Osasuna,0-0,Real Madrid
+19,Sun Jan 13 2013,Atlético Madrid,2-0,Real Zaragoza
+19,Sun Jan 13 2013,Real Sociedad,1-1,RCD La Coruña
+19,Sun Jan 13 2013,Real Betis,2-0,Levante UD
+19,Sun Jan 13 2013,Málaga CF,1-3,FC Barcelona
+19,Mon Jan 14 2013,Getafe CF,2-2,Granada CF
+20,Fri Jan 18 2013,RCD Espanyol,3-2,RCD Mallorca
+20,Sat Jan 19 2013,Real Sociedad,3-2,FC Barcelona
+20,Sat Jan 19 2013,Granada CF,2-0,Rayo Vallecano
+20,Sat Jan 19 2013,Getafe CF,1-1,Sevilla FC
+20,Sat Jan 19 2013,Málaga CF,1-1,RC Celta Vigo
+20,Sun Jan 20 2013,CA Osasuna,2-1,RCD La Coruña
+20,Sun Jan 20 2013,Real Valladolid CF,2-0,Real Zaragoza
+20,Sun Jan 20 2013,Atlético Madrid,2-0,Levante UD
+20,Sun Jan 20 2013,Valencia CF,0-5,Real Madrid
+20,Mon Jan 21 2013,Real Betis,1-1,Athletic Club Bilbao
+21,Sat Jan 26 2013,Levante UD,2-1,Real Valladolid CF
+21,Sat Jan 26 2013,RC Celta Vigo,1-1,Real Sociedad
+21,Sat Jan 26 2013,RCD La Coruña,2-3,Valencia CF
+21,Sat Jan 26 2013,Real Zaragoza,0-0,RCD Espanyol
+21,Sun Jan 27 2013,Rayo Vallecano,3-0,Real Betis
+21,Sun Jan 27 2013,Athletic Club Bilbao,3-0,Atlético Madrid
+21,Sun Jan 27 2013,FC Barcelona,5-1,CA Osasuna
+21,Sun Jan 27 2013,RCD Mallorca,2-3,Málaga CF
+21,Sun Jan 27 2013,Real Madrid,4-0,Getafe CF
+21,Mon Jan 28 2013,Sevilla FC,3-0,Granada CF
+22,Fri Feb 1 2013,Real Valladolid CF,2-2,Athletic Club Bilbao
+22,Sat Feb 2 2013,Getafe CF,3-1,RCD La Coruña
+22,Sat Feb 2 2013,Granada CF,1-0,Real Madrid
+22,Sat Feb 2 2013,RCD Espanyol,3-2,Levante UD
+22,Sat Feb 2 2013,CA Osasuna,1-0,RC Celta Vigo
+22,Sun Feb 3 2013,Real Sociedad,3-0,RCD Mallorca
+22,Sun Feb 3 2013,Atlético Madrid,1-0,Real Betis
+22,Sun Feb 3 2013,Sevilla FC,2-1,Rayo Vallecano
+22,Sun Feb 3 2013,Málaga CF,1-1,Real Zaragoza
+22,Sun Feb 3 2013,Valencia CF,1-1,FC Barcelona
+23,Sat Feb 9 2013,RC Celta Vigo,0-1,Valencia CF
+23,Sat Feb 9 2013,Levante UD,1-2,Málaga CF
+23,Sat Feb 9 2013,Real Madrid,4-1,Sevilla FC
+23,Sat Feb 9 2013,RCD La Coruña,0-3,Granada CF
+23,Sat Feb 9 2013,RCD Mallorca,1-1,CA Osasuna
+23,Sun Feb 10 2013,Real Zaragoza,1-2,Real Sociedad
+23,Sun Feb 10 2013,Rayo Vallecano,2-1,Atlético Madrid
+23,Sun Feb 10 2013,Athletic Club Bilbao,0-4,RCD Espanyol
+23,Sun Feb 10 2013,FC Barcelona,6-1,Getafe CF
+23,Mon Feb 11 2013,Real Betis,0-0,Real Valladolid CF
+24,Fri Feb 15 2013,Sevilla FC,3-1,RCD La Coruña
+24,Sat Feb 16 2013,Getafe CF,3-1,RC Celta Vigo
+24,Sat Feb 16 2013,CA Osasuna,1-0,Real Zaragoza
+24,Sat Feb 16 2013,Granada CF,1-2,FC Barcelona
+24,Sat Feb 16 2013,Málaga CF,1-0,Athletic Club Bilbao
+24,Sun Feb 17 2013,Real Valladolid CF,0-3,Atlético Madrid
+24,Sun Feb 17 2013,Real Madrid,2-0,Rayo Vallecano
+24,Sun Feb 17 2013,Valencia CF,2-0,RCD Mallorca
+24,Sun Feb 17 2013,RCD Espanyol,1-0,Real Betis
+24,Sun Feb 17 2013,Real Sociedad,1-1,Levante UD
+25,Fri Feb 22 2013,Athletic Club Bilbao,1-3,Real Sociedad
+25,Sat Feb 23 2013,Real Zaragoza,2-2,Valencia CF
+25,Sat Feb 23 2013,RCD La Coruña,1-2,Real Madrid
+25,Sat Feb 23 2013,FC Barcelona,2-1,Sevilla FC
+25,Sat Feb 23 2013,RCD Mallorca,1-3,Getafe CF
+25,Sun Feb 24 2013,RC Celta Vigo,2-1,Granada CF
+25,Sun Feb 24 2013,Real Betis,3-0,Málaga CF
+25,Sun Feb 24 2013,Atlético Madrid,1-0,RCD Espanyol
+25,Sun Feb 24 2013,Rayo Vallecano,1-2,Real Valladolid CF
+25,Mon Feb 25 2013,Levante UD,0-2,CA Osasuna
+26,Fri Mar 1 2013,Getafe CF,2-0,Real Zaragoza
+26,Sat Mar 2 2013,RCD La Coruña,0-0,Rayo Vallecano
+26,Sat Mar 2 2013,Real Madrid,2-1,FC Barcelona
+26,Sat Mar 2 2013,CA Osasuna,0-1,Athletic Club Bilbao
+26,Sat Mar 2 2013,Valencia CF,2-2,Levante UD
+26,Sun Mar 3 2013,Málaga CF,0-0,Atlético Madrid
+26,Sun Mar 3 2013,Real Sociedad,3-3,Real Betis
+26,Sun Mar 3 2013,RCD Espanyol,0-0,Real Valladolid CF
+26,Sun Mar 3 2013,Granada CF,1-2,RCD Mallorca
+26,Mon Mar 4 2013,Sevilla FC,4-1,RC Celta Vigo
+27,Fri Mar 8 2013,Real Betis,2-1,CA Osasuna
+27,Sat Mar 9 2013,Real Valladolid CF,1-1,Málaga CF
+27,Sat Mar 9 2013,FC Barcelona,2-0,RCD La Coruña
+27,Sat Mar 9 2013,RCD Mallorca,2-1,Sevilla FC
+27,Sat Mar 9 2013,Rayo Vallecano,2-0,RCD Espanyol
+27,Sun Mar 10 2013,Atlético Madrid,0-1,Real Sociedad
+27,Sun Mar 10 2013,Levante UD,0-0,Getafe CF
+27,Sun Mar 10 2013,Athletic Club Bilbao,1-0,Valencia CF
+27,Sun Mar 10 2013,RC Celta Vigo,1-2,Real Madrid
+27,Mon Mar 11 2013,Real Zaragoza,0-0,Granada CF
+28,Fri Mar 15 2013,RCD La Coruña,3-1,RC Celta Vigo
+28,Sat Mar 16 2013,Valencia CF,3-0,Real Betis
+28,Sat Mar 16 2013,Real Madrid,5-2,RCD Mallorca
+28,Sat Mar 16 2013,Real Sociedad,4-1,Real Valladolid CF
+28,Sat Mar 16 2013,Getafe CF,1-0,Athletic Club Bilbao
+28,Sun Mar 17 2013,Málaga CF,0-2,RCD Espanyol
+28,Sun Mar 17 2013,CA Osasuna,0-2,Atlético Madrid
+28,Sun Mar 17 2013,FC Barcelona,3-1,Rayo Vallecano
+28,Sun Mar 17 2013,Sevilla FC,4-0,Real Zaragoza
+28,Sun Mar 17 2013,Granada CF,1-1,Levante UD
+29,Sat Mar 30 2013,Rayo Vallecano,1-3,Málaga CF
+29,Sat Mar 30 2013,Levante UD,1-0,Sevilla FC
+29,Sat Mar 30 2013,RC Celta Vigo,2-2,FC Barcelona
+29,Sat Mar 30 2013,Real Zaragoza,1-1,Real Madrid
+29,Sun Mar 31 2013,RCD Espanyol,2-2,Real Sociedad
+29,Sun Mar 31 2013,RCD Mallorca,2-3,RCD La Coruña
+29,Sun Mar 31 2013,Atlético Madrid,1-1,Valencia CF
+29,Sun Mar 31 2013,Real Valladolid CF,1-3,CA Osasuna
+29,Mon Apr 1 2013,Athletic Club Bilbao,1-0,Granada CF
+29,Mon Apr 1 2013,Real Betis,0-0,Getafe CF
+30,Fri Apr 5 2013,Granada CF,1-5,Real Betis
+30,Sat Apr 6 2013,RCD La Coruña,3-2,Real Zaragoza
+30,Sat Apr 6 2013,FC Barcelona,5-0,RCD Mallorca
+30,Sat Apr 6 2013,Real Sociedad,4-2,Málaga CF
+30,Sat Apr 6 2013,Real Madrid,5-1,Levante UD
+30,Sun Apr 7 2013,Valencia CF,2-1,Real Valladolid CF
+30,Sun Apr 7 2013,Getafe CF,0-0,Atlético Madrid
+30,Sun Apr 7 2013,CA Osasuna,0-2,RCD Espanyol
+30,Sun Apr 7 2013,RC Celta Vigo,0-2,Rayo Vallecano
+30,Mon Apr 8 2013,Sevilla FC,2-1,Athletic Club Bilbao
+31,Fri Apr 12 2013,Real Betis,3-3,Sevilla FC
+31,Sat Apr 13 2013,RCD Espanyol,3-3,Valencia CF
+31,Sat Apr 13 2013,Real Valladolid CF,2-1,Getafe CF
+31,Sat Apr 13 2013,Levante UD,0-4,RCD La Coruña
+31,Sat Apr 13 2013,Málaga CF,1-0,CA Osasuna
+31,Sun Apr 14 2013,Atlético Madrid,5-0,Granada CF
+31,Sun Apr 14 2013,Rayo Vallecano,0-2,Real Sociedad
+31,Sun Apr 14 2013,Real Zaragoza,0-3,FC Barcelona
+31,Sun Apr 14 2013,Athletic Club Bilbao,0-3,Real Madrid
+31,Mon Apr 15 2013,RCD Mallorca,1-0,RC Celta Vigo
+32,Fri Apr 19 2013,RCD Mallorca,1-1,Rayo Vallecano
+32,Sat Apr 20 2013,Real Madrid,3-1,Real Betis
+32,Sat Apr 20 2013,Valencia CF,5-1,Málaga CF
+32,Sat Apr 20 2013,FC Barcelona,1-0,Levante UD
+32,Sat Apr 20 2013,Granada CF,1-1,Real Valladolid CF
+32,Sun Apr 21 2013,Getafe CF,0-2,RCD Espanyol
+32,Sun Apr 21 2013,CA Osasuna,0-0,Real Sociedad
+32,Sun Apr 21 2013,RCD La Coruña,1-1,Athletic Club Bilbao
+32,Sun Apr 21 2013,Sevilla FC,0-1,Atlético Madrid
+32,Mon Apr 22 2013,RC Celta Vigo,2-1,Real Zaragoza
+33,Fri Apr 26 2013,Rayo Vallecano,2-2,CA Osasuna
+33,Sat Apr 27 2013,Levante UD,0-1,RC Celta Vigo
+33,Sat Apr 27 2013,Athletic Club Bilbao,2-2,FC Barcelona
+33,Sat Apr 27 2013,Atlético Madrid,1-2,Real Madrid
+33,Sat Apr 27 2013,Real Zaragoza,3-2,RCD Mallorca
+33,Sun Apr 28 2013,Real Sociedad,4-2,Valencia CF
+33,Sun Apr 28 2013,RCD Espanyol,0-1,Granada CF
+33,Sun Apr 28 2013,Real Valladolid CF,1-1,Sevilla FC
+33,Sun Apr 28 2013,Málaga CF,2-1,Getafe CF
+33,Mon Apr 29 2013,Real Betis,1-1,RCD La Coruña
+34,Fri May 3 2013,RC Celta Vigo,1-1,Athletic Club Bilbao
+34,Sat May 4 2013,Granada CF,1-0,Málaga CF
+34,Sat May 4 2013,RCD La Coruña,0-0,Atlético Madrid
+34,Sat May 4 2013,Real Madrid,4-3,Real Valladolid CF
+34,Sat May 4 2013,Valencia CF,4-0,CA Osasuna
+34,Sun May 5 2013,Sevilla FC,3-0,RCD Espanyol
+34,Sun May 5 2013,FC Barcelona,4-2,Real Betis
+34,Sun May 5 2013,RCD Mallorca,1-1,Levante UD
+34,Sun May 5 2013,Real Zaragoza,3-0,Rayo Vallecano
+34,Mon May 6 2013,Getafe CF,2-1,Real Sociedad
+36,Wed May 8 2013,RC Celta Vigo,1-3,Atlético Madrid
+36,Wed May 8 2013,Real Madrid,6-2,Málaga CF
+35,Fri May 10 2013,Levante UD,0-0,Real Zaragoza
+35,Sat May 11 2013,RCD Espanyol,1-1,Real Madrid
+35,Sat May 11 2013,Real Valladolid CF,1-0,RCD La Coruña
+35,Sat May 11 2013,Athletic Club Bilbao,2-1,RCD Mallorca
+35,Sat May 11 2013,CA Osasuna,1-0,Getafe CF
+35,Sun May 12 2013,Málaga CF,0-0,Sevilla FC
+35,Sun May 12 2013,Atlético Madrid,1-2,FC Barcelona
+35,Sun May 12 2013,Rayo Vallecano,0-4,Valencia CF
+35,Sun May 12 2013,Real Betis,1-0,RC Celta Vigo
+35,Mon May 13 2013,Real Sociedad,2-2,Granada CF
+36,Sat May 18 2013,Granada CF,3-0,CA Osasuna
+36,Sat May 18 2013,Getafe CF,0-1,Valencia CF
+36,Sat May 18 2013,Sevilla FC,1-2,Real Sociedad
+36,Sun May 19 2013,RCD La Coruña,2-0,RCD Espanyol
+36,Sun May 19 2013,FC Barcelona,2-1,Real Valladolid CF
+36,Sun May 19 2013,Real Zaragoza,1-2,Athletic Club Bilbao
+36,Sun May 19 2013,Levante UD,2-3,Rayo Vallecano
+36,Mon May 20 2013,RCD Mallorca,1-0,Real Betis
+37,Sun May 26 2013,Getafe CF,1-2,Rayo Vallecano
+37,Sun May 26 2013,Athletic Club Bilbao,0-1,Levante UD
+37,Sun May 26 2013,RCD Espanyol,0-2,FC Barcelona
+37,Sun May 26 2013,CA Osasuna,2-1,Sevilla FC
+37,Sun May 26 2013,Real Sociedad,3-3,Real Madrid
+37,Sun May 26 2013,Real Valladolid CF,0-2,RC Celta Vigo
+37,Sun May 26 2013,Atlético Madrid,0-0,RCD Mallorca
+37,Sun May 26 2013,Real Betis,4-0,Real Zaragoza
+37,Sun May 26 2013,Valencia CF,1-0,Granada CF
+37,Sun May 26 2013,Málaga CF,3-1,RCD La Coruña
+38,Sat Jun 1 2013,RCD La Coruña,0-1,Real Sociedad
+38,Sat Jun 1 2013,Real Zaragoza,1-3,Atlético Madrid
+38,Sat Jun 1 2013,Granada CF,2-0,Getafe CF
+38,Sat Jun 1 2013,FC Barcelona,4-1,Málaga CF
+38,Sat Jun 1 2013,RCD Mallorca,4-2,Real Valladolid CF
+38,Sat Jun 1 2013,RC Celta Vigo,1-0,RCD Espanyol
+38,Sat Jun 1 2013,Rayo Vallecano,2-2,Athletic Club Bilbao
+38,Sat Jun 1 2013,Sevilla FC,4-3,Valencia CF
+38,Sat Jun 1 2013,Real Madrid,4-2,CA Osasuna
+38,Sat Jun 1 2013,Levante UD,1-1,Real Betis
