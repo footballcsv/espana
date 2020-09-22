@@ -1,0 +1,463 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Aug 17 2018,Cádiz CF,1-0,UD Almería
+1,Fri Aug 17 2018,Albacete Balompié,1-1,RCD La Coruña
+1,Sat Aug 18 2018,Elche CF,0-0,Granada CF
+1,Sat Aug 18 2018,CD Lugo,1-2,Málaga CF
+1,Sat Aug 18 2018,AD Alcorcón,1-1,Sporting Gijón
+1,Sat Aug 18 2018,Córdoba CF,3-3,CD Numancia
+1,Sun Aug 19 2018,RCD Mallorca,1-0,CA Osasuna
+1,Sun Aug 19 2018,Real Oviedo,1-1,Extremadura UD
+1,Sun Aug 19 2018,Real Zaragoza,2-1,CF Rayo Majadahonda
+1,Sun Aug 19 2018,UD Las Palmas,2-0,CF Reus
+1,Mon Aug 20 2018,Gimnàstic Tarragona,1-1,CD Tenerife
+2,Fri Aug 24 2018,Málaga CF,1-0,AD Alcorcón
+2,Fri Aug 24 2018,Extremadura UD,0-1,RCD La Coruña
+2,Sat Aug 25 2018,CF Reus,0-0,Real Zaragoza
+2,Sat Aug 25 2018,CD Numancia,1-1,Cádiz CF
+2,Sat Aug 25 2018,UD Las Palmas,1-1,Albacete Balompié
+2,Sat Aug 25 2018,Córdoba CF,2-4,Real Oviedo
+2,Sun Aug 26 2018,Sporting Gijón,2-0,Gimnàstic Tarragona
+2,Sun Aug 26 2018,CA Osasuna,1-1,Elche CF
+2,Sun Aug 26 2018,Granada CF,1-1,CD Lugo
+2,Sun Aug 26 2018,UD Almería,1-1,CD Tenerife
+2,Mon Aug 27 2018,CF Rayo Majadahonda,0-1,RCD Mallorca
+3,Fri Aug 31 2018,AD Alcorcón,1-0,RCD Mallorca
+3,Sat Sep 1 2018,CD Lugo,3-2,CD Numancia
+3,Sat Sep 1 2018,Elche CF,0-2,CF Reus
+3,Sat Sep 1 2018,Real Zaragoza,1-1,UD Las Palmas
+3,Sat Sep 1 2018,Cádiz CF,1-1,Real Oviedo
+3,Sat Sep 1 2018,CD Tenerife,2-2,RCD La Coruña
+3,Sun Sep 2 2018,Gimnàstic Tarragona,0-1,CF Rayo Majadahonda
+3,Sun Sep 2 2018,Sporting Gijón,2-0,Extremadura UD
+3,Sun Sep 2 2018,Albacete Balompié,3-0,Córdoba CF
+3,Sun Sep 2 2018,Granada CF,2-0,CA Osasuna
+3,Mon Sep 3 2018,UD Almería,0-1,Málaga CF
+4,Fri Sep 7 2018,UD Las Palmas,4-0,Gimnàstic Tarragona
+4,Fri Sep 7 2018,RCD Mallorca,1-0,Cádiz CF
+4,Sat Sep 8 2018,CA Osasuna,3-1,UD Almería
+4,Sat Sep 8 2018,Málaga CF,1-0,CD Tenerife
+4,Sat Sep 8 2018,Real Oviedo,0-4,Real Zaragoza
+4,Sun Sep 9 2018,CF Reus,1-2,Albacete Balompié
+4,Sun Sep 9 2018,CD Numancia,1-0,Elche CF
+4,Sun Sep 9 2018,Extremadura UD,1-3,Granada CF
+4,Sun Sep 9 2018,Córdoba CF,0-0,AD Alcorcón
+4,Sun Sep 9 2018,RCD La Coruña,1-0,Sporting Gijón
+4,Mon Sep 10 2018,CF Rayo Majadahonda,1-0,CD Lugo
+5,Sat Sep 15 2018,Gimnàstic Tarragona,1-0,CA Osasuna
+5,Sat Sep 15 2018,Málaga CF,3-0,Córdoba CF
+5,Sat Sep 15 2018,CD Tenerife,0-1,CF Reus
+5,Sat Sep 15 2018,AD Alcorcón,1-0,RCD La Coruña
+5,Sun Sep 16 2018,Elche CF,1-1,RCD Mallorca
+5,Sun Sep 16 2018,CD Lugo,0-2,Real Oviedo
+5,Sun Sep 16 2018,Extremadura UD,1-2,UD Las Palmas
+5,Sun Sep 16 2018,UD Almería,2-1,Real Zaragoza
+5,Sun Sep 16 2018,Granada CF,3-0,CF Rayo Majadahonda
+5,Sun Sep 16 2018,Sporting Gijón,1-1,CD Numancia
+5,Mon Sep 17 2018,Albacete Balompié,1-1,Cádiz CF
+6,Sat Sep 22 2018,CA Osasuna,1-0,Sporting Gijón
+6,Sat Sep 22 2018,CF Rayo Majadahonda,1-4,Extremadura UD
+6,Sat Sep 22 2018,Real Zaragoza,0-2,CD Lugo
+6,Sat Sep 22 2018,Córdoba CF,1-1,CD Tenerife
+6,Sun Sep 23 2018,RCD Mallorca,1-3,Albacete Balompié
+6,Sun Sep 23 2018,Real Oviedo,1-1,Elche CF
+6,Sun Sep 23 2018,UD Las Palmas,1-0,Málaga CF
+6,Sun Sep 23 2018,CF Reus,1-1,Gimnàstic Tarragona
+6,Sun Sep 23 2018,CD Numancia,0-2,UD Almería
+6,Sun Sep 23 2018,Cádiz CF,0-2,AD Alcorcón
+6,Mon Sep 24 2018,RCD La Coruña,2-1,Granada CF
+7,Fri Sep 28 2018,Albacete Balompié,2-2,Real Zaragoza
+7,Sat Sep 29 2018,CD Lugo,1-1,RCD Mallorca
+7,Sat Sep 29 2018,Granada CF,4-2,Córdoba CF
+7,Sat Sep 29 2018,Sporting Gijón,1-0,UD Las Palmas
+7,Sat Sep 29 2018,CD Tenerife,1-0,Cádiz CF
+7,Sun Sep 30 2018,AD Alcorcón,2-0,Real Oviedo
+7,Sun Sep 30 2018,Málaga CF,1-0,CF Rayo Majadahonda
+7,Sun Sep 30 2018,UD Almería,2-0,CF Reus
+7,Sun Sep 30 2018,CA Osasuna,0-0,CD Numancia
+7,Sun Sep 30 2018,Extremadura UD,2-2,Elche CF
+7,Sun Sep 30 2018,Gimnàstic Tarragona,1-3,RCD La Coruña
+8,Sat Oct 6 2018,RCD Mallorca,4-1,CD Tenerife
+8,Sat Oct 6 2018,CD Numancia,1-0,Extremadura UD
+8,Sat Oct 6 2018,Córdoba CF,1-0,UD Almería
+8,Sat Oct 6 2018,UD Las Palmas,0-0,AD Alcorcón
+8,Sun Oct 7 2018,CF Reus,1-2,Granada CF
+8,Sun Oct 7 2018,Real Oviedo,1-0,Albacete Balompié
+8,Sun Oct 7 2018,RCD La Coruña,1-1,Málaga CF
+8,Sun Oct 7 2018,Elche CF,2-1,CD Lugo
+8,Sun Oct 7 2018,Cádiz CF,1-1,Gimnàstic Tarragona
+8,Mon Oct 8 2018,CF Rayo Majadahonda,2-1,Sporting Gijón
+8,Mon Oct 8 2018,Real Zaragoza,1-1,CA Osasuna
+9,Fri Oct 12 2018,Málaga CF,2-1,Albacete Balompié
+9,Fri Oct 12 2018,Extremadura UD,2-1,Cádiz CF
+9,Fri Oct 12 2018,RCD La Coruña,4-0,Elche CF
+9,Sat Oct 13 2018,CA Osasuna,3-1,Córdoba CF
+9,Sat Oct 13 2018,Sporting Gijón,1-1,CF Reus
+9,Sat Oct 13 2018,UD Almería,3-0,UD Las Palmas
+9,Sat Oct 13 2018,CD Numancia,1-0,Real Zaragoza
+9,Sun Oct 14 2018,CD Tenerife,0-0,CD Lugo
+9,Sun Oct 14 2018,CF Rayo Majadahonda,1-0,Real Oviedo
+9,Sun Oct 14 2018,Granada CF,1-0,RCD Mallorca
+9,Mon Oct 15 2018,Gimnàstic Tarragona,1-3,AD Alcorcón
+10,Fri Oct 19 2018,Elche CF,2-0,Málaga CF
+10,Sat Oct 20 2018,Real Oviedo,2-1,CA Osasuna
+10,Sat Oct 20 2018,AD Alcorcón,1-0,Granada CF
+10,Sat Oct 20 2018,UD Las Palmas,3-0,CD Numancia
+10,Sat Oct 20 2018,Córdoba CF,1-1,RCD La Coruña
+10,Sun Oct 21 2018,RCD Mallorca,1-1,Extremadura UD
+10,Sun Oct 21 2018,CD Lugo,1-0,Gimnàstic Tarragona
+10,Sun Oct 21 2018,Albacete Balompié,1-1,UD Almería
+10,Sun Oct 21 2018,CF Reus,2-1,CF Rayo Majadahonda
+10,Sun Oct 21 2018,Real Zaragoza,1-1,CD Tenerife
+10,Sun Oct 21 2018,Cádiz CF,0-0,Sporting Gijón
+11,Fri Oct 26 2018,Sporting Gijón,0-0,Córdoba CF
+11,Sat Oct 27 2018,RCD La Coruña,2-0,CF Reus
+11,Sat Oct 27 2018,Granada CF,1-0,UD Almería
+11,Sat Oct 27 2018,RCD Mallorca,2-2,UD Las Palmas
+11,Sat Oct 27 2018,CD Tenerife,3-2,AD Alcorcón
+11,Sat Oct 27 2018,CD Lugo,1-2,Cádiz CF
+11,Sun Oct 28 2018,Gimnàstic Tarragona,2-1,Real Oviedo
+11,Sun Oct 28 2018,CF Rayo Majadahonda,1-1,CA Osasuna
+11,Sun Oct 28 2018,Extremadura UD,1-2,Albacete Balompié
+11,Sun Oct 28 2018,Elche CF,2-0,Real Zaragoza
+11,Mon Oct 29 2018,Málaga CF,2-0,CD Numancia
+12,Fri Nov 2 2018,Albacete Balompié,2-0,Gimnàstic Tarragona
+12,Sat Nov 3 2018,CF Reus,0-0,CD Lugo
+12,Sat Nov 3 2018,CD Numancia,2-0,CD Tenerife
+12,Sat Nov 3 2018,CA Osasuna,2-1,Málaga CF
+12,Sat Nov 3 2018,Córdoba CF,4-2,Extremadura UD
+12,Sat Nov 3 2018,UD Las Palmas,1-1,RCD La Coruña
+12,Sun Nov 4 2018,Cádiz CF,5-1,Elche CF
+12,Sun Nov 4 2018,Real Oviedo,1-1,RCD Mallorca
+12,Sun Nov 4 2018,AD Alcorcón,2-0,CF Rayo Majadahonda
+12,Sun Nov 4 2018,UD Almería,2-1,Sporting Gijón
+12,Sun Nov 4 2018,Real Zaragoza,0-2,Granada CF
+13,Sat Nov 10 2018,Cádiz CF,2-0,CF Reus
+13,Sat Nov 10 2018,Extremadura UD,2-3,CA Osasuna
+13,Sat Nov 10 2018,CD Lugo,0-1,AD Alcorcón
+13,Sat Nov 10 2018,RCD La Coruña,4-0,Real Oviedo
+13,Sat Nov 10 2018,Elche CF,0-0,UD Las Palmas
+13,Sun Nov 11 2018,Granada CF,0-0,CD Numancia
+13,Sun Nov 11 2018,CF Rayo Majadahonda,2-0,UD Almería
+13,Sun Nov 11 2018,RCD Mallorca,3-0,Córdoba CF
+13,Sun Nov 11 2018,Sporting Gijón,2-2,Málaga CF
+13,Sun Nov 11 2018,CD Tenerife,0-0,Albacete Balompié
+13,Mon Nov 12 2018,Gimnàstic Tarragona,1-3,Real Zaragoza
+14,Fri Nov 16 2018,UD Las Palmas,2-2,Granada CF
+14,Sat Nov 17 2018,Málaga CF,2-0,Gimnàstic Tarragona
+14,Sat Nov 17 2018,CA Osasuna,2-0,CD Tenerife
+14,Sat Nov 17 2018,CF Reus,1-4,Extremadura UD
+14,Sat Nov 17 2018,Real Zaragoza,2-2,RCD Mallorca
+14,Sat Nov 17 2018,Real Oviedo,2-1,Sporting Gijón
+14,Sun Nov 18 2018,CD Numancia,1-2,CF Rayo Majadahonda
+14,Sun Nov 18 2018,Córdoba CF,1-3,Cádiz CF
+14,Sun Nov 18 2018,Albacete Balompié,1-0,CD Lugo
+14,Sun Nov 18 2018,AD Alcorcón,1-0,Elche CF
+14,Mon Nov 19 2018,UD Almería,1-1,RCD La Coruña
+15,Fri Nov 23 2018,Granada CF,1-2,Sporting Gijón
+15,Sat Nov 24 2018,Gimnàstic Tarragona,2-2,UD Almería
+15,Sat Nov 24 2018,RCD La Coruña,2-0,CA Osasuna
+15,Sat Nov 24 2018,CD Lugo,2-1,Córdoba CF
+15,Sat Nov 24 2018,Cádiz CF,4-1,UD Las Palmas
+15,Sun Nov 25 2018,RCD Mallorca,1-0,CD Numancia
+15,Sun Nov 25 2018,Extremadura UD,1-0,Málaga CF
+15,Sun Nov 25 2018,Real Oviedo,3-0,CF Reus
+15,Sun Nov 25 2018,Elche CF,0-1,Albacete Balompié
+15,Sun Nov 25 2018,CD Tenerife,2-1,CF Rayo Majadahonda
+15,Sun Nov 25 2018,AD Alcorcón,2-0,Real Zaragoza
+16,Fri Nov 30 2018,Real Zaragoza,0-1,Cádiz CF
+16,Sat Dec 1 2018,Córdoba CF,1-1,Elche CF
+16,Sat Dec 1 2018,Málaga CF,0-1,Granada CF
+16,Sat Dec 1 2018,CF Reus,0-2,RCD Mallorca
+16,Sat Dec 1 2018,UD Almería,1-1,Extremadura UD
+16,Sat Dec 1 2018,Sporting Gijón,2-1,CD Tenerife
+16,Sun Dec 2 2018,CF Rayo Majadahonda,0-0,RCD La Coruña
+16,Sun Dec 2 2018,CA Osasuna,1-0,CD Lugo
+16,Sun Dec 2 2018,Albacete Balompié,2-1,AD Alcorcón
+16,Sun Dec 2 2018,CD Numancia,3-0,Gimnàstic Tarragona
+16,Sun Dec 2 2018,UD Las Palmas,0-0,Real Oviedo
+17,Fri Dec 7 2018,CD Tenerife,0-0,Extremadura UD
+17,Sat Dec 8 2018,RCD La Coruña,2-2,CD Numancia
+17,Sat Dec 8 2018,Gimnàstic Tarragona,0-1,Granada CF
+17,Sat Dec 8 2018,Albacete Balompié,2-2,CA Osasuna
+17,Sat Dec 8 2018,RCD Mallorca,1-2,Málaga CF
+17,Sat Dec 8 2018,Real Oviedo,1-2,UD Almería
+17,Sun Dec 9 2018,AD Alcorcón,0-1,CF Reus
+17,Sun Dec 9 2018,Cádiz CF,1-0,CF Rayo Majadahonda
+17,Sun Dec 9 2018,Elche CF,0-0,Sporting Gijón
+17,Sun Dec 9 2018,CD Lugo,4-2,UD Las Palmas
+17,Sun Dec 9 2018,Real Zaragoza,0-0,Córdoba CF
+18,Fri Dec 14 2018,Málaga CF,1-0,Cádiz CF
+18,Sat Dec 15 2018,Granada CF,1-0,Real Oviedo
+18,Sat Dec 15 2018,CD Numancia,1-2,Albacete Balompié
+18,Sat Dec 15 2018,CF Reus,1-1,Córdoba CF
+18,Sat Dec 15 2018,Sporting Gijón,1-0,RCD Mallorca
+18,Sun Dec 16 2018,CF Rayo Majadahonda,1-3,Elche CF
+18,Sun Dec 16 2018,CA Osasuna,2-1,AD Alcorcón
+18,Sun Dec 16 2018,Extremadura UD,0-1,Gimnàstic Tarragona
+18,Sun Dec 16 2018,UD Las Palmas,1-1,CD Tenerife
+18,Sun Dec 16 2018,UD Almería,1-1,CD Lugo
+18,Sun Dec 16 2018,RCD La Coruña,3-1,Real Zaragoza
+19,Fri Dec 21 2018,CD Tenerife,1-1,Granada CF
+19,Fri Dec 21 2018,RCD Mallorca,2-0,Gimnàstic Tarragona
+19,Sat Dec 22 2018,CD Lugo,0-0,Sporting Gijón
+19,Sat Dec 22 2018,Real Oviedo,0-0,Málaga CF
+19,Sat Dec 22 2018,Real Zaragoza,2-1,Extremadura UD
+19,Sat Dec 22 2018,Elche CF,2-2,UD Almería
+19,Sat Dec 22 2018,Córdoba CF,4-1,UD Las Palmas
+19,Sat Dec 22 2018,Cádiz CF,3-0,RCD La Coruña
+19,Sun Dec 23 2018,CF Reus,0-1,CA Osasuna
+19,Sun Dec 23 2018,Albacete Balompié,1-0,CF Rayo Majadahonda
+19,Sun Dec 23 2018,AD Alcorcón,1-1,CD Numancia
+20,Fri Jan 4 2019,Granada CF,1-1,Albacete Balompié
+20,Fri Jan 4 2019,CD Tenerife,2-1,Elche CF
+20,Sat Jan 5 2019,Sporting Gijón,1-2,Real Zaragoza
+20,Sat Jan 5 2019,Extremadura UD,3-0,AD Alcorcón
+20,Sun Jan 6 2019,UD Almería,2-0,RCD Mallorca
+20,Sun Jan 6 2019,RCD La Coruña,0-0,CD Lugo
+20,Sun Jan 6 2019,CA Osasuna,2-1,Cádiz CF
+20,Sun Jan 6 2019,Gimnàstic Tarragona,1-0,Córdoba CF
+20,Sun Jan 6 2019,Málaga CF,0-3,CF Reus
+20,Mon Jan 7 2019,CD Numancia,2-3,Real Oviedo
+20,Mon Jan 7 2019,CF Rayo Majadahonda,0-0,UD Las Palmas
+21,Fri Jan 11 2019,Cádiz CF,0-0,Granada CF
+21,Sat Jan 12 2019,Albacete Balompié,1-1,Sporting Gijón
+21,Sat Jan 12 2019,UD Las Palmas,4-1,CA Osasuna
+21,Sat Jan 12 2019,CF Reus,1-1,CD Numancia
+21,Sat Jan 12 2019,Real Oviedo,1-0,CD Tenerife
+21,Sat Jan 12 2019,RCD Mallorca,1-0,RCD La Coruña
+21,Sun Jan 13 2019,Córdoba CF,1-1,CF Rayo Majadahonda
+21,Sun Jan 13 2019,AD Alcorcón,0-0,UD Almería
+21,Sun Jan 13 2019,CD Lugo,1-1,Extremadura UD
+21,Sun Jan 13 2019,Real Zaragoza,0-2,Málaga CF
+21,Sun Jan 13 2019,Elche CF,1-0,Gimnàstic Tarragona
+22,Sat Jan 19 2019,CF Reus,,UD Las Palmas
+22,Sat Jan 19 2019,UD Almería,0-0,Cádiz CF
+22,Sat Jan 19 2019,CF Rayo Majadahonda,2-2,Real Zaragoza
+22,Sat Jan 19 2019,CD Numancia,3-2,Córdoba CF
+22,Sat Jan 19 2019,Málaga CF,2-1,CD Lugo
+22,Sun Jan 20 2019,CA Osasuna,2-0,RCD Mallorca
+22,Sun Jan 20 2019,Sporting Gijón,2-0,AD Alcorcón
+22,Sun Jan 20 2019,RCD La Coruña,2-0,Albacete Balompié
+22,Sun Jan 20 2019,CD Tenerife,2-0,Gimnàstic Tarragona
+22,Sun Jan 20 2019,Extremadura UD,0-2,Real Oviedo
+22,Mon Jan 21 2019,Granada CF,2-1,Elche CF
+23,Fri Jan 25 2019,Real Zaragoza,2-0,Real Oviedo
+23,Sat Jan 26 2019,UD Almería,0-1,CA Osasuna
+23,Sat Jan 26 2019,Elche CF,1-1,CD Numancia
+23,Sat Jan 26 2019,CD Lugo,3-2,CF Rayo Majadahonda
+23,Sat Jan 26 2019,Cádiz CF,1-1,RCD Mallorca
+23,Sat Jan 26 2019,CD Tenerife,0-0,Málaga CF
+23,Sun Jan 27 2019,Albacete Balompié,,CF Reus
+23,Sun Jan 27 2019,Granada CF,0-0,Extremadura UD
+23,Sun Jan 27 2019,AD Alcorcón,2-1,Córdoba CF
+23,Sun Jan 27 2019,Sporting Gijón,1-2,RCD La Coruña
+23,Sun Jan 27 2019,Gimnàstic Tarragona,0-0,UD Las Palmas
+24,Fri Feb 1 2019,Málaga CF,1-1,UD Almería
+24,Sat Feb 2 2019,CD Numancia,3-0,CD Lugo
+24,Sat Feb 2 2019,CF Rayo Majadahonda,1-0,Gimnàstic Tarragona
+24,Sat Feb 2 2019,Córdoba CF,1-3,Albacete Balompié
+24,Sat Feb 2 2019,RCD La Coruña,0-0,CD Tenerife
+24,Sun Feb 3 2019,RCD Mallorca,2-0,AD Alcorcón
+24,Sun Feb 3 2019,Real Oviedo,2-1,Cádiz CF
+24,Sun Feb 3 2019,CF Reus,,Elche CF
+24,Sun Feb 3 2019,CA Osasuna,1-0,Granada CF
+24,Sun Feb 3 2019,Extremadura UD,0-3,Sporting Gijón
+24,Mon Feb 4 2019,UD Las Palmas,1-1,Real Zaragoza
+25,Fri Feb 8 2019,Sporting Gijón,0-2,CA Osasuna
+25,Sat Feb 9 2019,Gimnàstic Tarragona,,CF Reus
+25,Sat Feb 9 2019,Elche CF,1-2,Real Oviedo
+25,Sat Feb 9 2019,Extremadura UD,1-1,CF Rayo Majadahonda
+25,Sat Feb 9 2019,CD Tenerife,0-2,Córdoba CF
+25,Sat Feb 9 2019,CD Lugo,1-2,Real Zaragoza
+25,Sun Feb 10 2019,AD Alcorcón,1-2,Cádiz CF
+25,Sun Feb 10 2019,Albacete Balompié,2-0,RCD Mallorca
+25,Sun Feb 10 2019,UD Almería,1-0,CD Numancia
+25,Sun Feb 10 2019,Granada CF,0-1,RCD La Coruña
+25,Sun Feb 10 2019,Málaga CF,0-0,UD Las Palmas
+26,Fri Feb 15 2019,Córdoba CF,1-2,Granada CF
+26,Sat Feb 16 2019,RCD La Coruña,1-1,Gimnàstic Tarragona
+26,Sat Feb 16 2019,Elche CF,2-0,Extremadura UD
+26,Sat Feb 16 2019,Real Zaragoza,0-0,Albacete Balompié
+26,Sat Feb 16 2019,Real Oviedo,1-0,AD Alcorcón
+26,Sat Feb 16 2019,Cádiz CF,2-0,CD Tenerife
+26,Sun Feb 17 2019,CF Reus,,UD Almería
+26,Sun Feb 17 2019,RCD Mallorca,3-0,CD Lugo
+26,Sun Feb 17 2019,CD Numancia,1-1,CA Osasuna
+26,Sun Feb 17 2019,CF Rayo Majadahonda,0-1,Málaga CF
+26,Sun Feb 17 2019,UD Las Palmas,1-0,Sporting Gijón
+27,Fri Feb 22 2019,CD Tenerife,2-2,RCD Mallorca
+27,Sat Feb 23 2019,Albacete Balompié,0-0,Real Oviedo
+27,Sat Feb 23 2019,Gimnàstic Tarragona,2-3,Cádiz CF
+27,Sat Feb 23 2019,AD Alcorcón,2-0,UD Las Palmas
+27,Sat Feb 23 2019,CA Osasuna,1-0,Real Zaragoza
+27,Sun Feb 24 2019,Granada CF,,CF Reus
+27,Sun Feb 24 2019,Sporting Gijón,2-3,CF Rayo Majadahonda
+27,Sun Feb 24 2019,UD Almería,3-1,Córdoba CF
+27,Sun Feb 24 2019,Málaga CF,0-0,RCD La Coruña
+27,Sun Feb 24 2019,CD Lugo,2-2,Elche CF
+27,Sun Feb 24 2019,Extremadura UD,0-1,CD Numancia
+28,Sat Mar 2 2019,Cádiz CF,1-0,Albacete Balompié
+28,Sat Mar 2 2019,Córdoba CF,1-1,Málaga CF
+28,Sat Mar 2 2019,CA Osasuna,1-0,Gimnàstic Tarragona
+28,Sun Mar 3 2019,CF Reus,,CD Tenerife
+28,Sun Mar 3 2019,RCD Mallorca,1-1,Elche CF
+28,Sun Mar 3 2019,CD Numancia,1-2,Sporting Gijón
+28,Sun Mar 3 2019,CF Rayo Majadahonda,0-3,Granada CF
+28,Sun Mar 3 2019,Real Oviedo,1-1,CD Lugo
+28,Sun Mar 3 2019,UD Las Palmas,1-1,Extremadura UD
+28,Sun Mar 3 2019,Real Zaragoza,1-2,UD Almería
+28,Mon Mar 4 2019,RCD La Coruña,2-2,AD Alcorcón
+29,Sat Mar 9 2019,RCD Mallorca,1-0,Real Oviedo
+29,Sat Mar 9 2019,Sporting Gijón,1-0,UD Almería
+29,Sat Mar 9 2019,Gimnàstic Tarragona,1-0,Albacete Balompié
+29,Sat Mar 9 2019,Elche CF,1-0,Cádiz CF
+29,Sun Mar 10 2019,CD Lugo,,CF Reus
+29,Sun Mar 10 2019,CF Rayo Majadahonda,2-0,AD Alcorcón
+29,Sun Mar 10 2019,Extremadura UD,3-0,Córdoba CF
+29,Sun Mar 10 2019,Granada CF,1-0,Real Zaragoza
+29,Sun Mar 10 2019,CD Tenerife,1-1,CD Numancia
+29,Sun Mar 10 2019,RCD La Coruña,0-1,UD Las Palmas
+29,Mon Mar 11 2019,Málaga CF,1-2,CA Osasuna
+30,Sat Mar 16 2019,Albacete Balompié,1-0,Extremadura UD
+30,Sat Mar 16 2019,Cádiz CF,1-1,CD Lugo
+30,Sat Mar 16 2019,AD Alcorcón,1-1,CD Tenerife
+30,Sat Mar 16 2019,Real Zaragoza,1-0,Elche CF
+30,Sun Mar 17 2019,CF Reus,,RCD La Coruña
+30,Sun Mar 17 2019,Real Oviedo,2-0,Gimnàstic Tarragona
+30,Sun Mar 17 2019,Córdoba CF,1-2,Sporting Gijón
+30,Sun Mar 17 2019,UD Almería,0-0,Granada CF
+30,Sun Mar 17 2019,CA Osasuna,3-0,CF Rayo Majadahonda
+30,Sun Mar 17 2019,UD Las Palmas,1-2,RCD Mallorca
+30,Mon Mar 18 2019,CD Numancia,1-1,Málaga CF
+31,Fri Mar 22 2019,RCD La Coruña,0-0,UD Almería
+31,Fri Mar 22 2019,CD Tenerife,3-2,CA Osasuna
+31,Sat Mar 23 2019,Elche CF,3-1,AD Alcorcón
+31,Sat Mar 23 2019,CD Lugo,0-3,Albacete Balompié
+31,Sun Mar 24 2019,Extremadura UD,,CF Reus
+31,Sun Mar 24 2019,CF Rayo Majadahonda,4-0,CD Numancia
+31,Sun Mar 24 2019,Gimnàstic Tarragona,0-1,Málaga CF
+31,Sun Mar 24 2019,Cádiz CF,1-1,Córdoba CF
+31,Sun Mar 24 2019,Granada CF,1-1,UD Las Palmas
+31,Sun Mar 24 2019,Sporting Gijón,1-0,Real Oviedo
+31,Mon Mar 25 2019,RCD Mallorca,3-0,Real Zaragoza
+32,Fri Mar 29 2019,Málaga CF,1-1,Sporting Gijón
+32,Sat Mar 30 2019,UD Almería,2-2,CF Rayo Majadahonda
+32,Sat Mar 30 2019,CD Numancia,2-1,Granada CF
+32,Sat Mar 30 2019,Albacete Balompié,2-2,CD Tenerife
+32,Sun Mar 31 2019,CF Reus,,Cádiz CF
+32,Sun Mar 31 2019,Córdoba CF,3-2,RCD Mallorca
+32,Sun Mar 31 2019,CA Osasuna,1-0,Extremadura UD
+32,Sun Mar 31 2019,AD Alcorcón,0-0,CD Lugo
+32,Sun Mar 31 2019,Real Oviedo,1-1,RCD La Coruña
+32,Sun Mar 31 2019,UD Las Palmas,0-1,Elche CF
+32,Mon Apr 1 2019,Real Zaragoza,3-0,Gimnàstic Tarragona
+33,Fri Apr 5 2019,CD Tenerife,0-1,Sporting Gijón
+33,Sat Apr 6 2019,RCD La Coruña,0-2,CF Rayo Majadahonda
+33,Sat Apr 6 2019,Granada CF,1-0,Málaga CF
+33,Sat Apr 6 2019,Extremadura UD,1-0,UD Almería
+33,Sat Apr 6 2019,Real Oviedo,1-1,UD Las Palmas
+33,Sun Apr 7 2019,RCD Mallorca,,CF Reus
+33,Sun Apr 7 2019,AD Alcorcón,0-1,Albacete Balompié
+33,Sun Apr 7 2019,CD Lugo,2-2,CA Osasuna
+33,Sun Apr 7 2019,Gimnàstic Tarragona,2-0,CD Numancia
+33,Sun Apr 7 2019,Elche CF,1-0,Córdoba CF
+33,Mon Apr 8 2019,Cádiz CF,3-3,Real Zaragoza
+34,Fri Apr 12 2019,Sporting Gijón,1-0,Granada CF
+34,Sat Apr 13 2019,Málaga CF,1-2,Extremadura UD
+34,Sat Apr 13 2019,UD Almería,3-0,Gimnàstic Tarragona
+34,Sat Apr 13 2019,CA Osasuna,2-1,RCD La Coruña
+34,Sat Apr 13 2019,CF Rayo Majadahonda,1-3,CD Tenerife
+34,Sun Apr 14 2019,CF Reus,,Real Oviedo
+34,Sun Apr 14 2019,Albacete Balompié,1-1,Elche CF
+34,Sun Apr 14 2019,CD Numancia,1-1,RCD Mallorca
+34,Sun Apr 14 2019,Córdoba CF,0-4,CD Lugo
+34,Sun Apr 14 2019,UD Las Palmas,0-3,Cádiz CF
+34,Sun Apr 14 2019,Real Zaragoza,0-2,AD Alcorcón
+35,Fri Apr 19 2019,AD Alcorcón,1-4,Málaga CF
+35,Sat Apr 20 2019,CD Lugo,1-2,Granada CF
+35,Sat Apr 20 2019,Albacete Balompié,4-2,UD Las Palmas
+35,Sat Apr 20 2019,Gimnàstic Tarragona,0-0,Sporting Gijón
+35,Sat Apr 20 2019,RCD Mallorca,2-0,CF Rayo Majadahonda
+35,Sun Apr 21 2019,Real Zaragoza,,CF Reus
+35,Sun Apr 21 2019,Cádiz CF,2-1,CD Numancia
+35,Sun Apr 21 2019,RCD La Coruña,1-2,Extremadura UD
+35,Sun Apr 21 2019,Real Oviedo,3-3,Córdoba CF
+35,Sun Apr 21 2019,CD Tenerife,1-3,UD Almería
+35,Mon Apr 22 2019,Elche CF,1-2,CA Osasuna
+36,Fri Apr 26 2019,CD Numancia,1-2,RCD La Coruña
+36,Sat Apr 27 2019,Málaga CF,0-1,RCD Mallorca
+36,Sat Apr 27 2019,UD Almería,0-1,Real Oviedo
+36,Sat Apr 27 2019,CA Osasuna,2-0,Albacete Balompié
+36,Sat Apr 27 2019,Extremadura UD,1-0,CD Tenerife
+36,Sun Apr 28 2019,CF Reus,,AD Alcorcón
+36,Sun Apr 28 2019,CF Rayo Majadahonda,1-1,Cádiz CF
+36,Sun Apr 28 2019,Sporting Gijón,1-1,Elche CF
+36,Sun Apr 28 2019,Granada CF,2-0,Gimnàstic Tarragona
+36,Sun Apr 28 2019,UD Las Palmas,4-1,CD Lugo
+36,Sun Apr 28 2019,Córdoba CF,0-3,Real Zaragoza
+37,Sat May 4 2019,AD Alcorcón,0-0,CA Osasuna
+37,Sat May 4 2019,Real Zaragoza,0-1,RCD La Coruña
+37,Sat May 4 2019,Gimnàstic Tarragona,0-1,Extremadura UD
+37,Sat May 4 2019,CD Tenerife,2-1,UD Las Palmas
+37,Sun May 5 2019,Córdoba CF,,CF Reus
+37,Sun May 5 2019,CD Lugo,4-2,UD Almería
+37,Sun May 5 2019,RCD Mallorca,2-1,Sporting Gijón
+37,Sun May 5 2019,Albacete Balompié,0-0,CD Numancia
+37,Sun May 5 2019,Elche CF,2-1,CF Rayo Majadahonda
+37,Sun May 5 2019,Real Oviedo,1-1,Granada CF
+37,Mon May 6 2019,Cádiz CF,1-1,Málaga CF
+38,Fri May 10 2019,Granada CF,2-1,CD Tenerife
+38,Sat May 11 2019,Sporting Gijón,0-0,CD Lugo
+38,Sat May 11 2019,Gimnàstic Tarragona,2-1,RCD Mallorca
+38,Sat May 11 2019,Extremadura UD,0-3,Real Zaragoza
+38,Sat May 11 2019,CD Numancia,2-0,AD Alcorcón
+38,Sun May 12 2019,CA Osasuna,,CF Reus
+38,Sun May 12 2019,UD Almería,5-3,Elche CF
+38,Sun May 12 2019,CF Rayo Majadahonda,2-3,Albacete Balompié
+38,Sun May 12 2019,RCD La Coruña,1-1,Cádiz CF
+38,Sun May 12 2019,UD Las Palmas,1-0,Córdoba CF
+38,Mon May 13 2019,Málaga CF,3-0,Real Oviedo
+39,Fri May 17 2019,Real Zaragoza,4-2,Sporting Gijón
+39,Sat May 18 2019,AD Alcorcón,0-1,Extremadura UD
+39,Sat May 18 2019,Elche CF,3-0,CD Tenerife
+39,Sun May 19 2019,CF Reus,,Málaga CF
+39,Sun May 19 2019,RCD Mallorca,1-0,UD Almería
+39,Sun May 19 2019,Real Oviedo,1-0,CD Numancia
+39,Sun May 19 2019,Cádiz CF,0-0,CA Osasuna
+39,Sun May 19 2019,UD Las Palmas,3-2,CF Rayo Majadahonda
+39,Sun May 19 2019,Córdoba CF,4-3,Gimnàstic Tarragona
+39,Sun May 19 2019,CD Lugo,1-0,RCD La Coruña
+39,Mon May 20 2019,Albacete Balompié,0-1,Granada CF
+40,Fri May 24 2019,Málaga CF,3-1,Real Zaragoza
+40,Sat May 25 2019,CF Rayo Majadahonda,0-0,Córdoba CF
+40,Sat May 25 2019,Sporting Gijón,0-2,Albacete Balompié
+40,Sat May 25 2019,CA Osasuna,2-0,UD Las Palmas
+40,Sun May 26 2019,CD Numancia,,CF Reus
+40,Sun May 26 2019,UD Almería,0-0,AD Alcorcón
+40,Sun May 26 2019,Gimnàstic Tarragona,3-3,Elche CF
+40,Sun May 26 2019,CD Tenerife,2-1,Real Oviedo
+40,Sun May 26 2019,Granada CF,1-1,Cádiz CF
+40,Sun May 26 2019,Extremadura UD,0-0,CD Lugo
+40,Mon May 27 2019,RCD La Coruña,1-0,RCD Mallorca
+41,Fri May 31 2019,Córdoba CF,2-3,CA Osasuna
+41,Sat Jun 1 2019,AD Alcorcón,0-1,Gimnàstic Tarragona
+41,Sun Jun 2 2019,CF Reus,,Sporting Gijón
+41,Sun Jun 2 2019,UD Las Palmas,0-0,UD Almería
+41,Tue Jun 4 2019,Albacete Balompié,1-2,Málaga CF
+41,Tue Jun 4 2019,Cádiz CF,0-1,Extremadura UD
+41,Tue Jun 4 2019,CD Lugo,0-0,CD Tenerife
+41,Tue Jun 4 2019,Elche CF,0-0,RCD La Coruña
+41,Tue Jun 4 2019,RCD Mallorca,1-1,Granada CF
+41,Tue Jun 4 2019,Real Oviedo,4-3,CF Rayo Majadahonda
+41,Tue Jun 4 2019,Real Zaragoza,0-0,CD Numancia
+42,Sat Jun 8 2019,Extremadura UD,0-0,RCD Mallorca
+42,Sat Jun 8 2019,CA Osasuna,1-0,Real Oviedo
+42,Sat Jun 8 2019,UD Almería,3-0,Albacete Balompié
+42,Sat Jun 8 2019,Granada CF,2-1,AD Alcorcón
+42,Sat Jun 8 2019,Sporting Gijón,1-0,Cádiz CF
+42,Sat Jun 8 2019,RCD La Coruña,2-0,Córdoba CF
+42,Sat Jun 8 2019,Málaga CF,3-0,Elche CF
+42,Sun Jun 9 2019,CF Rayo Majadahonda,,CF Reus
+42,Sun Jun 9 2019,Gimnàstic Tarragona,1-1,CD Lugo
+42,Sun Jun 9 2019,CD Numancia,1-1,UD Las Palmas
+42,Sun Jun 9 2019,CD Tenerife,1-0,Real Zaragoza
