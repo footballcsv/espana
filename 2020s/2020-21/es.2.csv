@@ -10,28 +10,28 @@ Round,Date,Team 1,FT,Team 2
 1,Sun Sep 13 2020,CD Mirandés,0-0,AD Alcorcón
 1,Sun Sep 13 2020,CF Fuenlabrada,2-0,CD Lugo
 1,Sun Sep 13 2020,CD Tenerife,2-0,Málaga CF
-2,Fri Sep 18 2020,CD Castellón,,Málaga CF
-2,Sat Sep 19 2020,CD Mirandés,,Real Oviedo
-2,Sat Sep 19 2020,AD Alcorcón,,CD Tenerife
-2,Sat Sep 19 2020,Rayo Vallecano,,CE Sabadell
+2,Sat Sep 19 2020,CD Mirandés,1-1,Real Oviedo
+2,Sat Sep 19 2020,AD Alcorcón,2-0,CD Tenerife
+2,Sat Sep 19 2020,CD Castellón,0-1,Málaga CF
+2,Sat Sep 19 2020,Rayo Vallecano,2-1,CE Sabadell
 2,Sun Sep 20 2020,Girona FC,,UD Logroñés
 2,Sun Sep 20 2020,UD Almería,,Real Zaragoza
-2,Sun Sep 20 2020,CD Lugo,,CD Leganés
-2,Sun Sep 20 2020,RCD Espanyol,,RCD Mallorca
-2,Sun Sep 20 2020,Albacete Balompié,,SD Ponferradina
-2,Sun Sep 20 2020,UD Las Palmas,,CF Fuenlabrada
-2,Mon Sep 21 2020,FC Cartagena,,Sporting Gijón
-3,Sun Sep 27 2020,CD Leganés,,FC Cartagena
+2,Sun Sep 20 2020,CD Lugo,2-1,CD Leganés
+2,Sun Sep 20 2020,RCD Espanyol,0-0,RCD Mallorca
+2,Sun Sep 20 2020,Albacete Balompié,0-2,SD Ponferradina
+2,Sun Sep 20 2020,FC Cartagena,0-1,Sporting Gijón
+2,Sun Sep 20 2020,UD Las Palmas,3-3,CF Fuenlabrada
+3,Sat Sep 26 2020,Real Zaragoza,,UD Las Palmas
+3,Sat Sep 26 2020,Málaga CF,,AD Alcorcón
+3,Sat Sep 26 2020,Sporting Gijón,,Girona FC
+3,Sat Sep 26 2020,UD Logroñés,,CD Castellón
+3,Sat Sep 26 2020,CF Fuenlabrada,,Albacete Balompié
 3,Sun Sep 27 2020,CD Lugo,,UD Almería
-3,Sun Sep 27 2020,CD Tenerife,,CD Mirandés
-3,Sun Sep 27 2020,Málaga CF,,AD Alcorcón
-3,Sun Sep 27 2020,CF Fuenlabrada,,Albacete Balompié
 3,Sun Sep 27 2020,RCD Mallorca,,CE Sabadell
+3,Sun Sep 27 2020,CD Tenerife,,CD Mirandés
 3,Sun Sep 27 2020,Real Oviedo,,RCD Espanyol
-3,Sun Sep 27 2020,Real Zaragoza,,UD Las Palmas
 3,Sun Sep 27 2020,SD Ponferradina,,Rayo Vallecano
-3,Sun Sep 27 2020,Sporting Gijón,,Girona FC
-3,Sun Sep 27 2020,UD Logroñés,,CD Castellón
+3,Sun Sep 27 2020,CD Leganés,,FC Cartagena
 4,Sun Oct 4 2020,AD Alcorcón,,Real Zaragoza
 4,Sun Oct 4 2020,Albacete Balompié,,Real Oviedo
 4,Sun Oct 4 2020,CD Castellón,,CD Leganés
