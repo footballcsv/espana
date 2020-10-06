@@ -17,40 +17,40 @@ Round,Date,Team 1,FT,Team 2
 2,Sun Sep 20 2020,SD Huesca,0-2,Cádiz CF
 2,Sun Sep 20 2020,Real Sociedad,0-0,Real Madrid
 2,Sun Sep 20 2020,Sevilla FC,,Elche CF
-3,Sat Sep 26 2020,Deportivo Alavés,,Getafe CF
-3,Sat Sep 26 2020,Valencia CF,,SD Huesca
-3,Sat Sep 26 2020,Elche CF,,Real Sociedad
-3,Sat Sep 26 2020,Real Betis,,Real Madrid
-3,Sun Sep 27 2020,CA Osasuna,,Levante UD
-3,Sun Sep 27 2020,SD Eibar,,Athletic Club Bilbao
-3,Sun Sep 27 2020,Atlético Madrid,,Granada CF
-3,Sun Sep 27 2020,Cádiz CF,,Sevilla FC
-3,Sun Sep 27 2020,Real Valladolid CF,,RC Celta Vigo
-3,Sun Sep 27 2020,FC Barcelona,,Villarreal CF
-4,Tue Sep 29 2020,Real Sociedad,,Valencia CF
-4,Tue Sep 29 2020,Getafe CF,,Real Betis
-4,Wed Sep 30 2020,Villarreal CF,,Deportivo Alavés
-4,Wed Sep 30 2020,SD Huesca,,Atlético Madrid
-4,Wed Sep 30 2020,SD Eibar,,Elche CF
-4,Wed Sep 30 2020,Real Madrid,,Real Valladolid CF
-4,Thu Oct 1 2020,Athletic Club Bilbao,,Cádiz CF
-4,Thu Oct 1 2020,Sevilla FC,,Levante UD
+3,Sat Sep 26 2020,Deportivo Alavés,0-0,Getafe CF
+3,Sat Sep 26 2020,Valencia CF,1-1,SD Huesca
+3,Sat Sep 26 2020,Elche CF,0-3,Real Sociedad
+3,Sat Sep 26 2020,Real Betis,2-3,Real Madrid
+3,Sun Sep 27 2020,CA Osasuna,1-3,Levante UD
+3,Sun Sep 27 2020,SD Eibar,1-2,Athletic Club Bilbao
+3,Sun Sep 27 2020,Atlético Madrid,6-1,Granada CF
+3,Sun Sep 27 2020,Cádiz CF,1-3,Sevilla FC
+3,Sun Sep 27 2020,Real Valladolid CF,1-1,RC Celta Vigo
+3,Sun Sep 27 2020,FC Barcelona,4-0,Villarreal CF
+4,Tue Sep 29 2020,Real Sociedad,0-1,Valencia CF
+4,Tue Sep 29 2020,Getafe CF,3-0,Real Betis
+4,Wed Sep 30 2020,SD Huesca,0-0,Atlético Madrid
+4,Wed Sep 30 2020,Villarreal CF,3-1,Deportivo Alavés
+4,Wed Sep 30 2020,Real Madrid,1-0,Real Valladolid CF
+4,Wed Sep 30 2020,SD Eibar,0-1,Elche CF
+4,Thu Oct 1 2020,Sevilla FC,1-0,Levante UD
 4,Thu Oct 1 2020,Granada CF,,CA Osasuna
-4,Thu Oct 1 2020,RC Celta Vigo,,FC Barcelona
-5,Sun Oct 4 2020,Valencia CF,,Real Betis
-5,Sun Oct 4 2020,Elche CF,,SD Huesca
-5,Sun Oct 4 2020,Deportivo Alavés,,Athletic Club Bilbao
-5,Sun Oct 4 2020,Atlético Madrid,,Villarreal CF
-5,Sun Oct 4 2020,FC Barcelona,,Sevilla FC
-5,Sun Oct 4 2020,Real Valladolid CF,,SD Eibar
-5,Sun Oct 4 2020,Levante UD,,Real Madrid
-5,Sun Oct 4 2020,CA Osasuna,,RC Celta Vigo
-5,Sun Oct 4 2020,Real Sociedad,,Getafe CF
-5,Sun Oct 4 2020,Cádiz CF,,Granada CF
-6,Sun Oct 18 2020,Real Madrid,,Cádiz CF
+4,Thu Oct 1 2020,Athletic Club Bilbao,0-1,Cádiz CF
+4,Thu Oct 1 2020,RC Celta Vigo,0-3,FC Barcelona
+5,Sat Oct 3 2020,Real Valladolid CF,1-2,SD Eibar
+5,Sat Oct 3 2020,Atlético Madrid,0-0,Villarreal CF
+5,Sat Oct 3 2020,Real Sociedad,3-0,Getafe CF
+5,Sat Oct 3 2020,Elche CF,0-0,SD Huesca
+5,Sat Oct 3 2020,Valencia CF,0-2,Real Betis
+5,Sun Oct 4 2020,CA Osasuna,2-0,RC Celta Vigo
+5,Sun Oct 4 2020,Deportivo Alavés,1-0,Athletic Club Bilbao
+5,Sun Oct 4 2020,Levante UD,0-2,Real Madrid
+5,Sun Oct 4 2020,Cádiz CF,1-1,Granada CF
+5,Sun Oct 4 2020,FC Barcelona,1-1,Sevilla FC
+6,Sun Oct 18 2020,Athletic Club Bilbao,,Levante UD
 6,Sun Oct 18 2020,Villarreal CF,,Valencia CF
 6,Sun Oct 18 2020,Deportivo Alavés,,Elche CF
-6,Sun Oct 18 2020,Athletic Club Bilbao,,Levante UD
+6,Sun Oct 18 2020,Real Madrid,,Cádiz CF
 6,Sun Oct 18 2020,Real Betis,,Real Sociedad
 6,Sun Oct 18 2020,SD Huesca,,Real Valladolid CF
 6,Sun Oct 18 2020,SD Eibar,,CA Osasuna
