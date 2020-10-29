@@ -63,9 +63,9 @@ Round,Date,Team 1,FT,Team 2
 7,Sat Oct 24 2020,Atlético Madrid,2-0,Real Betis
 7,Sun Oct 25 2020,Real Valladolid CF,0-2,Deportivo Alavés
 7,Sun Oct 25 2020,Cádiz CF,0-0,Villarreal CF
-7,Sun Oct 25 2020,Getafe CF,,Granada CF
-7,Sun Oct 25 2020,Real Sociedad,,SD Huesca
-7,Mon Oct 26 2020,Levante UD,,RC Celta Vigo
+7,Sun Oct 25 2020,Getafe CF,0-1,Granada CF
+7,Sun Oct 25 2020,Real Sociedad,4-1,SD Huesca
+7,Mon Oct 26 2020,Levante UD,1-1,RC Celta Vigo
 8,Fri Oct 30 2020,SD Eibar,,Cádiz CF
 8,Sat Oct 31 2020,Real Madrid,,SD Huesca
 8,Sat Oct 31 2020,Athletic Club Bilbao,,Sevilla FC
@@ -76,26 +76,26 @@ Round,Date,Team 1,FT,Team 2
 8,Sun Nov 1 2020,Granada CF,,Levante UD
 8,Sun Nov 1 2020,Valencia CF,,Getafe CF
 8,Mon Nov 2 2020,Villarreal CF,,Real Valladolid CF
-9,Sun Nov 8 2020,Valencia CF,,Real Madrid
-9,Sun Nov 8 2020,Real Valladolid CF,,Athletic Club Bilbao
-9,Sun Nov 8 2020,Elche CF,,RC Celta Vigo
-9,Sun Nov 8 2020,Atlético Madrid,,Cádiz CF
-9,Sun Nov 8 2020,Sevilla FC,,CA Osasuna
+9,Fri Nov 6 2020,Elche CF,,RC Celta Vigo
+9,Sat Nov 7 2020,SD Huesca,,SD Eibar
+9,Sat Nov 7 2020,FC Barcelona,,Real Betis
+9,Sat Nov 7 2020,Sevilla FC,,CA Osasuna
+9,Sat Nov 7 2020,Atlético Madrid,,Cádiz CF
 9,Sun Nov 8 2020,Getafe CF,,Villarreal CF
-9,Sun Nov 8 2020,SD Huesca,,SD Eibar
-9,Sun Nov 8 2020,Levante UD,,Deportivo Alavés
 9,Sun Nov 8 2020,Real Sociedad,,Granada CF
-9,Sun Nov 8 2020,FC Barcelona,,Real Betis
+9,Sun Nov 8 2020,Levante UD,,Deportivo Alavés
+9,Sun Nov 8 2020,Real Valladolid CF,,Athletic Club Bilbao
+9,Sun Nov 8 2020,Valencia CF,,Real Madrid
 10,Sun Nov 22 2020,CA Osasuna,,SD Huesca
 10,Sun Nov 22 2020,Levante UD,,Elche CF
 10,Sun Nov 22 2020,Sevilla FC,,RC Celta Vigo
 10,Sun Nov 22 2020,Deportivo Alavés,,Valencia CF
 10,Sun Nov 22 2020,Athletic Club Bilbao,,Real Betis
-10,Sun Nov 22 2020,Atlético Madrid,,FC Barcelona
+10,Sun Nov 22 2020,Villarreal CF,,Real Madrid
 10,Sun Nov 22 2020,SD Eibar,,Getafe CF
 10,Sun Nov 22 2020,Cádiz CF,,Real Sociedad
 10,Sun Nov 22 2020,Granada CF,,Real Valladolid CF
-10,Sun Nov 22 2020,Villarreal CF,,Real Madrid
+10,Sun Nov 22 2020,Atlético Madrid,,FC Barcelona
 11,Sun Nov 29 2020,Real Sociedad,,Villarreal CF
 11,Sun Nov 29 2020,Elche CF,,Cádiz CF
 11,Sun Nov 29 2020,Valencia CF,,Atlético Madrid
