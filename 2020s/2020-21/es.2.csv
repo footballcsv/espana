@@ -85,24 +85,24 @@ Round,Date,Team 1,FT,Team 2
 8,Sun Oct 25 2020,Real Zaragoza,0-0,CE Sabadell
 8,Mon Oct 26 2020,AD Alcorcón,0-2,RCD Mallorca
 9,Tue Oct 27 2020,Girona FC,2-1,FC Cartagena
-9,Wed Oct 28 2020,RCD Espanyol,,SD Ponferradina
-9,Wed Oct 28 2020,Albacete Balompié,,UD Las Palmas
-9,Wed Oct 28 2020,CD Castellón,,UD Almería
-9,Wed Oct 28 2020,Real Oviedo,,UD Logroñés
-9,Thu Oct 29 2020,AD Alcorcón,,Sporting Gijón
-9,Thu Oct 29 2020,CD Tenerife,,CD Lugo
-9,Thu Oct 29 2020,CD Mirandés,,Real Zaragoza
-9,Thu Oct 29 2020,RCD Mallorca,,Málaga CF
-9,Thu Oct 29 2020,CE Sabadell,,CD Leganés
-9,Thu Oct 29 2020,Rayo Vallecano,,CF Fuenlabrada
-10,Sat Oct 31 2020,FC Cartagena,,Albacete Balompié
-10,Sat Oct 31 2020,UD Las Palmas,,Real Oviedo
-10,Sun Nov 1 2020,CD Leganés,,CD Mirandés
-10,Sun Nov 1 2020,Real Zaragoza,,RCD Mallorca
-10,Sun Nov 1 2020,CF Fuenlabrada,,CD Tenerife
-10,Sun Nov 1 2020,SD Ponferradina,,CE Sabadell
-10,Sun Nov 1 2020,CD Lugo,,Rayo Vallecano
-10,Sun Nov 1 2020,UD Almería,,Girona FC
+9,Wed Oct 28 2020,RCD Espanyol,2-0,SD Ponferradina
+9,Wed Oct 28 2020,Albacete Balompié,1-1,UD Las Palmas
+9,Wed Oct 28 2020,CD Castellón,1-2,UD Almería
+9,Wed Oct 28 2020,Real Oviedo,2-3,UD Logroñés
+9,Thu Oct 29 2020,AD Alcorcón,1-2,Sporting Gijón
+9,Thu Oct 29 2020,CD Tenerife,1-1,CD Lugo
+9,Thu Oct 29 2020,CD Mirandés,1-0,Real Zaragoza
+9,Thu Oct 29 2020,RCD Mallorca,3-1,Málaga CF
+9,Thu Oct 29 2020,CE Sabadell,1-0,CD Leganés
+9,Thu Oct 29 2020,Rayo Vallecano,2-0,CF Fuenlabrada
+10,Sat Oct 31 2020,FC Cartagena,3-1,Albacete Balompié
+10,Sat Oct 31 2020,UD Las Palmas,1-2,Real Oviedo
+10,Sun Nov 1 2020,CD Leganés,1-0,CD Mirandés
+10,Sun Nov 1 2020,Real Zaragoza,0-0,RCD Mallorca
+10,Sun Nov 1 2020,CF Fuenlabrada,1-1,CD Tenerife
+10,Sun Nov 1 2020,SD Ponferradina,0-3,CE Sabadell
+10,Sun Nov 1 2020,CD Lugo,1-0,Rayo Vallecano
+10,Sun Nov 1 2020,UD Almería,0-0,Girona FC
 10,Mon Nov 2 2020,UD Logroñés,,AD Alcorcón
 10,Mon Nov 2 2020,Sporting Gijón,,CD Castellón
 10,Mon Nov 2 2020,Málaga CF,,RCD Espanyol
@@ -120,17 +120,17 @@ Round,Date,Team 1,FT,Team 2
 11,Sun Nov 8 2020,RCD Mallorca,,SD Ponferradina
 11,Sun Nov 8 2020,CD Tenerife,,Real Zaragoza
 11,Mon Nov 9 2020,Girona FC,,UD Las Palmas
-12,Sun Nov 15 2020,CD Castellón,,FC Cartagena
+12,Fri Nov 13 2020,Real Zaragoza,,Real Oviedo
+12,Sat Nov 14 2020,CF Fuenlabrada,,RCD Espanyol
+12,Sat Nov 14 2020,UD Almería,,CD Mirandés
+12,Sat Nov 14 2020,CD Lugo,,Albacete Balompié
+12,Sat Nov 14 2020,Girona FC,,RCD Mallorca
 12,Sun Nov 15 2020,CD Leganés,,AD Alcorcón
-12,Sun Nov 15 2020,CD Lugo,,Albacete Balompié
-12,Sun Nov 15 2020,Girona FC,,RCD Mallorca
-12,Sun Nov 15 2020,CF Fuenlabrada,,RCD Espanyol
-12,Sun Nov 15 2020,Real Zaragoza,,Real Oviedo
 12,Sun Nov 15 2020,SD Ponferradina,,Málaga CF
-12,Sun Nov 15 2020,Sporting Gijón,,Rayo Vallecano
-12,Sun Nov 15 2020,UD Almería,,CD Mirandés
-12,Sun Nov 15 2020,UD Las Palmas,,CD Tenerife
+12,Sun Nov 15 2020,CD Castellón,,FC Cartagena
 12,Sun Nov 15 2020,UD Logroñés,,CE Sabadell
+12,Sun Nov 15 2020,UD Las Palmas,,CD Tenerife
+12,Mon Nov 16 2020,Sporting Gijón,,Rayo Vallecano
 13,Sun Nov 22 2020,AD Alcorcón,,CD Lugo
 13,Sun Nov 22 2020,Albacete Balompié,,UD Almería
 13,Sun Nov 22 2020,CD Mirandés,,FC Cartagena
