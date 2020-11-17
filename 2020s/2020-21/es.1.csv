@@ -11,12 +11,12 @@ Round,Date,Team 1,FT,Team 2
 2,Sat Sep 19 2020,Villarreal CF,2-1,SD Eibar
 2,Sat Sep 19 2020,Getafe CF,1-0,CA Osasuna
 2,Sat Sep 19 2020,RC Celta Vigo,2-1,Valencia CF
-2,Sun Sep 20 2020,Levante UD,,Atlético Madrid
-2,Sun Sep 20 2020,Real Betis,2-0,Real Valladolid CF
-2,Sun Sep 20 2020,Granada CF,2-1,Deportivo Alavés
 2,Sun Sep 20 2020,SD Huesca,0-2,Cádiz CF
-2,Sun Sep 20 2020,Real Sociedad,0-0,Real Madrid
+2,Sun Sep 20 2020,Real Betis,2-0,Real Valladolid CF
 2,Sun Sep 20 2020,Sevilla FC,,Elche CF
+2,Sun Sep 20 2020,Granada CF,2-1,Deportivo Alavés
+2,Sun Sep 20 2020,Real Sociedad,0-0,Real Madrid
+2,Sun Sep 20 2020,Levante UD,,Atlético Madrid
 3,Sat Sep 26 2020,Deportivo Alavés,0-0,Getafe CF
 3,Sat Sep 26 2020,Valencia CF,1-1,SD Huesca
 3,Sat Sep 26 2020,Elche CF,0-3,Real Sociedad
@@ -33,13 +33,13 @@ Round,Date,Team 1,FT,Team 2
 4,Wed Sep 30 2020,Villarreal CF,3-1,Deportivo Alavés
 4,Wed Sep 30 2020,Real Madrid,1-0,Real Valladolid CF
 4,Wed Sep 30 2020,SD Eibar,0-1,Elche CF
-4,Thu Oct 1 2020,Sevilla FC,1-0,Levante UD
 4,Thu Oct 1 2020,Athletic Club Bilbao,0-1,Cádiz CF
+4,Thu Oct 1 2020,Sevilla FC,1-0,Levante UD
 4,Thu Oct 1 2020,RC Celta Vigo,0-3,FC Barcelona
 5,Sat Oct 3 2020,Real Valladolid CF,1-2,SD Eibar
 5,Sat Oct 3 2020,Atlético Madrid,0-0,Villarreal CF
-5,Sat Oct 3 2020,Elche CF,0-0,SD Huesca
 5,Sat Oct 3 2020,Real Sociedad,3-0,Getafe CF
+5,Sat Oct 3 2020,Elche CF,0-0,SD Huesca
 5,Sat Oct 3 2020,Valencia CF,0-2,Real Betis
 5,Sun Oct 4 2020,CA Osasuna,2-0,RC Celta Vigo
 5,Sun Oct 4 2020,Deportivo Alavés,1-0,Athletic Club Bilbao
@@ -53,13 +53,13 @@ Round,Date,Team 1,FT,Team 2
 6,Sun Oct 18 2020,SD Eibar,0-0,CA Osasuna
 6,Sun Oct 18 2020,Athletic Club Bilbao,2-0,Levante UD
 6,Sun Oct 18 2020,Villarreal CF,2-1,Valencia CF
-6,Sun Oct 18 2020,Deportivo Alavés,0-2,Elche CF
 6,Sun Oct 18 2020,SD Huesca,2-2,Real Valladolid CF
+6,Sun Oct 18 2020,Deportivo Alavés,0-2,Elche CF
 6,Sun Oct 18 2020,Real Betis,0-3,Real Sociedad
 7,Fri Oct 23 2020,Elche CF,2-1,Valencia CF
 7,Sat Oct 24 2020,FC Barcelona,1-3,Real Madrid
-7,Sat Oct 24 2020,CA Osasuna,1-0,Athletic Club Bilbao
 7,Sat Oct 24 2020,Sevilla FC,0-1,SD Eibar
+7,Sat Oct 24 2020,CA Osasuna,1-0,Athletic Club Bilbao
 7,Sat Oct 24 2020,Atlético Madrid,2-0,Real Betis
 7,Sun Oct 25 2020,Real Valladolid CF,0-2,Deportivo Alavés
 7,Sun Oct 25 2020,Cádiz CF,0-0,Villarreal CF
@@ -96,46 +96,46 @@ Round,Date,Team 1,FT,Team 2
 10,Sun Nov 22 2020,Granada CF,,Real Valladolid CF
 10,Sun Nov 22 2020,Deportivo Alavés,,Valencia CF
 10,Mon Nov 23 2020,Athletic Club Bilbao,,Real Betis
+11,Fri Nov 27 2020,Real Valladolid CF,,Levante UD
+11,Sat Nov 28 2020,Elche CF,,Cádiz CF
+11,Sat Nov 28 2020,Valencia CF,,Atlético Madrid
+11,Sat Nov 28 2020,SD Huesca,,Sevilla FC
+11,Sat Nov 28 2020,Real Madrid,,Deportivo Alavés
 11,Sun Nov 29 2020,FC Barcelona,,CA Osasuna
-11,Sun Nov 29 2020,Elche CF,,Cádiz CF
-11,Sun Nov 29 2020,Valencia CF,,Atlético Madrid
-11,Sun Nov 29 2020,Real Sociedad,,Villarreal CF
-11,Sun Nov 29 2020,Real Betis,,SD Eibar
-11,Sun Nov 29 2020,RC Celta Vigo,,Granada CF
 11,Sun Nov 29 2020,Getafe CF,,Athletic Club Bilbao
-11,Sun Nov 29 2020,SD Huesca,,Sevilla FC
-11,Sun Nov 29 2020,Real Madrid,,Deportivo Alavés
-11,Sun Nov 29 2020,Real Valladolid CF,,Levante UD
+11,Sun Nov 29 2020,RC Celta Vigo,,Granada CF
+11,Sun Nov 29 2020,Real Sociedad,,Villarreal CF
+11,Mon Nov 30 2020,Real Betis,,SD Eibar
+12,Fri Dec 4 2020,Athletic Club Bilbao,,RC Celta Vigo
+12,Sat Dec 5 2020,Levante UD,,Getafe CF
+12,Sat Dec 5 2020,Sevilla FC,,Real Madrid
+12,Sat Dec 5 2020,Atlético Madrid,,Real Valladolid CF
+12,Sat Dec 5 2020,Cádiz CF,,FC Barcelona
+12,Sun Dec 6 2020,Granada CF,,SD Huesca
 12,Sun Dec 6 2020,CA Osasuna,,Real Betis
-12,Sun Dec 6 2020,Sevilla FC,,Real Madrid
 12,Sun Dec 6 2020,Villarreal CF,,Elche CF
 12,Sun Dec 6 2020,Deportivo Alavés,,Real Sociedad
-12,Sun Dec 6 2020,Athletic Club Bilbao,,RC Celta Vigo
-12,Sun Dec 6 2020,Levante UD,,Getafe CF
-12,Sun Dec 6 2020,SD Eibar,,Valencia CF
-12,Sun Dec 6 2020,Cádiz CF,,FC Barcelona
-12,Sun Dec 6 2020,Granada CF,,SD Huesca
-12,Sun Dec 6 2020,Atlético Madrid,,Real Valladolid CF
-13,Sun Dec 13 2020,Valencia CF,,Athletic Club Bilbao
-13,Sun Dec 13 2020,Real Valladolid CF,,CA Osasuna
+12,Mon Dec 7 2020,SD Eibar,,Valencia CF
 13,Sun Dec 13 2020,Elche CF,,Granada CF
-13,Sun Dec 13 2020,FC Barcelona,,Levante UD
 13,Sun Dec 13 2020,Real Sociedad,,SD Eibar
+13,Sun Dec 13 2020,FC Barcelona,,Levante UD
+13,Sun Dec 13 2020,Valencia CF,,Athletic Club Bilbao
+13,Sun Dec 13 2020,Real Betis,,Villarreal CF
 13,Sun Dec 13 2020,RC Celta Vigo,,Cádiz CF
 13,Sun Dec 13 2020,Getafe CF,,Sevilla FC
 13,Sun Dec 13 2020,SD Huesca,,Deportivo Alavés
 13,Sun Dec 13 2020,Real Madrid,,Atlético Madrid
-13,Sun Dec 13 2020,Real Betis,,Villarreal CF
+13,Sun Dec 13 2020,Real Valladolid CF,,CA Osasuna
 14,Sun Dec 20 2020,Levante UD,,Real Sociedad
-14,Sun Dec 20 2020,CA Osasuna,,Villarreal CF
+14,Sun Dec 20 2020,Granada CF,,Real Betis
 14,Sun Dec 20 2020,Sevilla FC,,Real Valladolid CF
 14,Sun Dec 20 2020,Athletic Club Bilbao,,SD Huesca
-14,Sun Dec 20 2020,Granada CF,,Real Betis
+14,Sun Dec 20 2020,Atlético Madrid,,Elche CF
 14,Sun Dec 20 2020,FC Barcelona,,Valencia CF
 14,Sun Dec 20 2020,RC Celta Vigo,,Deportivo Alavés
 14,Sun Dec 20 2020,SD Eibar,,Real Madrid
 14,Sun Dec 20 2020,Cádiz CF,,Getafe CF
-14,Sun Dec 20 2020,Atlético Madrid,,Elche CF
+14,Sun Dec 20 2020,CA Osasuna,,Villarreal CF
 15,Wed Dec 23 2020,Villarreal CF,,Athletic Club Bilbao
 15,Wed Dec 23 2020,Real Valladolid CF,,FC Barcelona
 15,Wed Dec 23 2020,Elche CF,,CA Osasuna
@@ -149,13 +149,13 @@ Round,Date,Team 1,FT,Team 2
 16,Wed Dec 30 2020,Sevilla FC,,Villarreal CF
 16,Wed Dec 30 2020,CA Osasuna,,Deportivo Alavés
 16,Wed Dec 30 2020,Elche CF,,Real Madrid
-16,Wed Dec 30 2020,Athletic Club Bilbao,,Real Sociedad
+16,Wed Dec 30 2020,RC Celta Vigo,,SD Huesca
 16,Wed Dec 30 2020,Atlético Madrid,,Getafe CF
 16,Wed Dec 30 2020,FC Barcelona,,SD Eibar
-16,Wed Dec 30 2020,RC Celta Vigo,,SD Huesca
+16,Wed Dec 30 2020,Levante UD,,Real Betis
 16,Wed Dec 30 2020,Cádiz CF,,Real Valladolid CF
 16,Wed Dec 30 2020,Granada CF,,Valencia CF
-16,Wed Dec 30 2020,Levante UD,,Real Betis
+16,Wed Dec 30 2020,Athletic Club Bilbao,,Real Sociedad
 17,Sun Jan 3 2021,Villarreal CF,,Levante UD
 17,Sun Jan 3 2021,Valencia CF,,Cádiz CF
 17,Sun Jan 3 2021,Real Sociedad,,CA Osasuna
