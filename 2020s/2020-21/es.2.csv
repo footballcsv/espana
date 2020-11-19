@@ -9,92 +9,92 @@ Round,Date,Team 1,FT,Team 2
 1,Sun Sep 13 2020,CF Fuenlabrada,2-0,CD Lugo
 1,Sun Sep 13 2020,CD Tenerife,2-0,Málaga CF
 2,Sat Sep 19 2020,CD Mirandés,1-1,Real Oviedo
-2,Sat Sep 19 2020,CD Castellón,0-1,Málaga CF
 2,Sat Sep 19 2020,AD Alcorcón,2-0,CD Tenerife
+2,Sat Sep 19 2020,CD Castellón,0-1,Málaga CF
 2,Sat Sep 19 2020,Rayo Vallecano,2-1,CE Sabadell
+2,Sun Sep 20 2020,Girona FC,,UD Logroñés
+2,Sun Sep 20 2020,UD Almería,,Real Zaragoza
 2,Sun Sep 20 2020,CD Lugo,2-1,CD Leganés
 2,Sun Sep 20 2020,RCD Espanyol,0-0,RCD Mallorca
 2,Sun Sep 20 2020,Albacete Balompié,0-2,SD Ponferradina
-2,Sun Sep 20 2020,UD Almería,,Real Zaragoza
-2,Sun Sep 20 2020,Girona FC,,UD Logroñés
 2,Sun Sep 20 2020,FC Cartagena,0-1,Sporting Gijón
 2,Sun Sep 20 2020,UD Las Palmas,3-3,CF Fuenlabrada
 3,Sat Sep 26 2020,Real Zaragoza,2-2,UD Las Palmas
-3,Sat Sep 26 2020,UD Logroñés,1-1,CD Castellón
 3,Sat Sep 26 2020,Málaga CF,1-0,AD Alcorcón
 3,Sat Sep 26 2020,Sporting Gijón,2-0,Girona FC
+3,Sat Sep 26 2020,UD Logroñés,1-1,CD Castellón
 3,Sat Sep 26 2020,CF Fuenlabrada,1-0,Albacete Balompié
 3,Sun Sep 27 2020,CD Lugo,0-2,UD Almería
 3,Sun Sep 27 2020,RCD Mallorca,1-0,CE Sabadell
-3,Sun Sep 27 2020,Real Oviedo,0-2,RCD Espanyol
 3,Sun Sep 27 2020,CD Tenerife,1-2,CD Mirandés
+3,Sun Sep 27 2020,Real Oviedo,0-2,RCD Espanyol
 3,Sun Sep 27 2020,SD Ponferradina,3-0,Rayo Vallecano
 3,Sun Sep 27 2020,CD Leganés,3-1,FC Cartagena
-4,Sat Oct 3 2020,CD Mirandés,0-1,SD Ponferradina
 4,Sat Oct 3 2020,AD Alcorcón,0-3,Real Zaragoza
+4,Sat Oct 3 2020,CD Mirandés,0-1,SD Ponferradina
 4,Sat Oct 3 2020,Albacete Balompié,1-1,Real Oviedo
 4,Sat Oct 3 2020,RCD Mallorca,2-0,CD Tenerife
 4,Sat Oct 3 2020,UD Las Palmas,2-1,UD Logroñés
 4,Sat Oct 3 2020,Rayo Vallecano,4-0,Málaga CF
 4,Sun Oct 4 2020,Girona FC,0-1,CF Fuenlabrada
 4,Sun Oct 4 2020,CE Sabadell,0-1,RCD Espanyol
-4,Sun Oct 4 2020,UD Almería,0-1,Sporting Gijón
 4,Sun Oct 4 2020,CD Castellón,2-0,CD Leganés
+4,Sun Oct 4 2020,UD Almería,0-1,Sporting Gijón
 4,Sun Oct 4 2020,FC Cartagena,2-1,CD Lugo
 5,Sat Oct 10 2020,CE Sabadell,0-2,CD Mirandés
-5,Sat Oct 10 2020,UD Logroñés,1-0,UD Almería
 5,Sat Oct 10 2020,RCD Espanyol,1-0,AD Alcorcón
+5,Sat Oct 10 2020,UD Logroñés,1-0,UD Almería
 5,Sat Oct 10 2020,CD Tenerife,1-0,Rayo Vallecano
-5,Sun Oct 11 2020,CF Fuenlabrada,1-1,CD Castellón
 5,Sun Oct 11 2020,CD Lugo,0-1,RCD Mallorca
+5,Sun Oct 11 2020,CF Fuenlabrada,1-1,CD Castellón
 5,Sun Oct 11 2020,CD Leganés,0-1,Girona FC
 5,Sun Oct 11 2020,Málaga CF,0-0,UD Las Palmas
 5,Sun Oct 11 2020,Real Zaragoza,1-0,Albacete Balompié
 5,Sun Oct 11 2020,SD Ponferradina,0-2,FC Cartagena
 5,Sun Oct 11 2020,Real Oviedo,1-0,Sporting Gijón
 6,Sat Oct 17 2020,Albacete Balompié,3-0,CE Sabadell
-6,Sat Oct 17 2020,UD Las Palmas,2-0,UD Almería
 6,Sat Oct 17 2020,FC Cartagena,1-1,CF Fuenlabrada
-6,Sat Oct 17 2020,UD Logroñés,0-1,CD Leganés
+6,Sat Oct 17 2020,UD Las Palmas,2-0,UD Almería
 6,Sat Oct 17 2020,CD Castellón,0-1,CD Lugo
+6,Sat Oct 17 2020,UD Logroñés,0-1,CD Leganés
 6,Sun Oct 18 2020,Rayo Vallecano,1-0,RCD Espanyol
 6,Sun Oct 18 2020,CD Mirandés,0-0,RCD Mallorca
 6,Sun Oct 18 2020,Real Zaragoza,1-2,Málaga CF
 6,Sun Oct 18 2020,Girona FC,1-0,Real Oviedo
 6,Sun Oct 18 2020,Sporting Gijón,1-1,CD Tenerife
 7,Wed Oct 21 2020,RCD Espanyol,2-0,CD Mirandés
-7,Wed Oct 21 2020,UD Las Palmas,2-1,CD Castellón
 7,Wed Oct 21 2020,CD Lugo,3-0,Girona FC
 7,Wed Oct 21 2020,SD Ponferradina,1-0,CD Tenerife
+7,Wed Oct 21 2020,UD Las Palmas,2-1,CD Castellón
+7,Wed Oct 21 2020,CF Fuenlabrada,0-0,UD Logroñés
 7,Wed Oct 21 2020,CE Sabadell,,AD Alcorcón
 7,Wed Oct 21 2020,UD Almería,1-1,FC Cartagena
-7,Wed Oct 21 2020,CF Fuenlabrada,0-0,UD Logroñés
 7,Thu Oct 22 2020,CD Leganés,1-0,Real Zaragoza
 7,Thu Oct 22 2020,RCD Mallorca,0-0,Albacete Balompié
 7,Thu Oct 22 2020,Real Oviedo,0-0,Rayo Vallecano
 7,Thu Oct 22 2020,Málaga CF,1-0,Sporting Gijón
-8,Sat Oct 24 2020,UD Logroñés,2-3,CD Lugo
 8,Sat Oct 24 2020,FC Cartagena,3-0,UD Las Palmas
-8,Sat Oct 24 2020,UD Almería,3-0,CF Fuenlabrada
+8,Sat Oct 24 2020,UD Logroñés,2-3,CD Lugo
 8,Sat Oct 24 2020,CD Castellón,0-1,Girona FC
+8,Sat Oct 24 2020,UD Almería,3-0,CF Fuenlabrada
 8,Sun Oct 25 2020,Sporting Gijón,2-1,SD Ponferradina
-8,Sun Oct 25 2020,CD Tenerife,0-0,RCD Espanyol
 8,Sun Oct 25 2020,CD Leganés,2-1,Real Oviedo
+8,Sun Oct 25 2020,CD Tenerife,0-0,RCD Espanyol
 8,Sun Oct 25 2020,Albacete Balompié,2-1,Rayo Vallecano
 8,Sun Oct 25 2020,Málaga CF,1-1,CD Mirandés
 8,Sun Oct 25 2020,Real Zaragoza,0-0,CE Sabadell
 8,Mon Oct 26 2020,AD Alcorcón,0-2,RCD Mallorca
 9,Tue Oct 27 2020,Girona FC,2-1,FC Cartagena
-9,Wed Oct 28 2020,RCD Espanyol,2-0,SD Ponferradina
 9,Wed Oct 28 2020,Albacete Balompié,1-1,UD Las Palmas
 9,Wed Oct 28 2020,CD Castellón,1-2,UD Almería
+9,Wed Oct 28 2020,RCD Espanyol,2-0,SD Ponferradina
 9,Wed Oct 28 2020,Real Oviedo,2-3,UD Logroñés
 9,Thu Oct 29 2020,AD Alcorcón,1-2,Sporting Gijón
-9,Thu Oct 29 2020,CD Tenerife,1-1,CD Lugo
 9,Thu Oct 29 2020,CD Mirandés,1-0,Real Zaragoza
+9,Thu Oct 29 2020,CD Tenerife,1-1,CD Lugo
 9,Thu Oct 29 2020,RCD Mallorca,3-1,Málaga CF
-9,Thu Oct 29 2020,CE Sabadell,1-0,CD Leganés
 9,Thu Oct 29 2020,Rayo Vallecano,2-0,CF Fuenlabrada
+9,Thu Oct 29 2020,CE Sabadell,1-0,CD Leganés
 10,Sat Oct 31 2020,FC Cartagena,3-1,Albacete Balompié
 10,Sat Oct 31 2020,UD Las Palmas,1-2,Real Oviedo
 10,Sun Nov 1 2020,CD Leganés,1-0,CD Mirandés
@@ -116,8 +116,8 @@ Round,Date,Team 1,FT,Team 2
 11,Sun Nov 8 2020,CE Sabadell,1-2,Málaga CF
 11,Sun Nov 8 2020,AD Alcorcón,0-3,CF Fuenlabrada
 11,Sun Nov 8 2020,Rayo Vallecano,0-1,UD Almería
-11,Sun Nov 8 2020,Real Oviedo,4-0,CD Castellón
 11,Sun Nov 8 2020,RCD Mallorca,3-0,SD Ponferradina
+11,Sun Nov 8 2020,Real Oviedo,4-0,CD Castellón
 11,Sun Nov 8 2020,CD Tenerife,1-0,Real Zaragoza
 11,Mon Nov 9 2020,Girona FC,1-1,UD Las Palmas
 12,Fri Nov 13 2020,Real Zaragoza,1-2,Real Oviedo
@@ -130,7 +130,7 @@ Round,Date,Team 1,FT,Team 2
 12,Sun Nov 15 2020,CD Castellón,2-1,FC Cartagena
 12,Sun Nov 15 2020,UD Logroñés,1-0,CE Sabadell
 12,Sun Nov 15 2020,UD Las Palmas,1-0,CD Tenerife
-12,Mon Nov 16 2020,Sporting Gijón,,Rayo Vallecano
+12,Mon Nov 16 2020,Sporting Gijón,1-1,Rayo Vallecano
 13,Fri Nov 20 2020,AD Alcorcón,,CD Lugo
 13,Fri Nov 20 2020,RCD Espanyol,,Girona FC
 13,Sat Nov 21 2020,Málaga CF,,CD Leganés
@@ -166,9 +166,9 @@ Round,Date,Team 1,FT,Team 2
 15,Mon Nov 30 2020,Real Oviedo,,UD Almería
 16,Tue Dec 1 2020,CF Fuenlabrada,,Málaga CF
 16,Tue Dec 1 2020,Girona FC,,CD Mirandés
-16,Wed Dec 2 2020,UD Logroñés,,SD Ponferradina
-16,Wed Dec 2 2020,FC Cartagena,,RCD Espanyol
 16,Wed Dec 2 2020,CD Leganés,,Rayo Vallecano
+16,Wed Dec 2 2020,FC Cartagena,,RCD Espanyol
+16,Wed Dec 2 2020,UD Logroñés,,SD Ponferradina
 16,Wed Dec 2 2020,CD Castellón,,Real Zaragoza
 16,Wed Dec 2 2020,CD Lugo,,UD Las Palmas
 16,Thu Dec 3 2020,CD Tenerife,,CE Sabadell
